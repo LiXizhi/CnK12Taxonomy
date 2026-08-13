@@ -1,5 +1,7 @@
 # Chinese K12 Taxonomy
 
+**[在线查看知识图谱](https://keepwork.com/api/raw/official/docs/CnK12Taxonomy/explore/index.html)**
+
 义务教育 1–9 与普通高中 10–12 的开放微主题知识图谱：把「孩子在学什么」拆成可教的微主题，连成先修图，并对齐 2022 / 2017–2020 课程标准（**只含标准代码，不含课标原文**）。
 
 数据形态对齐 [Marble Skill Taxonomy / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)，内容为另行撰写的中文义务教育图谱，不是 Marble 英美内容的翻译。
