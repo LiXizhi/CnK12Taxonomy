@@ -35,7 +35,7 @@ const TYPES = new Set(['CONCEPTUAL', 'PROCEDURAL', 'REPRESENTATIONAL', 'LANGUAGE
 const SUBJECTS = new Set([
   '语文', '数学', '英语', '科学', '信息科技',
   '道德与法治', '历史', '地理', '体育与健康', '艺术', '劳动',
-  '思想政治', '物理', '化学', '生物学', '信息技术', '通用技术',
+  '物理', '化学', '生物学',
 ]);
 const topicIds = new Set();
 for (const t of topics.topics) {

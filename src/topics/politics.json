@@ -2,7 +2,7 @@
   {
     "id": "mt_zz_s5_social_formation_process",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "中国特色社会主义",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -20,7 +20,7 @@
   {
     "id": "mt_zz_s5_utopia_to_scientific_socialism",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "中国特色社会主义",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -38,7 +38,7 @@
   {
     "id": "mt_zz_s5_new_demo_to_socialism",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "中国特色社会主义",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -56,7 +56,7 @@
   {
     "id": "mt_zz_s5_reform_opening_great_decision",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "中国特色社会主义",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -74,7 +74,7 @@
   {
     "id": "mt_zz_s5_xjp_thought_entry",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "中国特色社会主义",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -92,7 +92,7 @@
   {
     "id": "mt_zz_s5_china_dream_youth_duty",
     "type": "META",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "中国特色社会主义",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -110,7 +110,7 @@
   {
     "id": "mt_zz_s5_means_of_production_ownership",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "经济与社会",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -128,7 +128,7 @@
   {
     "id": "mt_zz_s5_socialist_market_economy",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "经济与社会",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -146,7 +146,7 @@
   {
     "id": "mt_zz_s5_new_development_concepts",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "经济与社会",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -164,7 +164,7 @@
   {
     "id": "mt_zz_s5_income_distribution_model",
     "type": "REPRESENTATIONAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "经济与社会",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -182,7 +182,7 @@
   {
     "id": "mt_zz_s5_social_security_functions",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "经济与社会",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -200,7 +200,7 @@
   {
     "id": "mt_zz_s5_high_quality_development",
     "type": "PROCEDURAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "经济与社会",
     "gradeStart": 10,
     "gradeEnd": 10,
@@ -218,7 +218,7 @@
   {
     "id": "mt_zz_s5_party_leadership_governance",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "政治与法治",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -236,7 +236,7 @@
   {
     "id": "mt_zz_s5_people_as_masters",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "政治与法治",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -254,7 +254,7 @@
   {
     "id": "mt_zz_s5_law_based_governance_whole",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "政治与法治",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -272,7 +272,7 @@
   {
     "id": "mt_zz_s5_grassroots_self_governance",
     "type": "PROCEDURAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "政治与法治",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -290,7 +290,7 @@
   {
     "id": "mt_zz_s5_peoples_congress_system",
     "type": "REPRESENTATIONAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "政治与法治",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -308,7 +308,7 @@
   {
     "id": "mt_zz_s5_consultative_democracy",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "政治与法治",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -326,7 +326,7 @@
   {
     "id": "mt_zz_s5_matter_and_consciousness",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "哲学与文化",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -344,7 +344,7 @@
   {
     "id": "mt_zz_s5_dialectics_connection_change",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "哲学与文化",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -362,7 +362,7 @@
   {
     "id": "mt_zz_s5_contradiction_analysis_method",
     "type": "PROCEDURAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "哲学与文化",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -380,7 +380,7 @@
   {
     "id": "mt_zz_s5_practice_and_cognition",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "哲学与文化",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -398,7 +398,7 @@
   {
     "id": "mt_zz_s5_historical_materialism_view",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "哲学与文化",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -416,7 +416,7 @@
   {
     "id": "mt_zz_s5_cultural_inheritance_innovation",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "哲学与文化",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -434,7 +434,7 @@
   {
     "id": "mt_zz_s5_chinese_national_spirit",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "哲学与文化",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -452,7 +452,7 @@
   {
     "id": "mt_zz_s5_core_values_practice",
     "type": "PROCEDURAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "哲学与文化",
     "gradeStart": 11,
     "gradeEnd": 11,
@@ -470,7 +470,7 @@
   {
     "id": "mt_zz_s5_contemporary_intl_pattern",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "当代国际政治与经济",
     "gradeStart": 12,
     "gradeEnd": 12,
@@ -488,7 +488,7 @@
   {
     "id": "mt_zz_s5_national_interest_ir",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "当代国际政治与经济",
     "gradeStart": 12,
     "gradeEnd": 12,
@@ -506,7 +506,7 @@
   {
     "id": "mt_zz_s5_economic_globalization_politics",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "当代国际政治与经济",
     "gradeStart": 12,
     "gradeEnd": 12,
@@ -524,7 +524,7 @@
   {
     "id": "mt_zz_s5_major_country_diplomacy",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "当代国际政治与经济",
     "gradeStart": 12,
     "gradeEnd": 12,
@@ -542,7 +542,7 @@
   {
     "id": "mt_zz_s5_civil_law_in_life",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "法律与生活",
     "gradeStart": 12,
     "gradeEnd": 12,
@@ -560,7 +560,7 @@
   {
     "id": "mt_zz_s5_labor_law_intro",
     "type": "CONCEPTUAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "法律与生活",
     "gradeStart": 12,
     "gradeEnd": 12,
@@ -578,7 +578,7 @@
   {
     "id": "mt_zz_s5_rights_remedy_paths",
     "type": "PROCEDURAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "法律与生活",
     "gradeStart": 12,
     "gradeEnd": 12,
@@ -596,7 +596,7 @@
   {
     "id": "mt_zz_s5_formal_logic_intro",
     "type": "LANGUAGE",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "逻辑与思维",
     "gradeStart": 12,
     "gradeEnd": 12,
@@ -614,7 +614,7 @@
   {
     "id": "mt_zz_s5_argument_and_rebuttal",
     "type": "PROCEDURAL",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "逻辑与思维",
     "gradeStart": 12,
     "gradeEnd": 12,
@@ -632,7 +632,7 @@
   {
     "id": "mt_zz_s5_scientific_thinking_methods",
     "type": "META",
-    "subject": "思想政治",
+    "subject": "道德与法治",
     "domain": "逻辑与思维",
     "gradeStart": 12,
     "gradeEnd": 12,

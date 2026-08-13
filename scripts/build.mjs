@@ -12,7 +12,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = join(ROOT, 'src');
 const DATA = join(ROOT, 'data');
-const VERSION = '0.3.0';
+const VERSION = '0.3.2';
 
 const loadJson = (path) => JSON.parse(readFileSync(path, 'utf8'));
 const listJson = (dir) =>
@@ -70,16 +70,12 @@ for (const t of topics) {
 const extraDeps = listJson(join(SRC, 'dependencies')).flatMap((p) => loadJson(p));
 
 const autoDeps = [];
-const groups = new Map();
-for (const t of topics) {
-  const key = `${t.subject}::${t.domain ?? ''}`;
-  if (!groups.has(key)) groups.set(key, []);
-  groups.get(key).push(t);
-}
-for (const arr of groups.values()) {
-  arr.sort((a, b) => a.gradeStart - b.gradeStart || a.gradeEnd - b.gradeEnd || a.id.localeCompare(b.id));
-  for (let i = 1; i < arr.length; i++) {
-    const cur = arr[i];
+const wireSequence = (arr, label) => {
+  const list = [...arr].sort(
+    (a, b) => a.gradeStart - b.gradeStart || a.gradeEnd - b.gradeEnd || a.id.localeCompare(b.id),
+  );
+  for (let i = 1; i < list.length; i++) {
+    const cur = list[i];
     const add = (prev, strength, reason) => {
       autoDeps.push({
         topicId: cur.id,
@@ -88,22 +84,76 @@ for (const arr of groups.values()) {
         reason,
       });
     };
-    const prev = arr[i - 1];
+    const prev = list[i - 1];
     if (cur.gradeStart >= prev.gradeStart) {
       add(
         prev,
         cur.gradeStart > prev.gradeEnd ? 'hard' : 'soft',
         cur.gradeStart > prev.gradeEnd
-          ? `同领域递进：先掌握「${prev.name}」，再学习「${cur.name}」。`
-          : `同领域相邻微主题：「${prev.name}」为「${cur.name}」提供准备。`,
+          ? `${label}递进：先掌握「${prev.name}」，再学习「${cur.name}」。`
+          : `${label}相邻：「${prev.name}」为「${cur.name}」提供准备。`,
       );
     }
     if (i >= 2) {
-      const skip = arr[i - 2];
-      add(skip, 'soft', `同领域隔项准备：「${skip.name}」支撑「${cur.name}」。`);
+      add(list[i - 2], 'soft', `${label}隔项准备：「${list[i - 2].name}」支撑「${cur.name}」。`);
     }
   }
+};
+
+const groups = new Map();
+for (const t of topics) {
+  const key = `${t.subject}::${t.domain ?? ''}`;
+  if (!groups.has(key)) groups.set(key, []);
+  groups.get(key).push(t);
 }
+for (const arr of groups.values()) wireSequence(arr, '同领域');
+
+const byGrade = (a, b) => a.gradeStart - b.gradeStart || a.gradeEnd - b.gradeEnd || a.id.localeCompare(b.id);
+
+const wireSeam = (fromArr, toArr, label) => {
+  const from = [...fromArr].sort(byGrade);
+  const to = [...toArr].sort(byGrade);
+  if (!from.length || !to.length) return;
+  for (const cur of to.slice(0, 2)) {
+    const tails = from.filter((prev) => prev.id !== cur.id && prev.gradeStart <= cur.gradeStart).slice(-2);
+    for (const prev of tails) {
+      autoDeps.push({
+        topicId: cur.id,
+        prerequisiteId: prev.id,
+        strength: cur.gradeStart > prev.gradeEnd ? 'hard' : 'soft',
+        reason: `${label}衔接：先掌握「${prev.name}」，再进入「${cur.name}」。`,
+      });
+    }
+  }
+};
+
+const scienceMatter = topics.filter((t) => t.subject === '科学' && t.domain === '物质科学');
+const scienceLife = topics.filter((t) => t.subject === '科学' && t.domain === '生命科学');
+const jhPhysics = topics.filter((t) => t.subject === '物理' && t.xueduan === 4);
+const hsPhysics = topics.filter((t) => t.subject === '物理' && t.xueduan === 5);
+const jhChem = topics.filter((t) => t.subject === '化学' && t.xueduan === 4);
+const hsChem = topics.filter((t) => t.subject === '化学' && t.xueduan === 5);
+
+wireSeam(scienceMatter, jhPhysics, '科学—物理');
+wireSeam(scienceMatter, jhChem, '科学—化学');
+wireSeam(jhPhysics, hsPhysics, '初中—高中物理');
+wireSeam(jhChem, hsChem, '初中—高中化学');
+wireSeam(
+  scienceMatter.filter((t) => t.xueduan === 4),
+  hsPhysics,
+  '科学—高中物理',
+);
+wireSeam(
+  scienceMatter.filter((t) => t.xueduan === 4),
+  hsChem,
+  '科学—高中化学',
+);
+wireSeam(scienceLife, topics.filter((t) => t.subject === '生物学'), '科学—生物学');
+wireSeam(
+  topics.filter((t) => t.subject === '道德与法治' && t.xueduan === 4),
+  topics.filter((t) => t.subject === '道德与法治' && t.xueduan === 5),
+  '道德与法治—思政',
+);
 
 const seen = new Set();
 const dependencies = [];

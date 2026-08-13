@@ -1,5 +1,599 @@
 [
   {
+    "id": "mt_wl_s4_jh_measurement_error",
+    "type": "PROCEDURAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "测量与误差",
+    "nameEn": "Measurement and error",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "能正确使用刻度尺、秒表等工具测量长度和时间，并估计读数误差。",
+    "evidence": [
+      "用刻度尺多次测量课桌长度取平均",
+      "说明估读到最小刻度下一位的理由"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_mechanical_motion",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "机械运动与参照物",
+    "nameEn": "Mechanical motion",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "能选择参照物判断物体是否运动，并区分运动和静止的相对性。",
+    "evidence": [
+      "举例说明坐车时人相对地面在运动",
+      "判断同一物体相对不同参照物的状态"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_speed_and_v_t",
+    "type": "PROCEDURAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "速度与v-t图像",
+    "nameEn": "Speed and v-t graphs",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "能用v=s/t计算平均速度，并读简单v-t图像比较快慢。",
+    "evidence": [
+      "由路程和时间求平均速度",
+      "从v-t图比较两车谁先到达"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_mass_and_density",
+    "type": "PROCEDURAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "质量与密度",
+    "nameEn": "Mass and density",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "能测量质量和体积并计算密度，用密度鉴别常见物质。",
+    "evidence": [
+      "用天平和量筒测金属块密度",
+      "根据密度判断物体是铝还是铁"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_force_and_diagram",
+    "type": "REPRESENTATIONAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "力与受力示意图",
+    "nameEn": "Force diagrams",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "认识力的三要素，能画常见情境的受力示意图。",
+    "evidence": [
+      "画出桌面上书本的受力图",
+      "标明拉力的作用点方向和示意大小"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_gravity_and_weight",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "重力与重量",
+    "nameEn": "Gravity and weight",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "知道重力方向竖直向下，能用G=mg做简单计算并指出重心。",
+    "evidence": [
+      "计算质量50kg物体的重力",
+      "说明重心位置对稳定的影响"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_elastic_friction",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "弹力与摩擦力",
+    "nameEn": "Elastic force and friction",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "能判断弹力和滑动摩擦力的方向，并说明增大或减小摩擦的方法。",
+    "evidence": [
+      "指出弹簧测力计读数对应的力",
+      "设计减小抽屉摩擦的两种办法"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_newton_first_inertia",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "牛顿第一定律与惯性",
+    "nameEn": "Newton I and inertia",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "理解物体保持原有运动状态的性质叫惯性，能解释刹车前倾等现象。",
+    "evidence": [
+      "用小车实验说明不受力时的运动趋势",
+      "解释为什么汽车要系安全带"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_two_force_balance",
+    "type": "PROCEDURAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "二力平衡",
+    "nameEn": "Two-force balance",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "能判断一对力是否平衡，并用平衡条件求未知力。",
+    "evidence": [
+      "判断桌面上杯子是否受力平衡",
+      "由平衡条件求绳子拉力"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_pressure_solids",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "固体压强",
+    "nameEn": "Solid pressure",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "理解压强等于压力与受力面积之比，能解释刀刃锋利、履带车等实例。",
+    "evidence": [
+      "计算同一压力下面积减半后的压强",
+      "说明骆驼蹄宽有利于在沙地行走"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_liquid_pressure",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "液体压强",
+    "nameEn": "Liquid pressure",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "知道液体压强随深度增大，能用p=ρgh做简单计算。",
+    "evidence": [
+      "比较同一液体不同深度的压强",
+      "解释拦河坝下部比上部厚"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_atmospheric_pressure",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "大气压强",
+    "nameEn": "Atmospheric pressure",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "能用实验证明大气压存在，并说明吸管、吸盘等应用。",
+    "evidence": [
+      "描述马德堡半球实验说明什么",
+      "解释高原上水的沸点为何降低"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_buoyancy",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "运动和力",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "浮力",
+    "nameEn": "Buoyancy",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "理解浮力等于排开液体的重力，能判断物体沉浮条件。",
+    "evidence": [
+      "用弹簧测力计测出物体在水中的浮力",
+      "解释轮船由钢铁制成为何能浮在水面"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_sound_production",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "声和光",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "声音的产生与传播",
+    "nameEn": "Sound production",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "知道声音由振动产生、需要介质传播，能比较空气、固体传声。",
+    "evidence": [
+      "用尺子振动发声并使其停止",
+      "解释月球上两人为何不能直接对话"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_pitch_loudness",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "声和光",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "音调响度与音色",
+    "nameEn": "Pitch loudness timbre",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能区分音调、响度和音色，并联系频率、振幅说明。",
+    "evidence": [
+      "比较粗细橡皮筋发声音调",
+      "听辨两种乐器的音色差异"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_noise_control",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "声和光",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "噪声及其控制",
+    "nameEn": "Noise control",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能从声源、传播途径和人耳三方面提出控制噪声的办法。",
+    "evidence": [
+      "为教室设计两项降噪措施",
+      "判断哪些声音属于噪声"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_light_rectilinear",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "声和光",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "光的直线传播",
+    "nameEn": "Rectilinear propagation",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "知道光在同种均匀介质中沿直线传播，能解释影和小孔成像。",
+    "evidence": [
+      "用手电筒演示影的形成",
+      "画出小孔成像光路示意"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_reflection_plane",
+    "type": "REPRESENTATIONAL",
+    "subject": "物理",
+    "domain": "声和光",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "光的反射与平面镜",
+    "nameEn": "Reflection and plane mirror",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能陈述反射定律，画出平面镜成像光路并说明像的特点。",
+    "evidence": [
+      "测量入射角与反射角是否相等",
+      "用对称法画出物体在平面镜中的像"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_refraction_lens",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "声和光",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "光的折射与透镜",
+    "nameEn": "Refraction and lenses",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "知道光从空气进入水或玻璃会偏折，能区分凸透镜会聚与凹透镜发散。",
+    "evidence": [
+      "观察筷子在水中“折断”",
+      "用凸透镜会聚阳光点燃纸片"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_convex_lens_image",
+    "type": "PROCEDURAL",
+    "subject": "物理",
+    "domain": "声和光",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "凸透镜成像",
+    "nameEn": "Convex-lens images",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能根据物距与焦距关系判断像的虚实、倒正和大小，并联系照相机、放大镜。",
+    "evidence": [
+      "在光具座上得到倒立实像",
+      "说明放大镜成正立虚像的条件"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_temp_and_heat",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "声和光",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "温度与物态变化",
+    "nameEn": "Temperature and state change",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能正确使用温度计，描述熔化和沸腾过程中的温度变化特点。",
+    "evidence": [
+      "读取体温计示数",
+      "画出冰熔化时温度随时间变化的大致图像"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_charge_and_current",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "电和磁",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "电荷与电流",
+    "nameEn": "Charge and current",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "知道电荷有正负、同种相斥异种相吸，理解电流是电荷的定向移动。",
+    "evidence": [
+      "用气球摩擦演示静电吸引",
+      "在电路中标出电流方向约定"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_circuit_connection",
+    "type": "PROCEDURAL",
+    "subject": "物理",
+    "domain": "电和磁",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "电路连接",
+    "nameEn": "Circuit connection",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能识别串联与并联，按电路图连接简单电路并排除断路。",
+    "evidence": [
+      "连接两灯串联和并联各一次",
+      "根据小灯不亮判断可能断路位置"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_voltage_resistance",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "电和磁",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "电压与电阻",
+    "nameEn": "Voltage and resistance",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "理解电压是形成电流的原因，电阻与材料、长度、横截面积有关。",
+    "evidence": [
+      "用电压表测干电池电压",
+      "比较长短不同镍铬丝的电阻大小"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_ohm_law",
+    "type": "PROCEDURAL",
+    "subject": "物理",
+    "domain": "电和磁",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "欧姆定律",
+    "nameEn": "Ohm law",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能用I=U/R进行简单计算，并设计实验探究电流与电压电阻关系。",
+    "evidence": [
+      "已知电压电阻求电流",
+      "根据实验数据说明电流与电压成正比"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_series_parallel_calc",
+    "type": "PROCEDURAL",
+    "subject": "物理",
+    "domain": "电和磁",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "串并联电路计算",
+    "nameEn": "Series-parallel calculation",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能计算简单串、并联电路中的总电阻、电流和电压分配。",
+    "evidence": [
+      "求两个电阻串联后的总电阻",
+      "说明并联时各支路电压相等"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_electric_power",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "电和磁",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "电功与电功率",
+    "nameEn": "Electric work and power",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能读铭牌上的额定电压和额定功率，并计算简单用电量。",
+    "evidence": [
+      "由P=UI求小灯泡实际功率",
+      "估算家用电器一天消耗的电能"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_magnetic_field",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "电和磁",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "磁场与电流磁效应",
+    "nameEn": "Magnetic field",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能用磁感线描述磁场方向，知道通电导线周围存在磁场。",
+    "evidence": [
+      "用小磁针判断磁体周围磁场方向",
+      "观察通电螺线管吸引铁钉"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_electromagnetic_induction_jh",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "电和磁",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "电磁感应入门",
+    "nameEn": "Induction intro",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "知道闭合电路一部分导体切割磁感线会产生感应电流，了解发电机原理。",
+    "evidence": [
+      "演示导体切割磁感线使电流计偏转",
+      "说明水力发电如何把机械能转化为电能"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_work_and_power",
+    "type": "PROCEDURAL",
+    "subject": "物理",
+    "domain": "能量",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "功和功率",
+    "nameEn": "Work and power",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能判断力是否做功，并用W=Fs、P=W/t做简单计算。",
+    "evidence": [
+      "计算水平拉箱子做的功",
+      "比较两人做功快慢"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_kinetic_potential",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "能量",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "动能与势能",
+    "nameEn": "Kinetic and potential energy",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能说明影响动能、重力势能和弹性势能大小的因素，并分析转化。",
+    "evidence": [
+      "比较质量和速度对动能的影响",
+      "分析滚摆上升下降时的能量转化"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_energy_transfer",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "能量",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "能量转化与守恒",
+    "nameEn": "Energy conservation",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "能在简单装置中指出能量如何转化，知道能量守恒但不能全部被利用。",
+    "evidence": [
+      "画出自行车下坡的能量转化链",
+      "解释永动机不可能的原因"
+    ]
+  },
+  {
+    "id": "mt_wl_s4_jh_heat_engines_energy",
+    "type": "CONCEPTUAL",
+    "subject": "物理",
+    "domain": "能量",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "内能与热机",
+    "nameEn": "Internal energy and heat engines",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "知道做功和热传递可以改变物体内能，了解热机把内能转化为机械能。",
+    "evidence": [
+      "说明摩擦生热改变了什么能量",
+      "指出四冲程汽油机的做功冲程"
+    ]
+  },
+  {
     "id": "mt_wl_s5_particle_and_frame",
     "type": "LANGUAGE",
     "subject": "物理",

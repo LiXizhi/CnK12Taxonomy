@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.3.2 — 2026-08-13
+
+- Merge 高中思想政治 into subject `道德与法治` (one civic track, grades 1–12).
+- Bridge 科学·物质科学 → 物理/化学 and 科学·生命科学 → 生物学 at stage seams (not a total-order chain).
+- Explorer selection expands all prior knowledge (ancestor subgraph) plus direct follow-ups.
+
+## 0.3.1 — 2026-08-13
+
+- Drop outdated high-school 信息技术 / 通用技术 catalogs.
+- Add junior-high 物理 (grades 8–9) and 化学 (grade 9) as first-class subjects, aligned to 科学 2022 codes; extras now run 科学 → 初中分科 → 高中。
+
 ## 0.3.0 — 2026-08-13
 
 Add ordinary high school (grades 10–12) as 学段 5, aligned to 2017/2020 课标 (codes only).

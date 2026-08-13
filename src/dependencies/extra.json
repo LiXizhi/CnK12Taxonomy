@@ -319,9 +319,27 @@
   },
   {
     "topicId": "mt_zz_s5_social_formation_process",
+    "prerequisiteId": "mt_df_s4_socialism_with_chinese_chars",
+    "strength": "hard",
+    "reason": "高中社会发展进程承接初中中国特色社会主义认识。"
+  },
+  {
+    "topicId": "mt_zz_s5_law_based_governance_whole",
     "prerequisiteId": "mt_df_s4_rule_of_law_thinking",
+    "strength": "hard",
+    "reason": "全面依法治国建立在初中法治思维之上。"
+  },
+  {
+    "topicId": "mt_zz_s5_civil_law_in_life",
+    "prerequisiteId": "mt_df_s4_civil_code_basics",
+    "strength": "hard",
+    "reason": "高中民法与生活深化初中民法典生活相关。"
+  },
+  {
+    "topicId": "mt_zz_s5_china_dream_youth_duty",
+    "prerequisiteId": "mt_df_s4_dream_china_youth",
     "strength": "soft",
-    "reason": "高中社会发展进程分析承接初中法治思维。"
+    "reason": "高中中国梦与青年责任承接初中少年与中国梦。"
   },
   {
     "topicId": "mt_ls_s5_early_state_qin_han_unity",
@@ -336,16 +354,58 @@
     "reason": "高中地球运动地理意义深化初中公转与四季。"
   },
   {
+    "topicId": "mt_wl_s4_jh_newton_first_inertia",
+    "prerequisiteId": "mt_science_s4_newton_first_law",
+    "strength": "soft",
+    "reason": "初中物理惯性与牛顿第一定律，承接科学课同名观念。"
+  },
+  {
     "topicId": "mt_wl_s5_newton_laws_apply",
-    "prerequisiteId": "mt_science_s4_newton_second_law",
+    "prerequisiteId": "mt_wl_s4_jh_two_force_balance",
     "strength": "hard",
-    "reason": "高中牛顿定律应用建立在科学课牛顿第二定律之上。"
+    "reason": "高中牛顿定律应用建立在初中二力平衡与惯性之上。"
+  },
+  {
+    "topicId": "mt_wl_s5_uniform_accel_motion",
+    "prerequisiteId": "mt_wl_s4_jh_speed_and_v_t",
+    "strength": "hard",
+    "reason": "高中匀变速直线运动深化初中速度与v-t图像。"
+  },
+  {
+    "topicId": "mt_hx_s4_jh_molecule_atom",
+    "prerequisiteId": "mt_science_s4_particle_model",
+    "strength": "hard",
+    "reason": "初中分子与原子建立在科学课物质粒子模型之上。"
+  },
+  {
+    "topicId": "mt_hx_s4_jh_chemical_equation_jh",
+    "prerequisiteId": "mt_science_s4_chemical_equations",
+    "strength": "soft",
+    "reason": "初中化学方程式书写承接科学课化学方程式。"
+  },
+  {
+    "topicId": "mt_wl_s4_jh_charge_and_current",
+    "prerequisiteId": "mt_science_s4_electromagnetism",
+    "strength": "soft",
+    "reason": "初中电荷与电流和科学课电与磁互相支撑。"
+  },
+  {
+    "topicId": "mt_wl_s5_particle_and_frame",
+    "prerequisiteId": "mt_science_s4_newton_second_law",
+    "strength": "soft",
+    "reason": "高中质点与参考系承接科学课牛顿第二定律的受力分析。"
   },
   {
     "topicId": "mt_hx_s5_ionic_reaction",
-    "prerequisiteId": "mt_science_s4_chemical_equations",
+    "prerequisiteId": "mt_hx_s4_jh_chemical_equation_jh",
     "strength": "hard",
-    "reason": "离子反应需要先会写和配平化学方程式。"
+    "reason": "离子反应需要先会写和配平初中化学方程式。"
+  },
+  {
+    "topicId": "mt_hx_s5_matter_classification",
+    "prerequisiteId": "mt_hx_s4_jh_molecule_atom",
+    "strength": "soft",
+    "reason": "高中物质分类建立在初中分子原子观念之上。"
   },
   {
     "topicId": "mt_sw_s5_cell_theory",
@@ -358,18 +418,6 @@
     "prerequisiteId": "mt_science_s4_dna_genes",
     "strength": "hard",
     "reason": "DNA复制需要先理解DNA与基因的基本概念。"
-  },
-  {
-    "topicId": "mt_xxjs_s5_hs_prog_fundamentals",
-    "prerequisiteId": "mt_it_s4_text_programming",
-    "strength": "hard",
-    "reason": "高中程序设计基础承接初中文本语言编程。"
-  },
-  {
-    "topicId": "mt_tyjs_s5_design_general_process",
-    "prerequisiteId": "mt_science_s4_user_centered_design",
-    "strength": "soft",
-    "reason": "通用技术设计过程承接科学课以用户为中心的设计。"
   },
   {
     "topicId": "mt_ty_s5_hs_track_event_refine",

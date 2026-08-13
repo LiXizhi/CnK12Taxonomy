@@ -4,7 +4,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from topiclib import T
 
-Pfx, Sub = "zz", "思想政治"
+Pfx, Sub = "zz", "道德与法治"
 def t(slug, typ, domain, g0, g1, name, en, std, desc, *ev):
     return T(Pfx, Sub, slug, typ, domain, g0, g1, name, en, std, desc, *ev)
 

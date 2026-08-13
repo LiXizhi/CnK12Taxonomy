@@ -1,7 +1,7 @@
 const SUBJECTS = [
   "语文", "数学", "英语", "科学", "信息科技",
   "道德与法治", "历史", "地理", "体育与健康", "艺术", "劳动",
-  "思想政治", "物理", "化学", "生物学", "信息技术", "通用技术",
+  "物理", "化学", "生物学",
 ];
 const COLORS = {
   语文: 0xf472b6,
@@ -15,12 +15,9 @@ const COLORS = {
   体育与健康: 0x84cc16,
   艺术: 0xe879f9,
   劳动: 0xa8a29e,
-  思想政治: 0xe11d48,
   物理: 0x38bdf8,
   化学: 0x22d3ee,
   生物学: 0x4ade80,
-  信息技术: 0xc084fc,
-  通用技术: 0x818cf8,
 };
 const XUEDUAN = {
   1: "第一学段 1–2 年级",
@@ -53,20 +50,27 @@ const state = {
   enabled: new Set(SUBJECTS),
   maxGrade: 9,
   selected: null,
+  pathIds: null,
+  pathEdges: null,
   hover: null,
 };
 
 const domainsBySubject = new Map();
+
+function gradeRadiusScale(grade) {
+  const progress = THREE.MathUtils.clamp((grade - 1) / 11, 0, 1);
+  return 0.38 + 0.62 * Math.pow(progress, 0.72);
+}
 
 function layout(t) {
   const si = Math.max(0, SUBJECTS.indexOf(t.subject));
   const sector = ((si + 0.5) / SUBJECTS.length) * Math.PI * 2;
   const domains = domainsBySubject.get(t.subject) ?? [];
   const di = Math.max(0, domains.indexOf(t.domain));
-  const r = 9 + di * 1.7 + hash01(t.id) * 2.4;
+  const grade = (t.gradeStart + t.gradeEnd) / 2;
+  const r = (9 + di * 1.7 + hash01(t.id) * 2.4) * gradeRadiusScale(grade);
   const spread = ((Math.PI * 2) / SUBJECTS.length) * 0.7;
   const angle = sector + (hash01(t.id + "a") - 0.5) * spread;
-  const grade = (t.gradeStart + t.gradeEnd) / 2;
   const y = (grade - 1) * 3.15 + (hash01(t.id + "y") - 0.5) * 0.85;
   return new THREE.Vector3(Math.cos(angle) * r, y, Math.sin(angle) * r);
 }
@@ -82,22 +86,6 @@ function ancestors(id) {
       seen.add(e.prerequisiteId);
       out.push(e);
       q.push(e.prerequisiteId);
-    }
-  }
-  return out;
-}
-
-function descendants(id) {
-  const out = [];
-  const seen = new Set([id]);
-  const q = [id];
-  while (q.length) {
-    const cur = q.shift();
-    for (const e of state.unlocksOf.get(cur) ?? []) {
-      if (seen.has(e.topicId)) continue;
-      seen.add(e.topicId);
-      out.push(e);
-      q.push(e.topicId);
     }
   }
   return out;
@@ -198,7 +186,6 @@ const key = new THREE.DirectionalLight(0xffffff, 0.85);
 key.position.set(12, 30, 10);
 scene.add(key);
 
-const ringGeo = new THREE.RingGeometry(22.5, 22.65, 96);
 const ringMat = new THREE.MeshBasicMaterial({ color: 0x1f2937, side: THREE.DoubleSide });
 function makeLabel(text) {
   const c = document.createElement("canvas");
@@ -220,6 +207,8 @@ function makeLabel(text) {
 
 for (const g of [1, 3, 5, 7, 9, 11]) {
   const y = (g - 1) * 3.15;
+  const ringRadius = 22.5 * gradeRadiusScale(g);
+  const ringGeo = new THREE.RingGeometry(ringRadius, ringRadius + 0.15, 96);
   const ring = new THREE.Mesh(ringGeo, ringMat);
   ring.rotation.x = -Math.PI / 2;
   ring.position.y = y;
@@ -304,7 +293,9 @@ function applyFilters() {
     const ib = indexById.get(b.id);
     const pa = positions[ia];
     const pb = positions[ib];
-    const hot = path.has(a.id) && path.has(b.id);
+    const hot = state.pathEdges
+      ? state.pathEdges.has(`${e.topicId}|${e.prerequisiteId}`)
+      : path.has(a.id) && path.has(b.id);
     if (state.selected && !hot) continue;
     pos.setXYZ(w, pa.x, pa.y, pa.z);
     pos.setXYZ(w + 1, pb.x, pb.y, pb.z);
@@ -327,10 +318,20 @@ function applyFilters() {
 function select(id) {
   state.selected = id;
   const ups = ancestors(id);
-  const downs = descendants(id);
-  state.pathIds = new Set([id, ...ups.map((e) => e.prerequisiteId), ...downs.map((e) => e.topicId)]);
+  const priorIds = new Set([id, ...ups.map((e) => e.prerequisiteId)]);
+  const directDown = (state.unlocksOf.get(id) ?? []).map((e) => e.topicId);
+  state.pathIds = new Set([...priorIds, ...directDown]);
+  state.pathEdges = new Set();
+  for (const e of state.deps) {
+    if (priorIds.has(e.topicId) && priorIds.has(e.prerequisiteId)) {
+      state.pathEdges.add(`${e.topicId}|${e.prerequisiteId}`);
+    }
+  }
+  for (const e of state.unlocksOf.get(id) ?? []) {
+    state.pathEdges.add(`${e.topicId}|${e.prerequisiteId}`);
+  }
   applyFilters();
-  openPanel(id, ups, downs);
+  openPanel(id, ups);
   const t = state.byId.get(id);
   const i = indexById.get(id);
   if (i != null) {
@@ -342,12 +343,13 @@ function select(id) {
 function clearSelect() {
   state.selected = null;
   state.pathIds = null;
+  state.pathEdges = null;
   applyFilters();
   $("aside").classList.remove("open");
   controls.autoRotate = true;
 }
 
-function openPanel(id, ups, downs) {
+function openPanel(id, ups) {
   const t = state.byId.get(id);
   const aside = $("aside");
   aside.classList.add("open");
@@ -358,6 +360,11 @@ function openPanel(id, ups, downs) {
     return ga - gb;
   });
   const unlocks = (state.unlocksOf.get(id) ?? []).slice(0, 12);
+  const directIds = new Set(prereqs.map((e) => e.prerequisiteId));
+  const earlier = ups
+    .map((e) => state.byId.get(e.prerequisiteId))
+    .filter((p) => p && !directIds.has(p.id))
+    .sort((a, b) => a.gradeStart - b.gradeStart || a.name.localeCompare(b.name, "zh"));
   aside.innerHTML = `
     <button class="close" type="button" aria-label="关闭">×</button>
     <div class="kicker" style="color:${hex}">${t.subject} · ${t.domain}</div>
@@ -371,7 +378,7 @@ function openPanel(id, ups, downs) {
     <p>${t.description}</p>
     <h3>掌握证据</h3>
     <ul>${(t.evidence ?? []).map((e) => `<li>${e}</li>`).join("")}</ul>
-    <h3>先修（${prereqs.length} 条直接 · ${ups.length} 条祖先）</h3>
+    <h3>先修（${prereqs.length} 条直接）</h3>
     <ul>${
       prereqs.length
         ? prereqs
@@ -383,6 +390,18 @@ function openPanel(id, ups, downs) {
             .join("")
         : "<li>没有记录的先修。</li>"
     }</ul>
+    ${
+      earlier.length
+        ? `<h3>此前还需掌握（${earlier.length}）</h3>
+        <ul>${earlier
+          .map(
+            (p) =>
+              `<li><button class="linkish" data-id="${p.id}">${p.name}</button>
+                <span class="reason">${p.subject} · ${p.gradeStart}–${p.gradeEnd}年级</span></li>`,
+          )
+          .join("")}</ul>`
+        : ""
+    }
     <h3>随后可学</h3>
     <ul>${
       unlocks.length

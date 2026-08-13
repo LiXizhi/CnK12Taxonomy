@@ -1,5 +1,401 @@
 [
   {
+    "id": "mt_hx_s4_jh_chem_lab_safety",
+    "type": "META",
+    "subject": "化学",
+    "domain": "化学实验",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "化学实验安全",
+    "nameEn": "Lab safety",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能识别常见危险化学品标志，遵守加热、闻气味和废弃物处理的基本规范。",
+    "evidence": [
+      "指出酒精灯加热的正确步骤",
+      "说明闻气体气味时为何要扇闻"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_air_composition",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "常见物质",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "空气的组成",
+    "nameEn": "Air composition",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "知道空气主要成分及氧气、氮气的用途，能设计测定氧气含量的思路。",
+    "evidence": [
+      "说出空气中氧气的体积分数约多少",
+      "解释红磷燃烧测氧实验的原理"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_oxygen_properties",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "常见物质",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "氧气的性质与制取",
+    "nameEn": "Oxygen properties",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能描述氧气支持燃烧的性质，并说明实验室制氧的药品和收集方法。",
+    "evidence": [
+      "比较木炭、铁丝在氧气中的燃烧现象",
+      "选择排水法或向上排空气法并说明理由"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_carbon_dioxide",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "常见物质",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "二氧化碳",
+    "nameEn": "Carbon dioxide",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能说明二氧化碳与澄清石灰水、燃烧的关系，并完成实验室制取思路。",
+    "evidence": [
+      "解释蜡烛在二氧化碳中熄灭",
+      "写出二氧化碳使石灰水变浑浊的文字表达式"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_water_purification",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "常见物质",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "水的净化",
+    "nameEn": "Water purification",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "能区分沉淀、过滤、吸附、蒸馏等净化方法及其能除去的杂质。",
+    "evidence": [
+      "画出过滤操作示意图并指出错误",
+      "说明蒸馏水与硬水软化的差别"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_molecule_atom",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质构成",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "分子与原子",
+    "nameEn": "Molecules and atoms",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "能用分子、原子观点解释扩散、物态变化和化学变化中微粒是否改变。",
+    "evidence": [
+      "解释香水味扩散的微粒原因",
+      "说明水电解时分子变原子再重新组合"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_element_and_symbol",
+    "type": "LANGUAGE",
+    "subject": "化学",
+    "domain": "物质构成",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "元素与化学符号",
+    "nameEn": "Elements and symbols",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "能读写常见元素符号，区分元素、原子和单质的含义。",
+    "evidence": [
+      "正确书写氧、铁、钠的元素符号",
+      "判断O、O2、H2O中哪些表示元素"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_valence_formula",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "物质构成",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "化合价与化学式",
+    "nameEn": "Valence and formulas",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "能根据化合价写出简单化合物的化学式，并计算相对分子质量。",
+    "evidence": [
+      "写出氧化铝和水的化学式",
+      "计算二氧化碳的相对分子质量"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_conservation_mass",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质构成",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "质量守恒定律",
+    "nameEn": "Mass conservation",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "理解化学反应前后原子种类、数目和质量不变，能解释表面“质量变化”的原因。",
+    "evidence": [
+      "用微粒观点说明质量守恒",
+      "解释镁条燃烧后固体变重的原因"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_chemical_equation_jh",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "物质构成",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "化学方程式书写",
+    "nameEn": "Writing equations",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能书写并配平常见反应的化学方程式，标明反应条件和气体沉淀符号。",
+    "evidence": [
+      "配平氢气还原氧化铜的方程式",
+      "指出未配平方程式错在何处"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_equation_calc",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "物质构成",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "化学方程式计算",
+    "nameEn": "Equation calculations",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能根据化学方程式由一种物质质量求另一种物质质量。",
+    "evidence": [
+      "已知碳酸钙质量求生成二氧化碳质量",
+      "检查计算是否先配平再列比例"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_mixture_separation",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "溶液",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "混合物的分离",
+    "nameEn": "Separating mixtures",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "能根据溶解性、沸点等选择过滤、蒸发、蒸馏等分离方法。",
+    "evidence": [
+      "设计分离沙子和食盐的步骤",
+      "说明蒸发结晶与降温结晶的选用"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_solution_solubility",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "溶液",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "溶液与溶解度",
+    "nameEn": "Solution and solubility",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "理解饱和溶液与溶解度含义，能读溶解度曲线比较物质溶解能力。",
+    "evidence": [
+      "判断某温度下溶液是否饱和",
+      "从曲线读出某温度的溶解度"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_solute_fraction",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "溶液",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "溶质质量分数",
+    "nameEn": "Mass fraction",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "能计算溶质质量分数，并完成简单稀释或配制思路。",
+    "evidence": [
+      "计算20g盐溶于80g水的质量分数",
+      "说明加水后质量分数如何变化"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_metal_activity",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "常见物质",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "金属活动性",
+    "nameEn": "Metal activity",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能用金属与酸、盐溶液的反应比较活动性强弱，并解释铁的锈蚀防护。",
+    "evidence": [
+      "根据实验排出锌、铁、铜的活动性",
+      "提出防止铁生锈的两种方法"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_acid_alkali_salt",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "酸碱盐",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "酸和碱的性质",
+    "nameEn": "Acids and alkalis",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能用酸碱指示剂和pH判断酸碱性，并写出酸与碱、金属氧化物的典型反应。",
+    "evidence": [
+      "用pH试纸测定肥皂水的大致酸碱性",
+      "解释氢氧化钙能改良酸性土壤"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_neutralization",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "酸碱盐",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "中和反应",
+    "nameEn": "Neutralization",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "理解酸与碱反应生成盐和水，能举出生活中的中和应用。",
+    "evidence": [
+      "写出盐酸与氢氧化钠反应的方程式",
+      "说明服用含氢氧化铝药物缓解胃酸的原理"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_salt_and_fertilizer",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "酸碱盐",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "盐与化学肥料",
+    "nameEn": "Salts and fertilizers",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "认识常见盐和氮磷钾肥的作用，能判断标签并注意合理施用。",
+    "evidence": [
+      "识别碳酸钠、氯化钠的主要用途",
+      "根据含氮量比较两种氮肥"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_carbon_and_fuels",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "常见物质",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "碳和燃料",
+    "nameEn": "Carbon and fuels",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "了解碳的单质、一氧化碳还原性和化石燃料燃烧，能讨论完全燃烧与环保。",
+    "evidence": [
+      "比较石墨和金刚石的性质差异",
+      "说明一氧化碳中毒与通风的关系"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_organic_intro",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "常见物质",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "有机物入门",
+    "nameEn": "Organic intro",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "知道甲烷、乙醇、乙酸等常见有机物的主要用途，能与无机物简单区分。",
+    "evidence": [
+      "写出甲烷燃烧的文字表达式",
+      "举例说明塑料属于有机高分子"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_chem_and_life",
+    "type": "META",
+    "subject": "化学",
+    "domain": "化学实验",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "化学与生活环境",
+    "nameEn": "Chemistry and life",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能从化学视角分析食品添加剂、水质和空气污染，并提出可行的防护建议。",
+    "evidence": [
+      "读食品标签找出一种添加剂并说明作用",
+      "提出减少汽车尾气影响的一项做法"
+    ]
+  },
+  {
+    "id": "mt_hx_s4_jh_inquiry_lab",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "化学实验",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "化学探究实验",
+    "nameEn": "Inquiry lab",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能提出假设、控制变量并完成一组对比实验，用现象支持结论。",
+    "evidence": [
+      "设计实验比较两种金属与酸反应快慢",
+      "用表格记录现象并得出结论"
+    ]
+  },
+  {
     "id": "mt_hx_s5_matter_classification",
     "type": "CONCEPTUAL",
     "subject": "化学",

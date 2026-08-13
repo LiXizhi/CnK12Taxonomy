@@ -23,7 +23,7 @@ The taxonomy is inspired structurally by Marble's `os-taxonomy`, but its Chinese
 - Keep JSON UTF-8 and valid JSON. Preserve the surrounding formatting style and avoid unrelated reformatting.
 - Topic IDs must be unique, stable, and start with `mt_`. Follow the existing subject and stage naming pattern.
 - Supported topic types are `CONCEPTUAL`, `PROCEDURAL`, `REPRESENTATIONAL`, `LANGUAGE`, and `META`.
-- Supported subjects are `语文`, `数学`, `英语`, `科学`, `信息科技`, `道德与法治`, `历史`, `地理`, `体育与健康`, `艺术`, `劳动`, `思想政治`, `物理`, `化学`, `生物学`, `信息技术`, and `通用技术`. 日语/俄语 remain out of scope unless the task explicitly expands validation.
+- Supported subjects are `语文`, `数学`, `英语`, `科学`, `信息科技`, `道德与法治`, `历史`, `地理`, `体育与健康`, `艺术`, `劳动`, `物理`, `化学`, and `生物学`. 高中思想政治 topics use subject `道德与法治`. 日语/俄语、高中信息技术/通用技术 remain out of scope unless the task explicitly expands validation.
 - Write concise, teachable micro-topics rather than broad units. Descriptions and evidence should make mastery observable.
 - Give each topic at least two non-empty evidence items and at least one valid standards key.
 - Use grades 1-12. Keep `gradeEnd >= gradeStart`; stage (`xueduan`) follows grades 1-2, 3-4, 5-6, 7-9, and 10-12 (高中 = 5).

@@ -4,7 +4,7 @@
 
 数据形态对齐 [Marble Skill Taxonomy / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)，内容为另行撰写的中文义务教育图谱，不是 Marble 英美内容的翻译。
 
-> **Version:** `v0.3.0` · **Topics:** 1,507 · **Prerequisite edges:** 2,707 · **Clusters:** 241 · **Standard codes:** 346 · **Band:** grades 1–12
+> **Version:** `v0.3.2` · **Topics:** 1,522 · **Prerequisite edges:** 2,777 · **Clusters:** 242 · **Standard codes:** 338 · **Band:** grades 1–12
 
 本项目**不隶属、不代表**教育部；课标对齐是我们的映射，不是官方产品。
 
@@ -24,22 +24,19 @@ v0.3 是**连通骨架**：义务教育 + 普通高中国家课程学科都有�
 | 语文 | 1–12 | 义务六任务群 + 识字写字；高中十二学习任务群 |
 | 数学 | 1–12 | 义务四领域；高中预备/函数/几何与代数/概率统计/建模 |
 | 英语 | 3–12 | 一级–三级 + 高中语言技能/知识/文化/策略；1–2 不单列 |
-| 科学 | 1–9 | 四领域；7–9 暂不拆成物理/化学/生物学独立学科 |
-| 信息科技 | 1–9 | 九模块；高中改列「信息技术」 |
-| 道德与法治 | 1–9 | 自我与健康 · 交往与责任 · 法治与规则 · 国家认同与文化 |
+| 科学 | 1–9 | 综合科学；7–9 仍保留，并与分科物理/化学互链 |
+| 信息科技 | 1–9 | 2022 课标学科（不再使用已过时的「信息技术/通用技术」） |
+| 道德与法治 | 1–12 | 义务四主题 + 高中思想政治模块（中国特色社会主义、经济与社会、政治与法治、哲学与文化等）；图谱中与思政合并为一科 |
 | 历史 | 7–12 | 初中通史骨架；高中中外历史纲要 + 选必专题 |
 | 地理 | 7–12 | 初中区域地理；高中自然/人文 + 区域发展与安全 |
 | 体育与健康 | 1–12 | 基本运动 · 体能 · 专项 · 健康 · 体育品德 |
 | 艺术 | 1–12 | 音乐 · 美术 · 综合 · 欣赏（2022 综合艺术课 + 2017 高中艺术） |
 | 劳动 | 1–2 / 3–4 / 5–6 / 7–9 / 10–12 | 日常生活 · 生产 · 服务性劳动；高中另有创造性劳动（2020 指导纲要） |
-| 思想政治 | 10–12 | 中国特色社会主义 · 经济与社会 · 政治与法治 · 哲学与文化 等 |
-| 物理 | 10–12 | 力学 · 电磁学 · 热学 · 振动与波 · 近代物理 |
-| 化学 | 10–12 | 物质 · 反应原理 · 结构 · 有机 · 实验 |
+| 物理 | 8–12 | 与科学「物质科学」同一纵列先修；初中运动和力/声光/电磁/能量，高中力学电磁等 |
+| 化学 | 9–12 | 与科学「物质科学」、物理同一纵列先修；初中物质构成/溶液/酸碱盐，高中反应原理等 |
 | 生物学 | 10–12 | 分子与细胞 · 遗传与进化 · 稳态 · 环境 · 生物技术 |
-| 信息技术 | 10–12 | 与义务教育「信息科技」分列；数据与计算 · 信息系统 · 网络 · 人工智能 |
-| 通用技术 | 10–12 | 技术与设计 · 结构/流程/系统/控制 · 工程专题 |
 
-Planned, not authored: 日语/俄语, 初中物化生作为独立学科。
+Planned, not authored: 日语/俄语, 初中生物学独立成科。
 
 ## Files
 
@@ -119,7 +116,7 @@ Produced works (an app, tutor, or model that *uses* the graph) stay yours. Deriv
 
 ### Attribution
 
-> Chinese K12 Taxonomy (v0.3) · 义务教育与普通高中微主题知识图谱 · https://github.com/LiXizhi/CnK12Taxonomy · schema inspired by https://github.com/withmarbleapp/os-taxonomy · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content).
+> Chinese K12 Taxonomy (v0.3.1) · 义务教育与普通高中微主题知识图谱 · https://github.com/LiXizhi/CnK12Taxonomy · schema inspired by https://github.com/withmarbleapp/os-taxonomy · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content).
 
 ## What's not here
 

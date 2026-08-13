@@ -15,9 +15,7 @@
     "moe-sx-2022",
     "moe-ty-2017",
     "moe-ty-2022",
-    "moe-tyjs-2017",
     "moe-wl-2017",
-    "moe-xxjs-2017",
     "moe-xxkj-2022",
     "moe-ys-2017",
     "moe-ys-2022",
@@ -27,7 +25,7 @@
     "moe-yy-2022",
     "moe-zz-2017"
   ],
-  "curriculumCount": 25,
+  "curriculumCount": 23,
   "curricula": [
     {
       "slug": "moe-df-2022",
@@ -1010,30 +1008,6 @@
       "topicCount": 25
     },
     {
-      "slug": "moe-tyjs-2017",
-      "country": "CN",
-      "name": "普通高中通用技术课程标准（2017年版2020年修订）",
-      "version": "2017/2020",
-      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
-      "textIncluded": false,
-      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
-      "topics": [
-        {
-          "key": "moe-tyjs-2017:TD1",
-          "code": "TD1"
-        },
-        {
-          "key": "moe-tyjs-2017:TD2",
-          "code": "TD2"
-        },
-        {
-          "key": "moe-tyjs-2017:EL",
-          "code": "EL"
-        }
-      ],
-      "topicCount": 3
-    },
-    {
       "slug": "moe-wl-2017",
       "country": "CN",
       "name": "普通高中物理课程标准（2017年版2020年修订）",
@@ -1061,38 +1035,6 @@
         {
           "key": "moe-wl-2017:MOD",
           "code": "MOD"
-        }
-      ],
-      "topicCount": 5
-    },
-    {
-      "slug": "moe-xxjs-2017",
-      "country": "CN",
-      "name": "普通高中信息技术课程标准（2017年版2020年修订）",
-      "version": "2017/2020",
-      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
-      "textIncluded": false,
-      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
-      "topics": [
-        {
-          "key": "moe-xxjs-2017:DC",
-          "code": "DC"
-        },
-        {
-          "key": "moe-xxjs-2017:IS",
-          "code": "IS"
-        },
-        {
-          "key": "moe-xxjs-2017:DS",
-          "code": "DS"
-        },
-        {
-          "key": "moe-xxjs-2017:NET",
-          "code": "NET"
-        },
-        {
-          "key": "moe-xxjs-2017:AI",
-          "code": "AI"
         }
       ],
       "topicCount": 5
