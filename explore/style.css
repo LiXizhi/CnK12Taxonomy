@@ -25,7 +25,7 @@
 html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text); overflow: hidden; }
 a { color: inherit; }
 
-#canvas { position: fixed; inset: 0; display: block; }
+#canvas { position: fixed; inset: 0; display: block; touch-action: none; }
 
 .hud {
   position: fixed;

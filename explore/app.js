@@ -218,7 +218,7 @@ for (const g of [1, 3, 5, 7, 9, 11]) {
   scene.add(lab);
 }
 
-let dots, lines, positions = [];
+let dots, hitDots, lines, positions = [];
 const indexById = new Map();
 const dummy = new THREE.Object3D();
 const color = new THREE.Color();
@@ -244,6 +244,12 @@ function buildGraph() {
   dots = new THREE.InstancedMesh(geo, mat, state.topics.length);
   dots.instanceMatrix.setUsage(THREE.DynamicDrawUsage);
   scene.add(dots);
+
+  const hitGeo = new THREE.SphereGeometry(0.48, 8, 8);
+  const hitMat = new THREE.MeshBasicMaterial({ transparent: true, opacity: 0, depthWrite: false });
+  hitDots = new THREE.InstancedMesh(hitGeo, hitMat, state.topics.length);
+  hitDots.instanceMatrix.setUsage(THREE.DynamicDrawUsage);
+  scene.add(hitDots);
 
   const edgePos = new Float32Array(state.deps.length * 6);
   const edgeCol = new Float32Array(state.deps.length * 6);
@@ -274,11 +280,13 @@ function applyFilters() {
     dummy.scale.setScalar(show[i] ? s : 0.0001);
     dummy.updateMatrix();
     dots.setMatrixAt(i, dummy.matrix);
+    hitDots.setMatrixAt(i, dummy.matrix);
     const c = color.setHex(COLORS[t.subject] ?? 0xffffff);
     if (state.selected && !sel && !inPath) c.multiplyScalar(0.22);
     dots.setColorAt(i, c);
   }
   dots.instanceMatrix.needsUpdate = true;
+  hitDots.instanceMatrix.needsUpdate = true;
   if (dots.instanceColor) dots.instanceColor.needsUpdate = true;
 
   const pos = lines.geometry.getAttribute("position");
@@ -431,13 +439,14 @@ function pick(ev) {
   pointer.x = ((ev.clientX - rect.left) / rect.width) * 2 - 1;
   pointer.y = -((ev.clientY - rect.top) / rect.height) * 2 + 1;
   raycaster.setFromCamera(pointer, camera);
-  const hit = raycaster.intersectObject(dots)[0];
+  const hit = raycaster.intersectObject(hitDots)[0];
   if (!hit || hit.instanceId == null) return null;
   const t = state.topics[hit.instanceId];
   return visible(t) ? t : null;
 }
 
 renderer.domElement.addEventListener("pointermove", (ev) => {
+  if (ev.pointerType !== "mouse") return;
   const t = pick(ev);
   state.hover = t?.id ?? null;
   if (t) {
@@ -452,9 +461,23 @@ renderer.domElement.addEventListener("pointermove", (ev) => {
   }
 });
 
-renderer.domElement.addEventListener("click", (ev) => {
+let tapStart = null;
+renderer.domElement.addEventListener("pointerdown", (ev) => {
+  if (!ev.isPrimary) return;
+  tapStart = { pointerId: ev.pointerId, x: ev.clientX, y: ev.clientY };
+});
+
+renderer.domElement.addEventListener("pointerup", (ev) => {
+  if (!tapStart || tapStart.pointerId !== ev.pointerId) return;
+  const distance = Math.hypot(ev.clientX - tapStart.x, ev.clientY - tapStart.y);
+  tapStart = null;
+  if (distance > 10) return;
   const t = pick(ev);
   if (t) select(t.id);
+});
+
+renderer.domElement.addEventListener("pointercancel", () => {
+  tapStart = null;
 });
 
 window.addEventListener("keydown", (ev) => {
