@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Chinese K12 Taxonomy (义务教育 1–9)
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - family-names: Li
+    given-names: Xizhi
+    affiliation: Paracraft
+repository-code: "c:/lxzsrc/CnK12Taxonomy"
+license: "ODbL-1.0 AND CC-BY-SA-4.0"
+version: 0.1.0
+date-released: 2026-08-13
+abstract: >-
+  An open, graph-structured taxonomy of teachable micro-topics for Chinese
+  compulsory education (grades 1–9), aligned to the 2022 national curriculum
+  standards (codes only).

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/paraengine/cn-k12-taxonomy/schema/clusters.schema.json",
+  "title": "Chinese K12 Taxonomy — clusters",
+  "type": "object",
+  "required": ["version", "clusterCount", "clusters"],
+  "properties": {
+    "version": { "type": "string" },
+    "clusterCount": { "type": "integer", "minimum": 0 },
+    "clusters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["subject", "domain", "ageRangeStart", "summary"],
+        "properties": {
+          "subject": { "type": "string" },
+          "domain": { "type": "string" },
+          "xueduan": { "type": ["integer", "null"] },
+          "gradeStart": { "type": ["integer", "null"] },
+          "gradeEnd": { "type": ["integer", "null"] },
+          "ageRangeStart": { "type": "integer" },
+          "ageRangeEnd": { "type": ["integer", "null"] },
+          "summary": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

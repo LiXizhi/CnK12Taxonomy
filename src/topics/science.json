@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "mt_science_s1_object_properties",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "物体的颜色形状软硬",
+    "nameEn": "Object properties",
+    "standards": [
+      "moe-kx-2022:C01.S1"
+    ],
+    "description": "能用看、摸等方法描述物体的颜色、形状、软硬等可观察性质。",
+    "evidence": [
+      "说出三块积木的不同性质",
+      "按软硬给一组物品分类"
+    ]
+  },
+  {
+    "id": "mt_science_s1_material_sorting",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "按材料给物体分类",
+    "nameEn": "Sorting materials",
+    "standards": [
+      "moe-kx-2022:C01.S1"
+    ],
+    "description": "知道物体由不同材料做成，能按木、塑料、金属等粗略分类。",
+    "evidence": [
+      "把混放物品按材料分成几堆",
+      "说明分类依据"
+    ]
+  },
+  {
+    "id": "mt_science_s1_water_three_states",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "水的三种状态初识",
+    "nameEn": "States of water",
+    "standards": [
+      "moe-kx-2022:C02.S1"
+    ],
+    "description": "知道水能变成冰和水蒸气，能描述加热和冷却时的变化。",
+    "evidence": [
+      "观察冰融化成水",
+      "解释晒衣服变干的原因"
+    ]
+  },
+  {
+    "id": "mt_science_s1_air_is_matter",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "空气的存在",
+    "nameEn": "Air exists",
+    "standards": [
+      "moe-kx-2022:C01.S1"
+    ],
+    "description": "通过实验体会空气占据空间，知道空气虽看不见但真实存在。",
+    "evidence": [
+      "用塑料袋捕捉空气",
+      "解释倒扣杯子压不扁纸团"
+    ]
+  },
+  {
+    "id": "mt_science_s1_light_and_shadow",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "光与影子",
+    "nameEn": "Light and shadow",
+    "standards": [
+      "moe-kx-2022:C04.S1"
+    ],
+    "description": "知道光被不透明物体挡住会形成影子，影子随光源位置变化。",
+    "evidence": [
+      "用手电筒制造移动影子",
+      "画出上午和中午影子差异"
+    ]
+  },
+  {
+    "id": "mt_science_s1_sound_vibration",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "声音与振动",
+    "nameEn": "Sound and vibration",
+    "standards": [
+      "moe-kx-2022:C04.S1"
+    ],
+    "description": "知道声音由物体振动产生，能比较声音高低强弱。",
+    "evidence": [
+      "摸发声皮筋感受振动",
+      "区分鼓声轻重"
+    ]
+  },
+  {
+    "id": "mt_science_s1_push_and_pull",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "推与拉",
+    "nameEn": "Push and pull",
+    "standards": [
+      "moe-kx-2022:C03.S1"
+    ],
+    "description": "能识别并描述推、拉两种使物体运动或形变的方式。",
+    "evidence": [
+      "用推或拉移动小车",
+      "判断开门属于推还是拉"
+    ]
+  },
+  {
+    "id": "mt_science_s1_hot_and_cold",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "冷热的感受",
+    "nameEn": "Hot and cold",
+    "standards": [
+      "moe-kx-2022:C04.S1"
+    ],
+    "description": "能用冷热描述温度差异，知道温度计可测量温度。",
+    "evidence": [
+      "比较两杯水的冷热",
+      "读出温度计上的整数值"
+    ]
+  },
+  {
+    "id": "mt_science_s1_sink_and_float",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "沉浮现象",
+    "nameEn": "Sink and float",
+    "standards": [
+      "moe-kx-2022:C01.S1"
+    ],
+    "description": "能预测并检验常见物品在水中的沉浮，描述观察结果。",
+    "evidence": [
+      "测试五件物品沉浮",
+      "记录沉浮与材料的关系"
+    ]
+  },
+  {
+    "id": "mt_science_s1_living_nonliving",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "生物与非生物",
+    "nameEn": "Living vs nonliving",
+    "standards": [
+      "moe-kx-2022:C05.S1"
+    ],
+    "description": "能区分有生命的植物动物和无生命的石头玩具，说出生命特征。",
+    "evidence": [
+      "从图片中找出生物",
+      "说明为什么机器人不是生物"
+    ]
+  },
+  {
+    "id": "mt_science_s1_plant_parts_basic",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "植物的主要部分",
+    "nameEn": "Plant parts",
+    "standards": [
+      "moe-kx-2022:C05.S1"
+    ],
+    "description": "能指认根、茎、叶等植物主要部分并简述其作用。",
+    "evidence": [
+      "给一株豆苗标注各部分",
+      "说明根帮助植物做什么"
+    ]
+  },
+  {
+    "id": "mt_science_s1_animal_body_parts",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "动物的身体结构",
+    "nameEn": "Animal body parts",
+    "standards": [
+      "moe-kx-2022:C05.S1"
+    ],
+    "description": "能观察并描述常见动物的头、四肢、尾巴等外部结构。",
+    "evidence": [
+      "画一种动物并标注部位",
+      "比较鱼与鸟的运动结构"
+    ]
+  },
+  {
+    "id": "mt_science_s1_plant_needs",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "植物生长需要什么",
+    "nameEn": "Plant needs",
+    "standards": [
+      "moe-kx-2022:C07.S1"
+    ],
+    "description": "知道植物生长需要阳光、水和适宜温度，能设计简单对比。",
+    "evidence": [
+      "记录豆苗在有光无光下的差异",
+      "解释为什么要给植物浇水"
+    ]
+  },
+  {
+    "id": "mt_science_s1_animal_food",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "动物吃什么",
+    "nameEn": "Animal food",
+    "standards": [
+      "moe-kx-2022:C07.S1"
+    ],
+    "description": "能区分草食、肉食和杂食动物，举例说明食物来源。",
+    "evidence": [
+      "给动物图片匹配食物",
+      "说明食物与牙齿形状的关系"
+    ]
+  },
+  {
+    "id": "mt_science_s1_life_cycle_butterfly",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "蝴蝶的生命周期",
+    "nameEn": "Butterfly life cycle",
+    "standards": [
+      "moe-kx-2022:C08.S1"
+    ],
+    "description": "能按顺序说出卵、幼虫、蛹、成虫的变化过程。",
+    "evidence": [
+      "排列生命周期四张图",
+      "说出每个阶段的名称"
+    ]
+  },
+  {
+    "id": "mt_science_s1_habitat_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "生物的生活环境",
+    "nameEn": "Habitats",
+    "standards": [
+      "moe-kx-2022:C07.S1"
+    ],
+    "description": "知道不同生物生活在不同环境中，如池塘、森林、沙漠。",
+    "evidence": [
+      "匹配动物与合适栖息地",
+      "说明企鹅为什么生活在寒冷地区"
+    ]
+  },
+  {
+    "id": "mt_science_s1_human_five_senses",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "人的五种感官",
+    "nameEn": "Five senses",
+    "standards": [
+      "moe-kx-2022:C05.S1"
+    ],
+    "description": "能说出眼耳鼻舌身各自帮助感知什么信息。",
+    "evidence": [
+      "用不同感官辨认物品",
+      "说明为什么要远离巨大声响"
+    ]
+  },
+  {
+    "id": "mt_science_s1_grow_and_change",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "生长与变化",
+    "nameEn": "Growth and change",
+    "standards": [
+      "moe-kx-2022:C08.S1"
+    ],
+    "description": "能描述人从小到大的身高体重变化，知道生物会生长。",
+    "evidence": [
+      "比较自己婴儿与现在的照片",
+      "记录植物一周高度变化"
+    ]
+  },
+  {
+    "id": "mt_science_s1_sun_moon_stars",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "太阳月亮与星星",
+    "nameEn": "Sun moon and stars",
+    "standards": [
+      "moe-kx-2022:C09.S1"
+    ],
+    "description": "能在晴夜或图片中辨认太阳、月亮和星星，知道它们在天体中的角色。",
+    "evidence": [
+      "指出图片中的太阳和月亮",
+      "说明星星在夜空中闪烁"
+    ]
+  },
+  {
+    "id": "mt_science_s1_day_and_night",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "白天与黑夜",
+    "nameEn": "Day and night",
+    "standards": [
+      "moe-kx-2022:C09.S1"
+    ],
+    "description": "知道地球自转形成昼夜交替，能描述一天中太阳位置变化。",
+    "evidence": [
+      "画出太阳东升西落示意",
+      "解释为什么有白天和黑夜"
+    ]
+  },
+  {
+    "id": "mt_science_s1_weather_sunny_rainy",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "晴雨雪等天气",
+    "nameEn": "Weather types",
+    "standards": [
+      "moe-kx-2022:C10.S1"
+    ],
+    "description": "能识别晴、阴、雨、雪等常见天气并记录一周天气。",
+    "evidence": [
+      "用符号记录一周天气",
+      "说明下雨时要带伞"
+    ]
+  },
+  {
+    "id": "mt_science_s1_seasons_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "四季变化初识",
+    "nameEn": "Four seasons",
+    "standards": [
+      "moe-kx-2022:C10.S1"
+    ],
+    "description": "能描述本地四季气温和着装变化，知道季节与公转有关。",
+    "evidence": [
+      "说出四季各一种活动",
+      "比较夏冬白昼长短感受"
+    ]
+  },
+  {
+    "id": "mt_science_s1_earth_materials_soil",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "土壤与岩石",
+    "nameEn": "Soil and rocks",
+    "standards": [
+      "moe-kx-2022:C10.S1"
+    ],
+    "description": "能观察并描述土壤、沙、石等地球表面常见物质。",
+    "evidence": [
+      "比较两种土壤颗粒大小",
+      "说明岩石可用来铺路"
+    ]
+  },
+  {
+    "id": "mt_science_s1_water_on_earth",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "地球上的水",
+    "nameEn": "Water on Earth",
+    "standards": [
+      "moe-kx-2022:C10.S1"
+    ],
+    "description": "知道河流、湖泊和海洋是地表水体，水对生命很重要。",
+    "evidence": [
+      "在地图上找河流和海洋",
+      "说明节约用水的原因"
+    ]
+  },
+  {
+    "id": "mt_science_s1_local_environment",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "身边的环境",
+    "nameEn": "Local environment",
+    "standards": [
+      "moe-kx-2022:C11.S1"
+    ],
+    "description": "能观察并描述学校或社区环境的自然与人文要素。",
+    "evidence": [
+      "绘制校园环境草图",
+      "说出一处需要保护的绿地"
+    ]
+  },
+  {
+    "id": "mt_science_s1_moon_phases_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "月相变化初识",
+    "nameEn": "Moon phases intro",
+    "standards": [
+      "moe-kx-2022:C09.S1"
+    ],
+    "description": "能观察并描述月亮形状在一个月内发生的变化。",
+    "evidence": [
+      "记录一周月相形状",
+      "说出满月和新月的区别"
+    ]
+  },
+  {
+    "id": "mt_science_s1_protect_environment_s1",
+    "type": "META",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "爱护环境小行动",
+    "nameEn": "Protect environment",
+    "standards": [
+      "moe-kx-2022:C11.S1"
+    ],
+    "description": "知道不乱扔垃圾、节约用水等保护环境的做法并能践行。",
+    "evidence": [
+      "参与一次垃圾分类",
+      "说出两种节约资源方法"
+    ]
+  },
+  {
+    "id": "mt_science_s1_simple_tools",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "简单工具的使用",
+    "nameEn": "Simple tools",
+    "standards": [
+      "moe-kx-2022:C12.S1"
+    ],
+    "description": "能安全使用剪刀、胶水等简单工具完成手工。",
+    "evidence": [
+      "用剪刀沿直线裁剪",
+      "说明使用工具注意安全"
+    ]
+  },
+  {
+    "id": "mt_science_s1_build_stable_structure",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "搭稳固的结构",
+    "nameEn": "Stable structures",
+    "standards": [
+      "moe-kx-2022:C13.S1"
+    ],
+    "description": "能用积木或纸杯搭建较稳固的高塔，知道宽底座更稳。",
+    "evidence": [
+      "搭建十层以上纸杯塔",
+      "解释为何加宽底座"
+    ]
+  },
+  {
+    "id": "mt_science_s1_paper_bridge_design",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "纸桥承重设计",
+    "nameEn": "Paper bridge",
+    "standards": [
+      "moe-kx-2022:C13.S1"
+    ],
+    "description": "能尝试用纸张和胶带设计能承重的简易桥。",
+    "evidence": [
+      "测试纸桥能放几枚硬币",
+      "改进设计后再次测试"
+    ]
+  },
+  {
+    "id": "mt_science_s1_wheel_and_axle",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "轮轴的作用",
+    "nameEn": "Wheel and axle",
+    "standards": [
+      "moe-kx-2022:C12.S1"
+    ],
+    "description": "知道轮轴可省力或便于移动，能在玩具或小车中识别。",
+    "evidence": [
+      "比较拖行与滚动的用力",
+      "找出玩具车的轮轴"
+    ]
+  },
+  {
+    "id": "mt_science_s1_design_solution_basic",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "提出设计方案",
+    "nameEn": "Design a solution",
+    "standards": [
+      "moe-kx-2022:C13.S1"
+    ],
+    "description": "遇到简单问题时能画出想法并选择材料尝试解决。",
+    "evidence": [
+      "为倒水杯问题画三种方案",
+      "说明为何选其中一种"
+    ]
+  },
+  {
+    "id": "mt_science_s1_test_and_improve",
+    "type": "META",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "测试与改进",
+    "nameEn": "Test and improve",
+    "standards": [
+      "moe-kx-2022:C13.S1"
+    ],
+    "description": "制作后能测试效果并根据结果改进一次。",
+    "evidence": [
+      "记录第一次和第二次承重",
+      "说出改进了什么"
+    ]
+  },
+  {
+    "id": "mt_science_s1_engineering_safety",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "制作中的安全规范",
+    "nameEn": "Engineering safety",
+    "standards": [
+      "moe-kx-2022:C12.S1"
+    ],
+    "description": "知道使用工具和处理材料时的基本安全规则。",
+    "evidence": [
+      "列出三条实验安全守则",
+      "发现同伴危险操作及时提醒"
+    ]
+  },
+  {
+    "id": "mt_science_s1_draw_simple_plan",
+    "type": "REPRESENTATIONAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "绘制简易设计图",
+    "nameEn": "Draw a plan",
+    "standards": [
+      "moe-kx-2022:C13.S1"
+    ],
+    "description": "能用简图画出设计想法并标注主要部件。",
+    "evidence": [
+      "为风铃画设计草图",
+      "向同伴介绍设计图"
+    ]
+  },
+  {
+    "id": "mt_science_s2_material_properties_s2",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "常见材料的性质",
+    "nameEn": "Material properties",
+    "standards": [
+      "moe-kx-2022:C01.S2"
+    ],
+    "description": "能比较木材、金属、塑料等的硬度、导电性和防水性等性质。",
+    "evidence": [
+      "测试三种材料的防水性",
+      "说明为何锅用金属做"
+    ]
+  },
+  {
+    "id": "mt_science_s2_magnet_poles",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "磁铁与磁极",
+    "nameEn": "Magnets",
+    "standards": [
+      "moe-kx-2022:C03.S2"
+    ],
+    "description": "知道磁铁能吸铁，同极相斥异极相吸，能在实验中验证。",
+    "evidence": [
+      "用条形磁铁找吸铁物品",
+      "演示同极相斥现象"
+    ]
+  },
+  {
+    "id": "mt_science_s2_sound_pitch_volume",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "音调与响度",
+    "nameEn": "Pitch and volume",
+    "standards": [
+      "moe-kx-2022:C04.S2"
+    ],
+    "description": "能区分声音高低和强弱，知道与振动快慢和幅度有关。",
+    "evidence": [
+      "比较鼓轻敲与重敲的响度",
+      "用橡皮筋松紧实验音调"
+    ]
+  },
+  {
+    "id": "mt_science_s2_light_reflection",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "光的反射",
+    "nameEn": "Light reflection",
+    "standards": [
+      "moe-kx-2022:C04.S2"
+    ],
+    "description": "知道光遇到镜面会反射，能观察反射光路并描述。",
+    "evidence": [
+      "用镜子改变光路照到墙面",
+      "解释水面反光现象"
+    ]
+  },
+  {
+    "id": "mt_science_s2_circuit_bulb",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "简单电路点亮灯泡",
+    "nameEn": "Simple circuits",
+    "standards": [
+      "moe-kx-2022:C04.S2"
+    ],
+    "description": "能用电池、导线、灯泡连接闭合回路使灯泡发光。",
+    "evidence": [
+      "成功连接让灯泡亮",
+      "找出断路与短路的区别"
+    ]
+  },
+  {
+    "id": "mt_science_s2_mixture_separation",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "混合物的分离",
+    "nameEn": "Separating mixtures",
+    "standards": [
+      "moe-kx-2022:C02.S2"
+    ],
+    "description": "能用筛分、过滤等方法分离沙水等简单混合物。",
+    "evidence": [
+      "过滤浑浊的水",
+      "说明为何不能用筛分溶解的盐"
+    ]
+  },
+  {
+    "id": "mt_science_s2_friction_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "摩擦力初识",
+    "nameEn": "Friction intro",
+    "standards": [
+      "moe-kx-2022:C03.S2"
+    ],
+    "description": "知道摩擦力阻碍相对运动，能举例说明增大或减小摩擦的方法。",
+    "evidence": [
+      "比较粗糙面与光滑面拉动",
+      "说明鞋底花纹的作用"
+    ]
+  },
+  {
+    "id": "mt_science_s2_heat_conduction",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "热传导现象",
+    "nameEn": "Heat conduction",
+    "standards": [
+      "moe-kx-2022:C04.S2"
+    ],
+    "description": "知道热从高温物体传向低温物体，金属比 wood 导热快。",
+    "evidence": [
+      "感受金属勺与木柄温度差",
+      "解释冬天金属门把手更凉"
+    ]
+  },
+  {
+    "id": "mt_science_s2_dissolve_in_water",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "物质在水中的溶解",
+    "nameEn": "Dissolving",
+    "standards": [
+      "moe-kx-2022:C02.S2"
+    ],
+    "description": "能观察糖、盐等物质在水中溶解，知道并非所有物质都溶。",
+    "evidence": [
+      "比较油和水能否互溶",
+      "记录溶解后液体是否变清"
+    ]
+  },
+  {
+    "id": "mt_science_s2_crystal_growth",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "晶体生长观察",
+    "nameEn": "Crystal growth",
+    "standards": [
+      "moe-kx-2022:C01.S2"
+    ],
+    "description": "能通过蒸发或冷却溶液观察晶体形成，描述规则外形。",
+    "evidence": [
+      "制作硫酸铜或盐晶体",
+      "画出晶体形状并解释"
+    ]
+  },
+  {
+    "id": "mt_science_s2_food_chain_basic",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "简单食物链",
+    "nameEn": "Food chains",
+    "standards": [
+      "moe-kx-2022:C07.S2"
+    ],
+    "description": "能用箭头表示谁吃谁，理解能量从植物向动物传递。",
+    "evidence": [
+      "排列草→兔→狐食物链",
+      "说明去掉一种动物的影响"
+    ]
+  },
+  {
+    "id": "mt_science_s2_plant_adaptations",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "植物的适应性",
+    "nameEn": "Plant adaptations",
+    "standards": [
+      "moe-kx-2022:C07.S2"
+    ],
+    "description": "能举例说明仙人掌、荷花等结构与环境的适应关系。",
+    "evidence": [
+      "比较沙漠与水生叶形",
+      "解释根深浅与土壤水分"
+    ]
+  },
+  {
+    "id": "mt_science_s2_animal_adaptations",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "动物的适应性",
+    "nameEn": "Animal adaptations",
+    "standards": [
+      "moe-kx-2022:C07.S2"
+    ],
+    "description": "能描述动物形态和行为如何帮助生存，如保护色、迁徙。",
+    "evidence": [
+      "举例说明保护色",
+      "解释候鸟为何迁徙"
+    ]
+  },
+  {
+    "id": "mt_science_s2_microscope_intro",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "显微镜观察入门",
+    "nameEn": "Using a microscope",
+    "standards": [
+      "moe-kx-2022:C05.S2"
+    ],
+    "description": "能在教师指导下使用放大镜或显微镜观察薄切片。",
+    "evidence": [
+      "正确调焦观察洋葱表皮",
+      "画出观察到的细胞轮廓"
+    ]
+  },
+  {
+    "id": "mt_science_s2_skeleton_muscles",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "骨骼与肌肉",
+    "nameEn": "Skeleton and muscles",
+    "standards": [
+      "moe-kx-2022:C05.S2"
+    ],
+    "description": "知道骨骼支撑身体、肌肉带动运动，能指出主要部位。",
+    "evidence": [
+      "做屈伸动作感受肌肉",
+      "在模型上指出主要骨骼"
+    ]
+  },
+  {
+    "id": "mt_science_s2_seed_dispersal",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "种子传播方式",
+    "nameEn": "Seed dispersal",
+    "standards": [
+      "moe-kx-2022:C08.S2"
+    ],
+    "description": "能说出风、水、动物等帮助种子传播的方式并举例。",
+    "evidence": [
+      "收集不同形状种子",
+      "解释蒲公英种子为何有伞"
+    ]
+  },
+  {
+    "id": "mt_science_s2_ecosystem_components",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "生态系统的组成",
+    "nameEn": "Ecosystem parts",
+    "standards": [
+      "moe-kx-2022:C07.S2"
+    ],
+    "description": "知道生态系统包括生物与非生物环境，二者相互依存。",
+    "evidence": [
+      "列出池塘生态的非生物因素",
+      "说明阳光对植物的作用"
+    ]
+  },
+  {
+    "id": "mt_science_s2_human_digestive",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "消化器官初识",
+    "nameEn": "Digestive system",
+    "standards": [
+      "moe-kx-2022:C05.S2"
+    ],
+    "description": "能指认口腔、胃、肠等主要消化器官并简述功能。",
+    "evidence": [
+      "按顺序排列消化器官",
+      "说明牙齿咀嚼的作用"
+    ]
+  },
+  {
+    "id": "mt_science_s2_plant_photosynthesis_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "光合作用初识",
+    "nameEn": "Photosynthesis intro",
+    "standards": [
+      "moe-kx-2022:C06.S2"
+    ],
+    "description": "知道植物在光照下制造养分并释放氧气，是食物链基础。",
+    "evidence": [
+      "解释为何叶子多为绿色",
+      "说明没有光植物难生长"
+    ]
+  },
+  {
+    "id": "mt_science_s2_human_respiratory",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "呼吸器官初识",
+    "nameEn": "Respiratory system",
+    "standards": [
+      "moe-kx-2022:C06.S2"
+    ],
+    "description": "知道人通过肺吸入氧气呼出二氧化碳，能描述呼吸过程。",
+    "evidence": [
+      "记录运动后呼吸频率变化",
+      "说明为何要保持空气流通"
+    ]
+  },
+  {
+    "id": "mt_science_s2_weather_instruments",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "观测天气的工具",
+    "nameEn": "Weather instruments",
+    "standards": [
+      "moe-kx-2022:C10.S2"
+    ],
+    "description": "能使用气温计、风向标等工具观测并记录天气数据。",
+    "evidence": [
+      "读取气温计示数",
+      "根据风标判断风向"
+    ]
+  },
+  {
+    "id": "mt_science_s2_water_cycle",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "水循环",
+    "nameEn": "Water cycle",
+    "standards": [
+      "moe-kx-2022:C10.S2"
+    ],
+    "description": "能描述蒸发、凝结、降水等环节，理解水在自然界循环。",
+    "evidence": [
+      "画出简化的水循环图",
+      "解释云如何形成"
+    ]
+  },
+  {
+    "id": "mt_science_s2_soil_formation",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "土壤的形成",
+    "nameEn": "Soil formation",
+    "standards": [
+      "moe-kx-2022:C10.S2"
+    ],
+    "description": "知道岩石风化、有机物分解等形成土壤，土壤支持植物生长。",
+    "evidence": [
+      "比较表层土与深层土",
+      "说明保护土壤的方法"
+    ]
+  },
+  {
+    "id": "mt_science_s2_map_landforms",
+    "type": "REPRESENTATIONAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "地形与地图",
+    "nameEn": "Landforms on maps",
+    "standards": [
+      "moe-kx-2022:C09.S2"
+    ],
+    "description": "能在地图上识别山地、平原、河流等地形符号。",
+    "evidence": [
+      "在区域图中找河流走向",
+      "说明等高线表示起伏"
+    ]
+  },
+  {
+    "id": "mt_science_s2_natural_resources",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "自然资源",
+    "nameEn": "Natural resources",
+    "standards": [
+      "moe-kx-2022:C11.S2"
+    ],
+    "description": "能区分可再生与不可再生资源，举例说明合理利用。",
+    "evidence": [
+      "分类煤炭与太阳能",
+      "提出一种节约用电做法"
+    ]
+  },
+  {
+    "id": "mt_science_s2_pollution_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "污染与防治",
+    "nameEn": "Pollution intro",
+    "standards": [
+      "moe-kx-2022:C11.S2"
+    ],
+    "description": "知道水、空气、土壤污染的来源和危害，能提出防治建议。",
+    "evidence": [
+      "列举两种水污染来源",
+      "说明垃圾分类的意义"
+    ]
+  },
+  {
+    "id": "mt_science_s2_earth_layers_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "地球内部结构初识",
+    "nameEn": "Earth layers",
+    "standards": [
+      "moe-kx-2022:C09.S2"
+    ],
+    "description": "知道地壳、地幔、地核的分层模型，地壳最薄且活动较多。",
+    "evidence": [
+      "按比例画出三层示意",
+      "说明地震多发生在板块边界"
+    ]
+  },
+  {
+    "id": "mt_science_s2_fossils_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "化石与古生物",
+    "nameEn": "Fossils",
+    "standards": [
+      "moe-kx-2022:C08.S2"
+    ],
+    "description": "知道化石是远古生物遗迹，可帮助研究地球历史。",
+    "evidence": [
+      "观察化石图片并描述",
+      "解释为何海洋沉积易形成化石"
+    ]
+  },
+  {
+    "id": "mt_science_s2_solar_system_planets",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "太阳系行星",
+    "nameEn": "Solar system planets",
+    "standards": [
+      "moe-kx-2022:C09.S2"
+    ],
+    "description": "能按距离顺序说出主要行星，知道地球是其中之一。",
+    "evidence": [
+      "排列八大行星模型",
+      "说明地球适宜生命的原因"
+    ]
+  },
+  {
+    "id": "mt_science_s2_engineering_design_process",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "工程设计流程",
+    "nameEn": "Design process",
+    "standards": [
+      "moe-kx-2022:C13.S2"
+    ],
+    "description": "能按明确问题、画方案、制作、测试、改进步骤完成小项目。",
+    "evidence": [
+      "完成一项指定设计任务",
+      "记录测试数据并改进"
+    ]
+  },
+  {
+    "id": "mt_science_s2_lever_simple_machine",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "杠杆原理初识",
+    "nameEn": "Levers",
+    "standards": [
+      "moe-kx-2022:C12.S2"
+    ],
+    "description": "知道杠杆可省力或省距离，能在跷跷板等实例中找支点。",
+    "evidence": [
+      "找出一把剪刀的支点",
+      "体验用力点远近的影响"
+    ]
+  },
+  {
+    "id": "mt_science_s2_packaging_design",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "包装与设计",
+    "nameEn": "Packaging design",
+    "standards": [
+      "moe-kx-2022:C13.S2"
+    ],
+    "description": "能设计保护易碎物品的包装并测试跌落效果。",
+    "evidence": [
+      "设计鸡蛋包装并通过测试",
+      "说明缓冲材料的作用"
+    ]
+  },
+  {
+    "id": "mt_science_s2_technology_in_life",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "生活中的技术",
+    "nameEn": "Technology in life",
+    "standards": [
+      "moe-kx-2022:C12.S2"
+    ],
+    "description": "能举例说明交通、通信等技术如何改变生活并讨论利弊。",
+    "evidence": [
+      "列举三项改变生活的发明",
+      "讨论手机使用的利与弊"
+    ]
+  },
+  {
+    "id": "mt_science_s2_team_engineering",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "小组协作制作",
+    "nameEn": "Team engineering",
+    "standards": [
+      "moe-kx-2022:C13.S2"
+    ],
+    "description": "能在小组中分工合作完成制作任务并交流改进意见。",
+    "evidence": [
+      "小组完成指定模型",
+      "汇报各成员分工"
+    ]
+  },
+  {
+    "id": "mt_science_s2_evaluate_designs",
+    "type": "META",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "评价设计方案",
+    "nameEn": "Evaluating designs",
+    "standards": [
+      "moe-kx-2022:C13.S2"
+    ],
+    "description": "能根据功能、成本、安全等标准比较不同方案优劣。",
+    "evidence": [
+      "用表格比较两种方案",
+      "选出更优设计并说明理由"
+    ]
+  },
+  {
+    "id": "mt_science_s2_material_choice",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "材料选择理由",
+    "nameEn": "Choosing materials",
+    "standards": [
+      "moe-kx-2022:C12.S2"
+    ],
+    "description": "能根据产品用途选择合适的材料并说明理由。",
+    "evidence": [
+      "为雨具选择合适材料",
+      "解释为何不用纸做容器"
+    ]
+  },
+  {
+    "id": "mt_science_s3_states_of_matter",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "物质的三态",
+    "nameEn": "States of matter",
+    "standards": [
+      "moe-kx-2022:C01.S3"
+    ],
+    "description": "能用粒子模型初步解释固液气三态及熔化、汽化等变化。",
+    "evidence": [
+      "描述加热冰块的过程",
+      "解释水蒸气看不见但存在"
+    ]
+  },
+  {
+    "id": "mt_science_s3_density_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "密度初识",
+    "nameEn": "Density intro",
+    "standards": [
+      "moe-kx-2022:C01.S3"
+    ],
+    "description": "知道同体积不同物质质量不同，能比较几种液体密度。",
+    "evidence": [
+      "比较油水同体积质量",
+      "解释油浮在水面"
+    ]
+  },
+  {
+    "id": "mt_science_s3_chemical_vs_physical",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "物理变化与化学变化",
+    "nameEn": "Physical vs chemical change",
+    "standards": [
+      "moe-kx-2022:C02.S3"
+    ],
+    "description": "能区分形态改变与生成新物质的变化，举例说明。",
+    "evidence": [
+      "判断折纸与燃烧分别属哪类",
+      "列出化学变化的可观察证据"
+    ]
+  },
+  {
+    "id": "mt_science_s3_acid_base_indicator",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "酸碱指示剂",
+    "nameEn": "Acid-base indicators",
+    "standards": [
+      "moe-kx-2022:C02.S3"
+    ],
+    "description": "能用紫甘蓝汁等指示剂区分酸性与碱性溶液。",
+    "evidence": [
+      "测试柠檬汁与肥皂水",
+      "记录颜色变化并结论"
+    ]
+  },
+  {
+    "id": "mt_science_s3_force_and_motion",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "力与运动关系",
+    "nameEn": "Force and motion",
+    "standards": [
+      "moe-kx-2022:C03.S3"
+    ],
+    "description": "知道力可以改变运动状态，能测量拉力并画力图。",
+    "evidence": [
+      "用弹簧秤测拉力",
+      "解释刹车时身体前倾"
+    ]
+  },
+  {
+    "id": "mt_science_s3_simple_machines_set",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "简单机械综合",
+    "nameEn": "Simple machines",
+    "standards": [
+      "moe-kx-2022:C03.S3"
+    ],
+    "description": "能识别杠杆、滑轮、斜面等简单机械并说明省力原理。",
+    "evidence": [
+      "找出自行车上的简单机械",
+      "设计用斜面搬重物"
+    ]
+  },
+  {
+    "id": "mt_science_s3_energy_forms",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "能量的形式",
+    "nameEn": "Energy forms",
+    "standards": [
+      "moe-kx-2022:C04.S3"
+    ],
+    "description": "能列举动能、势能、热能、电能等并描述相互转化。",
+    "evidence": [
+      "描述过山车能量变化",
+      "说明电炉把电能变成热能"
+    ]
+  },
+  {
+    "id": "mt_science_s3_electrical_energy",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "电能的利用",
+    "nameEn": "Electrical energy",
+    "standards": [
+      "moe-kx-2022:C04.S3"
+    ],
+    "description": "知道家庭电路中开关、用电器的作用，注意用电安全。",
+    "evidence": [
+      "画出简单家庭电路示意",
+      "说明为何湿手不能触插座"
+    ]
+  },
+  {
+    "id": "mt_science_s3_wave_properties",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "波的性质",
+    "nameEn": "Wave properties",
+    "standards": [
+      "moe-kx-2022:C03.S3"
+    ],
+    "description": "能描述波的长度、频率等概念，知道声与光都是波。",
+    "evidence": [
+      "观察绳波传播",
+      "比较高音与低音频率差异"
+    ]
+  },
+  {
+    "id": "mt_science_s3_cell_structure",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "细胞的基本结构",
+    "nameEn": "Cell structure",
+    "standards": [
+      "moe-kx-2022:C05.S3"
+    ],
+    "description": "能在显微镜下观察植物与动物细胞，指认细胞壁、细胞膜、细胞核。",
+    "evidence": [
+      "绘制观察到的细胞图",
+      "比较动植物细胞差异"
+    ]
+  },
+  {
+    "id": "mt_science_s3_organ_systems",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "器官与系统",
+    "nameEn": "Organ systems",
+    "standards": [
+      "moe-kx-2022:C05.S3"
+    ],
+    "description": "知道若干器官构成系统，如循环系统、神经系统分工协作。",
+    "evidence": [
+      "列出循环系统主要器官",
+      "说明系统比器官功能更复杂"
+    ]
+  },
+  {
+    "id": "mt_science_s3_photosynthesis_factors",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "光合作用的影响因素",
+    "nameEn": "Photosynthesis factors",
+    "standards": [
+      "moe-kx-2022:C06.S3"
+    ],
+    "description": "能设计实验探究光照、二氧化碳等对光合作用的影响。",
+    "evidence": [
+      "对比有光无光条件下产生气泡",
+      "解释为何叶片多为绿色"
+    ]
+  },
+  {
+    "id": "mt_science_s3_respiration_cells",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "细胞呼吸",
+    "nameEn": "Cell respiration",
+    "standards": [
+      "moe-kx-2022:C06.S3"
+    ],
+    "description": "知道生物通过呼吸作用释放能量，与光合作用相互关联。",
+    "evidence": [
+      "解释种子萌发需氧气",
+      "比较白天与夜间气体交换"
+    ]
+  },
+  {
+    "id": "mt_science_s3_reproduction_plants",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "植物繁殖",
+    "nameEn": "Plant reproduction",
+    "standards": [
+      "moe-kx-2022:C08.S3"
+    ],
+    "description": "能描述有性繁殖与无性繁殖的方式，如种子、扦插。",
+    "evidence": [
+      "比较种子繁殖与扦插",
+      "记录扦插生根过程"
+    ]
+  },
+  {
+    "id": "mt_science_s3_genetics_traits",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "性状的遗传",
+    "nameEn": "Inherited traits",
+    "standards": [
+      "moe-kx-2022:C08.S3"
+    ],
+    "description": "知道子代与亲代相似又变异，能举例说明遗传现象。",
+    "evidence": [
+      "调查家庭成员眼皮类型",
+      "解释杂交豌豆实验结论"
+    ]
+  },
+  {
+    "id": "mt_science_s3_immune_health",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "免疫与健康",
+    "nameEn": "Immune and health",
+    "standards": [
+      "moe-kx-2022:C06.S3"
+    ],
+    "description": "了解免疫系统作用，知道疫苗、卫生习惯对预防疾病的重要性。",
+    "evidence": [
+      "列出三条个人卫生习惯",
+      "说明疫苗预防原理入门"
+    ]
+  },
+  {
+    "id": "mt_science_s3_biodiversity",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "生物多样性",
+    "nameEn": "Biodiversity",
+    "standards": [
+      "moe-kx-2022:C07.S3"
+    ],
+    "description": "知道物种多样性对生态稳定重要，能列举本地保护物种。",
+    "evidence": [
+      "统计校园植物种类",
+      "说明保护濒危动物意义"
+    ]
+  },
+  {
+    "id": "mt_science_s3_nitrogen_cycle_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "氮循环初识",
+    "nameEn": "Nitrogen cycle",
+    "standards": [
+      "moe-kx-2022:C07.S3"
+    ],
+    "description": "了解氮元素在土壤、植物、大气间转化，与肥料使用相关。",
+    "evidence": [
+      "解释豆科固氮作用",
+      "说明过量氮肥对环境的影响"
+    ]
+  },
+  {
+    "id": "mt_science_s3_human_impact_biology",
+    "type": "META",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "人类活动对生物的影响",
+    "nameEn": "Human impact on biology",
+    "standards": [
+      "moe-kx-2022:C07.S3"
+    ],
+    "description": "能分析过度捕捞、滥伐等对生态系统的影响并提出对策。",
+    "evidence": [
+      "举例一种人类破坏生态行为",
+      "提出一项保护建议"
+    ]
+  },
+  {
+    "id": "mt_science_s3_plate_tectonics_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "板块构造初识",
+    "nameEn": "Plate tectonics",
+    "standards": [
+      "moe-kx-2022:C09.S3"
+    ],
+    "description": "知道地壳由板块组成，板块运动导致地震和火山。",
+    "evidence": [
+      "在图上找环太平洋火山带",
+      "解释海陆变迁与板块关系"
+    ]
+  },
+  {
+    "id": "mt_science_s3_rock_cycle",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "岩石循环",
+    "nameEn": "Rock cycle",
+    "standards": [
+      "moe-kx-2022:C10.S3"
+    ],
+    "description": "知道岩浆岩、沉积岩、变质岩可相互转化，理解循环过程。",
+    "evidence": [
+      "排列岩石循环三箭头",
+      "说明化石多在沉积岩中"
+    ]
+  },
+  {
+    "id": "mt_science_s3_atmosphere_layers",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "大气层与天气",
+    "nameEn": "Atmosphere",
+    "standards": [
+      "moe-kx-2022:C10.S3"
+    ],
+    "description": "知道大气分层，理解对流、锋面等与天气的关系。",
+    "evidence": [
+      "解释热空气上升形成云",
+      "阅读简易天气图"
+    ]
+  },
+  {
+    "id": "mt_science_s3_climate_vs_weather",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "气候与天气",
+    "nameEn": "Climate vs weather",
+    "standards": [
+      "moe-kx-2022:C10.S3"
+    ],
+    "description": "能区分短期天气与长期气候特征，读气候图描述地区特点。",
+    "evidence": [
+      "比较两地年均降水",
+      "说明季风气候特点"
+    ]
+  },
+  {
+    "id": "mt_science_s3_ocean_currents",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "海洋与洋流",
+    "nameEn": "Ocean currents",
+    "standards": [
+      "moe-kx-2022:C10.S3"
+    ],
+    "description": "知道海洋调节气候，洋流影响沿岸温度与渔业。",
+    "evidence": [
+      "解释同纬度东西岸温度差",
+      "在地图上标出主要洋流"
+    ]
+  },
+  {
+    "id": "mt_science_s3_renewable_energy_earth",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "可再生能源",
+    "nameEn": "Renewable energy",
+    "standards": [
+      "moe-kx-2022:C11.S3"
+    ],
+    "description": "能比较太阳能、风能、水能与化石能源的优劣。",
+    "evidence": [
+      "列举两种本地可用清洁能源",
+      "说明碳排放与气候变化联系"
+    ]
+  },
+  {
+    "id": "mt_science_s3_sustainable_development",
+    "type": "META",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "可持续发展",
+    "nameEn": "Sustainable development",
+    "standards": [
+      "moe-kx-2022:C11.S3"
+    ],
+    "description": "理解经济发展与环境保护需平衡，能参与环保项目。",
+    "evidence": [
+      "设计校园节水方案",
+      "评估方案可行性"
+    ]
+  },
+  {
+    "id": "mt_science_s3_space_exploration",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "太空探索",
+    "nameEn": "Space exploration",
+    "standards": [
+      "moe-kx-2022:C09.S3"
+    ],
+    "description": "了解人类航天成就，知道卫星、空间站的基本作用。",
+    "evidence": [
+      "说出三项中国航天成就",
+      "讨论探索太空的意义"
+    ]
+  },
+  {
+    "id": "mt_science_s3_engineering_constraints",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "设计的约束条件",
+    "nameEn": "Design constraints",
+    "standards": [
+      "moe-kx-2022:C13.S3"
+    ],
+    "description": "知道设计需考虑材料、成本、时间、安全等限制并权衡取舍。",
+    "evidence": [
+      "在预算内完成指定设计",
+      "说明为何放弃某一方案"
+    ]
+  },
+  {
+    "id": "mt_science_s3_prototype_testing",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "原型测试",
+    "nameEn": "Prototype testing",
+    "standards": [
+      "moe-kx-2022:C13.S3"
+    ],
+    "description": "能制作原型并多次测试，用数据支持改进决策。",
+    "evidence": [
+      "记录三轮测试数据",
+      "根据数据修改结构"
+    ]
+  },
+  {
+    "id": "mt_science_s3_automation_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "自动化初识",
+    "nameEn": "Automation intro",
+    "standards": [
+      "moe-kx-2022:C12.S3"
+    ],
+    "description": "知道传感器、控制器可组成自动系统，举例说明应用。",
+    "evidence": [
+      "描述自动感应灯工作流程",
+      "讨论自动化带来的变化"
+    ]
+  },
+  {
+    "id": "mt_science_s3_coding_control",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "编程控制设备",
+    "nameEn": "Coding control",
+    "standards": [
+      "moe-kx-2022:C13.S3"
+    ],
+    "description": "能用简易编程控制LED、电机等完成指定动作。",
+    "evidence": [
+      "编写程序让小灯闪烁",
+      "调试程序实现转弯"
+    ]
+  },
+  {
+    "id": "mt_science_s3_failure_analysis",
+    "type": "META",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "失败分析与迭代",
+    "nameEn": "Failure analysis",
+    "standards": [
+      "moe-kx-2022:C13.S3"
+    ],
+    "description": "制作失败时能分析原因并迭代设计，不把失败视为终点。",
+    "evidence": [
+      "写出两次失败原因",
+      "说明第三次改进点"
+    ]
+  },
+  {
+    "id": "mt_science_s3_ethics_technology",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "技术的伦理思考",
+    "nameEn": "Tech ethics",
+    "standards": [
+      "moe-kx-2022:C12.S3"
+    ],
+    "description": "能讨论技术应用的利弊，如隐私、安全与便利的权衡。",
+    "evidence": [
+      "辩论一项新技术利弊",
+      "提出负责任使用建议"
+    ]
+  },
+  {
+    "id": "mt_science_s3_systems_thinking",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "系统思维",
+    "nameEn": "Systems thinking",
+    "standards": [
+      "moe-kx-2022:C12.S3"
+    ],
+    "description": "能把产品看作由多个部件组成的系统，理解部分与整体关系。",
+    "evidence": [
+      "画出简易系统框图",
+      "说明改一个部件的影响"
+    ]
+  },
+  {
+    "id": "mt_science_s3_documentation_engineering",
+    "type": "REPRESENTATIONAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "工程记录与汇报",
+    "nameEn": "Engineering documentation",
+    "standards": [
+      "moe-kx-2022:C13.S3"
+    ],
+    "description": "能规范记录设计过程、数据与结论，向他人清晰汇报。",
+    "evidence": [
+      "完成一份实验记录表",
+      "做三分钟项目汇报"
+    ]
+  },
+  {
+    "id": "mt_science_s4_particle_model",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "物质的粒子模型",
+    "nameEn": "Particle model",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "能用粒子观点解释扩散、压缩气体等现象，理解微观与宏观联系。",
+    "evidence": [
+      "解释墨水滴扩散",
+      "说明气体易被压缩原因"
+    ]
+  },
+  {
+    "id": "mt_science_s4_atomic_structure_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "原子结构初识",
+    "nameEn": "Atomic structure",
+    "standards": [
+      "moe-kx-2022:C01.S4"
+    ],
+    "description": "知道原子由原子核与电子构成，元素由原子种类决定。",
+    "evidence": [
+      "读元素周期表找几种元素",
+      "说明同位素概念入门"
+    ]
+  },
+  {
+    "id": "mt_science_s4_chemical_equations",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "化学方程式",
+    "nameEn": "Chemical equations",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能配平简单化学方程式并说明反应物与生成物关系。",
+    "evidence": [
+      "配平氢气燃烧方程式",
+      "根据方程式计算生成物质量"
+    ]
+  },
+  {
+    "id": "mt_science_s4_reaction_rates",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "化学反应速率",
+    "nameEn": "Reaction rates",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "知道温度、浓度、催化剂影响反应快慢，能设计对比实验。",
+    "evidence": [
+      "比较不同温度下反应",
+      "解释食品冷藏保鲜"
+    ]
+  },
+  {
+    "id": "mt_science_s4_newton_first_law",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "牛顿第一定律",
+    "nameEn": "Newton first law",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "理解惯性概念，能解释急刹车时人前倾等现象。",
+    "evidence": [
+      "用小车实验验证惯性",
+      "区分平衡与非平衡力"
+    ]
+  },
+  {
+    "id": "mt_science_s4_newton_second_law",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "牛顿第二定律",
+    "nameEn": "Newton second law",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "知道加速度与合外力成正比、与质量成反比，能简单计算。",
+    "evidence": [
+      "计算已知力下的加速度",
+      "解释为何大质量难加速"
+    ]
+  },
+  {
+    "id": "mt_science_s4_newton_third_law",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "牛顿第三定律",
+    "nameEn": "Newton third law",
+    "standards": [
+      "moe-kx-2022:C03.S4"
+    ],
+    "description": "理解作用力与反作用力大小相等方向相反，能举例分析。",
+    "evidence": [
+      "分析走路时脚与地面作用",
+      "找出火箭升空的反作用力"
+    ]
+  },
+  {
+    "id": "mt_science_s4_work_energy_theorem",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "功与机械能",
+    "nameEn": "Work and energy",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "知道做功改变能量，能计算简单情境下的功和功率。",
+    "evidence": [
+      "计算提物做功",
+      "分析滚摆动能势能转化"
+    ]
+  },
+  {
+    "id": "mt_science_s4_electromagnetism",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "电与磁的联系",
+    "nameEn": "Electromagnetism",
+    "standards": [
+      "moe-kx-2022:C04.S4"
+    ],
+    "description": "知道电流产生磁场，电磁感应可发电，了解发电机原理。",
+    "evidence": [
+      "观察通电螺线管吸铁",
+      "讨论可再生能源发电"
+    ]
+  },
+  {
+    "id": "mt_science_s4_cell_division",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "细胞分裂",
+    "nameEn": "Cell division",
+    "standards": [
+      "moe-kx-2022:C05.S4"
+    ],
+    "description": "了解有丝分裂与减数分裂的作用，理解生长与生殖的细胞基础。",
+    "evidence": [
+      "比较体细胞与生殖细胞染色体",
+      "说明癌症与细胞分裂失控"
+    ]
+  },
+  {
+    "id": "mt_science_s4_dna_genes",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "DNA与基因",
+    "nameEn": "DNA and genes",
+    "standards": [
+      "moe-kx-2022:C08.S4"
+    ],
+    "description": "知道DNA携带遗传信息，基因控制性状表达的基本概念。",
+    "evidence": [
+      "解释亲子相似原因",
+      "讨论基因技术伦理入门"
+    ]
+  },
+  {
+    "id": "mt_science_s4_natural_selection",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "自然选择",
+    "nameEn": "Natural selection",
+    "standards": [
+      "moe-kx-2022:C08.S4"
+    ],
+    "description": "理解适者生存机制，能用实例说明生物进化方向。",
+    "evidence": [
+      "分析某种动物保护色进化",
+      "讨论抗生素与细菌耐药"
+    ]
+  },
+  {
+    "id": "mt_science_s4_homeostasis",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "内环境稳态",
+    "nameEn": "Homeostasis",
+    "standards": [
+      "moe-kx-2022:C06.S4"
+    ],
+    "description": "知道机体通过调节维持体温、血糖等相对稳定。",
+    "evidence": [
+      "解释出汗降温机制",
+      "说明糖尿病与血糖调节"
+    ]
+  },
+  {
+    "id": "mt_science_s4_ecosystem_energy",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "生态系统能量流动",
+    "nameEn": "Ecosystem energy flow",
+    "standards": [
+      "moe-kx-2022:C07.S4"
+    ],
+    "description": "能绘制能量金字塔，理解能量逐级递减。",
+    "evidence": [
+      "计算营养级间能量传递效率",
+      "解释为何顶级消费者少"
+    ]
+  },
+  {
+    "id": "mt_science_s4_population_dynamics",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "种群与群落",
+    "nameEn": "Population dynamics",
+    "standards": [
+      "moe-kx-2022:C07.S4"
+    ],
+    "description": "了解种群数量变化因素，分析入侵物种对本地生态影响。",
+    "evidence": [
+      "读种群数量变化曲线",
+      "提出控制入侵物种思路"
+    ]
+  },
+  {
+    "id": "mt_science_s4_human_body_systems",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "人体系统整合",
+    "nameEn": "Human body systems",
+    "standards": [
+      "moe-kx-2022:C06.S4"
+    ],
+    "description": "能说明消化、循环、呼吸、神经等系统如何协同维持生命。",
+    "evidence": [
+      "描述运动时多系统配合",
+      "分析不良生活习惯危害"
+    ]
+  },
+  {
+    "id": "mt_science_s4_biotechnology_intro",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "生命科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "生物技术入门",
+    "nameEn": "Biotechnology",
+    "standards": [
+      "moe-kx-2022:C08.S4"
+    ],
+    "description": "了解发酵、转基因等技术原理与应用，讨论风险与规范。",
+    "evidence": [
+      "举例发酵食品",
+      "讨论转基因标识意义"
+    ]
+  },
+  {
+    "id": "mt_science_s4_earth_moon_sun_system",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "地月日系统",
+    "nameEn": "Earth-Moon-Sun system",
+    "standards": [
+      "moe-kx-2022:C09.S4"
+    ],
+    "description": "能解释月相、日食月食成因，理解三者相对运动关系。",
+    "evidence": [
+      "用模型演示月相变化",
+      "解释为何不是每月都日食"
+    ]
+  },
+  {
+    "id": "mt_science_s4_greenhouse_effect",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "温室效应与气候",
+    "nameEn": "Greenhouse effect",
+    "standards": [
+      "moe-kx-2022:C11.S4"
+    ],
+    "description": "知道温室气体与全球变暖关系，能分析减排与适应策略。",
+    "evidence": [
+      "读气温变化曲线",
+      "提出个人碳足迹减少措施"
+    ]
+  },
+  {
+    "id": "mt_science_s4_geological_time",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "地质年代",
+    "nameEn": "Geological time",
+    "standards": [
+      "moe-kx-2022:C10.S4"
+    ],
+    "description": "了解地球历史主要阶段，知道化石标定地质年代的方法。",
+    "evidence": [
+      "排列几个地质年代",
+      "说明恐龙灭绝可能原因"
+    ]
+  },
+  {
+    "id": "mt_science_s4_natural_hazards",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "自然灾害与防灾",
+    "nameEn": "Natural hazards",
+    "standards": [
+      "moe-kx-2022:C11.S4"
+    ],
+    "description": "能分析地震、台风、洪涝成因及防灾减灾措施。",
+    "evidence": [
+      "制定家庭应急包清单",
+      "解读预警信息含义"
+    ]
+  },
+  {
+    "id": "mt_science_s4_resource_management",
+    "type": "META",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "资源管理",
+    "nameEn": "Resource management",
+    "standards": [
+      "moe-kx-2022:C11.S4"
+    ],
+    "description": "评估水资源、耕地等利用现状，参与可持续利用讨论。",
+    "evidence": [
+      "分析本地水资源问题",
+      "提出循环利用方案"
+    ]
+  },
+  {
+    "id": "mt_science_s4_universe_scale",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "宇宙的尺度",
+    "nameEn": "Scale of universe",
+    "standards": [
+      "moe-kx-2022:C09.S4"
+    ],
+    "description": "了解银河系、星系与宇宙膨胀的基本概念，建立空间尺度感。",
+    "evidence": [
+      "比较地月距离与日地距离",
+      "讨论探索地外生命"
+    ]
+  },
+  {
+    "id": "mt_science_s4_remote_sensing",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "遥感与环境监测",
+    "nameEn": "Remote sensing",
+    "standards": [
+      "moe-kx-2022:C10.S4"
+    ],
+    "description": "知道卫星遥感可监测植被、气温等，服务环境保护。",
+    "evidence": [
+      "解读一张遥感图像",
+      "说明遥感在灾害评估中的作用"
+    ]
+  },
+  {
+    "id": "mt_science_s4_engineering_optimization",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "工程优化",
+    "nameEn": "Engineering optimization",
+    "standards": [
+      "moe-kx-2022:C13.S4"
+    ],
+    "description": "能在多目标约束下优化设计方案，用数据比较方案性能。",
+    "evidence": [
+      "优化桥梁承重重量比",
+      "撰写优化报告"
+    ]
+  },
+  {
+    "id": "mt_science_s4_systems_engineering",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "系统工程",
+    "nameEn": "Systems engineering",
+    "standards": [
+      "moe-kx-2022:C12.S4"
+    ],
+    "description": "能把复杂产品分解为子系统，分析接口与整体性能。",
+    "evidence": [
+      "画出智能设备系统图",
+      "说明子系统故障的影响"
+    ]
+  },
+  {
+    "id": "mt_science_s4_sustainable_design",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "可持续设计",
+    "nameEn": "Sustainable design",
+    "standards": [
+      "moe-kx-2022:C12.S4"
+    ],
+    "description": "设计时考虑全生命周期环境影响，选择可回收材料。",
+    "evidence": [
+      "评估产品环境足迹",
+      "改进设计减少浪费"
+    ]
+  },
+  {
+    "id": "mt_science_s4_user_centered_design",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "以用户为中心的设计",
+    "nameEn": "User-centered design",
+    "standards": [
+      "moe-kx-2022:C13.S4"
+    ],
+    "description": "通过访谈、测试收集用户需求，迭代改进产品体验。",
+    "evidence": [
+      "完成用户访谈并汇总需求",
+      "根据反馈修改原型"
+    ]
+  },
+  {
+    "id": "mt_science_s4_risk_assessment",
+    "type": "META",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "风险评估",
+    "nameEn": "Risk assessment",
+    "standards": [
+      "moe-kx-2022:C12.S4"
+    ],
+    "description": "能识别工程项目的安全与环境风险并制定控制措施。",
+    "evidence": [
+      "列出实验三类风险",
+      "制定对应防护方案"
+    ]
+  },
+  {
+    "id": "mt_science_s4_open_innovation",
+    "type": "CONCEPTUAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "开放创新与合作",
+    "nameEn": "Open innovation",
+    "standards": [
+      "moe-kx-2022:C12.S4"
+    ],
+    "description": "了解开源、标准、专利对技术传播与保护的作用。",
+    "evidence": [
+      "比较开源与闭源软件",
+      "讨论专利鼓励创新"
+    ]
+  },
+  {
+    "id": "mt_science_s4_future_technology",
+    "type": "META",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "前沿技术与职业",
+    "nameEn": "Future technology",
+    "standards": [
+      "moe-kx-2022:C12.S4"
+    ],
+    "description": "了解人工智能、新材料等趋势，探索相关职业方向。",
+    "evidence": [
+      "调研一项前沿技术",
+      "写一段职业兴趣反思"
+    ]
+  },
+  {
+    "id": "mt_science_s4_capstone_project",
+    "type": "PROCEDURAL",
+    "subject": "科学",
+    "domain": "技术与工程",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "综合工程课题",
+    "nameEn": "Capstone project",
+    "standards": [
+      "moe-kx-2022:C13.S4"
+    ],
+    "description": "能独立完成从问题定义到测试汇报的小型工程课题。",
+    "evidence": [
+      "提交完整课题报告",
+      "在答辩中回答提问"
+    ]
+  },
+  {
+    "id": "mt_science_s4_science_inquiry_method",
+    "type": "META",
+    "subject": "科学",
+    "domain": "物质科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "科学探究方法",
+    "nameEn": "Scientific inquiry",
+    "standards": [
+      "moe-kx-2022:C02.S4"
+    ],
+    "description": "能提出假设、控制变量、分析数据并得出有证据的结论。",
+    "evidence": [
+      "设计对照实验",
+      "用图表呈现数据并解释"
+    ]
+  },
+  {
+    "id": "mt_science_s4_interdisciplinary_integration",
+    "type": "META",
+    "subject": "科学",
+    "domain": "地球与宇宙科学",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "跨学科整合",
+    "nameEn": "Interdisciplinary science",
+    "standards": [
+      "moe-kx-2022:C10.S4"
+    ],
+    "description": "能把物理、化学、生物、地学知识综合用于解释复杂现象。",
+    "evidence": [
+      "分析一种环境问题成因",
+      "提出需要多学科协作的方案"
+    ]
+  }
+]

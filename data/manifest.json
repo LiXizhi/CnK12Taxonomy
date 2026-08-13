@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "generated": "2026-08-13",
+  "topicCount": 661,
+  "edgeCount": 1275,
+  "clusterCount": 93,
+  "standardCount": 182,
+  "subjects": {
+    "语文": 140,
+    "英语": 95,
+    "信息科技": 95,
+    "数学": 191,
+    "科学": 140
+  },
+  "files": {
+    "topics.json": {
+      "bytes": 546434,
+      "sha256": "e9ccffd4e0be09d7671f134c855925c65b04a58e0bd39636f02b5aa5aea30f2a"
+    },
+    "dependencies.json": {
+      "bytes": 318453,
+      "sha256": "6f655e1df1956a30d450e312c0925d5843b46c058086607cac4b56b55eca73e8"
+    },
+    "curriculum-standards.json": {
+      "bytes": 19805,
+      "sha256": "a9efce011b47886330c12f82c1f7e9856cb5111963e8a23c22d716c5e767aea0"
+    },
+    "clusters.json": {
+      "bytes": 48948,
+      "sha256": "c002391d569387932dfff9eba4d1dcb3e4ddfa48b97a2ffb312fecbe880ab436"
+    }
+  }
+}

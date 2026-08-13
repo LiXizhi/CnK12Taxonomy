@@ -1,0 +1,206 @@
+[
+  {
+    "topicId": "mt_math_s2_rectangle_area",
+    "prerequisiteId": "mt_math_s2_multiply_table",
+    "strength": "hard",
+    "reason": "长方形面积要用乘法：长×宽建立在表内乘法之上。"
+  },
+  {
+    "topicId": "mt_math_s3_percent_meaning",
+    "prerequisiteId": "mt_math_s2_fraction_meaning",
+    "strength": "hard",
+    "reason": "百分数是分母为100的分数，需先理解分数表示部分与整体。"
+  },
+  {
+    "topicId": "mt_math_s4_linear_function_graph",
+    "prerequisiteId": "mt_math_s4_coordinate_plane",
+    "strength": "hard",
+    "reason": "一次函数图像要在平面直角坐标系中描点连线。"
+  },
+  {
+    "topicId": "mt_math_s2_bar_graph_make",
+    "prerequisiteId": "mt_math_s1_pictograph_read",
+    "strength": "hard",
+    "reason": "先会读象形图，再制作更抽象的条形统计图。"
+  },
+  {
+    "topicId": "mt_math_s3_circle_circumference",
+    "prerequisiteId": "mt_math_s2_rectangle_perimeter",
+    "strength": "soft",
+    "reason": "周长观念从多边形过渡到圆。"
+  },
+  {
+    "topicId": "mt_it_s2_collect_sort_data",
+    "prerequisiteId": "mt_math_s2_data_collect_table",
+    "strength": "hard",
+    "reason": "用计算机整理数据前，应先会在数学课里收集并列表。"
+  },
+  {
+    "topicId": "mt_it_s2_data_visualization",
+    "prerequisiteId": "mt_math_s2_bar_graph_read",
+    "strength": "hard",
+    "reason": "选择柱形图或饼图展示数据，建立在读条形统计图之上。"
+  },
+  {
+    "topicId": "mt_it_s2_spreadsheet_intro",
+    "prerequisiteId": "mt_math_s2_average_calculate",
+    "strength": "soft",
+    "reason": "电子表格求和、求平均对应数学里的平均数计算。"
+  },
+  {
+    "topicId": "mt_it_s2_binary_intro",
+    "prerequisiteId": "mt_math_s1_place_value_tens_ones",
+    "strength": "soft",
+    "reason": "二进制位权与十进制数位都是位置决定大小。"
+  },
+  {
+    "topicId": "mt_it_s3_algorithm_steps",
+    "prerequisiteId": "mt_math_s3_order_of_ops_brackets",
+    "strength": "soft",
+    "reason": "算法步骤的顺序与四则运算顺序都强调「先做什么再做什么」。"
+  },
+  {
+    "topicId": "mt_it_s3_loop_structure",
+    "prerequisiteId": "mt_math_s2_multiply_table",
+    "strength": "soft",
+    "reason": "循环累加是相同运算的重复，与乘法的连加原型相通。"
+  },
+  {
+    "topicId": "mt_it_s3_flowchart_symbols",
+    "prerequisiteId": "mt_it_s3_algorithm_steps",
+    "strength": "hard",
+    "reason": "流程图是算法步骤的图形表示，需先能口头列出步骤。"
+  },
+  {
+    "topicId": "mt_it_s3_closed_loop_control",
+    "prerequisiteId": "mt_science_s2_circuit_bulb",
+    "strength": "soft",
+    "reason": "控制回路的通断建立在简单电路闭合发光的经验上。"
+  },
+  {
+    "topicId": "mt_it_s3_sensor_input",
+    "prerequisiteId": "mt_science_s2_weather_instruments",
+    "strength": "soft",
+    "reason": "传感器把环境量变成数据，与气温计、风向标的观测经验衔接。"
+  },
+  {
+    "topicId": "mt_it_s3_simulate_small_system",
+    "prerequisiteId": "mt_science_s2_engineering_design_process",
+    "strength": "soft",
+    "reason": "模拟小型系统沿用工程设计的问题—方案—测试循环。"
+  },
+  {
+    "topicId": "mt_it_s4_iot_sensors_actuators",
+    "prerequisiteId": "mt_science_s3_electrical_energy",
+    "strength": "soft",
+    "reason": "物联网设备的传感与执行依赖对电能与电路的理解。"
+  },
+  {
+    "topicId": "mt_it_s4_iot_sensors_actuators",
+    "prerequisiteId": "mt_it_s3_sensor_input",
+    "strength": "hard",
+    "reason": "先理解传感器输入，再把传感与执行器联成物联网项目。"
+  },
+  {
+    "topicId": "mt_it_s4_machine_learning_intro",
+    "prerequisiteId": "mt_math_s4_sampling",
+    "strength": "soft",
+    "reason": "监督学习需要训练集，抽样调查提供「用样本认识总体」的观念。"
+  },
+  {
+    "topicId": "mt_it_s4_data_cleaning",
+    "prerequisiteId": "mt_math_s4_sampling",
+    "strength": "soft",
+    "reason": "清洗缺失与异常值，建立在对调查数据质量的意识上。"
+  },
+  {
+    "topicId": "mt_english_s3_write_diary_entry",
+    "prerequisiteId": "mt_chinese_s1_diary_writing",
+    "strength": "soft",
+    "reason": "英文日记借用中文日记已建立的「记录一天」体裁意识。"
+  },
+  {
+    "topicId": "mt_english_s3_letter_format_basic",
+    "prerequisiteId": "mt_chinese_s1_letter_notice",
+    "strength": "soft",
+    "reason": "英文书信格式可对照中文书信与通知的称呼、正文、落款。"
+  },
+  {
+    "topicId": "mt_english_s4_essay_structure",
+    "prerequisiteId": "mt_chinese_s4_argumentative_elements",
+    "strength": "soft",
+    "reason": "英文议论文结构与中文议论文要素（论点、论据、论证）相互支撑。"
+  },
+  {
+    "topicId": "mt_science_s3_density_intro",
+    "prerequisiteId": "mt_math_s3_volume_concept",
+    "strength": "hard",
+    "reason": "密度是质量与体积的关系，需先建立体积观念。"
+  },
+  {
+    "topicId": "mt_math_s3_ratio_scale",
+    "prerequisiteId": "mt_science_s2_map_landforms",
+    "strength": "soft",
+    "reason": "比例尺把地图上的距离与实际距离对应起来。"
+  },
+  {
+    "topicId": "mt_science_s2_water_cycle",
+    "prerequisiteId": "mt_science_s1_water_three_states",
+    "strength": "hard",
+    "reason": "水循环中的蒸发凝结建立在水的三态变化之上。"
+  },
+  {
+    "topicId": "mt_science_s3_photosynthesis_factors",
+    "prerequisiteId": "mt_science_s1_light_and_shadow",
+    "strength": "soft",
+    "reason": "探究光照对光合作用的影响，需先有光与影子的观察经验。"
+  },
+  {
+    "topicId": "mt_science_s4_engineering_optimization",
+    "prerequisiteId": "mt_math_s4_linear_function",
+    "strength": "soft",
+    "reason": "用数据比较方案性能时，一次函数是常见的数量关系模型。"
+  },
+  {
+    "topicId": "mt_science_s2_circuit_bulb",
+    "prerequisiteId": "mt_it_s1_digital_device_parts",
+    "strength": "soft",
+    "reason": "点亮灯泡的回路经验，可对照数字设备输入与输出部件。"
+  },
+  {
+    "topicId": "mt_chinese_s4_practical_essays",
+    "prerequisiteId": "mt_it_s2_email_messaging_intro",
+    "strength": "soft",
+    "reason": "实用文体写作可迁移到邮件与消息的格式意识。"
+  },
+  {
+    "topicId": "mt_it_s4_connected_smart_design",
+    "prerequisiteId": "mt_science_s2_engineering_design_process",
+    "strength": "hard",
+    "reason": "互联智能设计沿用「明确问题—方案—制作—测试—改进」的工程流程。"
+  },
+  {
+    "topicId": "mt_it_s4_sorting_searching",
+    "prerequisiteId": "mt_math_s3_factors_multiples",
+    "strength": "soft",
+    "reason": "有序查找依赖数的结构；因数倍数训练了按规则整理数。"
+  },
+  {
+    "topicId": "mt_math_s4_sampling",
+    "prerequisiteId": "mt_math_s2_school_survey",
+    "strength": "hard",
+    "reason": "抽样调查把校园小调查提升为用样本推断总体。"
+  },
+  {
+    "topicId": "mt_science_s1_day_and_night",
+    "prerequisiteId": "mt_math_s1_clock_hour_half",
+    "strength": "soft",
+    "reason": "用整时半时描述一天，有助于理解昼夜交替。"
+  },
+  {
+    "topicId": "mt_it_s1_mouse_keyboard_use",
+    "prerequisiteId": "mt_chinese_s1_pinyin_initials_finals",
+    "strength": "soft",
+    "reason": "键盘输入拼音依赖声母韵母认读。"
+  }
+]

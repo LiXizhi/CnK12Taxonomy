@@ -1,0 +1,13 @@
+{
+  "name": "cn-k12-taxonomy",
+  "version": "0.1.0",
+  "description": "Open micro-topic graph of Chinese compulsory education (grades 1–9), aligned to the 2022 national curriculum standards.",
+  "private": true,
+  "type": "module",
+  "license": "(ODbL-1.0 AND CC-BY-SA-4.0)",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "prepare": "node scripts/build.mjs && node scripts/validate.mjs"
+  }
+}

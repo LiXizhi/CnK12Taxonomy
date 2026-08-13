@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "mt_english_s2_alphabet_recognition",
+    "type": "LANGUAGE",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "英文字母认读",
+    "nameEn": "Alphabet recognition",
+    "standards": [
+      "moe-yy-2022:LK.L1.语音"
+    ],
+    "description": "能按顺序认读26个英文字母，区分大小写并正确书写。",
+    "evidence": [
+      "指读字母表中的任意字母",
+      "抄写大小写字母各一行"
+    ]
+  },
+  {
+    "id": "mt_english_s2_phonics_short_vowels",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "短元音拼读",
+    "nameEn": "Short vowel phonics",
+    "standards": [
+      "moe-yy-2022:LK.L1.语音"
+    ],
+    "description": "能在CVC单词中听辨并拼读a、e、i、o、u的短元音。",
+    "evidence": [
+      "拼读cat、bed、big等词",
+      "听音选出发短元音的单词"
+    ]
+  },
+  {
+    "id": "mt_english_s2_consonant_blends",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "辅音连缀",
+    "nameEn": "Consonant blends",
+    "standards": [
+      "moe-yy-2022:LK.L1.语音"
+    ],
+    "description": "能拼读含bl、st、tr等辅音连缀的简单单词。",
+    "evidence": [
+      "拼读black、stop、tree",
+      "在词表中找出含辅音连缀的词"
+    ]
+  },
+  {
+    "id": "mt_english_s2_classroom_vocabulary",
+    "type": "LANGUAGE",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "课堂常用词汇",
+    "nameEn": "Classroom vocabulary",
+    "standards": [
+      "moe-yy-2022:LK.L1.词汇"
+    ],
+    "description": "能听懂并说出desk、book、pencil等课堂物品名称。",
+    "evidence": [
+      "指认教室里的常见物品",
+      "听指令拿出指定文具"
+    ]
+  },
+  {
+    "id": "mt_english_s2_family_words",
+    "type": "LANGUAGE",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "家庭成员词汇",
+    "nameEn": "Family words",
+    "standards": [
+      "moe-yy-2022:LK.L1.词汇"
+    ],
+    "description": "能说出father、mother、sister等家庭成员英文词并简单介绍。",
+    "evidence": [
+      "用This is my…介绍家人",
+      "看图说出对应家庭成员"
+    ]
+  },
+  {
+    "id": "mt_english_s2_be_verb_present",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "be动词现在时",
+    "nameEn": "Present tense of be",
+    "standards": [
+      "moe-yy-2022:LK.L1.语法"
+    ],
+    "description": "能用I am/You are/He is描述自己和他人的基本状态。",
+    "evidence": [
+      "用be动词造三个简单句",
+      "改正He are happy中的错误"
+    ]
+  },
+  {
+    "id": "mt_english_s2_plural_nouns_s",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "名词复数加s",
+    "nameEn": "Plural nouns with -s",
+    "standards": [
+      "moe-yy-2022:LK.L1.语法"
+    ],
+    "description": "知道多数可数名词复数加s，能在口语和书写中使用。",
+    "evidence": [
+      "把book变成复数并朗读",
+      "看图说There are three cats"
+    ]
+  },
+  {
+    "id": "mt_english_s2_greetings_introduction",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "问候与自我介绍",
+    "nameEn": "Greetings and introduction",
+    "standards": [
+      "moe-yy-2022:LS.L1"
+    ],
+    "description": "能听懂并运用Hello、Good morning及My name is…做简短自我介绍。",
+    "evidence": [
+      "与同伴互相问候并介绍姓名",
+      "向新同学做一分钟自我介绍"
+    ]
+  },
+  {
+    "id": "mt_english_s2_classroom_commands",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "听懂课堂指令",
+    "nameEn": "Classroom commands",
+    "standards": [
+      "moe-yy-2022:LS.L1"
+    ],
+    "description": "能听懂Stand up、Open your book等常见课堂指令并做出反应。",
+    "evidence": [
+      "听到指令后正确起立或坐下",
+      "根据口头指令完成取物动作"
+    ]
+  },
+  {
+    "id": "mt_english_s2_ask_answer_name",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "询问与回答姓名",
+    "nameEn": "Asking names",
+    "standards": [
+      "moe-yy-2022:LS.L1"
+    ],
+    "description": "能问What is your name?并用My name is…或I am…回答。",
+    "evidence": [
+      "向三位同学询问姓名并记录",
+      "角色扮演中正确问答姓名"
+    ]
+  },
+  {
+    "id": "mt_english_s2_describe_colors",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "描述颜色",
+    "nameEn": "Describing colors",
+    "standards": [
+      "moe-yy-2022:LS.L1"
+    ],
+    "description": "能用It is red/blue…描述物品颜色，并询问What color is it?",
+    "evidence": [
+      "说出身边五件物品的颜色",
+      "回答What color is the apple?"
+    ]
+  },
+  {
+    "id": "mt_english_s2_simple_qa_dialogue",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "简单问答对话",
+    "nameEn": "Simple Q&A dialogue",
+    "standards": [
+      "moe-yy-2022:LS.L1"
+    ],
+    "description": "能就年龄、喜好等简单问题与同伴进行两三轮问答。",
+    "evidence": [
+      "How old are you?问答流畅",
+      "就Do you like…?表达喜好"
+    ]
+  },
+  {
+    "id": "mt_english_s2_read_aloud_words",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "朗读单词",
+    "nameEn": "Reading words aloud",
+    "standards": [
+      "moe-yy-2022:RV.L1"
+    ],
+    "description": "能看着单词表或课文准确朗读学过的词汇。",
+    "evidence": [
+      "流利朗读一页单词表",
+      "纠正同伴读错的单词"
+    ]
+  },
+  {
+    "id": "mt_english_s2_picture_sentence_reading",
+    "type": "REPRESENTATIONAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "看图读短句",
+    "nameEn": "Picture sentence reading",
+    "standards": [
+      "moe-yy-2022:RV.L1"
+    ],
+    "description": "能借助图片读懂This is a…等一到两句英文。",
+    "evidence": [
+      "看图读出对应英文句子",
+      "选出与图片匹配的句子"
+    ]
+  },
+  {
+    "id": "mt_english_s2_sight_words",
+    "type": "LANGUAGE",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "高频词认读",
+    "nameEn": "Sight word reading",
+    "standards": [
+      "moe-yy-2022:RV.L1"
+    ],
+    "description": "能认读the、and、is等高频词并在短句中理解其意义。",
+    "evidence": [
+      "快速认读一组高频词卡片",
+      "在短句中指出the和and"
+    ]
+  },
+  {
+    "id": "mt_english_s2_read_labels_signs",
+    "type": "REPRESENTATIONAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "读标签与标识",
+    "nameEn": "Reading labels",
+    "standards": [
+      "moe-yy-2022:RV.L1"
+    ],
+    "description": "能读懂课本和教室中简单的英文标签与标识。",
+    "evidence": [
+      "读出图书角英文标签",
+      "解释EXIT标识的含义"
+    ]
+  },
+  {
+    "id": "mt_english_s2_follow_written_steps",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "看懂简单步骤",
+    "nameEn": "Following written steps",
+    "standards": [
+      "moe-yy-2022:RV.L1"
+    ],
+    "description": "能按一到两步英文书面指令完成涂色或连线等活动。",
+    "evidence": [
+      "按Color the apple red完成涂色",
+      "按Draw a line连接配对项"
+    ]
+  },
+  {
+    "id": "mt_english_s2_copy_words_sentences",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "抄写单词与句子",
+    "nameEn": "Copying words",
+    "standards": [
+      "moe-yy-2022:WR.L1"
+    ],
+    "description": "能工整抄写单词和简单句，注意字母占格与间距。",
+    "evidence": [
+      "抄写五个单词无漏字母",
+      "抄写一句Hello, I am Tom."
+    ]
+  },
+  {
+    "id": "mt_english_s2_write_own_name",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "书写英文姓名",
+    "nameEn": "Writing your name",
+    "standards": [
+      "moe-yy-2022:WR.L1"
+    ],
+    "description": "能正确书写自己的英文名或拼音名，首字母大写。",
+    "evidence": [
+      "独立写出英文姓名",
+      "检查同学姓名首字母是否大写"
+    ]
+  },
+  {
+    "id": "mt_english_s2_fill_word_blanks",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "选词填空",
+    "nameEn": "Word gap fill",
+    "standards": [
+      "moe-yy-2022:WR.L1"
+    ],
+    "description": "能在句子空格处填入合适的单词完成意义。",
+    "evidence": [
+      "从词库选词完成I am a ___",
+      "检查填空后句子是否通顺"
+    ]
+  },
+  {
+    "id": "mt_english_s2_write_simple_sentences",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "写简单句",
+    "nameEn": "Simple sentences",
+    "standards": [
+      "moe-yy-2022:WR.L1"
+    ],
+    "description": "能写出This is my bag.等主谓结构完整的简单句。",
+    "evidence": [
+      "写两句描述自己的物品",
+      "检查句子首字母和句号"
+    ]
+  },
+  {
+    "id": "mt_english_s2_capital_punctuation",
+    "type": "REPRESENTATIONAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "句首大写与标点",
+    "nameEn": "Capitals and punctuation",
+    "standards": [
+      "moe-yy-2022:WR.L1"
+    ],
+    "description": "知道英文句首大写、句末用句号，能在书写中基本做到。",
+    "evidence": [
+      "改正句首未大写的句子",
+      "给缺少句号的句子补上标点"
+    ]
+  },
+  {
+    "id": "mt_english_s2_english_names_culture",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "英文名与称呼",
+    "nameEn": "English names",
+    "standards": [
+      "moe-yy-2022:CU.L1"
+    ],
+    "description": "了解英语国家常见名字和Mr/Miss等称呼，能礼貌称呼他人。",
+    "evidence": [
+      "说出三个常见英文名",
+      "用Mr/Miss称呼老师"
+    ]
+  },
+  {
+    "id": "mt_english_s2_classroom_politeness",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "课堂礼貌用语",
+    "nameEn": "Classroom politeness",
+    "standards": [
+      "moe-yy-2022:CU.L1"
+    ],
+    "description": "能使用Please、Thank you、Sorry等礼貌用语参与课堂交流。",
+    "evidence": [
+      "请求借用物品时使用Please",
+      "收到帮助时说Thank you"
+    ]
+  },
+  {
+    "id": "mt_english_s2_festival_spring_festival",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "春节英语表达",
+    "nameEn": "Spring Festival in English",
+    "standards": [
+      "moe-yy-2022:CU.L1"
+    ],
+    "description": "能用简单英语介绍春节及红包、团圆等文化元素。",
+    "evidence": [
+      "用两句英语介绍春节",
+      "说出Happy New Year的使用场合"
+    ]
+  },
+  {
+    "id": "mt_english_s2_food_culture_words",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "中西饮食词汇",
+    "nameEn": "Food culture words",
+    "standards": [
+      "moe-yy-2022:CU.L1"
+    ],
+    "description": "能说出rice、dumpling、hamburger等词并了解部分中西饮食差异。",
+    "evidence": [
+      "区分中式和西式食物名称",
+      "用I like…表达饮食偏好"
+    ]
+  },
+  {
+    "id": "mt_english_s2_listen_and_repeat",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "听音跟读",
+    "nameEn": "Listen and repeat",
+    "standards": [
+      "moe-yy-2022:ST.L1"
+    ],
+    "description": "能模仿录音或教师发音跟读单词和短句，注意语调。",
+    "evidence": [
+      "跟读课文录音三遍",
+      "对比自己的读音与示范"
+    ]
+  },
+  {
+    "id": "mt_english_s2_use_pictures_guess",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "借助图片理解",
+    "nameEn": "Using pictures",
+    "standards": [
+      "moe-yy-2022:ST.L1"
+    ],
+    "description": "遇到生词时能借助插图或情境猜测大意。",
+    "evidence": [
+      "看图猜出新单词意思",
+      "说明图片如何帮助理解"
+    ]
+  },
+  {
+    "id": "mt_english_s2_word_card_review",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "单词卡复习",
+    "nameEn": "Word card review",
+    "standards": [
+      "moe-yy-2022:ST.L1"
+    ],
+    "description": "会用单词卡自主复习，能认读卡面英文并说中文义。",
+    "evidence": [
+      "用单词卡自测十个词",
+      "把易错词单独标记复习"
+    ]
+  },
+  {
+    "id": "mt_english_s2_partner_practice",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "同伴结对练习",
+    "nameEn": "Partner practice",
+    "standards": [
+      "moe-yy-2022:ST.L1"
+    ],
+    "description": "能与同伴结对练对话、互查朗读，主动纠正发音。",
+    "evidence": [
+      "与同伴完成一组对话练习",
+      "互相检查抄写作业"
+    ]
+  },
+  {
+    "id": "mt_english_s3_phonics_long_vowels",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "长元音拼读",
+    "nameEn": "Long vowel phonics",
+    "standards": [
+      "moe-yy-2022:LK.L2.语音"
+    ],
+    "description": "能拼读含长元音字母组合的单词，如cake、bike、home。",
+    "evidence": [
+      "拼读含magic e的单词",
+      "区分短音cat与长音cake"
+    ]
+  },
+  {
+    "id": "mt_english_s3_word_families",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "词族与词缀",
+    "nameEn": "Word families",
+    "standards": [
+      "moe-yy-2022:LK.L2.词汇"
+    ],
+    "description": "能通过词根或常见后缀理解play-player等词族关系。",
+    "evidence": [
+      "说出play和player的联系",
+      "用-unhappy推测词义"
+    ]
+  },
+  {
+    "id": "mt_english_s3_present_simple_habits",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "一般现在时",
+    "nameEn": "Present simple",
+    "standards": [
+      "moe-yy-2022:LK.L2.语法"
+    ],
+    "description": "能用一般现在时描述日常习惯和事实，注意第三人称单数。",
+    "evidence": [
+      "用He plays…描述他人习惯",
+      "改正She go to school"
+    ]
+  },
+  {
+    "id": "mt_english_s3_past_simple_regular",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "一般过去时规则变化",
+    "nameEn": "Regular past tense",
+    "standards": [
+      "moe-yy-2022:LK.L2.语法"
+    ],
+    "description": "能在规则动词后加-ed表达过去发生的动作。",
+    "evidence": [
+      "用visited描述昨天活动",
+      "写出三个规则动词过去式"
+    ]
+  },
+  {
+    "id": "mt_english_s3_comparative_adjectives",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "形容词比较级",
+    "nameEn": "Comparatives",
+    "standards": [
+      "moe-yy-2022:LK.L2.语法"
+    ],
+    "description": "能用bigger、taller等比较级比较两个事物。",
+    "evidence": [
+      "比较两个水果的大小",
+      "用than连接比较句"
+    ]
+  },
+  {
+    "id": "mt_english_s3_superlative_adjectives",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "形容词最高级",
+    "nameEn": "Superlatives",
+    "standards": [
+      "moe-yy-2022:LK.L2.语法"
+    ],
+    "description": "能用biggest、most interesting等最高级在范围内比较多个事物。",
+    "evidence": [
+      "在三人中说出谁最高",
+      "写出interesting的最高级"
+    ]
+  },
+  {
+    "id": "mt_english_s3_prepositions_place",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "方位介词",
+    "nameEn": "Prepositions of place",
+    "standards": [
+      "moe-yy-2022:LK.L2.语法"
+    ],
+    "description": "能用in、on、under、behind等描述物品位置。",
+    "evidence": [
+      "描述书在课桌里还是上",
+      "根据介词摆放物品"
+    ]
+  },
+  {
+    "id": "mt_english_s3_daily_routine_talk",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "谈论日常作息",
+    "nameEn": "Daily routine talk",
+    "standards": [
+      "moe-yy-2022:LS.L2"
+    ],
+    "description": "能口头描述一天的主要活动，使用一般现在时。",
+    "evidence": [
+      "介绍自己早上起床到睡觉",
+      "回答When do you…?"
+    ]
+  },
+  {
+    "id": "mt_english_s3_ask_give_directions",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "问路与指路",
+    "nameEn": "Asking directions",
+    "standards": [
+      "moe-yy-2022:LS.L2"
+    ],
+    "description": "能听懂并说出Go straight、Turn left等简单指路表达。",
+    "evidence": [
+      "角色扮演问去图书馆的路",
+      "根据地图口头指路"
+    ]
+  },
+  {
+    "id": "mt_english_s3_describe_appearance",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "描述外貌",
+    "nameEn": "Describing appearance",
+    "standards": [
+      "moe-yy-2022:LS.L2"
+    ],
+    "description": "能用He is tall/She has long hair等描述人物外貌。",
+    "evidence": [
+      "描述一位同学的外貌",
+      "听描述找出对应人物"
+    ]
+  },
+  {
+    "id": "mt_english_s3_retell_short_story",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "复述短故事",
+    "nameEn": "Retelling stories",
+    "standards": [
+      "moe-yy-2022:LS.L2"
+    ],
+    "description": "能根据图片或关键词复述三到五句的短故事大意。",
+    "evidence": [
+      "看图复述故事开头和结尾",
+      "使用first、then连接"
+    ]
+  },
+  {
+    "id": "mt_english_s3_group_discussion",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "小组讨论",
+    "nameEn": "Group discussion",
+    "standards": [
+      "moe-yy-2022:LS.L2"
+    ],
+    "description": "能在小组中就熟悉话题发表意见并回应他人。",
+    "evidence": [
+      "在讨论中至少发言两次",
+      "用I agree/I think回应"
+    ]
+  },
+  {
+    "id": "mt_english_s3_read_short_paragraph",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "阅读短段落",
+    "nameEn": "Reading paragraphs",
+    "standards": [
+      "moe-yy-2022:RV.L2"
+    ],
+    "description": "能朗读并理解五到八句的连贯段落。",
+    "evidence": [
+      "朗读一段关于爱好的短文",
+      "回答段落中的细节问题"
+    ]
+  },
+  {
+    "id": "mt_english_s3_skimming_main_idea",
+    "type": "META",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "略读抓主旨",
+    "nameEn": "Skimming for main idea",
+    "standards": [
+      "moe-yy-2022:RV.L2"
+    ],
+    "description": "能快速浏览短文并说出段落主要讲什么。",
+    "evidence": [
+      "限时30秒说出短文主题",
+      "排除与主旨无关的选项"
+    ]
+  },
+  {
+    "id": "mt_english_s3_dictionary_lookup",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "查英语词典",
+    "nameEn": "Using a dictionary",
+    "standards": [
+      "moe-yy-2022:RV.L2"
+    ],
+    "description": "能按字母顺序在词典中查找单词并读懂简单释义。",
+    "evidence": [
+      "查三个生词的音标和释义",
+      "说明词条中词性标记"
+    ]
+  },
+  {
+    "id": "mt_english_s3_read_dialogue_text",
+    "type": "REPRESENTATIONAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "阅读对话文本",
+    "nameEn": "Reading dialogues",
+    "standards": [
+      "moe-yy-2022:RV.L2"
+    ],
+    "description": "能读懂购物、问路等情境对话并把握说话者意图。",
+    "evidence": [
+      "读出对话并分角色",
+      "回答对话发生的地点"
+    ]
+  },
+  {
+    "id": "mt_english_s3_read_infographic",
+    "type": "REPRESENTATIONAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "读图表信息",
+    "nameEn": "Reading infographics",
+    "standards": [
+      "moe-yy-2022:RV.L2"
+    ],
+    "description": "能从简单图表或信息图中读取数字和标签信息。",
+    "evidence": [
+      "从柱状图读出最多的一项",
+      "用英语说出图表标题"
+    ]
+  },
+  {
+    "id": "mt_english_s3_write_paragraph_hobby",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "写爱好段落",
+    "nameEn": "Writing about hobbies",
+    "standards": [
+      "moe-yy-2022:WR.L2"
+    ],
+    "description": "能写四到六句介绍自己爱好的小段落。",
+    "evidence": [
+      "写出含主题句的爱好段",
+      "使用because说明原因"
+    ]
+  },
+  {
+    "id": "mt_english_s3_write_postcard",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "写明信片",
+    "nameEn": "Writing a postcard",
+    "standards": [
+      "moe-yy-2022:WR.L2"
+    ],
+    "description": "能按明信片格式写简短问候和行程描述。",
+    "evidence": [
+      "完成一张旅游明信片",
+      "包含称呼和落款"
+    ]
+  },
+  {
+    "id": "mt_english_s3_write_diary_entry",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "写英语日记",
+    "nameEn": "Diary writing",
+    "standards": [
+      "moe-yy-2022:WR.L2"
+    ],
+    "description": "能用过去时写三到五句记录一天中有趣的事。",
+    "evidence": [
+      "用Yesterday I…开头写日记",
+      "检查过去式拼写"
+    ]
+  },
+  {
+    "id": "mt_english_s3_letter_format_basic",
+    "type": "REPRESENTATIONAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "书信基本格式",
+    "nameEn": "Letter format",
+    "standards": [
+      "moe-yy-2022:WR.L2"
+    ],
+    "description": "了解英文书信称呼、正文和结尾的基本格式。",
+    "evidence": [
+      "按格式写一封邀请信",
+      "标出信件的三个部分"
+    ]
+  },
+  {
+    "id": "mt_english_s3_edit_spelling_grammar",
+    "type": "META",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "修改拼写与语法",
+    "nameEn": "Editing writing",
+    "standards": [
+      "moe-yy-2022:WR.L2"
+    ],
+    "description": "能发现同伴习作中的明显拼写和语法错误并改正。",
+    "evidence": [
+      "找出一段文字中的三处错误",
+      "说明每处修改理由"
+    ]
+  },
+  {
+    "id": "mt_english_s3_western_festivals",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "西方节日",
+    "nameEn": "Western festivals",
+    "standards": [
+      "moe-yy-2022:CU.L2"
+    ],
+    "description": "了解Christmas、Halloween等节日及常见英语表达。",
+    "evidence": [
+      "说出两个西方节日及活动",
+      "比较中西节日习俗"
+    ]
+  },
+  {
+    "id": "mt_english_s3_sports_culture",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "运动文化",
+    "nameEn": "Sports culture",
+    "standards": [
+      "moe-yy-2022:CU.L2"
+    ],
+    "description": "能谈论足球、篮球等运动并用英语表达观赛和参与体验。",
+    "evidence": [
+      "用英语介绍一项喜欢的运动",
+      "了解一项运动的起源国家"
+    ]
+  },
+  {
+    "id": "mt_english_s3_travel_english",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "旅行英语",
+    "nameEn": "Travel English",
+    "standards": [
+      "moe-yy-2022:CU.L2"
+    ],
+    "description": "能使用机场、酒店等场景中的常见英语表达。",
+    "evidence": [
+      "模拟办理登机手续对话",
+      "说出三件旅行必备物品英文"
+    ]
+  },
+  {
+    "id": "mt_english_s3_email_etiquette",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "邮件礼仪",
+    "nameEn": "Email etiquette",
+    "standards": [
+      "moe-yy-2022:CU.L2"
+    ],
+    "description": "了解英文邮件开头问候和结尾礼貌用语的基本规范。",
+    "evidence": [
+      "写一封简短的感谢邮件",
+      "区分正式与非正式称呼"
+    ]
+  },
+  {
+    "id": "mt_english_s3_vocabulary_notebook",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "词汇积累本",
+    "nameEn": "Vocabulary notebook",
+    "standards": [
+      "moe-yy-2022:ST.L2"
+    ],
+    "description": "能按主题整理新词并标注例句，定期复习。",
+    "evidence": [
+      "为本单元词汇建一页积累",
+      "用新词各造一个例句"
+    ]
+  },
+  {
+    "id": "mt_english_s3_reading_strategies_preview",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "阅读预习策略",
+    "nameEn": "Reading preview",
+    "standards": [
+      "moe-yy-2022:ST.L2"
+    ],
+    "description": "阅读前先浏览标题和图片，提出一到两个预测性问题。",
+    "evidence": [
+      "读前写出两个预测问题",
+      "读后再核对预测"
+    ]
+  },
+  {
+    "id": "mt_english_s3_self_assessment_checklist",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "自评清单",
+    "nameEn": "Self-assessment",
+    "standards": [
+      "moe-yy-2022:ST.L2"
+    ],
+    "description": "能对照学习目标清单自评听说读写掌握情况。",
+    "evidence": [
+      "完成单元自评表",
+      "说出一项需加强的技能"
+    ]
+  },
+  {
+    "id": "mt_english_s3_note_taking_while_listening",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "听记关键词",
+    "nameEn": "Listening notes",
+    "standards": [
+      "moe-yy-2022:ST.L2"
+    ],
+    "description": "听短文时能记录人名、数字等关键信息。",
+    "evidence": [
+      "听录音记录三个数字",
+      "用关键词复述听力大意"
+    ]
+  },
+  {
+    "id": "mt_english_s3_preview_review_cycle",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "预习与复习",
+    "nameEn": "Preview and review",
+    "standards": [
+      "moe-yy-2022:ST.L2"
+    ],
+    "description": "养成课前预习生词、课后复习课文的习惯。",
+    "evidence": [
+      "预习标注三个生词",
+      "课后复述课文要点"
+    ]
+  },
+  {
+    "id": "mt_english_s4_word_stress_patterns",
+    "type": "LANGUAGE",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "单词重音",
+    "nameEn": "Word stress",
+    "standards": [
+      "moe-yy-2022:LK.L3.语音"
+    ],
+    "description": "能在多音节词中识别并读出主要重音位置。",
+    "evidence": [
+      "标出comfortable的重音",
+      "纠正重音读错的单词"
+    ]
+  },
+  {
+    "id": "mt_english_s4_sentence_stress_intonation",
+    "type": "LANGUAGE",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "句重音与语调",
+    "nameEn": "Sentence stress",
+    "standards": [
+      "moe-yy-2022:LK.L3.语音"
+    ],
+    "description": "能运用一般疑问句升调和特殊疑问句降调，突出句中关键词。",
+    "evidence": [
+      "用升调朗读一般疑问句",
+      "在句中重读信息词"
+    ]
+  },
+  {
+    "id": "mt_english_s4_tense_consolidation",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "时态综合",
+    "nameEn": "Tense consolidation",
+    "standards": [
+      "moe-yy-2022:LK.L3.语法"
+    ],
+    "description": "能在语篇中正确使用一般现在、过去、将来及现在进行时。",
+    "evidence": [
+      "在一篇短文中填空时态",
+      "说明选用某时态的理由"
+    ]
+  },
+  {
+    "id": "mt_english_s4_passive_voice_intro",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "被动语态入门",
+    "nameEn": "Passive voice intro",
+    "standards": [
+      "moe-yy-2022:LK.L3.语法"
+    ],
+    "description": "能理解并运用一般现在时和一般过去时的被动语态基本结构。",
+    "evidence": [
+      "把主动句改为被动句",
+      "在新闻标题中识别被动"
+    ]
+  },
+  {
+    "id": "mt_english_s4_relative_clauses",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "定语从句",
+    "nameEn": "Relative clauses",
+    "standards": [
+      "moe-yy-2022:LK.L3.语法"
+    ],
+    "description": "能用who、which、that引导的定语从句修饰名词。",
+    "evidence": [
+      "合并两个句子为含定语从句",
+      "区分限定与非限定用法入门"
+    ]
+  },
+  {
+    "id": "mt_english_s4_conditional_sentences",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "条件状语从句",
+    "nameEn": "Conditional clauses",
+    "standards": [
+      "moe-yy-2022:LK.L3.语法"
+    ],
+    "description": "能使用if引导的真实条件句表达假设与结果。",
+    "evidence": [
+      "用If it rains…造句",
+      "区分主将从现的用法"
+    ]
+  },
+  {
+    "id": "mt_english_s4_modal_verbs",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "情态动词",
+    "nameEn": "Modal verbs",
+    "standards": [
+      "moe-yy-2022:LK.L3.语法"
+    ],
+    "description": "能正确使用can、should、must等情态动词表达能力、建议和义务。",
+    "evidence": [
+      "用should给出建议",
+      "区分must与have to语气"
+    ]
+  },
+  {
+    "id": "mt_english_s4_discourse_cohesion",
+    "type": "REPRESENTATIONAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "语篇衔接",
+    "nameEn": "Discourse cohesion",
+    "standards": [
+      "moe-yy-2022:LK.L3.语篇"
+    ],
+    "description": "能识别however、therefore等连接词在语篇中的衔接作用。",
+    "evidence": [
+      "找出段落中的连接词",
+      "选用合适连接词合并句子"
+    ]
+  },
+  {
+    "id": "mt_english_s4_text_types_features",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "语音词汇语法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "常见语篇类型",
+    "nameEn": "Text types",
+    "standards": [
+      "moe-yy-2022:LK.L3.语篇"
+    ],
+    "description": "能区分记叙、说明、议论等语篇类型的基本特征。",
+    "evidence": [
+      "判断一篇短文属于何种类型",
+      "列出说明文常见结构"
+    ]
+  },
+  {
+    "id": "mt_english_s4_listen_news_brief",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "听新闻简报",
+    "nameEn": "Listening to news",
+    "standards": [
+      "moe-yy-2022:LS.L3"
+    ],
+    "description": "能听懂英语新闻或校园广播中的主要信息。",
+    "evidence": [
+      "记录新闻中的时间地点",
+      "概括一分钟新闻大意"
+    ]
+  },
+  {
+    "id": "mt_english_s4_oral_presentation",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "口头报告",
+    "nameEn": "Oral presentation",
+    "standards": [
+      "moe-yy-2022:LS.L3"
+    ],
+    "description": "能就熟悉话题做一到两分钟的英文口头报告。",
+    "evidence": [
+      "完成有开头结尾的口头报告",
+      "回答听众一个问题"
+    ]
+  },
+  {
+    "id": "mt_english_s4_debate_basics",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "辩论基础",
+    "nameEn": "Debate basics",
+    "standards": [
+      "moe-yy-2022:LS.L3"
+    ],
+    "description": "能在辩论中陈述观点并用Firstly、However组织论述。",
+    "evidence": [
+      "就校园话题陈述立场",
+      "回应对方论点"
+    ]
+  },
+  {
+    "id": "mt_english_s4_interview_skills",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "采访技巧",
+    "nameEn": "Interview skills",
+    "standards": [
+      "moe-yy-2022:LS.L3"
+    ],
+    "description": "能设计问题并采访同学，记录回答要点。",
+    "evidence": [
+      "完成一次双人英文采访",
+      "提出至少三个开放性问题"
+    ]
+  },
+  {
+    "id": "mt_english_s4_listen_lecture_notes",
+    "type": "META",
+    "subject": "英语",
+    "domain": "听与说",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "听讲座记笔记",
+    "nameEn": "Lecture note-taking",
+    "standards": [
+      "moe-yy-2022:LS.L3"
+    ],
+    "description": "听较长讲话时能分层记录要点和细节。",
+    "evidence": [
+      "用提纲记录讲座结构",
+      "根据笔记复述三个要点"
+    ]
+  },
+  {
+    "id": "mt_english_s4_read_narrative_text",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "阅读记叙文",
+    "nameEn": "Reading narratives",
+    "standards": [
+      "moe-yy-2022:RV.L3"
+    ],
+    "description": "能读懂记叙文并梳理人物、情节和主题。",
+    "evidence": [
+      "画出故事发展曲线",
+      "回答关于人物动机的问题"
+    ]
+  },
+  {
+    "id": "mt_english_s4_read_expository_text",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "阅读说明文",
+    "nameEn": "Reading expository texts",
+    "standards": [
+      "moe-yy-2022:RV.L3"
+    ],
+    "description": "能读懂说明文并提取中心论点和支撑细节。",
+    "evidence": [
+      "找出说明文的主题句",
+      "列出三个支撑细节"
+    ]
+  },
+  {
+    "id": "mt_english_s4_inference_reading",
+    "type": "META",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "推理阅读",
+    "nameEn": "Reading inference",
+    "standards": [
+      "moe-yy-2022:RV.L3"
+    ],
+    "description": "能根据上下文和线索推断词义和隐含信息。",
+    "evidence": [
+      "推断生词在句中的含义",
+      "说明推断依据"
+    ]
+  },
+  {
+    "id": "mt_english_s4_read_poetry_basic",
+    "type": "REPRESENTATIONAL",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "阅读简易诗歌",
+    "nameEn": "Reading poetry",
+    "standards": [
+      "moe-yy-2022:RV.L3"
+    ],
+    "description": "能朗读英文短诗并感受节奏和意象的基本特点。",
+    "evidence": [
+      "朗读一首短诗注意节奏",
+      "说出诗中一个意象"
+    ]
+  },
+  {
+    "id": "mt_english_s4_critical_reading_intro",
+    "type": "META",
+    "subject": "英语",
+    "domain": "读与看",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "批判性阅读入门",
+    "nameEn": "Critical reading",
+    "standards": [
+      "moe-yy-2022:RV.L3"
+    ],
+    "description": "能对短文观点提出疑问并区分事实与观点。",
+    "evidence": [
+      "找出一处作者观点",
+      "提出一个不同看法"
+    ]
+  },
+  {
+    "id": "mt_english_s4_essay_structure",
+    "type": "REPRESENTATIONAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "议论文结构",
+    "nameEn": "Essay structure",
+    "standards": [
+      "moe-yy-2022:WR.L3"
+    ],
+    "description": "了解英文议论文引言、主体段和结论的基本结构。",
+    "evidence": [
+      "为一篇作文列三段提纲",
+      "写出含主题句的主体段"
+    ]
+  },
+  {
+    "id": "mt_english_s4_argumentative_writing",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "议论文写作",
+    "nameEn": "Argumentative writing",
+    "standards": [
+      "moe-yy-2022:WR.L3"
+    ],
+    "description": "能就熟悉话题写一百词左右的议论文并给出理由。",
+    "evidence": [
+      "完成一篇含正反观点的作文",
+      "使用连接词组织论证"
+    ]
+  },
+  {
+    "id": "mt_english_s4_report_writing",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "报告写作",
+    "nameEn": "Report writing",
+    "standards": [
+      "moe-yy-2022:WR.L3"
+    ],
+    "description": "能根据调查结果写简短英文报告，含数据描述。",
+    "evidence": [
+      "写一份班级调查小报告",
+      "用数字描述调查结果"
+    ]
+  },
+  {
+    "id": "mt_english_s4_summary_writing",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "概要写作",
+    "nameEn": "Summary writing",
+    "standards": [
+      "moe-yy-2022:WR.L3"
+    ],
+    "description": "能用自己语言概括短文大意，避免逐句翻译。",
+    "evidence": [
+      "将一段文字压缩为三句",
+      "检查是否遗漏关键信息"
+    ]
+  },
+  {
+    "id": "mt_english_s4_formal_email_letter",
+    "type": "PROCEDURAL",
+    "subject": "英语",
+    "domain": "写",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "正式邮件与信函",
+    "nameEn": "Formal email",
+    "standards": [
+      "moe-yy-2022:WR.L3"
+    ],
+    "description": "能撰写格式规范的正式邮件或申请信。",
+    "evidence": [
+      "写一封活动申请邮件",
+      "使用恰当的开头和结尾"
+    ]
+  },
+  {
+    "id": "mt_english_s4_global_citizenship",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "全球公民意识",
+    "nameEn": "Global citizenship",
+    "standards": [
+      "moe-yy-2022:CU.L3"
+    ],
+    "description": "能讨论环境保护、公益等全球性议题的英语表达。",
+    "evidence": [
+      "用英语表达节约用水观点",
+      "了解一项国际环保行动"
+    ]
+  },
+  {
+    "id": "mt_english_s4_cross_cultural_communication",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "跨文化交际",
+    "nameEn": "Cross-cultural communication",
+    "standards": [
+      "moe-yy-2022:CU.L3"
+    ],
+    "description": "了解不同文化在问候、送礼等方面的差异，避免误解。",
+    "evidence": [
+      "比较两种文化的餐桌礼仪",
+      "举例说明文化误解"
+    ]
+  },
+  {
+    "id": "mt_english_s4_media_literacy_english",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "英语媒体素养",
+    "nameEn": "Media literacy",
+    "standards": [
+      "moe-yy-2022:CU.L3"
+    ],
+    "description": "能初步辨别英文网络信息来源并警惕谣言。",
+    "evidence": [
+      "判断一条英文信息是否可信",
+      "说明验证信息的方法"
+    ]
+  },
+  {
+    "id": "mt_english_s4_idioms_expressions",
+    "type": "LANGUAGE",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "习语与惯用语",
+    "nameEn": "Idioms",
+    "standards": [
+      "moe-yy-2022:CU.L3"
+    ],
+    "description": "能理解并适当使用break the ice等常见习语。",
+    "evidence": [
+      "猜测习语字面与引申义",
+      "在对话中正确使用一个习语"
+    ]
+  },
+  {
+    "id": "mt_english_s4_literature_appreciation",
+    "type": "CONCEPTUAL",
+    "subject": "英语",
+    "domain": "文化与语用",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "文学作品欣赏",
+    "nameEn": "Literature appreciation",
+    "standards": [
+      "moe-yy-2022:CU.L3"
+    ],
+    "description": "能阅读简写版英文名著片段并讨论人物与主题。",
+    "evidence": [
+      "描述一位文学人物性格",
+      "说出故事给你的启示"
+    ]
+  },
+  {
+    "id": "mt_english_s4_autonomous_learning",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "自主英语学习",
+    "nameEn": "Autonomous learning",
+    "standards": [
+      "moe-yy-2022:ST.L3"
+    ],
+    "description": "能制定个人英语学习计划并选择合适资源。",
+    "evidence": [
+      "列出本周自主学习任务",
+      "评价一种学习资源的效果"
+    ]
+  },
+  {
+    "id": "mt_english_s4_error_analysis",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "错题分析",
+    "nameEn": "Error analysis",
+    "standards": [
+      "moe-yy-2022:ST.L3"
+    ],
+    "description": "能分析自己常犯的语言错误类型并针对性练习。",
+    "evidence": [
+      "归类五次语法错误",
+      "制定一项改进措施"
+    ]
+  },
+  {
+    "id": "mt_english_s4_learning_portfolio",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "学习档案袋",
+    "nameEn": "Learning portfolio",
+    "standards": [
+      "moe-yy-2022:ST.L3"
+    ],
+    "description": "能整理代表性作业和反思，展示学习进步。",
+    "evidence": [
+      "选取三份作品入档案",
+      "写一段学习反思"
+    ]
+  },
+  {
+    "id": "mt_english_s4_exam_strategies",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "考试策略",
+    "nameEn": "Exam strategies",
+    "standards": [
+      "moe-yy-2022:ST.L3"
+    ],
+    "description": "掌握听力预览、阅读先看题等应试技巧并合理分配时间。",
+    "evidence": [
+      "模拟考试规划答题顺序",
+      "说明一项时间管理策略"
+    ]
+  },
+  {
+    "id": "mt_english_s4_collaborative_learning",
+    "type": "META",
+    "subject": "英语",
+    "domain": "学习策略",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "合作学习与互评",
+    "nameEn": "Collaborative learning",
+    "standards": [
+      "moe-yy-2022:ST.L3"
+    ],
+    "description": "能在小组中分工完成项目并互评同伴表现。",
+    "evidence": [
+      "完成小组英文海报项目",
+      "按量规给同伴反馈"
+    ]
+  }
+]

@@ -1,0 +1,1807 @@
+[
+  {
+    "id": "mt_it_s1_digital_device_parts",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "认识数字设备部件",
+    "nameEn": "Digital device parts",
+    "standards": [
+      "moe-xxkj-2022:X1.S1.数字设备体验",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能指认计算机、平板的主要部件如屏幕、键盘、主机。",
+    "evidence": [
+      "指出教室电脑的主要部件",
+      "说明输入与输出设备区别"
+    ]
+  },
+  {
+    "id": "mt_it_s1_mouse_keyboard_use",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "鼠标与键盘操作",
+    "nameEn": "Mouse and keyboard",
+    "standards": [
+      "moe-xxkj-2022:X1.S1.数字设备体验",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能正确使用鼠标点击、拖拽和键盘输入简单文字。",
+    "evidence": [
+      "打开指定程序并关闭",
+      "输入姓名并保存文本"
+    ]
+  },
+  {
+    "id": "mt_it_s1_share_digital_work",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "分享数字作品",
+    "nameEn": "Sharing digital work",
+    "standards": [
+      "moe-xxkj-2022:M1.S1.信息交流与分享",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能在教师指导下把绘画、录音等作品展示或传给同学。",
+    "evidence": [
+      "向小组展示一幅数字画",
+      "说明分享前要征得同意"
+    ]
+  },
+  {
+    "id": "mt_it_s1_photo_video_basics",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "拍照与录像基础",
+    "nameEn": "Photo and video",
+    "standards": [
+      "moe-xxkj-2022:M1.S1.信息交流与分享",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能使用设备拍摄清晰照片或短视频并简单回看。",
+    "evidence": [
+      "拍摄一张对焦清晰的照片",
+      "录一段十秒介绍视频"
+    ]
+  },
+  {
+    "id": "mt_it_s1_kind_online_talk",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "文明在线交流",
+    "nameEn": "Kind online talk",
+    "standards": [
+      "moe-xxkj-2022:M1.S1.信息交流与分享",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "知道网上说话也要礼貌，不说伤人话，遇到问题告诉大人。",
+    "evidence": [
+      "复述三条网络文明用语",
+      "发现不当言论告诉老师"
+    ]
+  },
+  {
+    "id": "mt_it_s1_personal_info_privacy",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "个人信息要保密",
+    "nameEn": "Personal info privacy",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "知道姓名、住址、电话等不能随便告诉陌生人或填在不明网站。",
+    "evidence": [
+      "列举三项不能公开的信息",
+      "遇到索要信息知道拒绝"
+    ]
+  },
+  {
+    "id": "mt_it_s1_password_basics",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "密码基础",
+    "nameEn": "Password basics",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "知道账户需要密码保护，不把密码告诉他人或写在明显处。",
+    "evidence": [
+      "设置不易猜的简易密码",
+      "说明为何不能共用密码"
+    ]
+  },
+  {
+    "id": "mt_it_s1_device_care_rules",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "爱护数字设备",
+    "nameEn": "Device care",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "了解正确开关机、不随意下载，保护设备和个人信息安全。",
+    "evidence": [
+      "演示正确关机步骤",
+      "说明不点陌生链接的原因"
+    ]
+  },
+  {
+    "id": "mt_it_s1_ask_adult_for_help",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "遇到问题找大人",
+    "nameEn": "Ask adults for help",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "在网上遇到奇怪信息或弹窗时，知道暂停操作并求助可信大人。",
+    "evidence": [
+      "角色扮演遇到弹窗求助",
+      "说出两位可求助的大人"
+    ]
+  },
+  {
+    "id": "mt_it_s1_digital_art_create",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "数字绘画创作",
+    "nameEn": "Digital art",
+    "standards": [
+      "moe-xxkj-2022:M1.S1.信息交流与分享",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能用简单软件画图形、涂色并保存作品。",
+    "evidence": [
+      "完成一幅主题数字画",
+      "给作品取标题并保存"
+    ]
+  },
+  {
+    "id": "mt_it_s1_record_voice_message",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "录制语音消息",
+    "nameEn": "Voice recording",
+    "standards": [
+      "moe-xxkj-2022:M1.S1.信息交流与分享",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能录制清晰语音并回放检查，用于问候或讲故事。",
+    "evidence": [
+      "录一段30秒自我介绍",
+      "调整距离获得清晰录音"
+    ]
+  },
+  {
+    "id": "mt_it_s1_file_folder_intro",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "文件与文件夹",
+    "nameEn": "Files and folders",
+    "standards": [
+      "moe-xxkj-2022:X1.S1.数字设备体验",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "知道文件需要命名和放在文件夹里，便于查找。",
+    "evidence": [
+      "创建文件夹并保存作品",
+      "用有意义的名字命名文件"
+    ]
+  },
+  {
+    "id": "mt_it_s1_screen_time_balance",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "合理使用屏幕时间",
+    "nameEn": "Screen time balance",
+    "standards": [
+      "moe-xxkj-2022:M1.S1.信息交流与分享",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "知道长时间看屏幕要休息，平衡学习与娱乐。",
+    "evidence": [
+      "制定一天屏幕使用计划",
+      "说出两条保护视力的方法"
+    ]
+  },
+  {
+    "id": "mt_it_s1_respect_others_work",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "尊重他人数字作品",
+    "nameEn": "Respect digital work",
+    "standards": [
+      "moe-xxkj-2022:M1.S1.信息交流与分享",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "不随意修改或删除他人文件，转载注明来源或征得同意。",
+    "evidence": [
+      "说明为何不能改同学文件",
+      "演示征得同意后再分享"
+    ]
+  },
+  {
+    "id": "mt_it_s1_safe_software_install",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "安全安装软件",
+    "nameEn": "Safe software install",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "知道只在可信来源下载应用，安装前请大人检查权限。",
+    "evidence": [
+      "说出两个可信下载渠道",
+      "说明为何不乱装来路不明App"
+    ]
+  },
+  {
+    "id": "mt_it_s1_emoji_sticker_share",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "表情与贴纸交流",
+    "nameEn": "Emoji and stickers",
+    "standards": [
+      "moe-xxkj-2022:M1.S1.信息交流与分享",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能在合适场合使用表情符号增强表达，避免误解和过度使用。",
+    "evidence": [
+      "选表情匹配三种心情",
+      "说明表情不能代替完整表达"
+    ]
+  },
+  {
+    "id": "mt_it_s2_online_learning_tools",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "在线学习工具",
+    "nameEn": "Online learning tools",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "能使用指定平台观看课程、提交作业并查看反馈。",
+    "evidence": [
+      "登录平台完成一次作业提交",
+      "查看教师评语并改正"
+    ]
+  },
+  {
+    "id": "mt_it_s2_search_engine_basics",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "搜索引擎入门",
+    "nameEn": "Search engines",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "能用关键词搜索学习资料，初步判断结果相关性。",
+    "evidence": [
+      "搜索一个科学问题并选可靠来源",
+      "比较不同关键词搜索结果"
+    ]
+  },
+  {
+    "id": "mt_it_s2_network_life_services",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "网络生活服务",
+    "nameEn": "Online services",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "了解网购、地图、在线预约等常见网络服务及安全注意。",
+    "evidence": [
+      "说出两项网络生活服务",
+      "说明网购需大人陪同"
+    ]
+  },
+  {
+    "id": "mt_it_s2_email_messaging_intro",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "邮件与消息入门",
+    "nameEn": "Email and messaging",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "能在监督下发送格式正确的简短邮件或消息。",
+    "evidence": [
+      "写一封感谢老师的短邮件",
+      "检查收件人和主题是否准确"
+    ]
+  },
+  {
+    "id": "mt_it_s2_digital_citizenship",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "数字公民素养",
+    "nameEn": "Digital citizenship",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "知道网络不是法外之地，尊重版权、不传播谣言。",
+    "evidence": [
+      "列举两条网络行为准则",
+      "识别一条可疑谣言"
+    ]
+  },
+  {
+    "id": "mt_it_s2_data_is_information",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "数据就是信息",
+    "nameEn": "Data as information",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "理解文字、数字、图片等都可成为计算机处理的数据。",
+    "evidence": [
+      "举例五种日常数据",
+      "说明数据与信息的关系"
+    ]
+  },
+  {
+    "id": "mt_it_s2_collect_sort_data",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "收集与分类数据",
+    "nameEn": "Collect and sort data",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "能调查班级数据并用表格分类整理。",
+    "evidence": [
+      "统计同学喜欢的运动并制表",
+      "用图表展示分类结果"
+    ]
+  },
+  {
+    "id": "mt_it_s2_binary_intro",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "二进制初识",
+    "nameEn": "Binary intro",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "知道计算机用0和1表示信息，能转换简单十进制与二进制。",
+    "evidence": [
+      "把5和10写成二进制",
+      "解释为何用二进制"
+    ]
+  },
+  {
+    "id": "mt_it_s2_encoding_text",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "文字编码",
+    "nameEn": "Text encoding",
+    "standards": [
+      "moe-xxkj-2022:X2.S2.数据编码探秘",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "了解ASCII等编码把字符变成数字，乱码与编码有关。",
+    "evidence": [
+      "查编码表找字母对应数字",
+      "解释编码不一致会乱码"
+    ]
+  },
+  {
+    "id": "mt_it_s2_encoding_images",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "图像编码初识",
+    "nameEn": "Image encoding",
+    "standards": [
+      "moe-xxkj-2022:X2.S2.数据编码探秘",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "知道图像由像素组成，分辨率影响清晰度与文件大小。",
+    "evidence": [
+      "放大图片观察像素",
+      "比较不同分辨率文件大小"
+    ]
+  },
+  {
+    "id": "mt_it_s2_barcode_qr",
+    "type": "REPRESENTATIONAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "条码与二维码",
+    "nameEn": "Barcodes and QR",
+    "standards": [
+      "moe-xxkj-2022:X2.S2.数据编码探秘",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "了解条码、二维码如何存储信息并用于生活场景。",
+    "evidence": [
+      "扫描二维码获取文本",
+      "说明为何支付码不能截图给别人"
+    ]
+  },
+  {
+    "id": "mt_it_s2_strong_passwords",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "强密码与账户安全",
+    "nameEn": "Strong passwords",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "能设置含字母数字的较强密码并定期更换，了解双重验证概念。",
+    "evidence": [
+      "评估密码强度并改进",
+      "说明双重验证作用"
+    ]
+  },
+  {
+    "id": "mt_it_s2_phishing_awareness",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "识别网络钓鱼",
+    "nameEn": "Phishing awareness",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "能识别假冒链接和诈骗邮件的常见特征，不泄露验证码。",
+    "evidence": [
+      "找出钓鱼邮件的可疑点",
+      "说明验证码不能告诉他人"
+    ]
+  },
+  {
+    "id": "mt_it_s2_privacy_settings",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "隐私设置",
+    "nameEn": "Privacy settings",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "能在常用应用中设置可见范围，保护个人动态与位置。",
+    "evidence": [
+      "调整一项隐私设置为仅好友可见",
+      "说明公开位置的风险"
+    ]
+  },
+  {
+    "id": "mt_it_s2_cloud_storage_intro",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "云存储入门",
+    "nameEn": "Cloud storage",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "了解云盘可备份文件、多设备同步，注意账户安全。",
+    "evidence": [
+      "上传作业到云盘并分享链接",
+      "说明备份防丢失的好处"
+    ]
+  },
+  {
+    "id": "mt_it_s2_spreadsheet_intro",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "电子表格入门",
+    "nameEn": "Spreadsheets intro",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "能在表格中输入数据、使用简单求和公式。",
+    "evidence": [
+      "制作班级身高统计表",
+      "用公式计算平均值"
+    ]
+  },
+  {
+    "id": "mt_it_s2_digital_footprint",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "数字足迹",
+    "nameEn": "Digital footprint",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "知道上网行为会留下记录，发言和上传内容需慎重。",
+    "evidence": [
+      "列举会留下足迹的三项操作",
+      "删除或修改一条不当动态"
+    ]
+  },
+  {
+    "id": "mt_it_s2_online_collaboration",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "在线协作编辑",
+    "nameEn": "Online collaboration",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "能与同学共同编辑一份在线文档并查看修改记录。",
+    "evidence": [
+      "小组完成一份在线调查表",
+      "说明版本历史的作用"
+    ]
+  },
+  {
+    "id": "mt_it_s2_data_visualization",
+    "type": "REPRESENTATIONAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "数据可视化",
+    "nameEn": "Data visualization",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "能选择合适的柱形图、饼图展示数据并读图得出结论。",
+    "evidence": [
+      "把统计表转成柱形图",
+      "从图中读出最多最少项"
+    ]
+  },
+  {
+    "id": "mt_it_s2_information_reliability",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "信息可靠性判断",
+    "nameEn": "Information reliability",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "能交叉验证网络信息，优先选择权威来源。",
+    "evidence": [
+      "对比两个来源的同一事件",
+      "说明为何百科需核实"
+    ]
+  },
+  {
+    "id": "mt_it_s2_data_backup_habit",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "数据备份习惯",
+    "nameEn": "Data backup habit",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "知道重要作业和照片应备份到云盘或U盘，防止丢失。",
+    "evidence": [
+      "完成一次作业备份",
+      "说明备份频率建议"
+    ]
+  },
+  {
+    "id": "mt_it_s2_keyboard_shortcuts",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "常用快捷键",
+    "nameEn": "Keyboard shortcuts",
+    "standards": [
+      "moe-xxkj-2022:X1.S1.数字设备体验",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能使用复制粘贴、保存、撤销等快捷键提高效率。",
+    "evidence": [
+      "用快捷键完成复制粘贴",
+      "列出五项常用快捷键"
+    ]
+  },
+  {
+    "id": "mt_it_s3_algorithm_steps",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "算法是有序步骤",
+    "nameEn": "Algorithm as steps",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能把完成任务的过程写成明确、有限的步骤序列。",
+    "evidence": [
+      "写出做三明治的步骤",
+      "检查步骤是否有歧义"
+    ]
+  },
+  {
+    "id": "mt_it_s3_flowchart_symbols",
+    "type": "REPRESENTATIONAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "流程图符号",
+    "nameEn": "Flowchart symbols",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能使用开始结束、处理、判断等符号绘制流程图。",
+    "evidence": [
+      "为求平均数画流程图",
+      "读懂同伴流程图含义"
+    ]
+  },
+  {
+    "id": "mt_it_s3_sequential_structure",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "顺序结构",
+    "nameEn": "Sequential structure",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "理解算法按顺序逐步执行，前一步结果是后一步输入。",
+    "evidence": [
+      "追踪三步算法输出",
+      "找出顺序错误导致的问题"
+    ]
+  },
+  {
+    "id": "mt_it_s3_branch_structure",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "分支结构",
+    "nameEn": "Branch structure",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能设计含如果…否则…的判断分支解决分类问题。",
+    "evidence": [
+      "为成绩等级画分支图",
+      "编写含判断的伪代码"
+    ]
+  },
+  {
+    "id": "mt_it_s3_loop_structure",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "循环结构",
+    "nameEn": "Loop structure",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能用重复执行处理累加、枚举等问题，避免无限循环。",
+    "evidence": [
+      "用循环求1到100的和",
+      "找出缺少退出条件的循环"
+    ]
+  },
+  {
+    "id": "mt_it_s3_debug_algorithm",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "调试算法",
+    "nameEn": "Debugging algorithms",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "算法结果不对时能逐步追踪、定位并修正错误步骤。",
+    "evidence": [
+      "修复一个排序步骤错误",
+      "记录调试过程"
+    ]
+  },
+  {
+    "id": "mt_it_s3_open_loop_control",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "开环控制",
+    "nameEn": "Open-loop control",
+    "standards": [
+      "moe-xxkj-2022:M6.S3.过程与控制",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "知道开环控制按预设执行、不检测结果，如定时闹钟。",
+    "evidence": [
+      "举例开环控制设备",
+      "说明开环无法自动纠正偏差"
+    ]
+  },
+  {
+    "id": "mt_it_s3_closed_loop_control",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "闭环控制",
+    "nameEn": "Closed-loop control",
+    "standards": [
+      "moe-xxkj-2022:M6.S3.过程与控制",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "理解反馈使系统能比较目标与实际并调整，如温控空调。",
+    "evidence": [
+      "画出空调温控闭环图",
+      "比较开环与闭环差异"
+    ]
+  },
+  {
+    "id": "mt_it_s3_sensor_input",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "传感器采集",
+    "nameEn": "Sensor input",
+    "standards": [
+      "moe-xxkj-2022:M6.S3.过程与控制",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "知道光、温、距等传感器把环境量变成数字信号供系统使用。",
+    "evidence": [
+      "读取光线传感器数值",
+      "说明传感器在智能灯中的作用"
+    ]
+  },
+  {
+    "id": "mt_it_s3_actuator_output",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "执行器输出",
+    "nameEn": "Actuator output",
+    "standards": [
+      "moe-xxkj-2022:M6.S3.过程与控制",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "知道电机、蜂鸣器等执行器接收指令产生动作或声音。",
+    "evidence": [
+      "控制小电机正反转",
+      "说明输出与输入对应关系"
+    ]
+  },
+  {
+    "id": "mt_it_s3_simulate_small_system",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "模拟小型系统",
+    "nameEn": "Simulate a system",
+    "standards": [
+      "moe-xxkj-2022:X3.S3.小型系统模拟",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能用软件或硬件模拟交通灯、温室等简单系统运行。",
+    "evidence": [
+      "模拟红绿灯时序",
+      "调整参数观察系统变化"
+    ]
+  },
+  {
+    "id": "mt_it_s3_block_programming",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "积木式编程",
+    "nameEn": "Block programming",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能用图形化编程实现顺序、分支、循环控制角色或设备。",
+    "evidence": [
+      "编写程序让小猫画正方形",
+      "添加碰撞判断分支"
+    ]
+  },
+  {
+    "id": "mt_it_s3_variable_in_program",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "程序中的变量",
+    "nameEn": "Variables",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "知道变量存储会变化的数据，能命名并使用变量计数。",
+    "evidence": [
+      "用变量记录得分",
+      "解释为何循环需要计数变量"
+    ]
+  },
+  {
+    "id": "mt_it_s3_event_driven",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "事件驱动",
+    "nameEn": "Event-driven",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "理解点击、按键等事件触发程序执行相应代码。",
+    "evidence": [
+      "编写点击换造型程序",
+      "说明事件与循环的区别"
+    ]
+  },
+  {
+    "id": "mt_it_s3_algorithm_efficiency",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "算法效率",
+    "nameEn": "Algorithm efficiency",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能比较两种查找方式步骤多少，初步理解效率概念。",
+    "evidence": [
+      "比较顺序找与二分找",
+      "说明为何步骤少更好"
+    ]
+  },
+  {
+    "id": "mt_it_s3_control_threshold",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "阈值与控制",
+    "nameEn": "Control thresholds",
+    "standards": [
+      "moe-xxkj-2022:M6.S3.过程与控制",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能设置温度或光线阈值触发开关动作，完成简单自动化。",
+    "evidence": [
+      "设置低于20度开加热",
+      "测试阈值改变后的行为"
+    ]
+  },
+  {
+    "id": "mt_it_s3_system_diagram",
+    "type": "REPRESENTATIONAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "系统结构图",
+    "nameEn": "System diagrams",
+    "standards": [
+      "moe-xxkj-2022:X3.S3.小型系统模拟",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "能绘制输入—处理—输出结构图描述小型信息系统。",
+    "evidence": [
+      "为自动浇花系统画图",
+      "标注各模块功能"
+    ]
+  },
+  {
+    "id": "mt_it_s3_data_logging",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "数据记录",
+    "nameEn": "Data logging",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "能连续采集传感器数据并保存，用于后续分析。",
+    "evidence": [
+      "记录一小时温度变化",
+      "从日志找最高最低值"
+    ]
+  },
+  {
+    "id": "mt_it_s3_network_basics_s3",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "网络连接基础",
+    "nameEn": "Network basics",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "知道局域网、Wi-Fi、IP地址等基本概念，了解设备如何互联。",
+    "evidence": [
+      "查看本机IP地址",
+      "说明路由器的作用"
+    ]
+  },
+  {
+    "id": "mt_it_s3_cyberbullying_prevention",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "预防网络欺凌",
+    "nameEn": "Cyberbullying prevention",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "识别网络欺凌行为，知道保存证据、举报和求助途径。",
+    "evidence": [
+      "列举三种网络欺凌形式",
+      "制定班级网络公约一条"
+    ]
+  },
+  {
+    "id": "mt_it_s3_ascii_art_encoding",
+    "type": "REPRESENTATIONAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "字符画与编码",
+    "nameEn": "ASCII art",
+    "standards": [
+      "moe-xxkj-2022:X2.S2.数据编码探秘",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "能用字符排列简单图案，理解字符编码可表达图形文本。",
+    "evidence": [
+      "制作一幅简易字符画",
+      "说明每个字符对应编码"
+    ]
+  },
+  {
+    "id": "mt_it_s4_internet_architecture",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "互联网体系结构",
+    "nameEn": "Internet architecture",
+    "standards": [
+      "moe-xxkj-2022:M7.S4.互联网应用与创新",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "了解分层思想、TCP/IP与域名解析，理解网址访问过程。",
+    "evidence": [
+      "追踪域名解析步骤",
+      "说明HTTP与HTTPS区别"
+    ]
+  },
+  {
+    "id": "mt_it_s4_web_app_development",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "网页应用开发",
+    "nameEn": "Web app development",
+    "standards": [
+      "moe-xxkj-2022:M7.S4.互联网应用与创新",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "能用HTML/CSS/JS制作简单静态页面并实现交互。",
+    "evidence": [
+      "制作个人介绍网页",
+      "添加按钮点击效果"
+    ]
+  },
+  {
+    "id": "mt_it_s4_api_and_services",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "API与网络服务",
+    "nameEn": "APIs and services",
+    "standards": [
+      "moe-xxkj-2022:M7.S4.互联网应用与创新",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "知道应用通过API获取天气、地图等服务数据。",
+    "evidence": [
+      "调用公开API显示天气",
+      "说明API密钥需保密"
+    ]
+  },
+  {
+    "id": "mt_it_s4_cloud_computing",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "云计算",
+    "nameEn": "Cloud computing",
+    "standards": [
+      "moe-xxkj-2022:M7.S4.互联网应用与创新",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "了解云服务器、弹性扩展等概念及典型应用场景。",
+    "evidence": [
+      "举例三项云服务",
+      "讨论云端存储利弊"
+    ]
+  },
+  {
+    "id": "mt_it_s4_network_security",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "网络安全",
+    "nameEn": "Network security",
+    "standards": [
+      "moe-xxkj-2022:M7.S4.互联网应用与创新",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "了解防火墙、加密传输等机制，养成安全上网习惯。",
+    "evidence": [
+      "识别HTTPS安全标识",
+      "说明公共Wi-Fi风险"
+    ]
+  },
+  {
+    "id": "mt_it_s4_iot_sensors_actuators",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "物联网传感与执行",
+    "nameEn": "IoT sensors",
+    "standards": [
+      "moe-xxkj-2022:M8.S4.物联网实践与探索",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "能搭建含传感器和执行器的物联网小项目并远程查看数据。",
+    "evidence": [
+      "完成温湿度上报项目",
+      "设置超阈值报警"
+    ]
+  },
+  {
+    "id": "mt_it_s4_iot_protocols",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "物联网通信",
+    "nameEn": "IoT protocols",
+    "standards": [
+      "moe-xxkj-2022:M8.S4.物联网实践与探索",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "了解MQTT等轻量协议适合设备互联，理解发布订阅模式。",
+    "evidence": [
+      "描述智能家居消息流",
+      "比较物联网与互联网差异"
+    ]
+  },
+  {
+    "id": "mt_it_s4_edge_computing",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "网络",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "边缘计算初识",
+    "nameEn": "Edge computing",
+    "standards": [
+      "moe-xxkj-2022:M8.S4.物联网实践与探索",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "知道在设备端预处理数据可减少延迟和带宽占用。",
+    "evidence": [
+      "举例边缘计算场景",
+      "说明本地处理隐私优势"
+    ]
+  },
+  {
+    "id": "mt_it_s4_big_data_intro",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "大数据初识",
+    "nameEn": "Big data intro",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "了解Volume、Velocity、Variety特征及大数据典型应用。",
+    "evidence": [
+      "举例大数据应用",
+      "讨论数据过多带来的问题"
+    ]
+  },
+  {
+    "id": "mt_it_s4_database_basics",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "数据库基础",
+    "nameEn": "Database basics",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "能用表格数据库进行增删查改，理解主键与字段类型。",
+    "evidence": [
+      "建立学生信息表并查询",
+      "设计合理字段类型"
+    ]
+  },
+  {
+    "id": "mt_it_s4_data_cleaning",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "数据清洗",
+    "nameEn": "Data cleaning",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "能发现缺失、重复、异常值并进行基本清洗。",
+    "evidence": [
+      "清理一份含空值的数据",
+      "说明清洗对分析的重要性"
+    ]
+  },
+  {
+    "id": "mt_it_s4_machine_learning_intro",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "人工智能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "机器学习入门",
+    "nameEn": "Machine learning intro",
+    "standards": [
+      "moe-xxkj-2022:M9.S4.人工智能与智慧社会",
+      "moe-xxkj-2022:AI"
+    ],
+    "description": "了解监督学习用标注数据训练模型，能完成简单分类实验。",
+    "evidence": [
+      "训练图像分类小模型",
+      "说明训练集与测试集"
+    ]
+  },
+  {
+    "id": "mt_it_s4_ai_perception",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "人工智能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "人工智能感知",
+    "nameEn": "AI perception",
+    "standards": [
+      "moe-xxkj-2022:M9.S4.人工智能与智慧社会",
+      "moe-xxkj-2022:AI"
+    ],
+    "description": "知道视觉、语音识别依赖特征提取与模型推理。",
+    "evidence": [
+      "体验语音转文字",
+      "讨论识别错误原因"
+    ]
+  },
+  {
+    "id": "mt_it_s4_neural_network_concept",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "人工智能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "神经网络概念",
+    "nameEn": "Neural networks",
+    "standards": [
+      "moe-xxkj-2022:M9.S4.人工智能与智慧社会",
+      "moe-xxkj-2022:AI"
+    ],
+    "description": "了解神经元、层、权重等基本概念，不要求手工推导。",
+    "evidence": [
+      "画出简单神经网络示意",
+      "说明深度学习需大量数据"
+    ]
+  },
+  {
+    "id": "mt_it_s4_ai_ethics_bias",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "人工智能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "人工智能伦理",
+    "nameEn": "AI ethics",
+    "standards": [
+      "moe-xxkj-2022:M9.S4.人工智能与智慧社会",
+      "moe-xxkj-2022:AI"
+    ],
+    "description": "讨论算法偏见、就业影响、深度伪造等伦理与社会问题。",
+    "evidence": [
+      "分析一个偏见案例",
+      "提出一条负责任AI原则"
+    ]
+  },
+  {
+    "id": "mt_it_s4_smart_society_cases",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "人工智能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "智慧社会应用",
+    "nameEn": "Smart society",
+    "standards": [
+      "moe-xxkj-2022:M9.S4.人工智能与智慧社会",
+      "moe-xxkj-2022:AI"
+    ],
+    "description": "了解智慧交通、医疗、城市治理等应用及数据支撑。",
+    "evidence": [
+      "举例本地智慧应用",
+      "讨论数据隐私平衡"
+    ]
+  },
+  {
+    "id": "mt_it_s4_connected_smart_design",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "人工智能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "互联智能设计",
+    "nameEn": "Connected smart design",
+    "standards": [
+      "moe-xxkj-2022:X4.S4.互联智能设计",
+      "moe-xxkj-2022:AI"
+    ],
+    "description": "能设计含感知、联网、智能决策的小型互联系统方案。",
+    "evidence": [
+      "提交智能校园方案",
+      "答辩说明模块协作"
+    ]
+  },
+  {
+    "id": "mt_it_s4_algorithm_advanced",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "常用算法思想",
+    "nameEn": "Algorithm patterns",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "了解分治、贪心、动态规划等思想及适用场景入门。",
+    "evidence": [
+      "用分治思想找最大数",
+      "比较两种算法时间复杂度"
+    ]
+  },
+  {
+    "id": "mt_it_s4_sorting_searching",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "排序与查找",
+    "nameEn": "Sorting and searching",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能实现冒泡或二分查找，理解有序数据提高查找效率。",
+    "evidence": [
+      "实现二分查找函数",
+      "比较顺序与二分步骤数"
+    ]
+  },
+  {
+    "id": "mt_it_s4_recursion_intro",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "递归初识",
+    "nameEn": "Recursion intro",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "理解函数调用自身解决规模更小同类问题，注意终止条件。",
+    "evidence": [
+      "用递归算阶乘",
+      "找出缺少基例的递归"
+    ]
+  },
+  {
+    "id": "mt_it_s4_text_programming",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "文本语言编程",
+    "nameEn": "Text programming",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能用Python等文本语言编写含函数、列表的程序。",
+    "evidence": [
+      "编写统计列表平均程序",
+      "使用函数封装重复代码"
+    ]
+  },
+  {
+    "id": "mt_it_s4_encryption_basics",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "加密基础",
+    "nameEn": "Encryption basics",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "了解对称与非对称加密作用，知道HTTPS保护传输。",
+    "evidence": [
+      "体验凯撒密码加密",
+      "说明公钥私钥用途入门"
+    ]
+  },
+  {
+    "id": "mt_it_s4_digital_identity",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "数字身份认证",
+    "nameEn": "Digital identity",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "了解实名认证、OAuth登录等机制及个人信息保护要求。",
+    "evidence": [
+      "比较不同登录方式安全性",
+      "说明最小必要授权"
+    ]
+  },
+  {
+    "id": "mt_it_s4_open_source_license",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "开源与许可",
+    "nameEn": "Open source licenses",
+    "standards": [
+      "moe-xxkj-2022:M7.S4.互联网应用与创新",
+      "moe-xxkj-2022:NET"
+    ],
+    "description": "知道开源软件可学习修改，但需遵守许可协议。",
+    "evidence": [
+      "查找一个项目的开源协议",
+      "说明署名与商用限制"
+    ]
+  },
+  {
+    "id": "mt_it_s4_tech_innovation_project",
+    "type": "PROCEDURAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "科技创新项目",
+    "nameEn": "Innovation project",
+    "standards": [
+      "moe-xxkj-2022:X4.S4.互联智能设计",
+      "moe-xxkj-2022:AI"
+    ],
+    "description": "能组队完成从需求到原型的信息科技创新小项目并展示。",
+    "evidence": [
+      "提交项目文档与演示",
+      "回答评委技术问题"
+    ]
+  },
+  {
+    "id": "mt_it_s4_data_privacy_law",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "数据与隐私法规",
+    "nameEn": "Data privacy law",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "了解个人信息保护法对收集使用数据的基本要求。",
+    "evidence": [
+      "列举两项法定用户权利",
+      "说明App过度索权问题"
+    ]
+  },
+  {
+    "id": "mt_it_s4_ai_generated_content",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "人工智能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "AIGC与辨别",
+    "nameEn": "AIGC awareness",
+    "standards": [
+      "moe-xxkj-2022:M9.S4.人工智能与智慧社会",
+      "moe-xxkj-2022:AI"
+    ],
+    "description": "能识别AI生成文本图像的可能特征，注明AI辅助创作。",
+    "evidence": [
+      "判断一段文字是否AI生成",
+      "说明标注AI内容的意义"
+    ]
+  },
+  {
+    "id": "mt_it_s4_blockchain_concept",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "数据",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "区块链概念",
+    "nameEn": "Blockchain concept",
+    "standards": [
+      "moe-xxkj-2022:M4.S2.数据与编码",
+      "moe-xxkj-2022:DATA"
+    ],
+    "description": "了解区块链去中心化、不可篡改特点及有限应用场景。",
+    "evidence": [
+      "说明区块链不等于比特币全部",
+      "讨论溯源应用价值"
+    ]
+  },
+  {
+    "id": "mt_it_s4_program_debugging_advanced",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "高级调试",
+    "nameEn": "Advanced debugging",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "会使用断点、日志、单元测试定位复杂程序错误。",
+    "evidence": [
+      "修复一个含逻辑错误程序",
+      "编写两个单元测试"
+    ]
+  },
+  {
+    "id": "mt_it_s4_human_computer_interaction",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "人机交互",
+    "nameEn": "HCI basics",
+    "standards": [
+      "moe-xxkj-2022:X4.S4.互联智能设计",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "了解可用性、无障碍设计原则，能评价界面优劣。",
+    "evidence": [
+      "评估一个App界面",
+      "提出一条无障碍改进"
+    ]
+  },
+  {
+    "id": "mt_it_s4_information_system_lifecycle",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "信息系统生命周期",
+    "nameEn": "IS lifecycle",
+    "standards": [
+      "moe-xxkj-2022:M7.S4.互联网应用与创新",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "了解需求分析、设计、实现、运维、退役等阶段及迭代思想。",
+    "evidence": [
+      "为校园系统画生命周期",
+      "说明运维监控重要性"
+    ]
+  },
+  {
+    "id": "mt_it_s4_computational_thinking",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "算法",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "计算思维综合",
+    "nameEn": "Computational thinking",
+    "standards": [
+      "moe-xxkj-2022:M5.S3.身边的算法",
+      "moe-xxkj-2022:ALGO"
+    ],
+    "description": "能把复杂问题分解、抽象、模式识别并设计算法实现。",
+    "evidence": [
+      "分解一个配送路径问题",
+      "说明抽象忽略细节"
+    ]
+  },
+  {
+    "id": "mt_it_s4_version_control_intro",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "版本控制入门",
+    "nameEn": "Version control",
+    "standards": [
+      "moe-xxkj-2022:M7.S4.互联网应用与创新",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "了解Git等工具记录代码变更，便于协作与回退。",
+    "evidence": [
+      "解释提交与回滚概念",
+      "说明分支用于并行开发"
+    ]
+  },
+  {
+    "id": "mt_it_s4_agile_scrum_basics",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "敏捷开发初识",
+    "nameEn": "Agile basics",
+    "standards": [
+      "moe-xxkj-2022:M7.S4.互联网应用与创新",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "了解迭代、用户故事、站会等敏捷方法提高团队协作。",
+    "evidence": [
+      "写一个用户故事",
+      "说明迭代比一次交付灵活"
+    ]
+  },
+  {
+    "id": "mt_it_s4_social_engineering",
+    "type": "CONCEPTUAL",
+    "subject": "信息科技",
+    "domain": "信息安全",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "社会工程学防范",
+    "nameEn": "Social engineering",
+    "standards": [
+      "moe-xxkj-2022:M2.S1.信息隐私与安全",
+      "moe-xxkj-2022:SEC"
+    ],
+    "description": "识别冒充熟人、客服等骗取信息的手段，不轻信转账要求。",
+    "evidence": [
+      "分析一个诈骗话术",
+      "说明核实身份的方法"
+    ]
+  },
+  {
+    "id": "mt_it_s4_digital_wellbeing",
+    "type": "META",
+    "subject": "信息科技",
+    "domain": "信息处理",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "数字健康",
+    "nameEn": "Digital wellbeing",
+    "standards": [
+      "moe-xxkj-2022:M3.S2.在线学习与生活",
+      "moe-xxkj-2022:PROC"
+    ],
+    "description": "管理屏幕时间、通知干扰，保持线上线下生活平衡。",
+    "evidence": [
+      "统计一周屏幕使用",
+      "制定减少干扰的设置"
+    ]
+  }
+]

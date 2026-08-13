@@ -1,0 +1,3631 @@
+[
+  {
+    "id": "mt_math_s1_count_to_10",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "10以内数的认识",
+    "nameEn": "Numbers to 10",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "能把不超过10个物体与数一一对应，理解每个数表示多少，会认读0到10。",
+    "evidence": [
+      "点数一堆不超过10的实物并说出总数",
+      "认读数字0到10",
+      "用圆片或手指表示一个10以内的数"
+    ]
+  },
+  {
+    "id": "mt_math_s1_count_within_20",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "20以内数的认识",
+    "nameEn": "Numbers within 20",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "在10的基础上认识11到20，知道十几是10和几个一，能点数、认读和书写。",
+    "evidence": [
+      "把12个物体分成10和2来数",
+      "认读并书写11到20",
+      "在数轴或计数器上指出一个20以内的数"
+    ]
+  },
+  {
+    "id": "mt_math_s1_compare_within_20",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "20以内数的比较",
+    "nameEn": "Comparing numbers within 20",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "会用多、少、同样多比较20以内两个数，能用大于小于符号记录比较结果。",
+    "evidence": [
+      "说出两个20以内数谁更大",
+      "用> < = 连接两个数",
+      "用一一对应说明为什么一个数比另一个多"
+    ]
+  },
+  {
+    "id": "mt_math_s1_number_bonds_10",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "10的组成与分解",
+    "nameEn": "Number bonds to 10",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "熟练说出10可以分成哪两个数，为凑十法加减做准备。",
+    "evidence": [
+      "快速说出和为10的数对",
+      "把10个圆片分成两堆并记录",
+      "根据一部分说出另一部分"
+    ]
+  },
+  {
+    "id": "mt_math_s1_add_within_10",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "10以内加法",
+    "nameEn": "Addition within 10",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "理解加法是把两部分合起来，能正确计算10以内加法并解释想法。",
+    "evidence": [
+      "口算10以内加法",
+      "用实物或图解释一道加法",
+      "看图列出加法算式"
+    ]
+  },
+  {
+    "id": "mt_math_s1_sub_within_10",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "10以内减法",
+    "nameEn": "Subtraction within 10",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "理解减法是从整体里去掉一部分或求相差，能正确计算10以内减法。",
+    "evidence": [
+      "口算10以内减法",
+      "用拿走或比较解释一道减法",
+      "根据情境选择用加法还是减法"
+    ]
+  },
+  {
+    "id": "mt_math_s1_add_sub_within_20",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "20以内进位加法与退位减法",
+    "nameEn": "Add and subtract within 20",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "会用凑十、破十等方法计算20以内进位加法和退位减法，追求熟练。",
+    "evidence": [
+      "正确计算如9+7、15-8",
+      "说出自己用的凑十或破十步骤",
+      "在一分钟内完成一组20以内加减"
+    ]
+  },
+  {
+    "id": "mt_math_s1_add_sub_stories",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "用加减解决简单实际问题",
+    "nameEn": "Add/subtract story problems",
+    "standards": [
+      "moe-sx-2022:NA.S1.数量关系"
+    ],
+    "description": "能从把两部分合并、去掉、比较等生活情境中列出加减算式并求解。",
+    "evidence": [
+      "听故事列出加减算式",
+      "说明算式中每个数表示什么",
+      "检验得数是否符合情境"
+    ]
+  },
+  {
+    "id": "mt_math_s1_count_within_100",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "100以内数的认识",
+    "nameEn": "Numbers within 100",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "认识100以内各数，能读、写、数，知道几个十和几个一。",
+    "evidence": [
+      "读出并写出一个两位数",
+      "从任意数接着数到100",
+      "用小棒表示34是3捆加4根"
+    ]
+  },
+  {
+    "id": "mt_math_s1_place_value_tens_ones",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "十位与个位",
+    "nameEn": "Tens and ones",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "理解两位数中数字所在数位决定它表示几个十或几个一。",
+    "evidence": [
+      "说出52里的5表示5个十",
+      "交换52的两个数字并比较大小",
+      "在计数器上拨出一个两位数"
+    ]
+  },
+  {
+    "id": "mt_math_s1_skip_count_2_5_10",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "按2、5、10跳着数",
+    "nameEn": "Skip counting by 2, 5, 10",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "能按2、5、10的间隔往下数，为乘法和钱币计数做准备。",
+    "evidence": [
+      "从0开始按5数到50",
+      "按2数一排鞋子或手套",
+      "用10元一张数出80元"
+    ]
+  },
+  {
+    "id": "mt_math_s1_even_odd",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "奇数与偶数",
+    "nameEn": "Odd and even numbers",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "能把数分成一对对，理解偶数能两两配对、奇数会剩一个。",
+    "evidence": [
+      "判断20以内一个数是奇是偶",
+      "用配对图说明为什么7是奇数",
+      "说出一个偶数后面的奇数"
+    ]
+  },
+  {
+    "id": "mt_math_s1_add_within_100",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "100以内加法",
+    "nameEn": "Addition within 100",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "会口算和笔算100以内加法，包括进位，能解释满十进一。",
+    "evidence": [
+      "计算36+27并说明进位",
+      "口算整十数加两位数",
+      "检查得数是否合理"
+    ]
+  },
+  {
+    "id": "mt_math_s1_sub_within_100",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "100以内减法",
+    "nameEn": "Subtraction within 100",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "会口算和笔算100以内减法，包括退位，能解释退一作十。",
+    "evidence": [
+      "计算52-18并说明退位",
+      "口算整十数减两位数",
+      "用加法验算减法"
+    ]
+  },
+  {
+    "id": "mt_math_s1_compare_within_100",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "100以内数的大小比较",
+    "nameEn": "Compare numbers within 100",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "先看十位再看个位比较两个两位数，能在数线上标出它们的位置。",
+    "evidence": [
+      "比较47和74并说明理由",
+      "把五个两位数从小到大排列",
+      "在百数表里找出相邻的数"
+    ]
+  },
+  {
+    "id": "mt_math_s1_length_compare_add",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "与长度有关的加减",
+    "nameEn": "Add/subtract lengths",
+    "standards": [
+      "moe-sx-2022:NA.S1.数量关系"
+    ],
+    "description": "能把线段或物体长度的和差写成加减算式，体会数量关系在测量中的用处。",
+    "evidence": [
+      "求两根绳子接起来有多长",
+      "已知全长和一段求另一段",
+      "选用合适单位记录得数"
+    ]
+  },
+  {
+    "id": "mt_math_s1_repeated_add_preview",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "相同加数连加",
+    "nameEn": "Repeated addition",
+    "standards": [
+      "moe-sx-2022:NA.S1.数量关系"
+    ],
+    "description": "把几个相同的数连加，体会乘法的雏形，能用图画表示。",
+    "evidence": [
+      "把3+3+3+3写成连加并求值",
+      "画4个盘子每盘2个苹果并列式",
+      "说出连加表示几个几"
+    ]
+  },
+  {
+    "id": "mt_math_s1_estimate_within_100",
+    "type": "META",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "100以内估算",
+    "nameEn": "Estimating within 100",
+    "standards": [
+      "moe-sx-2022:NA.S1.数与运算"
+    ],
+    "description": "能把数看成接近的整十数来估计和差，判断计算结果是否合理。",
+    "evidence": [
+      "估计38+21大约是几十",
+      "发现明显算错的得数",
+      "说明自己估的是估多了还是估少了"
+    ]
+  },
+  {
+    "id": "mt_math_s1_shape_names_2d",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "常见平面图形的辨认",
+    "nameEn": "Recognizing 2D shapes",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "能从物体表面辨认长方形、正方形、三角形、圆，说出它们的名字。",
+    "evidence": [
+      "给平面图形正确命名",
+      "从实物表面指出一种图形",
+      "在一组图形中找出指定形状"
+    ]
+  },
+  {
+    "id": "mt_math_s1_shape_names_3d",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "长方体、正方体、圆柱、球",
+    "nameEn": "Common 3D shapes",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "能辨认长方体、正方体、圆柱和球，描述它们能不能滚动、有没有平的面。",
+    "evidence": [
+      "给立体图形正确命名",
+      "说出球和立方体在滚动上的不同",
+      "按形状给学具分类"
+    ]
+  },
+  {
+    "id": "mt_math_s1_compare_length",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "比长短",
+    "nameEn": "Comparing lengths",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "会把物体一端对齐再比较长短，知道比较要有共同起点。",
+    "evidence": [
+      "判断两支笔谁更长",
+      "用一端对齐的方法比较",
+      "发现起点不齐时比较会出错"
+    ]
+  },
+  {
+    "id": "mt_math_s1_nonstandard_length",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "用非标准单位量长度",
+    "nameEn": "Non-standard length units",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "用回形针、手掌等同样长的单位去量物体，体会单位要统一。",
+    "evidence": [
+      "用回形针量课桌边大约几枚",
+      "解释为什么单位不同结果不同",
+      "首尾相接摆放单位、不留缝"
+    ]
+  },
+  {
+    "id": "mt_math_s1_centimetre",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "认识厘米",
+    "nameEn": "The centimetre",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "认识厘米是常用长度单位，会用直尺量整厘米长度。",
+    "evidence": [
+      "在直尺上指出1厘米",
+      "量出一支铅笔大约几厘米",
+      "估计橡皮长度并用尺验证"
+    ]
+  },
+  {
+    "id": "mt_math_s1_metre",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "认识米",
+    "nameEn": "The metre",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "知道1米=100厘米，能判断什么场合用米、什么场合用厘米。",
+    "evidence": [
+      "说出1米等于100厘米",
+      "选择量教室长度该用米还是厘米",
+      "用米尺量一步大约多长"
+    ]
+  },
+  {
+    "id": "mt_math_s1_clock_hour_half",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "整时与半时",
+    "nameEn": "Hours and half hours",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "会看钟面的整时和半时，把时刻与日常作息对应起来。",
+    "evidence": [
+      "读出钟面上的8时、8时半",
+      "拨出指定的整时或半时",
+      "说出自己上学大概是几点"
+    ]
+  },
+  {
+    "id": "mt_math_s1_position_above_beside",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "上下前后左右",
+    "nameEn": "Above, in front, left and right",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "能用上、下、前、后、左、右描述物体位置，分清自己的左和右。",
+    "evidence": [
+      "按指令把物品放在盒子左边",
+      "描述同桌在自己的哪一侧",
+      "在简单地图上指出上下"
+    ]
+  },
+  {
+    "id": "mt_math_s1_compose_shapes",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "用简单图形拼组",
+    "nameEn": "Composing shapes",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "能用几个三角形或长方形拼出新图形，体会图形可以组合与分解。",
+    "evidence": [
+      "用两个三角形拼成一个长方形",
+      "说出一个图形是由哪些小图形组成的",
+      "把一个图形沿线剪开再拼回"
+    ]
+  },
+  {
+    "id": "mt_math_s1_pattern_shape_color",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "图形与颜色的简单规律",
+    "nameEn": "Shape and color patterns",
+    "standards": [
+      "moe-sx-2022:GG.S1.图形的认识与测量"
+    ],
+    "description": "能发现并续编按形状或颜色重复出现的规律。",
+    "evidence": [
+      "说出下一个该是什么图形",
+      "自己设计一种红蓝交替规律",
+      "找出打乱规律的那一项"
+    ]
+  },
+  {
+    "id": "mt_math_s1_sort_by_attribute",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "按一个标准分类",
+    "nameEn": "Sorting by one attribute",
+    "standards": [
+      "moe-sx-2022:SP.S1.数据分类"
+    ],
+    "description": "能按颜色、形状或大小把一组物品分成几类，并说明分类标准。",
+    "evidence": [
+      "按颜色把积木分开",
+      "说出自己用的分类标准",
+      "发现同组物品还可以按别的标准再分"
+    ]
+  },
+  {
+    "id": "mt_math_s1_tally_count",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "用正字或点子计数",
+    "nameEn": "Tally marks",
+    "standards": [
+      "moe-sx-2022:SP.S1.数据分类"
+    ],
+    "description": "会用正字或点子记录每一类有多少，避免漏数和重数。",
+    "evidence": [
+      "用正字记录小组里喜欢苹果的人数",
+      "把正字换成数字",
+      "检查记录是否与实物一致"
+    ]
+  },
+  {
+    "id": "mt_math_s1_pictograph_read",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "读简单象形统计图",
+    "nameEn": "Reading pictographs",
+    "standards": [
+      "moe-sx-2022:SP.S1.数据分类"
+    ],
+    "description": "能从一符一物的象形图中读出各类数量，并进行简单比较。",
+    "evidence": [
+      "从图中读出最多的一类",
+      "说出两类相差几个",
+      "根据图回答谁最少"
+    ]
+  },
+  {
+    "id": "mt_math_s1_ask_and_record",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "问一问并记录结果",
+    "nameEn": "Ask and record",
+    "standards": [
+      "moe-sx-2022:SP.S1.数据分类"
+    ],
+    "description": "会向同学问一个简单问题并把答案记下来，形成一小份分类数据。",
+    "evidence": [
+      "调查同桌最喜欢的季节并记录",
+      "把记录整理成各类数量",
+      "用一句话描述调查结果"
+    ]
+  },
+  {
+    "id": "mt_math_s1_same_different_groups",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "同样多与不一样多",
+    "nameEn": "Equal and unequal groups",
+    "standards": [
+      "moe-sx-2022:SP.S1.数据分类"
+    ],
+    "description": "能判断两类物品是不是同样多，体会分类后比较数量。",
+    "evidence": [
+      "判断两组圆片是否同样多",
+      "用一一对应说明差几个",
+      "把多的一类拿掉一些变成同样多"
+    ]
+  },
+  {
+    "id": "mt_math_s1_math_in_classroom",
+    "type": "META",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "教室里的数学",
+    "nameEn": "Math in the classroom",
+    "standards": [
+      "moe-sx-2022:PA.S1.综合与实践"
+    ],
+    "description": "能在教室里找出可以数、可以比长短的事物，用刚学的数和比较去描述。",
+    "evidence": [
+      "数出一组课桌有几张",
+      "比较两支铅笔长短",
+      "用一句话说教室里的一个数量"
+    ]
+  },
+  {
+    "id": "mt_math_s1_make_a_20_book",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "做一本20以内的数书",
+    "nameEn": "Make a numbers-to-20 book",
+    "standards": [
+      "moe-sx-2022:PA.S1.综合与实践"
+    ],
+    "description": "为每一个20以内的数收集图画或实物照片，展示数与数量的对应。",
+    "evidence": [
+      "为某个数找到对应数量的图",
+      "按顺序排列自己的数页",
+      "向同伴介绍其中一页"
+    ]
+  },
+  {
+    "id": "mt_math_s1_measure_our_things",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "量一量我们的物品",
+    "nameEn": "Measure our things",
+    "standards": [
+      "moe-sx-2022:PA.S1.综合与实践"
+    ],
+    "description": "选几件学习用品用厘米量一量，做一张简单的长度记录表。",
+    "evidence": [
+      "正确用尺量一件物品",
+      "把结果记在表里",
+      "比较哪件物品最长"
+    ]
+  },
+  {
+    "id": "mt_math_s1_survey_favorite",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "最喜欢的…小调查",
+    "nameEn": "Favorite-item mini survey",
+    "standards": [
+      "moe-sx-2022:PA.S1.综合与实践"
+    ],
+    "description": "在小组里调查一个喜好问题，分类计数并用象形图展示。",
+    "evidence": [
+      "提出一个能分类的问题",
+      "记录每个人的选择",
+      "画出简单象形图并介绍"
+    ]
+  },
+  {
+    "id": "mt_math_s2_within_10000_read",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "万以内数的认识",
+    "nameEn": "Numbers within 10 000",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "认识万以内的数，能读、写，知道每个数位上数字表示的含义。",
+    "evidence": [
+      "读出并书写一个四位数",
+      "用小棒或计数器表示3046",
+      "说出千位上的7表示7000"
+    ]
+  },
+  {
+    "id": "mt_math_s2_within_10000_compare",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "万以内数的大小比较",
+    "nameEn": "Compare within 10 000",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "从高位到低位依次比较万以内两个数，能用符号记录比较结果。",
+    "evidence": [
+      "比较4521和4519并说明理由",
+      "把五个四位数从小到大排列",
+      "在数轴上标出两个数的位置"
+    ]
+  },
+  {
+    "id": "mt_math_s2_place_value_thousands",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "万以内数的数位",
+    "nameEn": "Place value to 10 000",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "理解个、十、百、千、万各数位之间的十进关系，能分解数的组成。",
+    "evidence": [
+      "说出5803是5个千8个百和3个一",
+      "把7200写成几个千几个百",
+      "在数位表里填写一个四位数"
+    ]
+  },
+  {
+    "id": "mt_math_s2_rounding_thousands",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "万以内数的近似",
+    "nameEn": "Rounding within 10 000",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "能把万以内的数看成接近的整百、整千数，体会近似在估算中的用处。",
+    "evidence": [
+      "把4876近似到整千",
+      "估计两数之和大约是多少",
+      "说明为什么有时用近似数更合适"
+    ]
+  },
+  {
+    "id": "mt_math_s2_mental_add_sub_10000",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "整百整千加减",
+    "nameEn": "Mental add/subtract hundreds and thousands",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "能口算整百、整千数的加减，理解相同计数单位才能直接相加减。",
+    "evidence": [
+      "口算3600+2400",
+      "口算8000-3500",
+      "用凑整方法解释口算过程"
+    ]
+  },
+  {
+    "id": "mt_math_s2_written_add_sub_10000",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "万以内加减笔算",
+    "nameEn": "Written add/subtract within 10 000",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "掌握万以内加减法的竖式计算，包括连续进位和连续退位。",
+    "evidence": [
+      "竖式计算3568+2745",
+      "竖式计算7003-4586",
+      "用加法验算减法得数"
+    ]
+  },
+  {
+    "id": "mt_math_s2_multiply_table",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "乘法口诀",
+    "nameEn": "Multiplication facts",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "熟练背诵并运用6–9的乘法口诀，能根据口诀快速求积。",
+    "evidence": [
+      "口算7×8和9×6",
+      "根据积说出所用口诀",
+      "在一分钟内完成一组口诀口算"
+    ]
+  },
+  {
+    "id": "mt_math_s2_multiply_two_by_one",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "两位数乘一位数",
+    "nameEn": "Two-digit times one-digit",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "会用口算和竖式计算两位数乘一位数，理解部分积的含义。",
+    "evidence": [
+      "竖式计算36×4",
+      "口算整十数乘一位数",
+      "用乘法验算除法"
+    ]
+  },
+  {
+    "id": "mt_math_s2_divide_two_by_one",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "两位数除以一位数",
+    "nameEn": "Two-digit divided by one-digit",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "会用口算和竖式计算两位数除以一位数，包括有余数的情况。",
+    "evidence": [
+      "竖式计算84÷4",
+      "计算73÷5并写出余数",
+      "判断商是几位数"
+    ]
+  },
+  {
+    "id": "mt_math_s2_multiply_three_by_one",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "三位数乘一位数",
+    "nameEn": "Three-digit times one-digit",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "掌握三位数乘一位数的竖式计算，注意进位和末尾有0的特殊情况。",
+    "evidence": [
+      "竖式计算206×3",
+      "计算150×4并解释末尾0",
+      "估算积大约是多少"
+    ]
+  },
+  {
+    "id": "mt_math_s2_divide_with_remainder",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "有余数的除法",
+    "nameEn": "Division with remainder",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "理解余数必须比除数小，能在实际问题中解释余数的意义。",
+    "evidence": [
+      "计算29÷5并检查余数",
+      "说明7个苹果每3个装一袋剩几个",
+      "判断一组除法计算是否正确"
+    ]
+  },
+  {
+    "id": "mt_math_s2_order_of_ops_intro",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "四则混合运算初步",
+    "nameEn": "Order of operations intro",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "知道同级运算从左到右算，有乘除先算乘除再算加减。",
+    "evidence": [
+      "计算24+6×3",
+      "计算80-48÷6",
+      "给混合算式添括号改变运算顺序"
+    ]
+  },
+  {
+    "id": "mt_math_s2_commutative_assoc",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "加法交换律与结合律",
+    "nameEn": "Commutative and associative laws",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "通过实例发现加法交换律和结合律，并用它们使计算简便。",
+    "evidence": [
+      "用交换律验算一道加法",
+      "用结合律计算38+27+62",
+      "举例说明定律对乘法的类似想法"
+    ]
+  },
+  {
+    "id": "mt_math_s2_distributive_intro",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "乘法分配律初步",
+    "nameEn": "Intro to distributive law",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "借助面积模型理解a×(b+c)=a×b+a×c，能用于简便计算。",
+    "evidence": [
+      "用分配律计算25×(40+4)",
+      "画长方形图解释分配律",
+      "判断哪种算法更简便"
+    ]
+  },
+  {
+    "id": "mt_math_s2_decimal_meaning",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "小数的意义",
+    "nameEn": "Meaning of decimals",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "知道小数是十进分数的另一种表示，能读写一位小数。",
+    "evidence": [
+      "把3角5分写成小数",
+      "在数轴上标出0.7的位置",
+      "说出0.6表示十分之六"
+    ]
+  },
+  {
+    "id": "mt_math_s2_decimal_compare",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "一位小数的比较",
+    "nameEn": "Comparing one-decimal numbers",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "先比较整数部分再比较小数部分，能比较两个一位小数的大小。",
+    "evidence": [
+      "比较1.5和1.8",
+      "把三个一位小数从小到大排列",
+      "用>或<连接两个小数"
+    ]
+  },
+  {
+    "id": "mt_math_s2_fraction_meaning",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "分数的意义",
+    "nameEn": "Meaning of fractions",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "理解分数表示把一个整体平均分成若干份取其中几份。",
+    "evidence": [
+      "用阴影表示3/4",
+      "在一条线段上标出1/2",
+      "说出5/8表示什么意思"
+    ]
+  },
+  {
+    "id": "mt_math_s2_fraction_compare_same",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "同分母分数比较",
+    "nameEn": "Compare like denominators",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "同分母分数比较分子大小，能用分数比较两个量。",
+    "evidence": [
+      "比较5/9和7/9",
+      "在数轴上比较两个同分母分数",
+      "用分数说明谁吃得更多"
+    ]
+  },
+  {
+    "id": "mt_math_s2_fraction_add_same",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "同分母分数加减",
+    "nameEn": "Add/subtract like denominators",
+    "standards": [
+      "moe-sx-2022:NA.S2.数与运算"
+    ],
+    "description": "同分母分数相加减只加减分子，分母不变，结果化成最简分数。",
+    "evidence": [
+      "计算3/8+2/8",
+      "计算7/10-3/10",
+      "用图解释一道分数加法"
+    ]
+  },
+  {
+    "id": "mt_math_s2_quantity_bar_model",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "条形图表示数量关系",
+    "nameEn": "Bar models for quantities",
+    "standards": [
+      "moe-sx-2022:NA.S2.数量关系"
+    ],
+    "description": "会用线段图或条形图表示和差倍问题中的数量关系。",
+    "evidence": [
+      "画图表示甲比乙多12",
+      "根据图列出加减算式",
+      "说明图中每段表示什么"
+    ]
+  },
+  {
+    "id": "mt_math_s2_angle_recognize",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "角的初步认识",
+    "nameEn": "Intro to angles",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的认识与测量"
+    ],
+    "description": "认识角由两条射线组成，能用三角尺上的直角判断一个角是不是直角。",
+    "evidence": [
+      "指出三角尺上的直角",
+      "判断一个角是直角还是非直角",
+      "用符号标出角的顶点"
+    ]
+  },
+  {
+    "id": "mt_math_s2_right_acute_obtuse",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "直角、锐角与钝角",
+    "nameEn": "Right, acute and obtuse angles",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的认识与测量"
+    ],
+    "description": "能用直角为标准区分锐角和钝角，并能在图形中找出各类角。",
+    "evidence": [
+      "把一组角按锐角直角钝角分类",
+      "在五角星上找出钝角",
+      "说明为什么某个角是锐角"
+    ]
+  },
+  {
+    "id": "mt_math_s2_perimeter_concept",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "周长的认识",
+    "nameEn": "Concept of perimeter",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的认识与测量"
+    ],
+    "description": "理解周长是封闭图形一周的长度，会用绳绕或数格子的方法感受周长。",
+    "evidence": [
+      "用绳绕长方形并量出长度",
+      "数方格图形的周长",
+      "比较两个图形周长是否相同"
+    ]
+  },
+  {
+    "id": "mt_math_s2_rectangle_perimeter",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "长方形周长",
+    "nameEn": "Perimeter of rectangles",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的认识与测量"
+    ],
+    "description": "知道长方形周长等于长加宽的和乘2，能计算并解决实际问题。",
+    "evidence": [
+      "计算长8宽5的长方形周长",
+      "已知周长和宽求长",
+      "围篱笆问题求所需长度"
+    ]
+  },
+  {
+    "id": "mt_math_s2_square_perimeter",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "正方形周长",
+    "nameEn": "Perimeter of squares",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的认识与测量"
+    ],
+    "description": "知道正方形四条边相等，周长等于边长乘4。",
+    "evidence": [
+      "计算边长6的正方形周长",
+      "已知周长求边长",
+      "比较周长相等的不同图形"
+    ]
+  },
+  {
+    "id": "mt_math_s2_area_concept",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "面积的认识",
+    "nameEn": "Concept of area",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的认识与测量"
+    ],
+    "description": "理解面积是物体表面或平面图形的大小，与周长区分开。",
+    "evidence": [
+      "用方格纸比较两个图形面积",
+      "说明面积与周长不是一回事",
+      "选出面积更大的图形"
+    ]
+  },
+  {
+    "id": "mt_math_s2_square_centimetre",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "平方厘米与平方分米",
+    "nameEn": "Square cm and dm",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的认识与测量"
+    ],
+    "description": "认识平方厘米、平方分米是面积单位，能感知1平方厘米的大小。",
+    "evidence": [
+      "指出边长1分米的正方形面积",
+      "选用合适单位描述邮票和桌面",
+      "在方格纸上涂出4平方厘米"
+    ]
+  },
+  {
+    "id": "mt_math_s2_rectangle_area",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "长方形面积",
+    "nameEn": "Area of rectangles",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的认识与测量"
+    ],
+    "description": "掌握长方形面积等于长乘宽，单位用平方厘米或平方分米。",
+    "evidence": [
+      "计算长7宽4的长方形面积",
+      "已知面积和宽求长",
+      "用乘法口诀解释面积公式"
+    ]
+  },
+  {
+    "id": "mt_math_s2_square_area",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "正方形面积",
+    "nameEn": "Area of squares",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的认识与测量"
+    ],
+    "description": "知道正方形面积等于边长乘边长，能进行单位换算。",
+    "evidence": [
+      "计算边长9的正方形面积",
+      "把81平方厘米与9平方分米比较",
+      "铺地砖问题求所需块数"
+    ]
+  },
+  {
+    "id": "mt_math_s2_translation",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "平移",
+    "nameEn": "Translation",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的位置与运动"
+    ],
+    "description": "理解平移是图形沿直线移动，形状和大小不变，能画出平移后的图形。",
+    "evidence": [
+      "把三角形向右平移4格",
+      "指出平移的方向和距离",
+      "判断两个图形是否可通过平移重合"
+    ]
+  },
+  {
+    "id": "mt_math_s2_rotation",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "旋转",
+    "nameEn": "Rotation",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的位置与运动"
+    ],
+    "description": "理解旋转是图形绕一点转动，能描述旋转中心和旋转方向。",
+    "evidence": [
+      "把风车叶片绕中心旋转90°",
+      "说出一个图形旋转前后的对应点",
+      "区分平移与旋转"
+    ]
+  },
+  {
+    "id": "mt_math_s2_symmetry_axis",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "轴对称图形",
+    "nameEn": "Line symmetry",
+    "standards": [
+      "moe-sx-2022:GG.S2.图形的位置与运动"
+    ],
+    "description": "能找出轴对称图形的对称轴，并补全轴对称图形的另一半。",
+    "evidence": [
+      "画出长方形的对称轴",
+      "补全轴对称蝴蝶图",
+      "判断字母E是不是轴对称"
+    ]
+  },
+  {
+    "id": "mt_math_s2_data_collect_table",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "数据的收集与整理",
+    "nameEn": "Collect and organize data",
+    "standards": [
+      "moe-sx-2022:SP.S2.数据的收集整理与表达"
+    ],
+    "description": "能通过调查、测量等方式收集数据，并整理成表格。",
+    "evidence": [
+      "调查班级同学身高并制表",
+      "把原始记录整理成统计表",
+      "检查数据有没有遗漏"
+    ]
+  },
+  {
+    "id": "mt_math_s2_bar_graph_read",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "读条形统计图",
+    "nameEn": "Reading bar graphs",
+    "standards": [
+      "moe-sx-2022:SP.S2.数据的收集整理与表达"
+    ],
+    "description": "能从条形统计图中读取各类数量，并进行多少的比较。",
+    "evidence": [
+      "从图中读出最多的一类",
+      "计算两类相差多少",
+      "回答总量是多少"
+    ]
+  },
+  {
+    "id": "mt_math_s2_bar_graph_make",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "制作条形统计图",
+    "nameEn": "Making bar graphs",
+    "standards": [
+      "moe-sx-2022:SP.S2.数据的收集整理与表达"
+    ],
+    "description": "能根据统计表选择合适的刻度，绘制条形统计图。",
+    "evidence": [
+      "根据表数据画出条形图",
+      "为纵轴选择合适刻度",
+      "给统计图写标题和图例"
+    ]
+  },
+  {
+    "id": "mt_math_s2_average_meaning",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "平均数的意义",
+    "nameEn": "Meaning of average",
+    "standards": [
+      "moe-sx-2022:SP.S2.数据的收集整理与表达"
+    ],
+    "description": "理解平均数表示一组数据的平均水平，不是某一个具体数。",
+    "evidence": [
+      "用移多补少解释平均数",
+      "说明平均数可能在数据之外",
+      "比较两组数据的平均数"
+    ]
+  },
+  {
+    "id": "mt_math_s2_average_calculate",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "求平均数",
+    "nameEn": "Calculating averages",
+    "standards": [
+      "moe-sx-2022:SP.S2.数据的收集整理与表达"
+    ],
+    "description": "会用总数除以个数求平均数，并能解决简单实际问题。",
+    "evidence": [
+      "求四个数的平均数",
+      "已知平均数和三个数求第四个",
+      "解释平均成绩怎么算"
+    ]
+  },
+  {
+    "id": "mt_math_s2_double_bar_graph",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "复式条形统计图",
+    "nameEn": "Double bar graphs",
+    "standards": [
+      "moe-sx-2022:SP.S2.数据的收集整理与表达"
+    ],
+    "description": "能阅读复式条形图，比较两个对象在不同类别上的差异。",
+    "evidence": [
+      "从复式图中比较男女人数",
+      "说出哪一类差距最大",
+      "根据图提出一个数学问题"
+    ]
+  },
+  {
+    "id": "mt_math_s2_data_interpret",
+    "type": "META",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "从数据中获取信息",
+    "nameEn": "Interpreting data",
+    "standards": [
+      "moe-sx-2022:SP.S2.数据的收集整理与表达"
+    ],
+    "description": "能根据统计表或统计图作出合理判断，不只看单个数据。",
+    "evidence": [
+      "根据图表说明变化趋势",
+      "发现数据中的异常值",
+      "用数据支持一个结论"
+    ]
+  },
+  {
+    "id": "mt_math_s2_chart_choose",
+    "type": "META",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "选择合适的统计图",
+    "nameEn": "Choosing chart types",
+    "standards": [
+      "moe-sx-2022:SP.S2.数据的收集整理与表达"
+    ],
+    "description": "知道条形图适合比较数量，能根据问题选择表达方式。",
+    "evidence": [
+      "说明为什么用条形图而不是表格",
+      "为同一数据设计两种展示",
+      "比较两种图各有什么优点"
+    ]
+  },
+  {
+    "id": "mt_math_s2_shopping_budget",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "购物与预算",
+    "nameEn": "Shopping and budgeting",
+    "standards": [
+      "moe-sx-2022:PA.S2.综合与实践"
+    ],
+    "description": "模拟购物情境，运用加减乘除计算总价、找零和是否超预算。",
+    "evidence": [
+      "计算三件商品的总价",
+      "判断100元够不够买",
+      "设计一份班级活动采购清单"
+    ]
+  },
+  {
+    "id": "mt_math_s2_measure_garden",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "测量小花园",
+    "nameEn": "Measuring a garden",
+    "standards": [
+      "moe-sx-2022:PA.S2.综合与实践"
+    ],
+    "description": "测量校园或家中一块矩形区域的长宽，计算周长和面积。",
+    "evidence": [
+      "用米尺量出花坛的长宽",
+      "计算需要多少米围栏",
+      "估算铺草需要的面积"
+    ]
+  },
+  {
+    "id": "mt_math_s2_design_pattern",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "设计对称图案",
+    "nameEn": "Designing symmetric patterns",
+    "standards": [
+      "moe-sx-2022:PA.S2.综合与实践"
+    ],
+    "description": "结合平移、旋转和轴对称设计图案，说明用了哪些变换。",
+    "evidence": [
+      "设计一个轴对称徽标",
+      "用平移复制基本图形",
+      "向同学介绍设计思路"
+    ]
+  },
+  {
+    "id": "mt_math_s2_school_survey",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "校园小调查",
+    "nameEn": "School mini survey",
+    "standards": [
+      "moe-sx-2022:PA.S2.综合与实践"
+    ],
+    "description": "在校园里完成一次小调查，整理数据并用统计图展示。",
+    "evidence": [
+      "确定调查问题并发放问卷",
+      "汇总数据制作条形图",
+      "用一段话汇报发现"
+    ]
+  },
+  {
+    "id": "mt_math_s3_decimal_add_sub",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "小数加减法",
+    "nameEn": "Decimal add/subtract",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "掌握小数加减竖式，小数点对齐，能进行单位换算后再计算。",
+    "evidence": [
+      "竖式计算12.5+3.78",
+      "计算5元-2角5分",
+      "用估算检验小数加减"
+    ]
+  },
+  {
+    "id": "mt_math_s3_decimal_multiply",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "小数乘法",
+    "nameEn": "Decimal multiplication",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "理解小数乘法的算理，掌握积的小数点定位方法。",
+    "evidence": [
+      "计算2.4×1.5",
+      "解释积为什么比被乘数大或小",
+      "用面积模型说明0.3×0.2"
+    ]
+  },
+  {
+    "id": "mt_math_s3_decimal_divide",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "小数除法",
+    "nameEn": "Decimal division",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "会把除数是小数的除法转化为除数是整数的除法，正确计算商。",
+    "evidence": [
+      "计算6.3÷0.9",
+      "计算0.84÷0.12",
+      "判断商大于1还是小于1"
+    ]
+  },
+  {
+    "id": "mt_math_s3_decimal_fraction_convert",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "小数与分数互化",
+    "nameEn": "Decimals and fractions",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "能把有限小数化成分数，把分母是10、100、1000的分数化成小数。",
+    "evidence": [
+      "把0.375写成分数",
+      "把7/100写成小数",
+      "比较0.5和1/2的大小"
+    ]
+  },
+  {
+    "id": "mt_math_s3_fraction_add_diff",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "异分母分数加减",
+    "nameEn": "Unlike denominator fractions",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "会先通分再计算异分母分数加减，结果化成最简分数。",
+    "evidence": [
+      "计算1/3+1/4",
+      "计算5/6-1/2",
+      "用最小公倍数通分"
+    ]
+  },
+  {
+    "id": "mt_math_s3_fraction_multiply",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "分数乘法",
+    "nameEn": "Multiplying fractions",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "理解分数乘法的意义，会计算分数乘整数和分数乘分数。",
+    "evidence": [
+      "计算3/5×2/3",
+      "计算2/3×6",
+      "用面积图解释分数乘法"
+    ]
+  },
+  {
+    "id": "mt_math_s3_fraction_divide",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "分数除法",
+    "nameEn": "Dividing fractions",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "理解除以一个分数等于乘它的倒数，能计算分数除法。",
+    "evidence": [
+      "计算2/3÷4/5",
+      "计算3/4÷6",
+      "解释为什么除以1/2等于乘2"
+    ]
+  },
+  {
+    "id": "mt_math_s3_mixed_number_ops",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "带分数运算",
+    "nameEn": "Mixed number operations",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "会把带分数化成假分数进行运算，结果根据需要写回带分数。",
+    "evidence": [
+      "计算2又1/3+1又2/3",
+      "把假分数化成带分数",
+      "解决带分数的实际问题"
+    ]
+  },
+  {
+    "id": "mt_math_s3_percent_meaning",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "百分数的意义",
+    "nameEn": "Meaning of percent",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "理解百分数表示一个数是另一个数的百分之几，带百分号。",
+    "evidence": [
+      "把32/100写成32%",
+      "解释命中率80%的含义",
+      "在100格图里涂出25%"
+    ]
+  },
+  {
+    "id": "mt_math_s3_percent_convert",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "百分数与分数小数互化",
+    "nameEn": "Percent conversions",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "能在百分数、分数和小数之间互化，并比较大小。",
+    "evidence": [
+      "把0.125化成百分数",
+      "把3/5化成百分数",
+      "比较45%和0.48的大小"
+    ]
+  },
+  {
+    "id": "mt_math_s3_percent_problems",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "百分数的应用",
+    "nameEn": "Percent applications",
+    "standards": [
+      "moe-sx-2022:NA.S3.数量关系"
+    ],
+    "description": "会求一个数的百分之几是多少，以及一个数是另一个数的百分之几。",
+    "evidence": [
+      "求200的15%是多少",
+      "80是500的百分之几",
+      "计算打折后实际价格"
+    ]
+  },
+  {
+    "id": "mt_math_s3_factors_multiples",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "因数与倍数",
+    "nameEn": "Factors and multiples",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "理解因数和倍数的意义，会找出一个数的所有因数和几个倍数。",
+    "evidence": [
+      "写出18的所有因数",
+      "写出7的前五个倍数",
+      "判断3是不是12的因数"
+    ]
+  },
+  {
+    "id": "mt_math_s3_prime_composite",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "质数与合数",
+    "nameEn": "Primes and composites",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "知道只有1和本身两个因数的数是质数，会判断100以内的质数。",
+    "evidence": [
+      "判断29是质数还是合数",
+      "用筛法找100以内质数",
+      "说明1为什么不是质数"
+    ]
+  },
+  {
+    "id": "mt_math_s3_gcd",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "最大公因数",
+    "nameEn": "Greatest common factor",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "会用列举法或分解质因数法求两个数的最大公因数。",
+    "evidence": [
+      "求24和36的最大公因数",
+      "把两个数分解质因数",
+      "用最大公因数约分"
+    ]
+  },
+  {
+    "id": "mt_math_s3_lcm",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "最小公倍数",
+    "nameEn": "Least common multiple",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "会求两个数的最小公倍数，并用于通分和实际问题。",
+    "evidence": [
+      "求4和6的最小公倍数",
+      "用最小公倍数给异分母分数通分",
+      "解决两路公交同时发车问题"
+    ]
+  },
+  {
+    "id": "mt_math_s3_ratio_meaning",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "比的意义",
+    "nameEn": "Meaning of ratio",
+    "standards": [
+      "moe-sx-2022:NA.S3.数量关系"
+    ],
+    "description": "理解比表示两个量相除的关系，会读写比并求比值。",
+    "evidence": [
+      "把15:20化简",
+      "求3:5的比值",
+      "用比描述地图上的比例"
+    ]
+  },
+  {
+    "id": "mt_math_s3_ratio_simplify",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "比的化简与求值",
+    "nameEn": "Simplifying ratios",
+    "standards": [
+      "moe-sx-2022:NA.S3.数量关系"
+    ],
+    "description": "根据比的基本性质化简比，把分数比和不同单位的比化简。",
+    "evidence": [
+      "化简18:24",
+      "化简1/2:1/3",
+      "把2小时30分化成最简整数比"
+    ]
+  },
+  {
+    "id": "mt_math_s3_ratio_scale",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "比例尺",
+    "nameEn": "Scale drawings",
+    "standards": [
+      "moe-sx-2022:NA.S3.数量关系"
+    ],
+    "description": "理解比例尺是图上距离与实际距离的比，会求图上或实际长度。",
+    "evidence": [
+      "根据比例尺1:10000求实际距离",
+      "把实际3km画在比例尺图上",
+      "解释比例尺的含义"
+    ]
+  },
+  {
+    "id": "mt_math_s3_direct_proportion",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "正比例关系",
+    "nameEn": "Direct proportion",
+    "standards": [
+      "moe-sx-2022:NA.S3.数量关系"
+    ],
+    "description": "理解两种相关联的量，比值一定时成正比例，会判断正比例关系。",
+    "evidence": [
+      "判断路程与时间是否成正比例",
+      "写出正比例关系式y=kx",
+      "举出生活中的正比例例子"
+    ]
+  },
+  {
+    "id": "mt_math_s3_direct_proportion_table",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "正比例的表与图",
+    "nameEn": "Direct proportion tables",
+    "standards": [
+      "moe-sx-2022:NA.S3.数量关系"
+    ],
+    "description": "能用表格和图像表示正比例关系，从图上看比值是否恒定。",
+    "evidence": [
+      "填正比例关系的表格",
+      "画出正比例图像",
+      "从图像上读对应值"
+    ]
+  },
+  {
+    "id": "mt_math_s3_order_of_ops_brackets",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "四则混合运算",
+    "nameEn": "Mixed operations with brackets",
+    "standards": [
+      "moe-sx-2022:NA.S3.数与运算"
+    ],
+    "description": "掌握有括号的四则混合运算顺序，先算括号里再算括号外。",
+    "evidence": [
+      "计算(48+12)÷6",
+      "计算360÷(15-3×2)",
+      "给算式添括号使结果为定值"
+    ]
+  },
+  {
+    "id": "mt_math_s3_letter_for_number",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "用字母表示数",
+    "nameEn": "Letters for numbers",
+    "standards": [
+      "moe-sx-2022:NA.S3.数量关系"
+    ],
+    "description": "会用含字母的式子表示数量关系和规律，为初中代数做准备。",
+    "evidence": [
+      "用式子表示小明比小红大a岁",
+      "根据规律写出第n项",
+      "把文字叙述写成代数式"
+    ]
+  },
+  {
+    "id": "mt_math_s3_circle_recognize",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "圆的认识",
+    "nameEn": "Properties of circles",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "认识圆的圆心、半径和直径，知道同圆半径相等、直径是半径的2倍。",
+    "evidence": [
+      "用圆规画一个半径3cm的圆",
+      "指出圆的直径和半径",
+      "判断线段是不是圆的半径"
+    ]
+  },
+  {
+    "id": "mt_math_s3_circle_circumference",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "圆的周长",
+    "nameEn": "Circumference of circles",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "理解圆周率π，会用C=πd或C=2πr计算圆的周长。",
+    "evidence": [
+      "计算直径10cm的圆周长",
+      "已知周长求半径",
+      "比较两个圆的周长大小"
+    ]
+  },
+  {
+    "id": "mt_math_s3_circle_area",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "圆的面积",
+    "nameEn": "Area of circles",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "掌握圆面积公式S=πr²，能计算和解决实际问题。",
+    "evidence": [
+      "计算半径5cm的圆面积",
+      "求圆环的面积",
+      "计算半圆的面积"
+    ]
+  },
+  {
+    "id": "mt_math_s3_angle_measure",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "用量角器量角",
+    "nameEn": "Measuring angles",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "会正确使用量角器测量和画出指定度数的角。",
+    "evidence": [
+      "量出三角形的一个角",
+      "画出65°的角",
+      "检查量角器中心是否对准顶点"
+    ]
+  },
+  {
+    "id": "mt_math_s3_triangle_angle_sum",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "三角形内角和",
+    "nameEn": "Triangle angle sum",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "通过剪拼或测量发现三角形内角和是180°，会求未知角的度数。",
+    "evidence": [
+      "已知两角求第三角",
+      "判断三个角能否组成三角形",
+      "用内角和解释直角三角形"
+    ]
+  },
+  {
+    "id": "mt_math_s3_parallelogram_area",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "平行四边形面积",
+    "nameEn": "Parallelogram area",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "理解平行四边形面积等于底乘高，会通过剪拼推导公式。",
+    "evidence": [
+      "计算底8高5的平行四边形面积",
+      "已知面积和底求高",
+      "画出一个与给定平行四边形等面积的图形"
+    ]
+  },
+  {
+    "id": "mt_math_s3_triangle_area",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "三角形面积",
+    "nameEn": "Triangle area",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "掌握三角形面积等于底乘高除以2，能计算各种三角形的面积。",
+    "evidence": [
+      "计算底6高4的三角形面积",
+      "求直角三角形的面积",
+      "比较同底三角形面积关系"
+    ]
+  },
+  {
+    "id": "mt_math_s3_trapezoid_area",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "梯形面积",
+    "nameEn": "Trapezoid area",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "理解梯形面积公式，会用上底加下底乘高除以2计算。",
+    "evidence": [
+      "计算上底3下底7高4的梯形面积",
+      "把梯形分成已知图形求面积",
+      "解决农田梯形地块面积问题"
+    ]
+  },
+  {
+    "id": "mt_math_s3_composite_area",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "组合图形面积",
+    "nameEn": "Composite figure area",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "会把组合图形分割或补成基本图形，分别求面积再合计。",
+    "evidence": [
+      "求L形区域的面积",
+      "求含半圆的组合图形面积",
+      "选择最简便的分割方法"
+    ]
+  },
+  {
+    "id": "mt_math_s3_volume_concept",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "体积的认识",
+    "nameEn": "Concept of volume",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "理解体积是物体所占空间的大小，与面积区分开。",
+    "evidence": [
+      "比较两个盒子哪个更能装",
+      "用1立方厘米小方块摆体积",
+      "说明体积与表面积不是一回事"
+    ]
+  },
+  {
+    "id": "mt_math_s3_cuboid_volume",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "长方体体积",
+    "nameEn": "Volume of cuboids",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "掌握长方体体积等于长乘宽乘高，单位用立方厘米或立方分米。",
+    "evidence": [
+      "计算长5宽3高2的长方体体积",
+      "已知体积求一个未知棱长",
+      "进行体积单位换算"
+    ]
+  },
+  {
+    "id": "mt_math_s3_cube_volume",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "正方体体积",
+    "nameEn": "Volume of cubes",
+    "standards": [
+      "moe-sx-2022:GG.S3.图形的认识与测量"
+    ],
+    "description": "知道正方体体积等于棱长的立方，能解决容积类问题。",
+    "evidence": [
+      "计算棱长4cm的正方体体积",
+      "求能装多少升水的正方体容器",
+      "比较表面积相同体积不同的盒子"
+    ]
+  },
+  {
+    "id": "mt_math_s3_pie_chart_read",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "读扇形统计图",
+    "nameEn": "Reading pie charts",
+    "standards": [
+      "moe-sx-2022:SP.S3.数据的收集整理与表达"
+    ],
+    "description": "能从扇形统计图中读出各部分占总体的百分比，并进行比较。",
+    "evidence": [
+      "读出某部分占整体的百分比",
+      "比较两个扇形区域的大小",
+      "根据扇形图回答总量问题"
+    ]
+  },
+  {
+    "id": "mt_math_s3_pie_chart_make",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "制作扇形统计图",
+    "nameEn": "Making pie charts",
+    "standards": [
+      "moe-sx-2022:SP.S3.数据的收集整理与表达"
+    ],
+    "description": "会计算各部分圆心角，绘制扇形统计图展示比例关系。",
+    "evidence": [
+      "把百分比换算成圆心角",
+      "根据数据画出扇形图",
+      "检查各扇形百分比之和为100%"
+    ]
+  },
+  {
+    "id": "mt_math_s3_line_graph",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "折线统计图",
+    "nameEn": "Line graphs",
+    "standards": [
+      "moe-sx-2022:SP.S3.数据的收集整理与表达"
+    ],
+    "description": "能阅读折线统计图，看出数据随时间变化的趋势。",
+    "evidence": [
+      "从折线图读出最高点和最低点",
+      "描述气温变化趋势",
+      "根据折线图预测下一时段"
+    ]
+  },
+  {
+    "id": "mt_math_s3_probability_certain",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "确定性与不确定性",
+    "nameEn": "Certainty and uncertainty",
+    "standards": [
+      "moe-sx-2022:SP.S3.随机现象发生的可能性"
+    ],
+    "description": "能用一定、可能、不可能描述事件，区分确定事件与随机事件。",
+    "evidence": [
+      "判断太阳从西边升起属于哪类",
+      "举出生活中可能发生的例子",
+      "说明不可能事件不是很少发生"
+    ]
+  },
+  {
+    "id": "mt_math_s3_probability_fraction",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "可能性的大小",
+    "nameEn": "Likelihood as fractions",
+    "standards": [
+      "moe-sx-2022:SP.S3.随机现象发生的可能性"
+    ],
+    "description": "会用分数描述事件发生的可能性大小，比较不同结果的可能性。",
+    "evidence": [
+      "用分数表示掷硬币正面朝上的可能性",
+      "比较袋中摸红球与摸白球的可能性",
+      "设计可能性不同的两个转盘"
+    ]
+  },
+  {
+    "id": "mt_math_s3_fair_game",
+    "type": "META",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "公平游戏",
+    "nameEn": "Fair games",
+    "standards": [
+      "moe-sx-2022:SP.S3.随机现象发生的可能性"
+    ],
+    "description": "能判断游戏规则是否公平，并调整规则使各方获胜机会相等。",
+    "evidence": [
+      "判断轮流掷骰子规则是否公平",
+      "修改转盘使甲乙胜率相同",
+      "解释为什么抛硬币决定先后是公平的"
+    ]
+  },
+  {
+    "id": "mt_math_s3_data_analysis_trend",
+    "type": "META",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "数据分析与推断",
+    "nameEn": "Data analysis and inference",
+    "standards": [
+      "moe-sx-2022:SP.S3.数据的收集整理与表达"
+    ],
+    "description": "能结合多种统计图分析数据，作出合理推断而不是主观猜测。",
+    "evidence": [
+      "根据折线图推断销量变化原因",
+      "比较两组数据的集中趋势",
+      "指出仅凭一次调查不能下结论"
+    ]
+  },
+  {
+    "id": "mt_math_s3_experiment_frequency",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "试验与频率",
+    "nameEn": "Experiments and frequency",
+    "standards": [
+      "moe-sx-2022:SP.S3.随机现象发生的可能性"
+    ],
+    "description": "通过重复试验记录频率，体会频率随试验次数增加趋于稳定。",
+    "evidence": [
+      "抛硬币50次记录正面频率",
+      "比较不同小组的频率结果",
+      "说明频率与可能性的联系"
+    ]
+  },
+  {
+    "id": "mt_math_s3_design_logo",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "设计班徽",
+    "nameEn": "Design a class logo",
+    "standards": [
+      "moe-sx-2022:PA.S3.综合与实践"
+    ],
+    "description": "综合运用圆、对称和比例设计班徽，并说明设计中的数学。",
+    "evidence": [
+      "用圆和轴对称设计图案",
+      "说明颜色面积占比",
+      "向全班介绍设计方案"
+    ]
+  },
+  {
+    "id": "mt_math_s3_plan_trip",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "规划一次出行",
+    "nameEn": "Plan a trip",
+    "standards": [
+      "moe-sx-2022:PA.S3.综合与实践"
+    ],
+    "description": "运用时间、速度、路程和费用计算，制定一份可行的出行计划。",
+    "evidence": [
+      "计算总路程和所需时间",
+      "比较不同交通方式的费用",
+      "制作行程时间表"
+    ]
+  },
+  {
+    "id": "mt_math_s3_grow_plants",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "种植与记录",
+    "nameEn": "Growing and recording",
+    "standards": [
+      "moe-sx-2022:PA.S3.综合与实践"
+    ],
+    "description": "定期测量植物高度，记录数据并绘制折线图，分析生长规律。",
+    "evidence": [
+      "每周测量并记录植物高度",
+      "绘制生长折线图",
+      "根据数据描述生长快慢"
+    ]
+  },
+  {
+    "id": "mt_math_s3_statistics_project",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "统计小课题",
+    "nameEn": "Statistics mini project",
+    "standards": [
+      "moe-sx-2022:PA.S3.综合与实践"
+    ],
+    "description": "自选主题完成从调查、整理到图表展示和汇报的完整统计项目。",
+    "evidence": [
+      "提出研究问题并收集数据",
+      "选用合适的统计图展示",
+      "撰写简短的研究结论"
+    ]
+  },
+  {
+    "id": "mt_math_s4_rational_number",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "有理数的认识",
+    "nameEn": "Rational numbers",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "理解正数、负数和零组成有理数，会在数轴上表示有理数。",
+    "evidence": [
+      "把-3.5和2/3标在数轴上",
+      "比较两个负数的大小",
+      "说出相反数和绝对值"
+    ]
+  },
+  {
+    "id": "mt_math_s4_absolute_value",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "绝对值",
+    "nameEn": "Absolute value",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "理解绝对值表示数到原点的距离，会求有理数的绝对值。",
+    "evidence": [
+      "求-7的绝对值",
+      "比较|-3|和|2|的大小",
+      "化简含绝对值的式子"
+    ]
+  },
+  {
+    "id": "mt_math_s4_rational_add_sub",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "有理数加减法",
+    "nameEn": "Rational add/subtract",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "掌握有理数加减法则，包括异号相加和减去负数。",
+    "evidence": [
+      "计算(-5)+8",
+      "计算3-(-7)",
+      "用数轴解释一道有理数减法"
+    ]
+  },
+  {
+    "id": "mt_math_s4_rational_multiply",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "有理数乘除法",
+    "nameEn": "Rational multiply/divide",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "掌握有理数乘除法则和符号规律，会计算多个数的连乘除。",
+    "evidence": [
+      "计算(-2)×(-3)×(-1)",
+      "计算(-12)÷4",
+      "说明负负得正的理由"
+    ]
+  },
+  {
+    "id": "mt_math_s4_rational_mixed",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "有理数混合运算",
+    "nameEn": "Rational mixed operations",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "熟练进行有理数四则混合运算，注意运算顺序和符号。",
+    "evidence": [
+      "计算-3²与(-3)²的区别",
+      "计算-2+3×(-4)",
+      "用运算律简化计算"
+    ]
+  },
+  {
+    "id": "mt_math_s4_power_exponent",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "乘方与科学记数法",
+    "nameEn": "Powers and scientific notation",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "理解乘方的意义，会用科学记数法表示较大或较小的数。",
+    "evidence": [
+      "计算(-2)⁴",
+      "把3600000写成科学记数法",
+      "比较两个科学记数法表示的数"
+    ]
+  },
+  {
+    "id": "mt_math_s4_real_number",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "实数与无理数",
+    "nameEn": "Real and irrational numbers",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "知道无理数是无限不循环小数，理解实数与数轴上的点一一对应。",
+    "evidence": [
+      "判断√2是有理还是无理",
+      "在数轴上大致标出√5",
+      "说明π是无理数"
+    ]
+  },
+  {
+    "id": "mt_math_s4_square_cube_root",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "平方根与立方根",
+    "nameEn": "Square and cube roots",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "理解平方根和立方根的意义，会用根号表示并估算无理数。",
+    "evidence": [
+      "求√81和∛(-8)",
+      "估算√20在哪两个整数之间",
+      "说明√a²=|a|"
+    ]
+  },
+  {
+    "id": "mt_math_s4_algebraic_expression",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "代数式",
+    "nameEn": "Algebraic expressions",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "会把文字叙述写成代数式，并求代数式在特定值下的结果。",
+    "evidence": [
+      "把'比x大3'写成代数式",
+      "当x=-2时求2x²-1的值",
+      "判断代数式何时有意义"
+    ]
+  },
+  {
+    "id": "mt_math_s4_polynomial_add_sub",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "整式加减",
+    "nameEn": "Polynomial add/subtract",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "会把同类项合并，进行整式的加减运算。",
+    "evidence": [
+      "合并3x²-2x+5x-1",
+      "计算(2a-b)-(a+3b)",
+      "化简后再代入求值"
+    ]
+  },
+  {
+    "id": "mt_math_s4_polynomial_multiply",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "整式乘法",
+    "nameEn": "Polynomial multiplication",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "掌握单项式乘多项式、多项式乘多项式及乘法公式。",
+    "evidence": [
+      "计算(2x+3)(x-1)",
+      "用平方差公式计算(3a+2)(3a-2)",
+      "展开并化简整式"
+    ]
+  },
+  {
+    "id": "mt_math_s4_factorization",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "因式分解",
+    "nameEn": "Factorization",
+    "standards": [
+      "moe-sx-2022:NA.S4.数与式"
+    ],
+    "description": "会用提公因式法、公式法进行因式分解，与整式乘法互逆。",
+    "evidence": [
+      "分解x²-9",
+      "分解2x²+4x",
+      "先提公因式再用公式分解"
+    ]
+  },
+  {
+    "id": "mt_math_s4_linear_equation_one",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "一元一次方程",
+    "nameEn": "Linear equations in one variable",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "理解方程是含有未知数的等式，会解一元一次方程并检验。",
+    "evidence": [
+      "解3x-5=2x+1",
+      "检验方程的解",
+      "根据题意列出方程"
+    ]
+  },
+  {
+    "id": "mt_math_s4_linear_equation_fraction",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "含分数系数的一元一次方程",
+    "nameEn": "Equations with fractions",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "会去分母解含分数的一元一次方程，注意不漏乘和符号。",
+    "evidence": [
+      "解(x/2+1)/3=2",
+      "解0.5x-0.3=0.2x+1",
+      "检验分母不为零"
+    ]
+  },
+  {
+    "id": "mt_math_s4_equation_word_problems",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "列方程解应用题",
+    "nameEn": "Equation word problems",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "能从行程、工程、利润等情境中找出等量关系并列方程求解。",
+    "evidence": [
+      "列方程解相遇问题",
+      "列方程解打折销售问题",
+      "说明方程中每个量的含义"
+    ]
+  },
+  {
+    "id": "mt_math_s4_system_linear_two",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "二元一次方程组",
+    "nameEn": "Systems of linear equations",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "会用代入法和加减法解二元一次方程组，并检验解。",
+    "evidence": [
+      "用代入法解方程组",
+      "用加减法消元求解",
+      "判断方程组解的个数"
+    ]
+  },
+  {
+    "id": "mt_math_s4_linear_inequality",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "一元一次不等式",
+    "nameEn": "Linear inequalities",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "掌握不等式的性质，会解一元一次不等式并在数轴上表示解集。",
+    "evidence": [
+      "解2x-3>5",
+      "在数轴上表示x≤-1",
+      "说明不等式变号的原因"
+    ]
+  },
+  {
+    "id": "mt_math_s4_inequality_system",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "一元一次不等式组",
+    "nameEn": "Systems of inequalities",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "会求不等式组的公共解集，并用数轴确定解集范围。",
+    "evidence": [
+      "解不等式组并画数轴",
+      "求整数解",
+      "解决含不等式的实际问题"
+    ]
+  },
+  {
+    "id": "mt_math_s4_inverse_proportion",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "反比例关系",
+    "nameEn": "Inverse proportion",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "理解两个量的乘积一定时成反比例，会判断和列反比例关系式。",
+    "evidence": [
+      "判断路程一定时速度与时间的关系",
+      "写出xy=12的反比例式",
+      "举出反比例的生活例子"
+    ]
+  },
+  {
+    "id": "mt_math_s4_inverse_proportion_graph",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "反比例函数的图像",
+    "nameEn": "Inverse proportion graphs",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "知道反比例函数图像是双曲线，会在坐标系中画出大致图像。",
+    "evidence": [
+      "画出y=6/x的图像",
+      "读图像判断x增大时y的变化",
+      "比较两个反比例函数图像位置"
+    ]
+  },
+  {
+    "id": "mt_math_s4_quadratic_equation",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "一元二次方程",
+    "nameEn": "Quadratic equations",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "会用配方法、公式法和因式分解法解一元二次方程。",
+    "evidence": [
+      "用公式法解x²-5x+6=0",
+      "用因式分解法解方程",
+      "判断方程有几个实数根"
+    ]
+  },
+  {
+    "id": "mt_math_s4_quadratic_inequality",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "一元二次不等式",
+    "nameEn": "Quadratic inequalities",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "结合二次函数图像解一元二次不等式，理解解集与根的关系。",
+    "evidence": [
+      "解x²-4>0",
+      "用图像说明解集区间",
+      "求二次不等式的整数解"
+    ]
+  },
+  {
+    "id": "mt_math_s4_fractional_equation",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "分式方程",
+    "nameEn": "Fractional equations",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "会去分母解分式方程，并检验是否产生增根。",
+    "evidence": [
+      "解1/x+2/(x-1)=3",
+      "检验解是否使分母为零",
+      "说明增根产生的原因"
+    ]
+  },
+  {
+    "id": "mt_math_s4_inequality_application",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "不等式的应用",
+    "nameEn": "Inequality applications",
+    "standards": [
+      "moe-sx-2022:NA.S4.方程与不等式"
+    ],
+    "description": "能用不等式表示实际问题中的范围限制，并求最优方案。",
+    "evidence": [
+      "列不等式解决预算限制问题",
+      "求满足条件的整数方案",
+      "比较不同方案的可行性"
+    ]
+  },
+  {
+    "id": "mt_math_s4_function_concept",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "函数的概念",
+    "nameEn": "Concept of functions",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "理解函数是两个变量之间的一种对应关系，每个自变量对应唯一因变量。",
+    "evidence": [
+      "判断对应关系是不是函数",
+      "举出函数和非函数的例子",
+      "用表格表示函数关系"
+    ]
+  },
+  {
+    "id": "mt_math_s4_linear_function",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "一次函数",
+    "nameEn": "Linear functions",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "理解一次函数y=kx+b，知道k决定斜率、b决定截距。",
+    "evidence": [
+      "判断y=2x-1是不是一次函数",
+      "求k=3,b=-2的函数式",
+      "根据两点求一次函数解析式"
+    ]
+  },
+  {
+    "id": "mt_math_s4_linear_function_graph",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "一次函数的图像",
+    "nameEn": "Graphs of linear functions",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "会用两点法画一次函数图像，从图像上读斜率和截距。",
+    "evidence": [
+      "画出y=-x+2的图像",
+      "从图像判断k的正负",
+      "求图像与坐标轴交点"
+    ]
+  },
+  {
+    "id": "mt_math_s4_linear_function_apply",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "一次函数的应用",
+    "nameEn": "Linear function applications",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "能用一次函数模型解决行程、费用等变化均匀的实际问题。",
+    "evidence": [
+      "建立出租车计费函数模型",
+      "根据图像解决行程问题",
+      "比较两个一次函数方案"
+    ]
+  },
+  {
+    "id": "mt_math_s4_quadratic_function",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "二次函数",
+    "nameEn": "Quadratic functions",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "理解二次函数y=ax²+bx+c，知道a决定开口方向和大小。",
+    "evidence": [
+      "判断y=-2x²+3x-1的开口方向",
+      "求抛物线的对称轴",
+      "比较a大小对开口的影响"
+    ]
+  },
+  {
+    "id": "mt_math_s4_quadratic_graph",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "二次函数的图像",
+    "nameEn": "Graphs of quadratic functions",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "会画二次函数抛物线，理解顶点、对称轴和与x轴交点。",
+    "evidence": [
+      "画出y=x²-4x+3的图像",
+      "读图像求最大值或最小值",
+      "用配方法找顶点坐标"
+    ]
+  },
+  {
+    "id": "mt_math_s4_quadratic_apply",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "二次函数的应用",
+    "nameEn": "Quadratic applications",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "能用二次函数解决面积最大、抛物线运动等问题。",
+    "evidence": [
+      "求矩形面积最大时的边长",
+      "建立抛球高度与时间的关系",
+      "解释顶点在实际中的意义"
+    ]
+  },
+  {
+    "id": "mt_math_s4_function_table_graph",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "函数的表格与图像",
+    "nameEn": "Function tables and graphs",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "能在表格、解析式和图像之间转换，理解三种表示的优缺点。",
+    "evidence": [
+      "根据表格画函数图像",
+      "从图像写出大致解析式",
+      "比较用哪种方式更方便"
+    ]
+  },
+  {
+    "id": "mt_math_s4_piecewise_function",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "分段函数",
+    "nameEn": "Piecewise functions",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "理解分段函数在不同区间用不同表达式，能读分段函数图像。",
+    "evidence": [
+      "读分段计费函数的图像",
+      "写出租车分段计费函数",
+      "求分段函数在某点的函数值"
+    ]
+  },
+  {
+    "id": "mt_math_s4_function_and_equation",
+    "type": "META",
+    "subject": "数学",
+    "domain": "数与代数",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "函数与方程的联系",
+    "nameEn": "Functions and equations",
+    "standards": [
+      "moe-sx-2022:NA.S4.函数"
+    ],
+    "description": "理解方程的解对应函数图像与x轴交点的横坐标，会用图像解方程。",
+    "evidence": [
+      "用图像求x²-4=0的解",
+      "比较两函数图像交点的意义",
+      "说明函数、方程、不等式的关系"
+    ]
+  },
+  {
+    "id": "mt_math_s4_triangle_properties",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "三角形的性质",
+    "nameEn": "Triangle properties",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "掌握三角形三边关系和内外角性质，能判断能否构成三角形。",
+    "evidence": [
+      "判断3cm、4cm、8cm能否组成三角形",
+      "求三角形外角的度数",
+      "说明任意两边之和大于第三边"
+    ]
+  },
+  {
+    "id": "mt_math_s4_congruent_triangles",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "全等三角形",
+    "nameEn": "Congruent triangles",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "理解全等三角形对应边和对应角相等，能找出对应元素。",
+    "evidence": [
+      "找出两个全等三角形的对应边",
+      "说明全等的符号表示",
+      "判断两个三角形是否全等"
+    ]
+  },
+  {
+    "id": "mt_math_s4_congruence_sss_sas",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "全等判定SSS与SAS",
+    "nameEn": "SSS and SAS congruence",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "会用边边边和边角边判定三角形全等，并用于证明线段或角相等。",
+    "evidence": [
+      "用SAS证明两个三角形全等",
+      "由全等推出对应边相等",
+      "完成一个简短的全等证明"
+    ]
+  },
+  {
+    "id": "mt_math_s4_congruence_asa_aas",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "全等判定ASA与AAS",
+    "nameEn": "ASA and AAS congruence",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "会用角边角和角角边判定全等，解决角平分线和垂直问题。",
+    "evidence": [
+      "用ASA证明两个三角形全等",
+      "证明角平分线上的点到两边距离相等",
+      "选择最合适的判定方法"
+    ]
+  },
+  {
+    "id": "mt_math_s4_pythagorean",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "勾股定理",
+    "nameEn": "Pythagorean theorem",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "理解直角三角形两直角边的平方和等于斜边平方，会求边长。",
+    "evidence": [
+      "已知两直角边求斜边",
+      "判断三边能否构成直角三角形",
+      "用勾股定理解决实际问题"
+    ]
+  },
+  {
+    "id": "mt_math_s4_parallelogram_properties",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "平行四边形的性质",
+    "nameEn": "Parallelogram properties",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "掌握平行四边形对边平行且相等、对角相等、对角线互相平分。",
+    "evidence": [
+      "利用性质求未知角的度数",
+      "证明线段相等",
+      "判断一个四边形是不是平行四边形"
+    ]
+  },
+  {
+    "id": "mt_math_s4_similar_triangles",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "相似三角形",
+    "nameEn": "Similar triangles",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "理解相似三角形对应角相等、对应边成比例，会判断相似。",
+    "evidence": [
+      "找出相似三角形的对应边",
+      "用AA判定两个三角形相似",
+      "说明相似比的意义"
+    ]
+  },
+  {
+    "id": "mt_math_s4_similarity_ratio",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "相似比的应用",
+    "nameEn": "Similarity ratio applications",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "会用相似比求未知边长、面积比和周长比。",
+    "evidence": [
+      "已知相似比求对应边",
+      "求相似三角形面积之比",
+      "用相似测量旗杆高度"
+    ]
+  },
+  {
+    "id": "mt_math_s4_circle_properties_jh",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "圆的性质",
+    "nameEn": "Circle properties",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "掌握垂径定理、圆周角定理等圆的基本性质，并用于推理。",
+    "evidence": [
+      "用垂径定理求弦长",
+      "求圆周角的度数",
+      "证明同弧所对圆周角相等"
+    ]
+  },
+  {
+    "id": "mt_math_s4_circle_tangent",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "圆的切线",
+    "nameEn": "Tangents to circles",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的性质"
+    ],
+    "description": "理解切线与半径垂直，掌握切线长定理并解决几何问题。",
+    "evidence": [
+      "证明切线垂直于半径",
+      "求切线长",
+      "判断直线与圆的位置关系"
+    ]
+  },
+  {
+    "id": "mt_math_s4_coordinate_plane",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "平面直角坐标系",
+    "nameEn": "Coordinate plane",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形与坐标"
+    ],
+    "description": "理解坐标系中点的位置由横纵坐标确定，会在各象限描点。",
+    "evidence": [
+      "写出点A(-2,3)的坐标",
+      "判断点在第几象限",
+      "找出x轴和y轴上点的特征"
+    ]
+  },
+  {
+    "id": "mt_math_s4_point_distance",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "两点间距离",
+    "nameEn": "Distance between points",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形与坐标"
+    ],
+    "description": "会求平面直角坐标系中两点间的距离，并与勾股定理联系。",
+    "evidence": [
+      "求A(1,2)和B(4,6)的距离",
+      "判断三角形三边长",
+      "用距离公式验证等腰三角形"
+    ]
+  },
+  {
+    "id": "mt_math_s4_graph_translation_jh",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "图形的平移",
+    "nameEn": "Translating figures",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的变化"
+    ],
+    "description": "会用坐标表示图形的平移，掌握平移后对应点坐标的变化规律。",
+    "evidence": [
+      "把三角形向右平移3个单位",
+      "写出平移后顶点坐标",
+      "描述平移向量"
+    ]
+  },
+  {
+    "id": "mt_math_s4_graph_rotation_jh",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "图形的旋转",
+    "nameEn": "Rotating figures",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的变化"
+    ],
+    "description": "理解图形绕原点旋转90°、180°时坐标的变化规律。",
+    "evidence": [
+      "求点(2,3)绕原点旋转90°后的坐标",
+      "画出旋转后的三角形",
+      "说明旋转中心和角度"
+    ]
+  },
+  {
+    "id": "mt_math_s4_graph_reflection",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "图形的轴对称",
+    "nameEn": "Reflecting figures",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的变化"
+    ],
+    "description": "会求图形关于x轴、y轴对称后的坐标，理解对称与坐标符号的关系。",
+    "evidence": [
+      "求点(-3,4)关于x轴的对称点",
+      "画出关于y轴对称的图形",
+      "说明对称变换的性质"
+    ]
+  },
+  {
+    "id": "mt_math_s4_similarity_transformation",
+    "type": "META",
+    "subject": "数学",
+    "domain": "图形与几何",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "位似与相似变换",
+    "nameEn": "Similarity transformations",
+    "standards": [
+      "moe-sx-2022:GG.S4.图形的变化"
+    ],
+    "description": "理解位似是特殊的相似变换，知道位似中心与相似比的关系。",
+    "evidence": [
+      "画出以原点为位似中心的放大图形",
+      "求位似比",
+      "说明位似与相似的区别与联系"
+    ]
+  },
+  {
+    "id": "mt_math_s4_sampling",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "抽样调查",
+    "nameEn": "Sampling surveys",
+    "standards": [
+      "moe-sx-2022:SP.S4.抽样与数据分析"
+    ],
+    "description": "理解总体、个体、样本和样本容量的概念，知道为什么要抽样。",
+    "evidence": [
+      "设计一个抽样调查方案",
+      "区分普查和抽样调查",
+      "说明样本要有代表性"
+    ]
+  },
+  {
+    "id": "mt_math_s4_frequency_distribution",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "频数与频率分布",
+    "nameEn": "Frequency distributions",
+    "standards": [
+      "moe-sx-2022:SP.S4.抽样与数据分析"
+    ],
+    "description": "会制作频数分布表和直方图，从分布中读出数据集中趋势。",
+    "evidence": [
+      "把数据分组制频数表",
+      "绘制频数直方图",
+      "从直方图读出人数最多的组"
+    ]
+  },
+  {
+    "id": "mt_math_s4_mean_median_mode",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "平均数、中位数与众数",
+    "nameEn": "Mean, median and mode",
+    "standards": [
+      "moe-sx-2022:SP.S4.抽样与数据分析"
+    ],
+    "description": "会计算平均数、中位数和众数，并根据数据特点选择合适的代表量。",
+    "evidence": [
+      "求一组数据的中位数",
+      "找出众数并解释意义",
+      "说明平均数受极端值影响"
+    ]
+  },
+  {
+    "id": "mt_math_s4_variance_std",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "方差与标准差",
+    "nameEn": "Variance and standard deviation",
+    "standards": [
+      "moe-sx-2022:SP.S4.抽样与数据分析"
+    ],
+    "description": "理解方差和标准差描述数据的离散程度，会计算并比较波动性。",
+    "evidence": [
+      "计算一组数据的方差",
+      "比较两组数据的稳定性",
+      "说明标准差越小越集中"
+    ]
+  },
+  {
+    "id": "mt_math_s4_scatter_plot",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "散点图与相关",
+    "nameEn": "Scatter plots and correlation",
+    "standards": [
+      "moe-sx-2022:SP.S4.抽样与数据分析"
+    ],
+    "description": "会用散点图观察两个变量的相关关系，区分正相关和负相关。",
+    "evidence": [
+      "绘制身高与臂长的散点图",
+      "从散点图判断相关趋势",
+      "说明相关不等于因果"
+    ]
+  },
+  {
+    "id": "mt_math_s4_probability_classical",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "古典概型",
+    "nameEn": "Classical probability",
+    "standards": [
+      "moe-sx-2022:SP.S4.随机事件的概率"
+    ],
+    "description": "理解古典概型中每个结果等可能，会用P(A)=有利结果数/总结果数。",
+    "evidence": [
+      "求掷两枚硬币恰有一正的概率",
+      "求从袋中摸球的概率",
+      "说明分母是所有等可能结果数"
+    ]
+  },
+  {
+    "id": "mt_math_s4_tree_diagram",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "树状图求概率",
+    "nameEn": "Tree diagrams for probability",
+    "standards": [
+      "moe-sx-2022:SP.S4.随机事件的概率"
+    ],
+    "description": "会用树状图或列表法求两步或多步试验的概率。",
+    "evidence": [
+      "画抛两次硬币的树状图",
+      "求两次摸球的颜色组合概率",
+      "检查各分支概率之和为1"
+    ]
+  },
+  {
+    "id": "mt_math_s4_independent_events",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "独立事件的概率",
+    "nameEn": "Independent events",
+    "standards": [
+      "moe-sx-2022:SP.S4.随机事件的概率"
+    ],
+    "description": "理解独立事件互不影响，会用乘法法则求同时发生的概率。",
+    "evidence": [
+      "求两次独立试验都成功的概率",
+      "判断两个事件是否独立",
+      "区分独立与互斥"
+    ]
+  },
+  {
+    "id": "mt_math_s4_probability_apply",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "概率的应用",
+    "nameEn": "Probability applications",
+    "standards": [
+      "moe-sx-2022:SP.S4.随机事件的概率"
+    ],
+    "description": "能用概率知识分析游戏公平性、保险和决策中的风险。",
+    "evidence": [
+      "计算抽奖活动中奖概率",
+      "判断游戏规则对谁更有利",
+      "用概率解释小概率事件"
+    ]
+  },
+  {
+    "id": "mt_math_s4_data_project_jh",
+    "type": "META",
+    "subject": "数学",
+    "domain": "统计与概率",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "数据分析项目",
+    "nameEn": "Data analysis project",
+    "standards": [
+      "moe-sx-2022:SP.S4.抽样与数据分析"
+    ],
+    "description": "综合运用抽样、统计量和图表完成一次数据分析小项目。",
+    "evidence": [
+      "设计问卷并抽样收集数据",
+      "计算平均数和中位数",
+      "撰写数据分析报告"
+    ]
+  },
+  {
+    "id": "mt_math_s4_project_measurement",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "测量与建模",
+    "nameEn": "Measurement and modeling",
+    "standards": [
+      "moe-sx-2022:PA.S4.综合与实践"
+    ],
+    "description": "综合运用几何和代数知识完成测量任务，建立简单数学模型。",
+    "evidence": [
+      "用相似三角形测量树高",
+      "记录数据并计算结果",
+      "分析测量误差来源"
+    ]
+  },
+  {
+    "id": "mt_math_s4_math_modeling",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "数学建模入门",
+    "nameEn": "Intro to math modeling",
+    "standards": [
+      "moe-sx-2022:PA.S4.综合与实践"
+    ],
+    "description": "经历实际问题抽象、建立函数或方程模型、求解和检验的全过程。",
+    "evidence": [
+      "为校园节水建立函数模型",
+      "检验模型预测是否合理",
+      "提出改进模型的建议"
+    ]
+  },
+  {
+    "id": "mt_math_s4_cross_subject",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "跨学科数学应用",
+    "nameEn": "Cross-disciplinary math",
+    "standards": [
+      "moe-sx-2022:PA.S4.综合与实践"
+    ],
+    "description": "在科学或社会情境中运用数学工具，体会数学的广泛用途。",
+    "evidence": [
+      "用统计图分析实验数据",
+      "用方程解决物理匀速问题",
+      "用几何设计科技作品"
+    ]
+  },
+  {
+    "id": "mt_math_s4_inquiry_project",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "综合与实践",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "探究性课题",
+    "nameEn": "Inquiry project",
+    "standards": [
+      "moe-sx-2022:PA.S4.综合与实践"
+    ],
+    "description": "自选课题开展数学探究，综合运用代数、几何和统计知识完成报告。",
+    "evidence": [
+      "确定探究问题并查阅资料",
+      "运用多种数学工具分析",
+      "展示探究过程与结论"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "slug": "moe-xxkj-2022",
+  "country": "CN",
+  "name": "义务教育信息科技课程标准（2022年版）",
+  "version": "2022",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-xxkj-2022:DATA", "code": "DATA"},
+    {"key": "moe-xxkj-2022:ALGO", "code": "ALGO"},
+    {"key": "moe-xxkj-2022:NET", "code": "NET"},
+    {"key": "moe-xxkj-2022:PROC", "code": "PROC"},
+    {"key": "moe-xxkj-2022:SEC", "code": "SEC"},
+    {"key": "moe-xxkj-2022:AI", "code": "AI"},
+    {"key": "moe-xxkj-2022:M1.S1.信息交流与分享", "code": "M1.S1.信息交流与分享"},
+    {"key": "moe-xxkj-2022:M2.S1.信息隐私与安全", "code": "M2.S1.信息隐私与安全"},
+    {"key": "moe-xxkj-2022:X1.S1.数字设备体验", "code": "X1.S1.数字设备体验"},
+    {"key": "moe-xxkj-2022:M3.S2.在线学习与生活", "code": "M3.S2.在线学习与生活"},
+    {"key": "moe-xxkj-2022:M4.S2.数据与编码", "code": "M4.S2.数据与编码"},
+    {"key": "moe-xxkj-2022:X2.S2.数据编码探秘", "code": "X2.S2.数据编码探秘"},
+    {"key": "moe-xxkj-2022:M5.S3.身边的算法", "code": "M5.S3.身边的算法"},
+    {"key": "moe-xxkj-2022:M6.S3.过程与控制", "code": "M6.S3.过程与控制"},
+    {"key": "moe-xxkj-2022:X3.S3.小型系统模拟", "code": "X3.S3.小型系统模拟"},
+    {"key": "moe-xxkj-2022:M7.S4.互联网应用与创新", "code": "M7.S4.互联网应用与创新"},
+    {"key": "moe-xxkj-2022:M8.S4.物联网实践与探索", "code": "M8.S4.物联网实践与探索"},
+    {"key": "moe-xxkj-2022:M9.S4.人工智能与智慧社会", "code": "M9.S4.人工智能与智慧社会"},
+    {"key": "moe-xxkj-2022:X4.S4.互联智能设计", "code": "X4.S4.互联智能设计"}
+  ]
+}

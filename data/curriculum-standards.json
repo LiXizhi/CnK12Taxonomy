@@ -1,0 +1,801 @@
+{
+  "note": "Codes and publicly known module titles only. Verbatim 课标 text is not included.",
+  "codesOnlySources": [
+    "moe-kx-2022",
+    "moe-sx-2022",
+    "moe-xxkj-2022",
+    "moe-yw-2022",
+    "moe-yy-2022"
+  ],
+  "curriculumCount": 5,
+  "curricula": [
+    {
+      "slug": "moe-kx-2022",
+      "country": "CN",
+      "name": "义务教育科学课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly named 13 core concepts / 4 fields only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-kx-2022:MS",
+          "code": "MS"
+        },
+        {
+          "key": "moe-kx-2022:LS",
+          "code": "LS"
+        },
+        {
+          "key": "moe-kx-2022:ES",
+          "code": "ES"
+        },
+        {
+          "key": "moe-kx-2022:TE",
+          "code": "TE"
+        },
+        {
+          "key": "moe-kx-2022:C01",
+          "code": "C01"
+        },
+        {
+          "key": "moe-kx-2022:C02",
+          "code": "C02"
+        },
+        {
+          "key": "moe-kx-2022:C03",
+          "code": "C03"
+        },
+        {
+          "key": "moe-kx-2022:C04",
+          "code": "C04"
+        },
+        {
+          "key": "moe-kx-2022:C05",
+          "code": "C05"
+        },
+        {
+          "key": "moe-kx-2022:C06",
+          "code": "C06"
+        },
+        {
+          "key": "moe-kx-2022:C07",
+          "code": "C07"
+        },
+        {
+          "key": "moe-kx-2022:C08",
+          "code": "C08"
+        },
+        {
+          "key": "moe-kx-2022:C09",
+          "code": "C09"
+        },
+        {
+          "key": "moe-kx-2022:C10",
+          "code": "C10"
+        },
+        {
+          "key": "moe-kx-2022:C11",
+          "code": "C11"
+        },
+        {
+          "key": "moe-kx-2022:C12",
+          "code": "C12"
+        },
+        {
+          "key": "moe-kx-2022:C13",
+          "code": "C13"
+        },
+        {
+          "key": "moe-kx-2022:C01.S1",
+          "code": "C01.S1"
+        },
+        {
+          "key": "moe-kx-2022:C02.S1",
+          "code": "C02.S1"
+        },
+        {
+          "key": "moe-kx-2022:C03.S1",
+          "code": "C03.S1"
+        },
+        {
+          "key": "moe-kx-2022:C04.S1",
+          "code": "C04.S1"
+        },
+        {
+          "key": "moe-kx-2022:C05.S1",
+          "code": "C05.S1"
+        },
+        {
+          "key": "moe-kx-2022:C07.S1",
+          "code": "C07.S1"
+        },
+        {
+          "key": "moe-kx-2022:C08.S1",
+          "code": "C08.S1"
+        },
+        {
+          "key": "moe-kx-2022:C09.S1",
+          "code": "C09.S1"
+        },
+        {
+          "key": "moe-kx-2022:C10.S1",
+          "code": "C10.S1"
+        },
+        {
+          "key": "moe-kx-2022:C11.S1",
+          "code": "C11.S1"
+        },
+        {
+          "key": "moe-kx-2022:C12.S1",
+          "code": "C12.S1"
+        },
+        {
+          "key": "moe-kx-2022:C13.S1",
+          "code": "C13.S1"
+        },
+        {
+          "key": "moe-kx-2022:C01.S2",
+          "code": "C01.S2"
+        },
+        {
+          "key": "moe-kx-2022:C02.S2",
+          "code": "C02.S2"
+        },
+        {
+          "key": "moe-kx-2022:C03.S2",
+          "code": "C03.S2"
+        },
+        {
+          "key": "moe-kx-2022:C04.S2",
+          "code": "C04.S2"
+        },
+        {
+          "key": "moe-kx-2022:C05.S2",
+          "code": "C05.S2"
+        },
+        {
+          "key": "moe-kx-2022:C06.S2",
+          "code": "C06.S2"
+        },
+        {
+          "key": "moe-kx-2022:C07.S2",
+          "code": "C07.S2"
+        },
+        {
+          "key": "moe-kx-2022:C08.S2",
+          "code": "C08.S2"
+        },
+        {
+          "key": "moe-kx-2022:C09.S2",
+          "code": "C09.S2"
+        },
+        {
+          "key": "moe-kx-2022:C10.S2",
+          "code": "C10.S2"
+        },
+        {
+          "key": "moe-kx-2022:C11.S2",
+          "code": "C11.S2"
+        },
+        {
+          "key": "moe-kx-2022:C12.S2",
+          "code": "C12.S2"
+        },
+        {
+          "key": "moe-kx-2022:C13.S2",
+          "code": "C13.S2"
+        },
+        {
+          "key": "moe-kx-2022:C01.S3",
+          "code": "C01.S3"
+        },
+        {
+          "key": "moe-kx-2022:C02.S3",
+          "code": "C02.S3"
+        },
+        {
+          "key": "moe-kx-2022:C03.S3",
+          "code": "C03.S3"
+        },
+        {
+          "key": "moe-kx-2022:C04.S3",
+          "code": "C04.S3"
+        },
+        {
+          "key": "moe-kx-2022:C05.S3",
+          "code": "C05.S3"
+        },
+        {
+          "key": "moe-kx-2022:C06.S3",
+          "code": "C06.S3"
+        },
+        {
+          "key": "moe-kx-2022:C07.S3",
+          "code": "C07.S3"
+        },
+        {
+          "key": "moe-kx-2022:C08.S3",
+          "code": "C08.S3"
+        },
+        {
+          "key": "moe-kx-2022:C09.S3",
+          "code": "C09.S3"
+        },
+        {
+          "key": "moe-kx-2022:C10.S3",
+          "code": "C10.S3"
+        },
+        {
+          "key": "moe-kx-2022:C11.S3",
+          "code": "C11.S3"
+        },
+        {
+          "key": "moe-kx-2022:C12.S3",
+          "code": "C12.S3"
+        },
+        {
+          "key": "moe-kx-2022:C13.S3",
+          "code": "C13.S3"
+        },
+        {
+          "key": "moe-kx-2022:C01.S4",
+          "code": "C01.S4"
+        },
+        {
+          "key": "moe-kx-2022:C02.S4",
+          "code": "C02.S4"
+        },
+        {
+          "key": "moe-kx-2022:C03.S4",
+          "code": "C03.S4"
+        },
+        {
+          "key": "moe-kx-2022:C04.S4",
+          "code": "C04.S4"
+        },
+        {
+          "key": "moe-kx-2022:C05.S4",
+          "code": "C05.S4"
+        },
+        {
+          "key": "moe-kx-2022:C06.S4",
+          "code": "C06.S4"
+        },
+        {
+          "key": "moe-kx-2022:C07.S4",
+          "code": "C07.S4"
+        },
+        {
+          "key": "moe-kx-2022:C08.S4",
+          "code": "C08.S4"
+        },
+        {
+          "key": "moe-kx-2022:C09.S4",
+          "code": "C09.S4"
+        },
+        {
+          "key": "moe-kx-2022:C10.S4",
+          "code": "C10.S4"
+        },
+        {
+          "key": "moe-kx-2022:C11.S4",
+          "code": "C11.S4"
+        },
+        {
+          "key": "moe-kx-2022:C12.S4",
+          "code": "C12.S4"
+        },
+        {
+          "key": "moe-kx-2022:C13.S4",
+          "code": "C13.S4"
+        }
+      ],
+      "topicCount": 68
+    },
+    {
+      "slug": "moe-sx-2022",
+      "country": "CN",
+      "name": "义务教育数学课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known domain/theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-sx-2022:NA",
+          "code": "NA"
+        },
+        {
+          "key": "moe-sx-2022:GG",
+          "code": "GG"
+        },
+        {
+          "key": "moe-sx-2022:SP",
+          "code": "SP"
+        },
+        {
+          "key": "moe-sx-2022:PA",
+          "code": "PA"
+        },
+        {
+          "key": "moe-sx-2022:NA.S1.数与运算",
+          "code": "NA.S1.数与运算"
+        },
+        {
+          "key": "moe-sx-2022:NA.S1.数量关系",
+          "code": "NA.S1.数量关系"
+        },
+        {
+          "key": "moe-sx-2022:GG.S1.图形的认识与测量",
+          "code": "GG.S1.图形的认识与测量"
+        },
+        {
+          "key": "moe-sx-2022:SP.S1.数据分类",
+          "code": "SP.S1.数据分类"
+        },
+        {
+          "key": "moe-sx-2022:PA.S1.综合与实践",
+          "code": "PA.S1.综合与实践"
+        },
+        {
+          "key": "moe-sx-2022:NA.S2.数与运算",
+          "code": "NA.S2.数与运算"
+        },
+        {
+          "key": "moe-sx-2022:NA.S2.数量关系",
+          "code": "NA.S2.数量关系"
+        },
+        {
+          "key": "moe-sx-2022:GG.S2.图形的认识与测量",
+          "code": "GG.S2.图形的认识与测量"
+        },
+        {
+          "key": "moe-sx-2022:GG.S2.图形的位置与运动",
+          "code": "GG.S2.图形的位置与运动"
+        },
+        {
+          "key": "moe-sx-2022:SP.S2.数据的收集整理与表达",
+          "code": "SP.S2.数据的收集整理与表达"
+        },
+        {
+          "key": "moe-sx-2022:PA.S2.综合与实践",
+          "code": "PA.S2.综合与实践"
+        },
+        {
+          "key": "moe-sx-2022:NA.S3.数与运算",
+          "code": "NA.S3.数与运算"
+        },
+        {
+          "key": "moe-sx-2022:NA.S3.数量关系",
+          "code": "NA.S3.数量关系"
+        },
+        {
+          "key": "moe-sx-2022:GG.S3.图形的认识与测量",
+          "code": "GG.S3.图形的认识与测量"
+        },
+        {
+          "key": "moe-sx-2022:GG.S3.图形的位置与运动",
+          "code": "GG.S3.图形的位置与运动"
+        },
+        {
+          "key": "moe-sx-2022:SP.S3.数据的收集整理与表达",
+          "code": "SP.S3.数据的收集整理与表达"
+        },
+        {
+          "key": "moe-sx-2022:SP.S3.随机现象发生的可能性",
+          "code": "SP.S3.随机现象发生的可能性"
+        },
+        {
+          "key": "moe-sx-2022:PA.S3.综合与实践",
+          "code": "PA.S3.综合与实践"
+        },
+        {
+          "key": "moe-sx-2022:NA.S4.数与式",
+          "code": "NA.S4.数与式"
+        },
+        {
+          "key": "moe-sx-2022:NA.S4.方程与不等式",
+          "code": "NA.S4.方程与不等式"
+        },
+        {
+          "key": "moe-sx-2022:NA.S4.函数",
+          "code": "NA.S4.函数"
+        },
+        {
+          "key": "moe-sx-2022:GG.S4.图形的性质",
+          "code": "GG.S4.图形的性质"
+        },
+        {
+          "key": "moe-sx-2022:GG.S4.图形的变化",
+          "code": "GG.S4.图形的变化"
+        },
+        {
+          "key": "moe-sx-2022:GG.S4.图形与坐标",
+          "code": "GG.S4.图形与坐标"
+        },
+        {
+          "key": "moe-sx-2022:SP.S4.抽样与数据分析",
+          "code": "SP.S4.抽样与数据分析"
+        },
+        {
+          "key": "moe-sx-2022:SP.S4.随机事件的概率",
+          "code": "SP.S4.随机事件的概率"
+        },
+        {
+          "key": "moe-sx-2022:PA.S4.综合与实践",
+          "code": "PA.S4.综合与实践"
+        }
+      ],
+      "topicCount": 31
+    },
+    {
+      "slug": "moe-xxkj-2022",
+      "country": "CN",
+      "name": "义务教育信息科技课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-xxkj-2022:DATA",
+          "code": "DATA"
+        },
+        {
+          "key": "moe-xxkj-2022:ALGO",
+          "code": "ALGO"
+        },
+        {
+          "key": "moe-xxkj-2022:NET",
+          "code": "NET"
+        },
+        {
+          "key": "moe-xxkj-2022:PROC",
+          "code": "PROC"
+        },
+        {
+          "key": "moe-xxkj-2022:SEC",
+          "code": "SEC"
+        },
+        {
+          "key": "moe-xxkj-2022:AI",
+          "code": "AI"
+        },
+        {
+          "key": "moe-xxkj-2022:M1.S1.信息交流与分享",
+          "code": "M1.S1.信息交流与分享"
+        },
+        {
+          "key": "moe-xxkj-2022:M2.S1.信息隐私与安全",
+          "code": "M2.S1.信息隐私与安全"
+        },
+        {
+          "key": "moe-xxkj-2022:X1.S1.数字设备体验",
+          "code": "X1.S1.数字设备体验"
+        },
+        {
+          "key": "moe-xxkj-2022:M3.S2.在线学习与生活",
+          "code": "M3.S2.在线学习与生活"
+        },
+        {
+          "key": "moe-xxkj-2022:M4.S2.数据与编码",
+          "code": "M4.S2.数据与编码"
+        },
+        {
+          "key": "moe-xxkj-2022:X2.S2.数据编码探秘",
+          "code": "X2.S2.数据编码探秘"
+        },
+        {
+          "key": "moe-xxkj-2022:M5.S3.身边的算法",
+          "code": "M5.S3.身边的算法"
+        },
+        {
+          "key": "moe-xxkj-2022:M6.S3.过程与控制",
+          "code": "M6.S3.过程与控制"
+        },
+        {
+          "key": "moe-xxkj-2022:X3.S3.小型系统模拟",
+          "code": "X3.S3.小型系统模拟"
+        },
+        {
+          "key": "moe-xxkj-2022:M7.S4.互联网应用与创新",
+          "code": "M7.S4.互联网应用与创新"
+        },
+        {
+          "key": "moe-xxkj-2022:M8.S4.物联网实践与探索",
+          "code": "M8.S4.物联网实践与探索"
+        },
+        {
+          "key": "moe-xxkj-2022:M9.S4.人工智能与智慧社会",
+          "code": "M9.S4.人工智能与智慧社会"
+        },
+        {
+          "key": "moe-xxkj-2022:X4.S4.互联智能设计",
+          "code": "X4.S4.互联智能设计"
+        }
+      ],
+      "topicCount": 19
+    },
+    {
+      "slug": "moe-yw-2022",
+      "country": "CN",
+      "name": "义务教育语文课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known 学习任务群 titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-yw-2022:TG1",
+          "code": "TG1"
+        },
+        {
+          "key": "moe-yw-2022:TG2",
+          "code": "TG2"
+        },
+        {
+          "key": "moe-yw-2022:TG3",
+          "code": "TG3"
+        },
+        {
+          "key": "moe-yw-2022:TG4",
+          "code": "TG4"
+        },
+        {
+          "key": "moe-yw-2022:TG5",
+          "code": "TG5"
+        },
+        {
+          "key": "moe-yw-2022:TG6",
+          "code": "TG6"
+        },
+        {
+          "key": "moe-yw-2022:LIT",
+          "code": "LIT"
+        },
+        {
+          "key": "moe-yw-2022:TG1.S1",
+          "code": "TG1.S1"
+        },
+        {
+          "key": "moe-yw-2022:TG2.S1",
+          "code": "TG2.S1"
+        },
+        {
+          "key": "moe-yw-2022:TG3.S1",
+          "code": "TG3.S1"
+        },
+        {
+          "key": "moe-yw-2022:TG4.S1",
+          "code": "TG4.S1"
+        },
+        {
+          "key": "moe-yw-2022:TG5.S1",
+          "code": "TG5.S1"
+        },
+        {
+          "key": "moe-yw-2022:TG6.S1",
+          "code": "TG6.S1"
+        },
+        {
+          "key": "moe-yw-2022:LIT.S1.识字与写字",
+          "code": "LIT.S1.识字与写字"
+        },
+        {
+          "key": "moe-yw-2022:TG1.S2",
+          "code": "TG1.S2"
+        },
+        {
+          "key": "moe-yw-2022:TG2.S2",
+          "code": "TG2.S2"
+        },
+        {
+          "key": "moe-yw-2022:TG3.S2",
+          "code": "TG3.S2"
+        },
+        {
+          "key": "moe-yw-2022:TG4.S2",
+          "code": "TG4.S2"
+        },
+        {
+          "key": "moe-yw-2022:TG5.S2",
+          "code": "TG5.S2"
+        },
+        {
+          "key": "moe-yw-2022:TG6.S2",
+          "code": "TG6.S2"
+        },
+        {
+          "key": "moe-yw-2022:LIT.S2.识字与写字",
+          "code": "LIT.S2.识字与写字"
+        },
+        {
+          "key": "moe-yw-2022:TG1.S3",
+          "code": "TG1.S3"
+        },
+        {
+          "key": "moe-yw-2022:TG2.S3",
+          "code": "TG2.S3"
+        },
+        {
+          "key": "moe-yw-2022:TG3.S3",
+          "code": "TG3.S3"
+        },
+        {
+          "key": "moe-yw-2022:TG4.S3",
+          "code": "TG4.S3"
+        },
+        {
+          "key": "moe-yw-2022:TG5.S3",
+          "code": "TG5.S3"
+        },
+        {
+          "key": "moe-yw-2022:TG6.S3",
+          "code": "TG6.S3"
+        },
+        {
+          "key": "moe-yw-2022:TG1.S4",
+          "code": "TG1.S4"
+        },
+        {
+          "key": "moe-yw-2022:TG2.S4",
+          "code": "TG2.S4"
+        },
+        {
+          "key": "moe-yw-2022:TG3.S4",
+          "code": "TG3.S4"
+        },
+        {
+          "key": "moe-yw-2022:TG4.S4",
+          "code": "TG4.S4"
+        },
+        {
+          "key": "moe-yw-2022:TG5.S4",
+          "code": "TG5.S4"
+        },
+        {
+          "key": "moe-yw-2022:TG6.S4",
+          "code": "TG6.S4"
+        }
+      ],
+      "topicCount": 33
+    },
+    {
+      "slug": "moe-yy-2022",
+      "country": "CN",
+      "name": "义务教育英语课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known content-element titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-yy-2022:LK",
+          "code": "LK"
+        },
+        {
+          "key": "moe-yy-2022:LS",
+          "code": "LS"
+        },
+        {
+          "key": "moe-yy-2022:RV",
+          "code": "RV"
+        },
+        {
+          "key": "moe-yy-2022:WR",
+          "code": "WR"
+        },
+        {
+          "key": "moe-yy-2022:CU",
+          "code": "CU"
+        },
+        {
+          "key": "moe-yy-2022:ST",
+          "code": "ST"
+        },
+        {
+          "key": "moe-yy-2022:LK.L1.语音",
+          "code": "LK.L1.语音"
+        },
+        {
+          "key": "moe-yy-2022:LK.L1.词汇",
+          "code": "LK.L1.词汇"
+        },
+        {
+          "key": "moe-yy-2022:LK.L1.语法",
+          "code": "LK.L1.语法"
+        },
+        {
+          "key": "moe-yy-2022:LS.L1",
+          "code": "LS.L1"
+        },
+        {
+          "key": "moe-yy-2022:RV.L1",
+          "code": "RV.L1"
+        },
+        {
+          "key": "moe-yy-2022:WR.L1",
+          "code": "WR.L1"
+        },
+        {
+          "key": "moe-yy-2022:CU.L1",
+          "code": "CU.L1"
+        },
+        {
+          "key": "moe-yy-2022:ST.L1",
+          "code": "ST.L1"
+        },
+        {
+          "key": "moe-yy-2022:LK.L2.语音",
+          "code": "LK.L2.语音"
+        },
+        {
+          "key": "moe-yy-2022:LK.L2.词汇",
+          "code": "LK.L2.词汇"
+        },
+        {
+          "key": "moe-yy-2022:LK.L2.语法",
+          "code": "LK.L2.语法"
+        },
+        {
+          "key": "moe-yy-2022:LS.L2",
+          "code": "LS.L2"
+        },
+        {
+          "key": "moe-yy-2022:RV.L2",
+          "code": "RV.L2"
+        },
+        {
+          "key": "moe-yy-2022:WR.L2",
+          "code": "WR.L2"
+        },
+        {
+          "key": "moe-yy-2022:CU.L2",
+          "code": "CU.L2"
+        },
+        {
+          "key": "moe-yy-2022:ST.L2",
+          "code": "ST.L2"
+        },
+        {
+          "key": "moe-yy-2022:LK.L3.语音",
+          "code": "LK.L3.语音"
+        },
+        {
+          "key": "moe-yy-2022:LK.L3.词汇",
+          "code": "LK.L3.词汇"
+        },
+        {
+          "key": "moe-yy-2022:LK.L3.语法",
+          "code": "LK.L3.语法"
+        },
+        {
+          "key": "moe-yy-2022:LK.L3.语篇",
+          "code": "LK.L3.语篇"
+        },
+        {
+          "key": "moe-yy-2022:LS.L3",
+          "code": "LS.L3"
+        },
+        {
+          "key": "moe-yy-2022:RV.L3",
+          "code": "RV.L3"
+        },
+        {
+          "key": "moe-yy-2022:WR.L3",
+          "code": "WR.L3"
+        },
+        {
+          "key": "moe-yy-2022:CU.L3",
+          "code": "CU.L3"
+        },
+        {
+          "key": "moe-yy-2022:ST.L3",
+          "code": "ST.L3"
+        }
+      ],
+      "topicCount": 31
+    }
+  ]
+}
