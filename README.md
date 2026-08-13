@@ -1,10 +1,10 @@
 # Chinese K12 Taxonomy
 
-义务教育 1–9 的开放微主题知识图谱：把「孩子在学什么」拆成可教的微主题，连成先修图，并对齐 2022 课程标准（**只含标准代码，不含课标原文**）。
+义务教育 1–9 与普通高中 10–12 的开放微主题知识图谱：把「孩子在学什么」拆成可教的微主题，连成先修图，并对齐 2022 / 2017–2020 课程标准（**只含标准代码，不含课标原文**）。
 
 数据形态对齐 [Marble Skill Taxonomy / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)，内容为另行撰写的中文义务教育图谱，不是 Marble 英美内容的翻译。
 
-> **Version:** `v0.2.0` · **Topics:** 1,103 · **Prerequisite edges:** 2,094 · **Clusters:** 168 · **Standard codes:** 273 · **Band:** grades 1–9
+> **Version:** `v0.3.0` · **Topics:** 1,507 · **Prerequisite edges:** 2,707 · **Clusters:** 241 · **Standard codes:** 346 · **Band:** grades 1–12
 
 本项目**不隶属、不代表**教育部；课标对齐是我们的映射，不是官方产品。
 
@@ -15,25 +15,31 @@
 - **Curriculum alignment** — 每个微主题链接到 2022 课标模块/领域/任务群的**代码**（见 [PROVENANCE.md](PROVENANCE.md)）。
 - **Domain clusters** — 按（学科, 领域, 学段）给家长看的一段话。
 
-v0.2 是**连通骨架**：义务教育国家课程学科都有微主题，粒度粗于 Marble 的小学密度。后续版本会加密（尤其是语文、数学）。
+v0.3 是**连通骨架**：义务教育 + 普通高中国家课程学科都有微主题，粒度粗于 Marble 的小学密度。后续版本会加密（尤其是语文、数学）。
 
-### Subjects in v0.2
+### Subjects in v0.3
 
 | Subject | 学段 | Notes |
 |---|---|---|
-| 语文 | 1–2 / 3–4 / 5–6 / 7–9 | 六个学习任务群 + 识字写字 |
-| 数学 | 1–2 / 3–4 / 5–6 / 7–9 | 数与代数 · 图形与几何 · 统计与概率 · 综合与实践 |
-| 英语 | 3–4 / 5–6 / 7–9 | 一级–三级；1–2 年级不单列 |
-| 科学 | 1–2 / 3–4 / 5–6 / 7–9 | 四领域；7–9 暂不拆成物理/化学/生物学独立学科 |
-| 信息科技 | 1–2 / 3–4 / 5–6 / 7–9 | 九模块；课程方案中独立开设多为 3–8 年级 |
-| 道德与法治 | 1–2 / 3–4 / 5–6 / 7–9 | 自我与健康 · 交往与责任 · 法治与规则 · 国家认同与文化 |
-| 历史 | 7–9 | 中国史 / 世界史 + 史料与方法；小学不单列 |
-| 地理 | 7–9 | 地球与地图 · 世界 · 中国 · 乡土；小学不单列 |
-| 体育与健康 | 1–2 / 3–4 / 5–6 / 7–9 | 基本运动 · 体能 · 专项 · 健康 · 体育品德 |
-| 艺术 | 1–2 / 3–4 / 5–6 / 7–9 | 音乐 · 美术 · 综合 · 欣赏与文化（2022 综合艺术课） |
-| 劳动 | 1–2 / 3–4 / 5–6 / 7–9 | 日常生活 · 生产 · 服务性劳动 |
+| 语文 | 1–12 | 义务六任务群 + 识字写字；高中十二学习任务群 |
+| 数学 | 1–12 | 义务四领域；高中预备/函数/几何与代数/概率统计/建模 |
+| 英语 | 3–12 | 一级–三级 + 高中语言技能/知识/文化/策略；1–2 不单列 |
+| 科学 | 1–9 | 四领域；7–9 暂不拆成物理/化学/生物学独立学科 |
+| 信息科技 | 1–9 | 九模块；高中改列「信息技术」 |
+| 道德与法治 | 1–9 | 自我与健康 · 交往与责任 · 法治与规则 · 国家认同与文化 |
+| 历史 | 7–12 | 初中通史骨架；高中中外历史纲要 + 选必专题 |
+| 地理 | 7–12 | 初中区域地理；高中自然/人文 + 区域发展与安全 |
+| 体育与健康 | 1–12 | 基本运动 · 体能 · 专项 · 健康 · 体育品德 |
+| 艺术 | 1–12 | 音乐 · 美术 · 综合 · 欣赏（2022 综合艺术课 + 2017 高中艺术） |
+| 劳动 | 1–2 / 3–4 / 5–6 / 7–9 / 10–12 | 日常生活 · 生产 · 服务性劳动；高中另有创造性劳动（2020 指导纲要） |
+| 思想政治 | 10–12 | 中国特色社会主义 · 经济与社会 · 政治与法治 · 哲学与文化 等 |
+| 物理 | 10–12 | 力学 · 电磁学 · 热学 · 振动与波 · 近代物理 |
+| 化学 | 10–12 | 物质 · 反应原理 · 结构 · 有机 · 实验 |
+| 生物学 | 10–12 | 分子与细胞 · 遗传与进化 · 稳态 · 环境 · 生物技术 |
+| 信息技术 | 10–12 | 与义务教育「信息科技」分列；数据与计算 · 信息系统 · 网络 · 人工智能 |
+| 通用技术 | 10–12 | 技术与设计 · 结构/流程/系统/控制 · 工程专题 |
 
-Planned, not authored: 日语/俄语, 普通高中 2017/2020, 初中物化生作为独立学科。
+Planned, not authored: 日语/俄语, 初中物化生作为独立学科。
 
 ## Files
 
@@ -113,8 +119,8 @@ Produced works (an app, tutor, or model that *uses* the graph) stay yours. Deriv
 
 ### Attribution
 
-> Chinese K12 Taxonomy (v0.2) · 义务教育微主题知识图谱 · https://github.com/LiXizhi/CnK12Taxonomy · schema inspired by https://github.com/withmarbleapp/os-taxonomy · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content).
+> Chinese K12 Taxonomy (v0.3) · 义务教育与普通高中微主题知识图谱 · https://github.com/LiXizhi/CnK12Taxonomy · schema inspired by https://github.com/withmarbleapp/os-taxonomy · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content).
 
 ## What's not here
 
-Semantic embeddings, per-child data, verbatim 课标 text, and high-school 2017/2020 standards. A local 3D explorer lives in `explore/`.
+Semantic embeddings, per-child data, verbatim 课标 text, and 日语/俄语. A local 3D explorer lives in `explore/`.

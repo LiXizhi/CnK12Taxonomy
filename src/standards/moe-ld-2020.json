@@ -1,0 +1,15 @@
+{
+  "slug": "moe-ld-2020",
+  "country": "CN",
+  "name": "大中小学劳动教育指导纲要（试行）",
+  "version": "2020",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/jcj_kcjcgh/202007/t20200715_472808.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known labor-type titles only; verbatim 纲要 text omitted.",
+  "topics": [
+    {"key": "moe-ld-2020:DL", "code": "DL"},
+    {"key": "moe-ld-2020:PL", "code": "PL"},
+    {"key": "moe-ld-2020:SL", "code": "SL"},
+    {"key": "moe-ld-2020:CL", "code": "CL"}
+  ]
+}

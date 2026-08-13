@@ -12,7 +12,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = join(ROOT, 'src');
 const DATA = join(ROOT, 'data');
-const VERSION = '0.2.0';
+const VERSION = '0.3.0';
 
 const loadJson = (path) => JSON.parse(readFileSync(path, 'utf8'));
 const listJson = (dir) =>
@@ -25,7 +25,8 @@ const xueduanOf = (grade) => {
   if (grade <= 2) return 1;
   if (grade <= 4) return 2;
   if (grade <= 6) return 3;
-  return 4;
+  if (grade <= 9) return 4;
+  return 5;
 };
 
 const expandTopic = (raw) => {
@@ -138,7 +139,7 @@ const curricula = standardFiles.map((p) => {
   return { ...c, topicCount: c.topics.length };
 });
 
-const XUEDUAN_LABEL = { 1: '一二年级', 2: '三四年级', 3: '五六年级', 4: '七至九年级' };
+const XUEDUAN_LABEL = { 1: '一二年级', 2: '三四年级', 3: '五六年级', 4: '七至九年级', 5: '高中' };
 const clusterMap = new Map();
 for (const t of topics) {
   const key = `${t.subject}::${t.domain}::${t.xueduan}`;
@@ -172,7 +173,7 @@ const clusters = [...clusterMap.values()].map((c) => {
     gradeEnd: c.gradeEnd,
     ageRangeStart: c.ageRangeStart,
     ageRangeEnd: c.ageRangeEnd,
-    summary: `${c.subject}·${c.domain}在${XUEDUAN_LABEL[c.xueduan] ?? '本学段'}（${c.gradeStart}–${c.gradeEnd} 年级）覆盖：${sample}${extra}。这是义务教育 2022 课标对应领域的可教微主题，便于家长看懂孩子正在学什么、下一步学什么。`,
+    summary: `${c.subject}·${c.domain}在${XUEDUAN_LABEL[c.xueduan] ?? '本学段'}（${c.gradeStart}–${c.gradeEnd} 年级）覆盖：${sample}${extra}。这是国家课程标准对应领域的可教微主题，便于家长看懂孩子正在学什么、下一步学什么。`,
   };
 });
 

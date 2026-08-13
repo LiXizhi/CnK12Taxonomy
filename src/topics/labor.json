@@ -970,5 +970,221 @@
       "完成社区需求问卷",
       "提交一份服务建议"
     ]
+  },
+  {
+    "id": "mt_ld_s5_hs_independent_living",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "高中日常生活劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "独立生活管理",
+    "nameEn": "Independent living management",
+    "standards": [
+      "moe-ld-2020:DL"
+    ],
+    "description": "能自主安排洗衣、清洁、作息与物品收纳，维持寝室或家庭责任区在一周内有序运转。",
+    "evidence": [
+      "连续一周完成个人内务并自检",
+      "制定并执行一份日常家务轮值表"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_home_bookkeeping",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "高中日常生活劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "家庭财务记账",
+    "nameEn": "Household bookkeeping",
+    "standards": [
+      "moe-ld-2020:DL"
+    ],
+    "description": "能分类记录收入与支出，区分必要消费与可选消费，并做月末小结与下月预算。",
+    "evidence": [
+      "完成一个月的分类记账表",
+      "根据超支项提出一条调整建议"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_healthy_meal_plan",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "高中日常生活劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "健康饮食规划",
+    "nameEn": "Healthy meal planning",
+    "standards": [
+      "moe-ld-2020:DL"
+    ],
+    "description": "能按营养均衡与预算规划三日餐单，完成采购清单并在监护下实施一餐制作。",
+    "evidence": [
+      "提交含蔬果与蛋白质的三日餐单",
+      "按清单采购并完成一餐后清理"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_campus_grow_raise",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "高中生产劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "校园种植或养殖项目",
+    "nameEn": "Campus growing or raising project",
+    "standards": [
+      "moe-ld-2020:PL"
+    ],
+    "description": "能承担一项种植或小动物照料的周期任务，记录环境、生长与问题处理，并估算产出。",
+    "evidence": [
+      "完成四周养护日志",
+      "收获或称重后说明影响产量的因素"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_traditional_craft_make",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "高中生产劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "传统工艺制作",
+    "nameEn": "Traditional craft production",
+    "standards": [
+      "moe-ld-2020:PL"
+    ],
+    "description": "能按传统工序完成一件可用手工艺品，说明材料来源、工具安全与质量检验标准。",
+    "evidence": [
+      "完成一件符合尺寸要求的工艺品",
+      "列出三步关键工序与检验点"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_modern_agri_cognition",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "高中生产劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "现代农业认知",
+    "nameEn": "Modern agriculture cognition",
+    "standards": [
+      "moe-ld-2020:PL"
+    ],
+    "description": "能说明温室、滴灌、机械化或溯源等现代农业生产方式如何提高效率并带来新的劳动要求。",
+    "evidence": [
+      "对比传统与设施农业的两项差异",
+      "指出一种现代农技对劳动者技能的新要求"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_community_volunteer",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "高中服务性劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "社区志愿服务",
+    "nameEn": "Community volunteering",
+    "standards": [
+      "moe-ld-2020:SL"
+    ],
+    "description": "能在社区或公益机构完成有岗位职责的志愿服务，遵守约定时间并填写服务记录。",
+    "evidence": [
+      "完成一次不少于两小时的岗位服务",
+      "提交含反馈的志愿服务记录"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_career_internship",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "高中服务性劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "职业体验见习",
+    "nameEn": "Career internship shadowing",
+    "standards": [
+      "moe-ld-2020:SL"
+    ],
+    "description": "能在见习岗位观察真实劳动流程，完成允许范围内的辅助任务，并整理岗位技能清单。",
+    "evidence": [
+      "记录见习日的主要工序与安全注意",
+      "列出该岗位所需的三项核心技能"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_public_project_org",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "高中服务性劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "公益项目组织",
+    "nameEn": "Organizing a public-benefit project",
+    "standards": [
+      "moe-ld-2020:SL"
+    ],
+    "description": "能与同伴策划一项小型公益活动，明确目标、分工、物资与风险，并在结束后做效果反思。",
+    "evidence": [
+      "提交含分工表的活动方案",
+      "用参与人数或反馈总结改进点"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_innovation_make",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "创造性劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "创新制作项目",
+    "nameEn": "Innovative making project",
+    "standards": [
+      "moe-ld-2020:CL"
+    ],
+    "description": "能针对生活不便提出改进方案，用废旧或低成本材料制作可用原型并展示使用效果。",
+    "evidence": [
+      "完成一件可演示的改进原型",
+      "说明创新点与仍未解决的问题"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_labor_career_plan",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "创造性劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "劳动与职业规划",
+    "nameEn": "Labor and career planning",
+    "standards": [
+      "moe-ld-2020:CL"
+    ],
+    "description": "能把劳动体验与兴趣、能力对照，形成高中阶段可执行的职业探索计划。",
+    "evidence": [
+      "对照三次劳动体验写出能力清单",
+      "制定含两项实践任务的学期探索计划"
+    ]
+  },
+  {
+    "id": "mt_ld_s5_hs_labor_safety_law",
+    "type": "LANGUAGE",
+    "subject": "劳动",
+    "domain": "创造性劳动",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "劳动安全与法规",
+    "nameEn": "Labor safety and regulations",
+    "standards": [
+      "moe-ld-2020:CL"
+    ],
+    "description": "能使用未成年人保护、工时与防护等常用术语，说明实习或兼职中不可接受的风险安排。",
+    "evidence": [
+      "指出一份兼职广告中的两处违规风险",
+      "列出上岗前必须确认的防护与保险事项"
+    ]
   }
 ]

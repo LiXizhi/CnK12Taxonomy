@@ -1,4 +1,8 @@
-const SUBJECTS = ["语文", "数学", "英语", "科学", "信息科技", "道德与法治", "历史", "地理", "体育与健康", "艺术", "劳动"];
+const SUBJECTS = [
+  "语文", "数学", "英语", "科学", "信息科技",
+  "道德与法治", "历史", "地理", "体育与健康", "艺术", "劳动",
+  "思想政治", "物理", "化学", "生物学", "信息技术", "通用技术",
+];
 const COLORS = {
   语文: 0xf472b6,
   数学: 0x60a5fa,
@@ -11,8 +15,20 @@ const COLORS = {
   体育与健康: 0x84cc16,
   艺术: 0xe879f9,
   劳动: 0xa8a29e,
+  思想政治: 0xe11d48,
+  物理: 0x38bdf8,
+  化学: 0x22d3ee,
+  生物学: 0x4ade80,
+  信息技术: 0xc084fc,
+  通用技术: 0x818cf8,
 };
-const XUEDUAN = { 1: "第一学段 1–2 年级", 2: "第二学段 3–4 年级", 3: "第三学段 5–6 年级", 4: "第四学段 7–9 年级" };
+const XUEDUAN = {
+  1: "第一学段 1–2 年级",
+  2: "第二学段 3–4 年级",
+  3: "第三学段 5–6 年级",
+  4: "第四学段 7–9 年级",
+  5: "高中 10–12 年级",
+};
 const TYPES = {
   CONCEPTUAL: "观念",
   PROCEDURAL: "技能",
@@ -35,6 +51,7 @@ const state = {
   prereqOf: new Map(),
   unlocksOf: new Map(),
   enabled: new Set(SUBJECTS),
+  maxGrade: 9,
   selected: null,
   hover: null,
 };
@@ -111,15 +128,13 @@ async function load() {
 }
 
 function renderChrome() {
-  $("#counts").textContent = `${state.topics.length.toLocaleString("zh-CN")} 个微主题 · ${state.deps.length.toLocaleString("zh-CN")} 条先修`;
   const box = $("#subjects");
   box.innerHTML = "";
   for (const s of SUBJECTS) {
-    const n = state.topics.filter((t) => t.subject === s).length;
     const b = document.createElement("button");
     b.style.setProperty("--c", `#${COLORS[s].toString(16).padStart(6, "0")}`);
     b.dataset.subject = s;
-    b.innerHTML = `${s} <span style="opacity:.65">${n}</span>`;
+    b.innerHTML = `${s} <span class="subject-count"></span>`;
     b.addEventListener("click", () => {
       if (state.enabled.has(s) && state.enabled.size === 1) return;
       if (state.enabled.has(s)) state.enabled.delete(s);
@@ -129,16 +144,41 @@ function renderChrome() {
     });
     box.appendChild(b);
   }
+
+  const maxGrade = $("#max-grade");
+  maxGrade.value = String(state.maxGrade);
+  maxGrade.addEventListener("change", () => {
+    state.maxGrade = Number(maxGrade.value);
+    const selectedTopic = state.byId.get(state.selected);
+    if (selectedTopic && !visible(selectedTopic)) clearSelect();
+    else applyFilters();
+    updateVisibleCounts();
+    $("#q").dispatchEvent(new Event("input"));
+  });
+  updateVisibleCounts();
 }
 
 function visible(t) {
-  return state.enabled.has(t.subject);
+  return state.enabled.has(t.subject) && t.gradeStart <= state.maxGrade;
+}
+
+function updateVisibleCounts() {
+  const topics = state.topics.filter((t) => t.gradeStart <= state.maxGrade);
+  const visibleIds = new Set(topics.map((t) => t.id));
+  const dependencyCount = state.deps.filter(
+    (e) => visibleIds.has(e.prerequisiteId) && visibleIds.has(e.topicId),
+  ).length;
+  $("#counts").textContent = `${topics.length.toLocaleString("zh-CN")} 个微主题 · ${dependencyCount.toLocaleString("zh-CN")} 条先修`;
+  document.querySelectorAll("[data-subject]").forEach((button) => {
+    const count = topics.filter((t) => t.subject === button.dataset.subject).length;
+    button.querySelector(".subject-count").textContent = count;
+  });
 }
 
 const scene = new THREE.Scene();
 scene.fog = new THREE.FogExp2(0x0b1020, 0.012);
-const camera = new THREE.PerspectiveCamera(50, innerWidth / innerHeight, 0.1, 200);
-camera.position.set(28, 22, 28);
+const camera = new THREE.PerspectiveCamera(50, innerWidth / innerHeight, 0.1, 320);
+camera.position.set(36, 28, 36);
 
 const renderer = new THREE.WebGLRenderer({ canvas: $("#canvas"), antialias: true, alpha: false });
 renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
@@ -150,8 +190,8 @@ controls.enableDamping = true;
 controls.autoRotate = true;
 controls.autoRotateSpeed = 0.35;
 controls.minDistance = 8;
-controls.maxDistance = 80;
-controls.target.set(0, 12, 0);
+controls.maxDistance = 110;
+controls.target.set(0, 18, 0);
 
 scene.add(new THREE.AmbientLight(0xffffff, 0.55));
 const key = new THREE.DirectionalLight(0xffffff, 0.85);
@@ -178,7 +218,7 @@ function makeLabel(text) {
   return spr;
 }
 
-for (const g of [1, 3, 5, 7, 9]) {
+for (const g of [1, 3, 5, 7, 9, 11]) {
   const y = (g - 1) * 3.15;
   const ring = new THREE.Mesh(ringGeo, ringMat);
   ring.rotation.x = -Math.PI / 2;

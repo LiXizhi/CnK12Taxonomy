@@ -298,5 +298,95 @@
     "prerequisiteId": "mt_df_s1_spring_festival_customs",
     "strength": "soft",
     "reason": "春节艺术形式建立在道法传统节日习俗之上。"
+  },
+  {
+    "topicId": "mt_math_s5_function_concept_graph",
+    "prerequisiteId": "mt_math_s4_quadratic_function",
+    "strength": "hard",
+    "reason": "高中函数概念与图像建立在初中二次函数之上。"
+  },
+  {
+    "topicId": "mt_chinese_s5_whole_book_annotation",
+    "prerequisiteId": "mt_chinese_s4_capstone_project_s4",
+    "strength": "soft",
+    "reason": "整本书批注阅读承接初中综合语文实践。"
+  },
+  {
+    "topicId": "mt_english_s5_listening_inference",
+    "prerequisiteId": "mt_english_s4_argumentative_writing",
+    "strength": "soft",
+    "reason": "高中听力推断与论证表达建立在初中议论文写作之上。"
+  },
+  {
+    "topicId": "mt_zz_s5_social_formation_process",
+    "prerequisiteId": "mt_df_s4_rule_of_law_thinking",
+    "strength": "soft",
+    "reason": "高中社会发展进程分析承接初中法治思维。"
+  },
+  {
+    "topicId": "mt_ls_s5_early_state_qin_han_unity",
+    "prerequisiteId": "mt_ls_s4_qin_unification",
+    "strength": "hard",
+    "reason": "纲要中的秦汉大一统需要先掌握初中秦统一史实。"
+  },
+  {
+    "topicId": "mt_dl_s5_earth_motion_geo_meaning",
+    "prerequisiteId": "mt_dl_s4_earth_revolution_seasons",
+    "strength": "hard",
+    "reason": "高中地球运动地理意义深化初中公转与四季。"
+  },
+  {
+    "topicId": "mt_wl_s5_newton_laws_apply",
+    "prerequisiteId": "mt_science_s4_newton_second_law",
+    "strength": "hard",
+    "reason": "高中牛顿定律应用建立在科学课牛顿第二定律之上。"
+  },
+  {
+    "topicId": "mt_hx_s5_ionic_reaction",
+    "prerequisiteId": "mt_science_s4_chemical_equations",
+    "strength": "hard",
+    "reason": "离子反应需要先会写和配平化学方程式。"
+  },
+  {
+    "topicId": "mt_sw_s5_cell_theory",
+    "prerequisiteId": "mt_science_s4_cell_division",
+    "strength": "soft",
+    "reason": "细胞学说深化建立在初中细胞分裂认识之上。"
+  },
+  {
+    "topicId": "mt_sw_s5_dna_replication",
+    "prerequisiteId": "mt_science_s4_dna_genes",
+    "strength": "hard",
+    "reason": "DNA复制需要先理解DNA与基因的基本概念。"
+  },
+  {
+    "topicId": "mt_xxjs_s5_hs_prog_fundamentals",
+    "prerequisiteId": "mt_it_s4_text_programming",
+    "strength": "hard",
+    "reason": "高中程序设计基础承接初中文本语言编程。"
+  },
+  {
+    "topicId": "mt_tyjs_s5_design_general_process",
+    "prerequisiteId": "mt_science_s4_user_centered_design",
+    "strength": "soft",
+    "reason": "通用技术设计过程承接科学课以用户为中心的设计。"
+  },
+  {
+    "topicId": "mt_ty_s5_hs_track_event_refine",
+    "prerequisiteId": "mt_ty_s4_track_sprint_hurdle",
+    "strength": "soft",
+    "reason": "高中田径专项提高建立在初中短跑跨栏之上。"
+  },
+  {
+    "topicId": "mt_ys_s5_hs_music_work_analysis",
+    "prerequisiteId": "mt_ys_s4_cross_art_project",
+    "strength": "soft",
+    "reason": "高中音乐作品分析承接初中跨学科艺术项目。"
+  },
+  {
+    "topicId": "mt_ld_s5_hs_independent_living",
+    "prerequisiteId": "mt_ld_s4_career_shadow_visit",
+    "strength": "soft",
+    "reason": "高中独立生活管理承接初中职业体验中的劳动自立。"
   }
 ]

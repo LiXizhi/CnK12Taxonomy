@@ -1438,5 +1438,329 @@
       "记录一天运动时长",
       "说明久坐危害"
     ]
+  },
+  {
+    "id": "mt_ty_s5_hs_track_event_refine",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "高中运动技能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "田径专项提高",
+    "nameEn": "Track and field specialization",
+    "standards": [
+      "moe-ty-2017:MS"
+    ],
+    "description": "能在短跑、跳跃或投掷中选定一项提高技术细节，并用成绩与动作质量检验进步。",
+    "evidence": [
+      "完成一次专项技术分解练习",
+      "对照个人最好成绩记录改进点"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_ball_tactics_apply",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "高中运动技能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "球类战术运用",
+    "nameEn": "Ball-game tactics in play",
+    "standards": [
+      "moe-ty-2017:MS"
+    ],
+    "description": "能在篮球、足球或排球等项目中运用传切、掩护或防守轮转，并在对抗中完成既定配合。",
+    "evidence": [
+      "比赛中完成一次成功的战术配合",
+      "赛后标出本队站位与职责分工"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_gym_aerobics_combo",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "高中运动技能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "体操或健美操组合",
+    "nameEn": "Gymnastics or aerobics combo",
+    "standards": [
+      "moe-ty-2017:MS"
+    ],
+    "description": "能把滚翻、平衡、跳跃或健美操步伐编成连贯组合，动作与节拍一致并注意保护。",
+    "evidence": [
+      "独立完成一套不少于八拍的组合",
+      "保护同伴完成有难度的衔接动作"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_wushu_routine_refine",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "高中运动技能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "武术套路提高",
+    "nameEn": "Wushu routine refinement",
+    "standards": [
+      "moe-ty-2017:MS"
+    ],
+    "description": "能较完整演练一套拳术或器械套路，做到步型准确、劲力顺达并体现攻防含义。",
+    "evidence": [
+      "完整演练套路并自检步型",
+      "指出两个动作的攻防意图"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_swim_snow_cognition",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "高中运动技能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "游泳或冰雪可选认知",
+    "nameEn": "Swim or snow-sport cognition",
+    "standards": [
+      "moe-ty-2017:MS"
+    ],
+    "description": "能说明一种泳姿或冰雪项目的安全要点、基本动作要领及场地条件限制。",
+    "evidence": [
+      "复述入水或上冰前的安全检查",
+      "描述一种项目的基本滑行或划水要领"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_emerging_sports",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "高中运动技能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "新兴运动项目",
+    "nameEn": "Emerging sports",
+    "standards": [
+      "moe-ty-2017:MS"
+    ],
+    "description": "能体验定向、飞盘、攀岩或街舞健身等新兴项目的基本技能，并遵守该项目安全规则。",
+    "evidence": [
+      "完成一次新兴项目的入门任务",
+      "列出该项目两条必须遵守的安全规则"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_strength_endurance",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "高中体能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "力量耐力训练",
+    "nameEn": "Strength-endurance training",
+    "standards": [
+      "moe-ty-2017:PF"
+    ],
+    "description": "能按正确姿势完成多组自重或轻负荷力量练习，控制组间休息并记录负荷变化。",
+    "evidence": [
+      "完成一组标准深蹲或俯卧撑",
+      "在训练日志中记下组数与主观疲劳"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_speed_agility_drill",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "高中体能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "速度灵敏训练",
+    "nameEn": "Speed and agility training",
+    "standards": [
+      "moe-ty-2017:PF"
+    ],
+    "description": "能完成加速跑、变向与反应启动等练习，在折返或绳梯中保持低重心与步频控制。",
+    "evidence": [
+      "完成计时折返并比较前后成绩",
+      "根据口令完成启动与急停"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_fitness_test_read",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "高中体能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "体能测评解读",
+    "nameEn": "Fitness test interpretation",
+    "standards": [
+      "moe-ty-2017:PF"
+    ],
+    "description": "能读懂肺活量、耐力跑、力量等测评结果的含义，指出个人短板并联系可训练因素。",
+    "evidence": [
+      "解释本人两项测评数据的含义",
+      "根据短板选出对应的练习手段"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_personal_exercise_plan",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "高中体能",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "个性化锻炼计划",
+    "nameEn": "Personalized exercise plan",
+    "standards": [
+      "moe-ty-2017:PF"
+    ],
+    "description": "能按目标、频率、强度与恢复安排两周锻炼计划，并根据疲劳与成绩做一次调整。",
+    "evidence": [
+      "提交含热身与放松的两周计划",
+      "根据一次测评结果修改训练量"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_cpr_practice_cognition",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "高中健康教育",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "心肺复苏实操认知",
+    "nameEn": "CPR practice cognition",
+    "standards": [
+      "moe-ty-2017:HE"
+    ],
+    "description": "能在模型上按呼叫求助、胸外按压与人工呼吸的顺序完成模拟操作，并说明AED的使用时机。",
+    "evidence": [
+      "在模型上完成一轮按压节奏练习",
+      "指出校园AED位置及启用步骤"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_sport_injury_care",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "高中健康教育",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "运动损伤处理",
+    "nameEn": "Sports injury care",
+    "standards": [
+      "moe-ty-2017:HE"
+    ],
+    "description": "能识别扭伤、拉伤等常见损伤的早期表现，正确实施停止活动、冷敷、加压与抬高，并判断何时就医。",
+    "evidence": [
+      "演示踝关节扭伤的现场处理",
+      "说明何种情况必须停止自行处理"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_nutrition_weight_mgmt",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "高中健康教育",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "营养与体重管理",
+    "nameEn": "Nutrition and weight management",
+    "standards": [
+      "moe-ty-2017:HE"
+    ],
+    "description": "能根据能量收支说明健康体重管理，避免极端节食，并为训练日搭配合理餐食。",
+    "evidence": [
+      "比较训练日与休息日的能量需求",
+      "指出一种不健康减重做法的风险"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_mental_health_sport",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "高中健康教育",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "心理健康与运动",
+    "nameEn": "Mental health and exercise",
+    "standards": [
+      "moe-ty-2017:HE"
+    ],
+    "description": "能识别学业压力与情绪波动，选择跑步、球类或拉伸等运动调节，并知道何时求助。",
+    "evidence": [
+      "记录运动前后情绪变化",
+      "说出两条可求助的校园支持途径"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_avoid_addictive_behavior",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "高中健康教育",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "远离成瘾行为",
+    "nameEn": "Avoiding addictive behaviors",
+    "standards": [
+      "moe-ty-2017:HE"
+    ],
+    "description": "能说明烟草、酒精、毒品及过度游戏对身心的危害，并在同伴压力情境中拒绝参与。",
+    "evidence": [
+      "列举三类成瘾行为的健康风险",
+      "角色扮演中明确拒绝劝诱"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_rules_fair_play",
+    "type": "LANGUAGE",
+    "subject": "体育与健康",
+    "domain": "高中体育品德",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "竞赛规则与公平",
+    "nameEn": "Rules and fair play",
+    "standards": [
+      "moe-ty-2017:CH"
+    ],
+    "description": "能准确使用本专项主要判罚术语，自觉遵守规则并尊重裁判，抵制隐瞒犯规与辱骂。",
+    "evidence": [
+      "用规则术语解释一次判罚",
+      "主动报告自己的出界或犯规"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_team_role_lead",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "高中体育品德",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "团队角色与领导",
+    "nameEn": "Team roles and leadership",
+    "standards": [
+      "moe-ty-2017:CH"
+    ],
+    "description": "能在比赛或练习中承担队长、组织者或裁判等角色，协调分工并带动同伴完成任务。",
+    "evidence": [
+      "组织一次小组热身并清点人数",
+      "赛后评价本队角色分工是否合理"
+    ]
+  },
+  {
+    "id": "mt_ty_s5_hs_spirit_career_link",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "高中体育品德",
+    "gradeStart": 10,
+    "gradeEnd": 12,
+    "name": "体育精神与生涯",
+    "nameEn": "Sportsmanship and career",
+    "standards": [
+      "moe-ty-2017:CH"
+    ],
+    "description": "能把尊重、坚持与公平迁移到学业与职业规划，说明体育习惯如何服务终身健康。",
+    "evidence": [
+      "写一段体育精神与个人目标的联系",
+      "列出毕业后可坚持的两项运动习惯"
+    ]
   }
 ]

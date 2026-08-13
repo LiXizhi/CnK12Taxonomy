@@ -2658,5 +2658,581 @@
       "提交论文与展示材料",
       "反思学习过程"
     ]
+  },
+  {
+    "id": "mt_chinese_s5_whole_book_annotation",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "整本书阅读与研讨",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "整本书批注阅读",
+    "nameEn": "Whole-book annotation",
+    "standards": [
+      "moe-yw-2017:TG1"
+    ],
+    "description": "能按章节为一部长篇作品做批注，标出人物关系、情节转折和疑问。",
+    "evidence": [
+      "为指定章节写下不少于五处批注",
+      "用人物关系图梳理主要角色"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_whole_book_seminar",
+    "type": "LANGUAGE",
+    "subject": "语文",
+    "domain": "整本书阅读与研讨",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "整本书研讨发言",
+    "nameEn": "Whole-book seminar talk",
+    "standards": [
+      "moe-yw-2017:TG1"
+    ],
+    "description": "能在研讨中依据文本细节陈述观点，并回应同学的不同解读。",
+    "evidence": [
+      "发言时引用两处原文",
+      "针对同学观点提出一个追问"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_whole_book_review",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "整本书阅读与研讨",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "整本书读后评论",
+    "nameEn": "Whole-book review essay",
+    "standards": [
+      "moe-yw-2017:TG1"
+    ],
+    "description": "能就整本书的主题或人物写出有理据的短评，避免只讲情节梗概。",
+    "evidence": [
+      "完成八百字左右的读后评论",
+      "用具体情节支撑对人物的判断"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_local_culture_fieldwork",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "当代文化参与",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "社区文化调查",
+    "nameEn": "Local culture fieldwork",
+    "standards": [
+      "moe-yw-2017:TG2"
+    ],
+    "description": "能围绕身边文化现象拟定调查问题，记录见闻并整理成简要报告。",
+    "evidence": [
+      "完成一次访谈或观察记录",
+      "在报告中区分事实描述与个人看法"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_culture_phenomenon_comment",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "当代文化参与",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "当代文化评说",
+    "nameEn": "Commenting on contemporary culture",
+    "standards": [
+      "moe-yw-2017:TG2"
+    ],
+    "description": "能就校园或社会文化现象写出有立场的短评，并说明依据与限度。",
+    "evidence": [
+      "选定一个文化现象写出三百字评说",
+      "口头向小组陈述评说要点"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_cross_media_comparison",
+    "type": "META",
+    "subject": "语文",
+    "domain": "跨媒介阅读与交流",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "跨媒介信息比较",
+    "nameEn": "Cross-media comparison",
+    "standards": [
+      "moe-yw-2017:TG3"
+    ],
+    "description": "能比较同一事件在文字、图像或音视频中的呈现差异，指出信息侧重。",
+    "evidence": [
+      "列出两种媒介各自强调的信息",
+      "说明一处因媒介形式造成的理解差异"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_multimodal_presentation",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "跨媒介阅读与交流",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "多媒介表达交流",
+    "nameEn": "Multimodal presentation",
+    "standards": [
+      "moe-yw-2017:TG3"
+    ],
+    "description": "能综合文字、图片或短视频完成一次主题交流，并说明媒介选择理由。",
+    "evidence": [
+      "完成一份含图文的展示稿",
+      "口头说明为何选用某种媒介"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_classical_particle_sorting",
+    "type": "LANGUAGE",
+    "subject": "语文",
+    "domain": "语言积累梳理与探究",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "文言虚词梳理",
+    "nameEn": "Classical particle sorting",
+    "standards": [
+      "moe-yw-2017:TG4"
+    ],
+    "description": "能整理常见文言虚词在课文中的用法，并用自己的话说明差异。",
+    "evidence": [
+      "为“之”“其”各整理两种用法",
+      "用课文例句给虚词做分类卡片"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_register_and_diction",
+    "type": "CONCEPTUAL",
+    "subject": "语文",
+    "domain": "语言积累梳理与探究",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "词语语体探究",
+    "nameEn": "Register and diction",
+    "standards": [
+      "moe-yw-2017:TG4"
+    ],
+    "description": "能辨析书面语与口语、庄重与通俗的词语差异，并在表达中选用得体。",
+    "evidence": [
+      "把一段口语改写成书面表达",
+      "指出一处用词不得体并改正"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_language_phenomenon_inquiry",
+    "type": "META",
+    "subject": "语文",
+    "domain": "语言积累梳理与探究",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "语言现象专题",
+    "nameEn": "Language phenomenon inquiry",
+    "standards": [
+      "moe-yw-2017:TG4"
+    ],
+    "description": "能就网络用语、成语活用等一种语言现象搜集例子并作简要探究。",
+    "evidence": [
+      "收集不少于五个相关用例",
+      "写出该现象适用场合与误用风险"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_fiction_close_reading",
+    "type": "REPRESENTATIONAL",
+    "subject": "语文",
+    "domain": "文学阅读与写作",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "小说细读人物",
+    "nameEn": "Fiction close reading",
+    "standards": [
+      "moe-yw-2017:TG5"
+    ],
+    "description": "能通过对话、细节和叙述角度分析小说人物，并说明性格如何显现。",
+    "evidence": [
+      "圈出三处塑造人物的细节",
+      "写一段人物短评并引用原文"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_poetry_imagery_imitation",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "文学阅读与写作",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "诗歌意象仿写",
+    "nameEn": "Poetry imagery imitation",
+    "standards": [
+      "moe-yw-2017:TG5"
+    ],
+    "description": "能识别诗中核心意象及其情感指向，并据此完成一首仿写或扩写。",
+    "evidence": [
+      "标出诗中两个关键意象",
+      "完成一首保留原意象的仿写"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_prose_craft_analysis",
+    "type": "REPRESENTATIONAL",
+    "subject": "语文",
+    "domain": "文学阅读与写作",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "散文笔法赏析",
+    "nameEn": "Prose craft analysis",
+    "standards": [
+      "moe-yw-2017:TG5"
+    ],
+    "description": "能指出散文中的线索、修辞或句式安排，并说明它们如何形成韵味。",
+    "evidence": [
+      "找出全文线索并画出结构提纲",
+      "赏析一处修辞并说明表达效果"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_literary_piece_writing",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "文学阅读与写作",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "文学性片段写作",
+    "nameEn": "Literary piece writing",
+    "standards": [
+      "moe-yw-2017:TG5"
+    ],
+    "description": "能运用描写、抒情或叙述写出有画面感的文学片段，并自行修改用语。",
+    "evidence": [
+      "完成四百字左右的文学片段",
+      "根据同伴意见修改一处表达"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_claim_evidence_mapping",
+    "type": "CONCEPTUAL",
+    "subject": "语文",
+    "domain": "思辨性阅读与表达",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "论点论据梳理",
+    "nameEn": "Claim-evidence mapping",
+    "standards": [
+      "moe-yw-2017:TG6"
+    ],
+    "description": "能从议论性文本中抽出中心论点和支撑论据，并判断论据是否对题。",
+    "evidence": [
+      "用提纲标出论点与三条论据",
+      "指出一处论据与论点不匹配"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_reasoning_gap_spotting",
+    "type": "META",
+    "subject": "语文",
+    "domain": "思辨性阅读与表达",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "论证漏洞识别",
+    "nameEn": "Spotting reasoning gaps",
+    "standards": [
+      "moe-yw-2017:TG6"
+    ],
+    "description": "能识别以偏概全、偷换概念等常见推理问题，并说明原文何处失当。",
+    "evidence": [
+      "在短文中标出一处推理漏洞",
+      "用自己的话解释该漏洞为何不成立"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_reasoned_oral_argument",
+    "type": "LANGUAGE",
+    "subject": "语文",
+    "domain": "思辨性阅读与表达",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "思辨性口头表达",
+    "nameEn": "Reasoned oral argument",
+    "standards": [
+      "moe-yw-2017:TG6"
+    ],
+    "description": "能就争议话题作有层次的口头陈述，先亮明立场再回应反方要点。",
+    "evidence": [
+      "作两分钟有立场的发言",
+      "回应同学反驳时引用一条理由"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_practical_text_extraction",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "实用性阅读与交流",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "实用文本提取",
+    "nameEn": "Practical text extraction",
+    "standards": [
+      "moe-yw-2017:TG7"
+    ],
+    "description": "能从通知、说明书或报道中提取关键信息，并按任务转述给他人。",
+    "evidence": [
+      "从一则通知中列出时间地点要求",
+      "把说明书步骤转述成口头说明"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_speech_script_writing",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "实用性阅读与交流",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "演讲稿撰写",
+    "nameEn": "Speech script writing",
+    "standards": [
+      "moe-yw-2017:TG7"
+    ],
+    "description": "能按开场、主体、收束撰写面向听众的演讲稿，语言适合口头表达。",
+    "evidence": [
+      "完成一篇八百字左右演讲稿",
+      "朗读时标出停顿与重音"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_interview_and_report",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "实用性阅读与交流",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "访谈与书面报告",
+    "nameEn": "Interview and written report",
+    "standards": [
+      "moe-yw-2017:TG7"
+    ],
+    "description": "能拟定访谈提纲、记录回答，并整理成结构清楚的书面报告。",
+    "evidence": [
+      "设计不少于五个访谈问题",
+      "把访谈记录改写成分段报告"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_preqin_prose_study",
+    "type": "REPRESENTATIONAL",
+    "subject": "语文",
+    "domain": "中华传统文化经典研习",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "先秦散文研读",
+    "nameEn": "Pre-Qin prose study",
+    "standards": [
+      "moe-yw-2017:TG8"
+    ],
+    "description": "能疏通一篇先秦散文的关键语句，概括其说理层次并记下疑难。",
+    "evidence": [
+      "用现代汉语翻译指定段落",
+      "画出说理层次并标注关键词"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_tang_song_poetry_study",
+    "type": "REPRESENTATIONAL",
+    "subject": "语文",
+    "domain": "中华传统文化经典研习",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "唐宋诗词研习",
+    "nameEn": "Tang-Song poetry study",
+    "standards": [
+      "moe-yw-2017:TG8"
+    ],
+    "description": "能结合注释理解一首唐宋诗词的意象与情感，并作简要札记。",
+    "evidence": [
+      "为诗中两处典故写出注释大意",
+      "用札记说明诗人情感如何层层推进"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_classic_commentary_notes",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "中华传统文化经典研习",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "经典札记写作",
+    "nameEn": "Classic commentary notes",
+    "standards": [
+      "moe-yw-2017:TG8"
+    ],
+    "description": "能就一篇经典选段写下读书札记，记录字词、章法或思想要点。",
+    "evidence": [
+      "完成一则三百字札记",
+      "在札记中区分字词解释与个人体会"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_revolutionary_narrative",
+    "type": "REPRESENTATIONAL",
+    "subject": "语文",
+    "domain": "中国革命传统作品研习",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "革命叙事研读",
+    "nameEn": "Revolutionary narrative reading",
+    "standards": [
+      "moe-yw-2017:TG9"
+    ],
+    "description": "能梳理革命传统作品中的事件与人物选择，说明叙述如何体现信念。",
+    "evidence": [
+      "列出主要事件时间线",
+      "引用一处细节说明人物抉择"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_revolutionary_theme_writing",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "中国革命传统作品研习",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "革命传统主题写作",
+    "nameEn": "Revolutionary theme writing",
+    "standards": [
+      "moe-yw-2017:TG9"
+    ],
+    "description": "能结合作品写一篇有感而发的短文，把历史情境与今日思考联系起来。",
+    "evidence": [
+      "完成一篇读后感并引用原文",
+      "在小组中朗读并说明写作意图"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_modern_fiction_author",
+    "type": "REPRESENTATIONAL",
+    "subject": "语文",
+    "domain": "中国现当代作家作品研习",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "现代小说作家研读",
+    "nameEn": "Modern fiction author study",
+    "standards": [
+      "moe-yw-2017:TG10"
+    ],
+    "description": "能就一位现代小说家的选篇分析叙事方式和人物处境，并做读书卡片。",
+    "evidence": [
+      "为选篇列出叙事视角与时间安排",
+      "制作一张作家作品卡片含代表作"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_contemporary_prose_study",
+    "type": "REPRESENTATIONAL",
+    "subject": "语文",
+    "domain": "中国现当代作家作品研习",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "当代散文研习",
+    "nameEn": "Contemporary prose study",
+    "standards": [
+      "moe-yw-2017:TG10"
+    ],
+    "description": "能抓住当代散文的思想线索与语言个性，写出有针对性的评点。",
+    "evidence": [
+      "标出全文思想转折处",
+      "写一段评点说明语言个性"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_author_style_compare",
+    "type": "META",
+    "subject": "语文",
+    "domain": "中国现当代作家作品研习",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "作家风格比较",
+    "nameEn": "Author style comparison",
+    "standards": [
+      "moe-yw-2017:TG10"
+    ],
+    "description": "能比较两位现当代作家在题材或笔法上的差异，并举作品实例说明。",
+    "evidence": [
+      "列出两位作家各两条风格特征",
+      "用对照表呈现具体例句"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_foreign_novel_excerpt",
+    "type": "REPRESENTATIONAL",
+    "subject": "语文",
+    "domain": "外国作家作品研习",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "外国小说选篇研读",
+    "nameEn": "Foreign novel excerpt study",
+    "standards": [
+      "moe-yw-2017:TG11"
+    ],
+    "description": "能阅读外国小说选篇，梳理文化背景中的人物冲突，并做讨论发言。",
+    "evidence": [
+      "概括选篇中的主要冲突",
+      "讨论时说明一处需要背景知识才能理解的细节"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_foreign_poetry_drama",
+    "type": "REPRESENTATIONAL",
+    "subject": "语文",
+    "domain": "外国作家作品研习",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "外国诗歌戏剧研习",
+    "nameEn": "Foreign poetry and drama study",
+    "standards": [
+      "moe-yw-2017:TG11"
+    ],
+    "description": "能借助注释阅读外国诗歌或戏剧片段，抓住台词或意象表达的情感。",
+    "evidence": [
+      "朗读一段台词并说明语气",
+      "为诗中一个意象写出理解札记"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_science_essay_reading",
+    "type": "CONCEPTUAL",
+    "subject": "语文",
+    "domain": "科学与文化论著研习",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "科学论著节选阅读",
+    "nameEn": "Science essay reading",
+    "standards": [
+      "moe-yw-2017:TG12"
+    ],
+    "description": "能抓住科学论著节选的核心命题和论证步骤，用自己的话转述大意。",
+    "evidence": [
+      "列出文中的核心命题",
+      "把一段论证改写成三条要点"
+    ]
+  },
+  {
+    "id": "mt_chinese_s5_cultural_treatise_notes",
+    "type": "PROCEDURAL",
+    "subject": "语文",
+    "domain": "科学与文化论著研习",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "文化论著读书笔记",
+    "nameEn": "Cultural treatise notes",
+    "standards": [
+      "moe-yw-2017:TG12"
+    ],
+    "description": "能就文化论著节选做分层笔记，区分作者观点、例证和自己的疑问。",
+    "evidence": [
+      "用三栏笔记记录观点例证疑问",
+      "就一个疑问写出准备继续查证的方向"
+    ]
   }
 ]

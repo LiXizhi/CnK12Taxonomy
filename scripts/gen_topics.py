@@ -23,7 +23,9 @@ def xd(g: int) -> int:
         return 2
     if g <= 6:
         return 3
-    return 4
+    if g <= 9:
+        return 4
+    return 5
 
 
 def T(prefix, subject, slug, typ, domain, g0, g1, name, en, std, desc, *ev):

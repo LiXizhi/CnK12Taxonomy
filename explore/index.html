@@ -14,11 +14,28 @@
       <header>
         <h1>孩子在义务教育里学什么</h1>
         <p>
-          一张可旋转的开放地图：每个点是一个可教微主题，颜色是学科，高度是年级，细线是先修。
+          一张可旋转的开放地图：每个点是一个可教微主题，颜色是学科，高度是年级（1–12），细线是先修。
           点一下，就能沿着「必须先会什么」往回走。
           <span class="stats" id="counts">加载中…</span>
           · <a href="https://github.com/LiXizhi/CnK12Taxonomy">GitHub</a>
         </p>
+        <div class="filters">
+          <label for="max-grade">最多显示到</label>
+          <select id="max-grade" aria-label="最高显示年级">
+            <option value="1">小学一年级</option>
+            <option value="2">小学二年级</option>
+            <option value="3">小学三年级</option>
+            <option value="4">小学四年级</option>
+            <option value="5">小学五年级</option>
+            <option value="6">小学六年级</option>
+            <option value="7">初中一年级</option>
+            <option value="8">初中二年级</option>
+            <option value="9" selected>初中三年级</option>
+            <option value="10">高中一年级</option>
+            <option value="11">高中二年级</option>
+            <option value="12">高中三年级</option>
+          </select>
+        </div>
         <div class="subjects" id="subjects"></div>
       </header>
       <div class="search">
@@ -29,8 +46,9 @@
       <div class="hint">拖动旋转 · 滚轮缩放 · 点击圆点看先修 · <kbd>Esc</kbd> 取消选择 · 学科按钮可开关</div>
       <div class="sources">
         信息源：
-        <a href="https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html" target="_blank" rel="noopener">义务教育课程方案和课程标准（2022年版）</a>
-        （教育部 教材〔2022〕2号）
+        <a href="https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html" target="_blank" rel="noopener">义务教育课程标准（2022年版）</a>
+        ·
+        <a href="https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html" target="_blank" rel="noopener">普通高中课程标准（2017年版2020年修订）</a>
       </div>
     </div>
     <div class="tooltip" id="tooltip"></div>

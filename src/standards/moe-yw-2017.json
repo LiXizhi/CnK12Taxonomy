@@ -1,0 +1,23 @@
+{
+  "slug": "moe-yw-2017",
+  "country": "CN",
+  "name": "普通高中语文课程标准（2017年版2020年修订）",
+  "version": "2017/2020",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known 学习任务群 titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-yw-2017:TG1", "code": "TG1"},
+    {"key": "moe-yw-2017:TG2", "code": "TG2"},
+    {"key": "moe-yw-2017:TG3", "code": "TG3"},
+    {"key": "moe-yw-2017:TG4", "code": "TG4"},
+    {"key": "moe-yw-2017:TG5", "code": "TG5"},
+    {"key": "moe-yw-2017:TG6", "code": "TG6"},
+    {"key": "moe-yw-2017:TG7", "code": "TG7"},
+    {"key": "moe-yw-2017:TG8", "code": "TG8"},
+    {"key": "moe-yw-2017:TG9", "code": "TG9"},
+    {"key": "moe-yw-2017:TG10", "code": "TG10"},
+    {"key": "moe-yw-2017:TG11", "code": "TG11"},
+    {"key": "moe-yw-2017:TG12", "code": "TG12"}
+  ]
+}

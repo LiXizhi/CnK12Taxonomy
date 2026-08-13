@@ -1,39 +1,45 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "generated": "2026-08-13",
-  "topicCount": 1103,
-  "edgeCount": 2094,
-  "clusterCount": 168,
-  "standardCount": 273,
+  "topicCount": 1507,
+  "edgeCount": 2707,
+  "clusterCount": 241,
+  "standardCount": 346,
   "subjects": {
-    "艺术": 80,
-    "语文": 140,
-    "英语": 95,
-    "地理": 66,
-    "历史": 72,
+    "艺术": 98,
+    "生物学": 36,
+    "化学": 36,
+    "语文": 172,
+    "英语": 123,
+    "通用技术": 18,
+    "地理": 98,
+    "历史": 104,
+    "信息技术": 22,
     "信息科技": 95,
-    "劳动": 54,
-    "数学": 191,
+    "劳动": 66,
+    "数学": 233,
     "道德与法治": 90,
-    "体育与健康": 80,
+    "体育与健康": 98,
+    "物理": 42,
+    "思想政治": 36,
     "科学": 140
   },
   "files": {
     "topics.json": {
-      "bytes": 888210,
-      "sha256": "62c0110cac9319f4bdc5742f1716b5d12bf9d3d3405d63c68e6da54d93ae838c"
+      "bytes": 1239733,
+      "sha256": "aaa12a2506ec98d13f82cc478d21af253098dc5365fb243e519d92d23c90d76f"
     },
     "dependencies.json": {
-      "bytes": 518583,
-      "sha256": "85296546c22e91e2bf66ccc6acce8b46b30e7d3e85688476783a787419cc1f15"
+      "bytes": 673020,
+      "sha256": "38fbacf2cf20be2b03a2e8ec987d50763261120c3714b5be368d2c6751d9b7d2"
     },
     "curriculum-standards.json": {
-      "bytes": 30359,
-      "sha256": "4f12763aa09873dc6035c1c4c8d02afcf8109344a7956d2546b61535cc1b7621"
+      "bytes": 43116,
+      "sha256": "6d7f5152b3a07eb0675bf9f693b7ea19434d24bfc55a468f782a5ccfbf456f35"
     },
     "clusters.json": {
-      "bytes": 87801,
-      "sha256": "e3a8c4747fad0ff80bfaab5ed23c863418270a9fd494ebfb48899dd8a0426992"
+      "bytes": 124571,
+      "sha256": "3418eac4cbe51e79feea6e998bc54fccd41daa6cd5b248bc4fb1ebd615331988"
     }
   }
 }

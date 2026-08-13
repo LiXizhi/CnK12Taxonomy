@@ -1,0 +1,16 @@
+{
+  "slug": "moe-wl-2017",
+  "country": "CN",
+  "name": "普通高中物理课程标准（2017年版2020年修订）",
+  "version": "2017/2020",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known theme titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-wl-2017:MECH", "code": "MECH"},
+    {"key": "moe-wl-2017:EM", "code": "EM"},
+    {"key": "moe-wl-2017:TH", "code": "TH"},
+    {"key": "moe-wl-2017:WAV", "code": "WAV"},
+    {"key": "moe-wl-2017:MOD", "code": "MOD"}
+  ]
+}

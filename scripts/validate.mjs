@@ -28,13 +28,14 @@ check(topics.topicCount === topics.topics.length, `topics: topicCount ${topics.t
 check(deps.edgeCount === deps.dependencies.length, `dependencies: edgeCount ${deps.edgeCount} != ${deps.dependencies.length}`);
 check(standards.curriculumCount === standards.curricula.length, `curricula: curriculumCount != length`);
 check(clusters.clusterCount === clusters.clusters.length, `clusters: clusterCount != length`);
-check(topics.topics.length >= 1000, `v0.2 target is ≥1000 topics, got ${topics.topics.length}`);
-check(deps.dependencies.length >= 1800, `v0.2 target is ≥1800 edges, got ${deps.dependencies.length}`);
+check(topics.topics.length >= 1400, `v0.3 target is ≥1400 topics, got ${topics.topics.length}`);
+check(deps.dependencies.length >= 2500, `v0.3 target is ≥2500 edges, got ${deps.dependencies.length}`);
 
 const TYPES = new Set(['CONCEPTUAL', 'PROCEDURAL', 'REPRESENTATIONAL', 'LANGUAGE', 'META']);
 const SUBJECTS = new Set([
   '语文', '数学', '英语', '科学', '信息科技',
   '道德与法治', '历史', '地理', '体育与健康', '艺术', '劳动',
+  '思想政治', '物理', '化学', '生物学', '信息技术', '通用技术',
 ]);
 const topicIds = new Set();
 for (const t of topics.topics) {
@@ -43,9 +44,9 @@ for (const t of topics.topics) {
   check(SUBJECTS.has(t.subject), `topic ${t.id}: unexpected subject ${t.subject}`);
   check(typeof t.description === 'string' && t.description.length > 12, `topic ${t.id}: empty/short description`);
   check(Array.isArray(t.evidence) && t.evidence.length >= 2, `topic ${t.id}: need ≥2 evidence`);
-  check(typeof t.gradeStart === 'number' && t.gradeStart >= 1 && t.gradeStart <= 9, `topic ${t.id}: bad gradeStart`);
-  check(t.gradeEnd >= t.gradeStart && t.gradeEnd <= 9, `topic ${t.id}: bad gradeEnd`);
-  check(t.xueduan >= 1 && t.xueduan <= 4, `topic ${t.id}: bad xueduan`);
+  check(typeof t.gradeStart === 'number' && t.gradeStart >= 1 && t.gradeStart <= 12, `topic ${t.id}: bad gradeStart`);
+  check(t.gradeEnd >= t.gradeStart && t.gradeEnd <= 12, `topic ${t.id}: bad gradeEnd`);
+  check(t.xueduan >= 1 && t.xueduan <= 5, `topic ${t.id}: bad xueduan`);
   if (topicIds.has(t.id)) errors.push(`duplicate topic id: ${t.id}`);
   topicIds.add(t.id);
 }

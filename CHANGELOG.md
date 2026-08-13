@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.3.0 — 2026-08-13
+
+Add ordinary high school (grades 10–12) as 学段 5, aligned to 2017/2020 课标 (codes only).
+
+- Continuing subjects at 高中: 语文, 数学, 英语, 历史, 地理, 体育与健康, 艺术, 劳动.
+- New first-class subjects: 思想政治, 物理, 化学, 生物学, 信息技术, 通用技术.
+- Junior-high 科学 remains; 物化生 start as separate subjects in 高中, with extras from 科学 7–9.
+- 日语/俄语 still out of scope.
+
 ## 0.2.0 — 2026-08-13
 
 Add the remaining 2022 义务教育 subjects (codes-only).

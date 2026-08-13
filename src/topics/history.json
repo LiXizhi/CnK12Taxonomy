@@ -1294,5 +1294,581 @@
       "完成一篇短文含史料引用",
       "汇报探究过程与结论"
     ]
+  },
+  {
+    "id": "mt_ls_s5_early_state_qin_han_unity",
+    "type": "REPRESENTATIONAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "早期国家与秦汉大一统",
+    "nameEn": "Early state and Qin-Han unity",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能比较夏商周早期国家与秦汉中央集权的治理模型，用出土文献与制度史料分析大一统如何塑造官僚、法律与边疆。",
+    "evidence": [
+      "对照分封与郡县的权力结构图",
+      "用一件简牍或石刻说明制度如何运行"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_wei_jin_sui_tang_institutions",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "魏晋至隋唐制度文化",
+    "nameEn": "Wei-Jin to Sui-Tang institutions",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能分析门阀政治向科举官僚的转变，比较九品中正、均田、府兵等制度如何回应分裂与再统一。",
+    "evidence": [
+      "用制度变迁表解释隋唐重建大一统的条件",
+      "评价士族文化对文学与宗教的影响"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_liao_song_xia_jin_yuan_plural",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "辽宋夏金元多元",
+    "nameEn": "Plural regimes Liao to Yuan",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能超越单纯的中原王朝中心叙事，比较多政权并立下的经济、族群与制度互动，分析行省对后世疆域治理的意义。",
+    "evidence": [
+      "用互市或和议材料说明政权关系",
+      "评价多元一体格局的史料依据"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_ming_qing_transformation",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "明清变局",
+    "nameEn": "Ming-Qing transformation",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能从白银流动、赋役改革、边疆治理与思想转向分析明清的世界位置变化，而不是只记帝王年表。",
+    "evidence": [
+      "用一条财政或海外贸易史料解释变局",
+      "比较明清海洋政策的文本与实际执行"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_late_qing_crisis_exploration",
+    "type": "META",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "晚清危机与探索",
+    "nameEn": "Late Qing crisis and exploration",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能用条约体系、财政军事危机与思想资源分析洋务、维新、革命等方案的问题意识差异，并检讨冲击—回应模式的局限。",
+    "evidence": [
+      "比较两份改革奏折或政论的目标预设",
+      "指出冲击—回应叙事漏掉了哪些内生因素"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_xinhai_republic_transition",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "辛亥革命与民国",
+    "nameEn": "1911 Revolution and the Republic",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能分析帝制崩溃后的制度试验、军阀政治与社会动员，用多方史料评估共和转型的连续与断裂。",
+    "evidence": [
+      "对照约法文本与实际权力结构",
+      "用报刊材料说明民众对共和的理解差异"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_new_democratic_revolution_path",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "新民主主义革命道路",
+    "nameEn": "New democratic revolution path",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能比较城市中心与农村包围城市两条路径的条件，用会议文献与地方史料分析统一战线、武装斗争和党建。",
+    "evidence": [
+      "用一份会议决议说明战略转折",
+      "评价把革命简化为若干战役的叙述"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_socialist_revolution_construction",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "社会主义革命与建设",
+    "nameEn": "Socialist revolution and construction",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能分析三大改造、计划经济与工业化战略的成效与代价，用统计与亲历材料做有限度的历史评估。",
+    "evidence": [
+      "比较一五计划目标与产业结构变化",
+      "指出一种只颂扬或只否定的评价问题"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_reform_era_new_period",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "改革开放新时期",
+    "nameEn": "Reform and opening period",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能把家庭联产承包、特区试验、市场取向改革等节点放入国内外环境中分析，说明道路探索的阶段性。",
+    "evidence": [
+      "用一组宏观数据解释增长与结构转型",
+      "比较渐进改革与休克疗法的历史语境"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_new_era_historical_position",
+    "type": "META",
+    "subject": "历史",
+    "domain": "中外历史纲要·中国",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "新时代历史方位",
+    "nameEn": "New era historical position",
+    "standards": [
+      "moe-ls-2017:OG1"
+    ],
+    "description": "能从主要矛盾变化、全面小康与民族复兴目标讨论历史分期，用政策文献与社会变迁材料说明连续和差异。",
+    "evidence": [
+      "说明新时代与改革开放前期的连续和差异",
+      "评价一种把当代史写成宣传年表的做法"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_ancient_civ_comparative_models",
+    "type": "PROCEDURAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·世界",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "古代文明比较",
+    "nameEn": "Ancient civilizations compared",
+    "standards": [
+      "moe-ls-2017:OG2"
+    ],
+    "description": "能用生态环境、国家形态、文字宗教等维度比较大河文明与古典地中海文明，避免单线进化叙事。",
+    "evidence": [
+      "完成一份跨文明比较矩阵",
+      "指出地理决定论在解释上的漏洞"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_medieval_world_systems",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·世界",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "中古世界体系",
+    "nameEn": "Medieval world systems",
+    "standards": [
+      "moe-ls-2017:OG2"
+    ],
+    "description": "能把伊斯兰世界、欧洲封建、东亚朝贡、印度洋贸易放入相互联系的中古世界，分析跨区域网络如何运转。",
+    "evidence": [
+      "在地图上标出一条跨洲商品或知识路线",
+      "比较两种中古政治合法性来源"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_west_rise_colonialism_sources",
+    "type": "META",
+    "subject": "历史",
+    "domain": "中外历史纲要·世界",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "西方兴起与殖民",
+    "nameEn": "Western rise and colonialism",
+    "standards": [
+      "moe-ls-2017:OG2"
+    ],
+    "description": "能辨析大航海、军事财政国家与殖民掠夺在西方兴起中的权重，并评估殖民地视角下的世界史写法。",
+    "evidence": [
+      "用一份殖民档案与一份本地记载对照同一事件",
+      "评价西方中心论的史料问题"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_industrial_rev_capitalism",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·世界",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "工业革命与资本主义",
+    "nameEn": "Industrial revolution and capitalism",
+    "standards": [
+      "moe-ls-2017:OG2"
+    ],
+    "description": "能分析技术、能源、工厂制度与世界市场如何相互强化，比较工业化的社会代价与全球分工。",
+    "evidence": [
+      "用生产与贸易数据说明世界市场形成",
+      "评价社会立法或工人运动的历史含义"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_socialist_movement_russian_rev",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·世界",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "社会主义运动与俄国革命",
+    "nameEn": "Socialist movement and Russian Revolution",
+    "standards": [
+      "moe-ls-2017:OG2"
+    ],
+    "description": "能把国际工人运动到十月革命放入资本主义危机与战争背景，比较改良与革命道路及俄国条件的特殊性。",
+    "evidence": [
+      "对照宣言的问题意识与一九一七年局势",
+      "分析苏维埃政权的制度创新与困境"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_two_world_wars_order",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·世界",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "两次世界大战与秩序",
+    "nameEn": "World wars and international order",
+    "standards": [
+      "moe-ls-2017:OG2"
+    ],
+    "description": "能比较凡尔赛—华盛顿体系与雅尔塔体系的设计逻辑，分析战争、经济危机与意识形态如何重塑秩序。",
+    "evidence": [
+      "用条约条款说明秩序安排的内在矛盾",
+      "评价把大战胜利简化为少数战役的说法"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_cold_war_to_multipolarity",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·世界",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "冷战与多极化",
+    "nameEn": "Cold War and multipolarity",
+    "standards": [
+      "moe-ls-2017:OG2"
+    ],
+    "description": "能分析两极对峙、第三世界不结盟与区域一体化如何同时展开，解释冷战后多极化趋势的历史根源。",
+    "evidence": [
+      "用一次危机说明核威慑下的决策约束",
+      "比较两极解体后的几种秩序想象"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_contemporary_global_challenges",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中外历史纲要·世界",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "当代全球挑战",
+    "nameEn": "Contemporary global challenges",
+    "standards": [
+      "moe-ls-2017:OG2"
+    ],
+    "description": "能把气候、疫情、数字鸿沟、地区冲突作为相互关联的全球史议题，评估国际组织与主权国家的治理张力。",
+    "evidence": [
+      "用两则不同来源材料评估同一全球议题",
+      "提出有历史依据的治理比较"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_ancient_exam_and_law",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "国家制度与社会治理",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "中国古代选官与法治",
+    "nameEn": "Ancient selection and law",
+    "standards": [
+      "moe-ls-2017:S1"
+    ],
+    "description": "能比较察举、九品、科举的社会效果，分析律令体制与礼治如何共同塑造治理，避免用专制一词代替分析。",
+    "evidence": [
+      "用一部法典残篇说明罪刑逻辑",
+      "评价科举对社会流动的双重作用"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_modern_political_systems_compare",
+    "type": "PROCEDURAL",
+    "subject": "历史",
+    "domain": "国家制度与社会治理",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "近代政治体制比较",
+    "nameEn": "Modern political systems compared",
+    "standards": [
+      "moe-ls-2017:S1"
+    ],
+    "description": "能比较君主立宪、共和、苏维埃等体制在近代中国与世界的移植与变异，分析制度文本与运行的落差。",
+    "evidence": [
+      "对照两部宪法性文件的权力结构",
+      "说明为何同样标签下实践差异巨大"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_modern_state_governance",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "国家制度与社会治理",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "现代国家治理",
+    "nameEn": "Modern state governance",
+    "standards": [
+      "moe-ls-2017:S1"
+    ],
+    "description": "能用科层、法治、技术治理等概念分析二十世纪国家能力扩张，比较动员型与常规型治理。",
+    "evidence": [
+      "用一项公共工程说明现代国家的组织方式",
+      "评价技术监控与权利保障的张力"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_grassroots_governance_history",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "国家制度与社会治理",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "基层治理历史",
+    "nameEn": "History of grassroots governance",
+    "standards": [
+      "moe-ls-2017:S1"
+    ],
+    "description": "能追溯乡里、保甲、公社、社区等基层组织变迁，分析国家权力下沉与地方自治的历史摆动。",
+    "evidence": [
+      "用一份地方档案说明基层如何执行政策",
+      "比较两个时期乡村治理的权责结构"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_intl_law_and_sovereignty",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "国家制度与社会治理",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "国际法与主权",
+    "nameEn": "International law and sovereignty",
+    "standards": [
+      "moe-ls-2017:S1"
+    ],
+    "description": "能从近代主权规范演变分析不平等条约体系对主权的冲击与回收，评估把主权视为过时概念的历史语境。",
+    "evidence": [
+      "用一条国际法原则分析一则领土或海洋争议表述",
+      "评价主权过时论所忽略的历史经验"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_agrarian_and_commerce_ancient",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "经济与社会生活",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "古代农耕与工商业",
+    "nameEn": "Ancient farming and commerce",
+    "standards": [
+      "moe-ls-2017:S2"
+    ],
+    "description": "能分析小农经济与市镇、漕运、手工业的互补，评估重农抑商口号与实际商业发展之间的距离。",
+    "evidence": [
+      "用物价或商税材料说明市场活跃度",
+      "比较江南与华北经济结构"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_modern_economic_structure_shift",
+    "type": "REPRESENTATIONAL",
+    "subject": "历史",
+    "domain": "经济与社会生活",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "近代经济结构变动",
+    "nameEn": "Modern economic structural change",
+    "standards": [
+      "moe-ls-2017:S2"
+    ],
+    "description": "能用海关统计、口岸贸易与乡村手工业材料分析自然经济分解与二元结构，避免把近代经济写成单线衰落。",
+    "evidence": [
+      "解读一组进出口结构数据",
+      "评价买办、民族资本与外资的复杂关系"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_industrialization_urbanization_hist",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "经济与社会生活",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "工业化与城市化",
+    "nameEn": "Industrialization and urbanization",
+    "standards": [
+      "moe-ls-2017:S2"
+    ],
+    "description": "能比较不同国家工业化路径与城市社会问题，分析中国近现代城市化的节奏、空间与阶层。",
+    "evidence": [
+      "用城市人口与产业数据说明阶段特征",
+      "评价贫民窟或单位大院作为社会史证据"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_social_security_history",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "经济与社会生活",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "社会保障史",
+    "nameEn": "History of social security",
+    "standards": [
+      "moe-ls-2017:S2"
+    ],
+    "description": "能追溯济贫、互助、社会保险的制度谱系，比较不同保障模式所依赖的财政与政治条件。",
+    "evidence": [
+      "对照两份保障法规的覆盖范围",
+      "分析战争或危机如何推动制度创新"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_everyday_life_change",
+    "type": "PROCEDURAL",
+    "subject": "历史",
+    "domain": "经济与社会生活",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "日常生活变迁",
+    "nameEn": "Everyday life change",
+    "standards": [
+      "moe-ls-2017:S2"
+    ],
+    "description": "能从饮食、服饰、媒介、家庭结构切入长时段社会史，用口述与器物补文献之不足。",
+    "evidence": [
+      "用一件日常器物做社会史解读",
+      "比较两代人时间安排变化的含义"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_chinese_civ_external_exchange",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "文化交流与传播",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "中华文明对外交流",
+    "nameEn": "Chinese civilization in exchange",
+    "standards": [
+      "moe-ls-2017:S3"
+    ],
+    "description": "能分析朝贡、佛教东传、技术西传等机制，评估交流中的选择、改造与误读，而不是开列输出输入清单。",
+    "evidence": [
+      "用一件外来文物说明本土化过程",
+      "评价丝绸之路叙事的史料边界"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_world_religion_diffusion",
+    "type": "REPRESENTATIONAL",
+    "subject": "历史",
+    "domain": "文化交流与传播",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "世界宗教传播",
+    "nameEn": "World religion diffusion",
+    "standards": [
+      "moe-ls-2017:S3"
+    ],
+    "description": "能比较佛教、基督教、伊斯兰教的传播路径与本土化策略，分析宗教与帝国、商路的关系。",
+    "evidence": [
+      "在地图上标出一条宗教传播走廊",
+      "用一则译经或改宗材料说明文化转译"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_modern_western_learning_east",
+    "type": "LANGUAGE",
+    "subject": "历史",
+    "domain": "文化交流与传播",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "近代西学东渐",
+    "nameEn": "Modern Western learning eastward",
+    "standards": [
+      "moe-ls-2017:S3"
+    ],
+    "description": "能分析译介制度、新式学堂与报刊如何改变知识权力，比较中体西用与更激进文化方案的概念选择。",
+    "evidence": [
+      "对照两种译本或教科书的关键词",
+      "评价科学话语如何进入政治论争"
+    ]
+  },
+  {
+    "id": "mt_ls_s5_global_cultural_interaction",
+    "type": "META",
+    "subject": "历史",
+    "domain": "文化交流与传播",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "全球文化互动",
+    "nameEn": "Global cultural interaction",
+    "standards": [
+      "moe-ls-2017:S3"
+    ],
+    "description": "能用文化流动、混杂与文化霸权等概念分析电影、体育、饮食的全球史，警惕文明冲突的简化模型。",
+    "evidence": [
+      "分析一个全球流行文化在中国的接受差异",
+      "评价文化全球化是否等于同质化"
+    ]
   }
 ]

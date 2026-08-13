@@ -6,7 +6,7 @@ These instructions apply to the entire repository.
 
 ## Repository purpose
 
-This repository contains an original Chinese compulsory-education (grades 1-9) micro-topic taxonomy. It includes topic nodes, prerequisite edges, curriculum-standard code mappings, parent-facing clusters, JSON schemas, and a small 3D explorer.
+This repository contains an original Chinese K12 (grades 1-12) micro-topic taxonomy: compulsory education plus ordinary high school. It includes topic nodes, prerequisite edges, curriculum-standard code mappings, parent-facing clusters, JSON schemas, and a small 3D explorer.
 
 The taxonomy is inspired structurally by Marble's `os-taxonomy`, but its Chinese K12 content is independently authored. Do not copy or translate Marble's topic text.
 
@@ -23,10 +23,10 @@ The taxonomy is inspired structurally by Marble's `os-taxonomy`, but its Chinese
 - Keep JSON UTF-8 and valid JSON. Preserve the surrounding formatting style and avoid unrelated reformatting.
 - Topic IDs must be unique, stable, and start with `mt_`. Follow the existing subject and stage naming pattern.
 - Supported topic types are `CONCEPTUAL`, `PROCEDURAL`, `REPRESENTATIONAL`, `LANGUAGE`, and `META`.
-- Supported subjects are `语文`, `数学`, `英语`, `科学`, `信息科技`, `道德与法治`, `历史`, `地理`, `体育与健康`, `艺术`, and `劳动`. High-school 2017/2020 and 日语/俄语 are out of scope unless the task explicitly expands validation.
+- Supported subjects are `语文`, `数学`, `英语`, `科学`, `信息科技`, `道德与法治`, `历史`, `地理`, `体育与健康`, `艺术`, `劳动`, `思想政治`, `物理`, `化学`, `生物学`, `信息技术`, and `通用技术`. 日语/俄语 remain out of scope unless the task explicitly expands validation.
 - Write concise, teachable micro-topics rather than broad units. Descriptions and evidence should make mastery observable.
 - Give each topic at least two non-empty evidence items and at least one valid standards key.
-- Use grades 1-9. Keep `gradeEnd >= gradeStart`; stage (`xueduan`) normally follows grades 1-2, 3-4, 5-6, and 7-9.
+- Use grades 1-12. Keep `gradeEnd >= gradeStart`; stage (`xueduan`) follows grades 1-2, 3-4, 5-6, 7-9, and 10-12 (高中 = 5).
 - Put intentional cross-domain or non-sequential prerequisite edges in `src/dependencies/extra.json`. Every endpoint must exist, self-edges are invalid, and the complete graph must remain acyclic.
 - Use `hard` when the prerequisite is required and `soft` when it is useful preparation. Give each explicit edge a short, specific Chinese reason.
 

@@ -3627,5 +3627,761 @@
       "运用多种数学工具分析",
       "展示探究过程与结论"
     ]
+  },
+  {
+    "id": "mt_math_s5_set_notation",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "预备知识",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "集合的表示",
+    "nameEn": "Set notation",
+    "standards": [
+      "moe-sx-2017:PRE"
+    ],
+    "description": "能用列举法或描述法表示集合，判断给定对象是否属于该集合。",
+    "evidence": [
+      "用列举法写出小于5的正整数集",
+      "判断3是否属于{x|x>4}并说明理由"
+    ]
+  },
+  {
+    "id": "mt_math_s5_set_operations",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "预备知识",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "集合的交并补",
+    "nameEn": "Set operations",
+    "standards": [
+      "moe-sx-2017:PRE"
+    ],
+    "description": "会求两个集合的交集、并集和补集，并能用韦恩图表示运算结果。",
+    "evidence": [
+      "求{1,2,3}与{2,3,4}的交与并",
+      "在韦恩图上标出补集对应区域"
+    ]
+  },
+  {
+    "id": "mt_math_s5_logic_connectives",
+    "type": "LANGUAGE",
+    "subject": "数学",
+    "domain": "预备知识",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "常用逻辑用语",
+    "nameEn": "Logical connectives",
+    "standards": [
+      "moe-sx-2017:PRE"
+    ],
+    "description": "能正确使用且、或、非以及全称、存在量词表述简单数学命题。",
+    "evidence": [
+      "把“x>0且x<2”改写成集合语言",
+      "指出“存在x使x²=-1在实数中”的真假"
+    ]
+  },
+  {
+    "id": "mt_math_s5_inequality_properties",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "预备知识",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "不等式的性质",
+    "nameEn": "Inequality properties",
+    "standards": [
+      "moe-sx-2017:PRE"
+    ],
+    "description": "能运用不等式的基本性质比较大小，并解简单一元一次不等式。",
+    "evidence": [
+      "比较a>b时a+c与b+c的大小",
+      "解不等式2x-1>5并在数轴上表示"
+    ]
+  },
+  {
+    "id": "mt_math_s5_function_concept_graph",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "函数概念与图像",
+    "nameEn": "Function concept and graph",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能用对应关系理解函数，根据解析式列表描点画出函数图像并读关键点。",
+    "evidence": [
+      "判断一组对应是否构成函数",
+      "根据图像读出指定自变量的函数值"
+    ]
+  },
+  {
+    "id": "mt_math_s5_power_function",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "幂函数",
+    "nameEn": "Power functions",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "认识幂函数y=x^α的几种常见情形，能比较它们在第一象限的增减与过点。",
+    "evidence": [
+      "画出y=x、y=x²、y=√x的草图",
+      "指出哪个幂函数过点(4,2)"
+    ]
+  },
+  {
+    "id": "mt_math_s5_exponential_function",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "指数函数",
+    "nameEn": "Exponential functions",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "理解指数函数y=a^x(a>0,a≠1)的定义，能根据底数判断增减并画出草图。",
+    "evidence": [
+      "比较y=2^x与y=(1/2)^x的单调性",
+      "求2^x=8时x的值"
+    ]
+  },
+  {
+    "id": "mt_math_s5_logarithmic_function",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "对数函数",
+    "nameEn": "Logarithmic functions",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "理解对数函数与指数函数的互逆关系，能求简单对数值并画出y=log_a x草图。",
+    "evidence": [
+      "把2^3=8改写成对数形式",
+      "指出y=log_2 x的定义域和过点"
+    ]
+  },
+  {
+    "id": "mt_math_s5_function_monotonicity",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "函数的单调性",
+    "nameEn": "Monotonicity of functions",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能用定义判断函数在区间上的增减，并结合图像说明单调区间。",
+    "evidence": [
+      "用定义证明f(x)=x+1在R上递增",
+      "根据图像写出函数的单调区间"
+    ]
+  },
+  {
+    "id": "mt_math_s5_function_parity",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "函数的奇偶性",
+    "nameEn": "Even and odd functions",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能根据f(-x)与f(x)的关系判断奇偶性，并说明图像关于原点或y轴对称。",
+    "evidence": [
+      "判断f(x)=x³是奇函数还是偶函数",
+      "由奇偶性补全图像的另一半"
+    ]
+  },
+  {
+    "id": "mt_math_s5_function_zeros",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "函数的零点",
+    "nameEn": "Zeros of functions",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "理解函数零点与方程根、图像横轴交点的对应，能用二分法求近似零点。",
+    "evidence": [
+      "指出二次函数图像与x轴交点对应的零点",
+      "对连续变号区间做一次二分并说明理由"
+    ]
+  },
+  {
+    "id": "mt_math_s5_trig_definition",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "三角函数定义",
+    "nameEn": "Trigonometric definitions",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能在单位圆上用有向角定义正弦、余弦、正切，并求特殊角的三角函数值。",
+    "evidence": [
+      "在单位圆上标出2π/3对应的点",
+      "求sin(5π/6)和cos(π)的值"
+    ]
+  },
+  {
+    "id": "mt_math_s5_trig_reduction_formulas",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "诱导公式",
+    "nameEn": "Reduction formulas",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能用诱导公式把任意角的三角函数化为锐角三角函数并求值。",
+    "evidence": [
+      "用诱导公式求cos(13π/6)",
+      "把sin(π-α)化成sin α并说明依据"
+    ]
+  },
+  {
+    "id": "mt_math_s5_sine_cosine_graphs",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "正余弦图像",
+    "nameEn": "Sine and cosine graphs",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能画出y=sin x、y=cos x的图像，读出周期、最值和五点对应关系。",
+    "evidence": [
+      "用五点法画出y=sin x在一个周期内的图像",
+      "从图像读出y=cos x的最大值与周期"
+    ]
+  },
+  {
+    "id": "mt_math_s5_trig_identities",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "三角恒等变换",
+    "nameEn": "Trigonometric identities",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能运用同角关系、和差角与倍角公式化简三角式并求值。",
+    "evidence": [
+      "化简sin²α+cos²α+2sinαcosα",
+      "用倍角公式求cos(π/8)的值"
+    ]
+  },
+  {
+    "id": "mt_math_s5_solving_triangles",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "解三角形",
+    "nameEn": "Solving triangles",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能用正弦定理、余弦定理解斜三角形，并根据已知元素判断解的情况。",
+    "evidence": [
+      "已知两边夹角求第三边",
+      "用正弦定理解SSA情形并说明是否两解"
+    ]
+  },
+  {
+    "id": "mt_math_s5_sequence_concept",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "数列的概念",
+    "nameEn": "Sequences",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "理解数列是定义在正整数集上的函数，能写出通项并求指定项。",
+    "evidence": [
+      "根据前几项写出一个可能的通项",
+      "由通项a_n=2n-1求第10项"
+    ]
+  },
+  {
+    "id": "mt_math_s5_arithmetic_sequence",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "等差数列",
+    "nameEn": "Arithmetic sequences",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "掌握等差数列的通项与前n项和公式，能求公差、项数与指定和。",
+    "evidence": [
+      "已知首项和公差写通项",
+      "求1到100中所有奇数之和"
+    ]
+  },
+  {
+    "id": "mt_math_s5_geometric_sequence",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "等比数列",
+    "nameEn": "Geometric sequences",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "掌握等比数列的通项与前n项和公式，能处理公比为1与不为1的情形。",
+    "evidence": [
+      "已知首项和公比求第6项",
+      "求等比数列前n项和并讨论q=1"
+    ]
+  },
+  {
+    "id": "mt_math_s5_derivative_intuition",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "导数的直观",
+    "nameEn": "Derivative intuition",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能把导数理解为瞬时变化率，并用切线斜率解释函数在一点附近的变化。",
+    "evidence": [
+      "说明位移对时间的导数表示瞬时速度",
+      "根据切线倾斜程度比较两点导数大小"
+    ]
+  },
+  {
+    "id": "mt_math_s5_derivative_rules",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "导数的运算",
+    "nameEn": "Derivative rules",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "会求多项式、指数、对数及简单复合函数的导数。",
+    "evidence": [
+      "求f(x)=x³-2x的导函数",
+      "求y=e^{2x}在x=0处的导数"
+    ]
+  },
+  {
+    "id": "mt_math_s5_derivative_extrema",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "函数",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "导数与极值",
+    "nameEn": "Derivatives and extrema",
+    "standards": [
+      "moe-sx-2017:FN"
+    ],
+    "description": "能用导数判断单调性，求函数的极值和给定区间上的最值。",
+    "evidence": [
+      "根据f′(x)的符号写出单调区间",
+      "求二次函数在闭区间上的最大值"
+    ]
+  },
+  {
+    "id": "mt_math_s5_solid_geometry_views",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "立体几何直观",
+    "nameEn": "Solid geometry intuition",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "能识别棱柱、棱锥、圆柱、圆锥、球的结构特征，并画出简单直观图。",
+    "evidence": [
+      "画出正方体的斜二测直观图",
+      "指出三视图对应的几何体"
+    ]
+  },
+  {
+    "id": "mt_math_s5_space_incidence",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "空间点线面位置",
+    "nameEn": "Points lines and planes in space",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "能判断空间中点、直线、平面的位置关系，并用符号正确表述。",
+    "evidence": [
+      "判断正方体中两条面对角线是否共面",
+      "用符号表示直线在平面内或与平面相交"
+    ]
+  },
+  {
+    "id": "mt_math_s5_line_plane_parallel",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "线面平行",
+    "nameEn": "Line-plane parallelism",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "能用线面平行的判定与性质说明直线与平面、平面与平面平行。",
+    "evidence": [
+      "在正方体中找出与给定棱平行的面",
+      "用判定定理证明一条棱与对面平行"
+    ]
+  },
+  {
+    "id": "mt_math_s5_line_plane_perpendicular",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "线面垂直",
+    "nameEn": "Line-plane perpendicularity",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "能用线面垂直的判定与性质说明直线与平面、平面与平面垂直。",
+    "evidence": [
+      "说明桌腿与桌面垂直的判定条件",
+      "在正方体中指出互相垂直的两个面"
+    ]
+  },
+  {
+    "id": "mt_math_s5_space_vectors",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "空间向量",
+    "nameEn": "Space vectors",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "能在空间直角坐标系中表示向量，进行加减与数乘，并求模长。",
+    "evidence": [
+      "写出点A(1,2,3)对应的位置向量",
+      "计算向量(1,0,2)与(0,3,-1)的和与模"
+    ]
+  },
+  {
+    "id": "mt_math_s5_planar_dot_product",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "平面向量数量积",
+    "nameEn": "Planar dot product",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "理解平面向量数量积的几何意义，能用它求夹角和判断垂直。",
+    "evidence": [
+      "计算两个已知坐标向量的数量积",
+      "由数量积为0判断两向量垂直"
+    ]
+  },
+  {
+    "id": "mt_math_s5_complex_numbers",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "复数",
+    "nameEn": "Complex numbers",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "理解复数的代数形式与复平面表示，能进行加减乘除并指出实部虚部。",
+    "evidence": [
+      "计算(2+3i)+(1-i)并标在复平面",
+      "求(1+i)(1-i)并指出结果是实数"
+    ]
+  },
+  {
+    "id": "mt_math_s5_line_equations",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "直线的方程",
+    "nameEn": "Equations of lines",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "能根据点斜、斜截、两点等条件写出直线方程，并求两直线交点与夹角。",
+    "evidence": [
+      "过点(1,2)斜率为3写点斜式方程",
+      "求y=2x+1与x+y=4的交点"
+    ]
+  },
+  {
+    "id": "mt_math_s5_circle_equations",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "圆的方程",
+    "nameEn": "Equations of circles",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "能写出圆的标准方程和一般方程，判断点与圆、直线与圆的位置关系。",
+    "evidence": [
+      "写出圆心(0,0)半径2的圆方程",
+      "判断直线y=x与x²+y²=2相交切或离"
+    ]
+  },
+  {
+    "id": "mt_math_s5_ellipse",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "椭圆",
+    "nameEn": "Ellipse",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "理解椭圆的定义与标准方程，能求a、b、c、离心率并画出草图。",
+    "evidence": [
+      "由焦点和长轴写出椭圆方程",
+      "指出椭圆x²/9+y²/4=1的顶点"
+    ]
+  },
+  {
+    "id": "mt_math_s5_hyperbola",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "双曲线",
+    "nameEn": "Hyperbola",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "理解双曲线的定义与标准方程，能求渐近线并区分焦点在哪条轴上。",
+    "evidence": [
+      "写出x²/16-y²/9=1的渐近线",
+      "比较椭圆与双曲线离心率的范围"
+    ]
+  },
+  {
+    "id": "mt_math_s5_parabola",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "几何与代数",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "抛物线",
+    "nameEn": "Parabola",
+    "standards": [
+      "moe-sx-2017:GA"
+    ],
+    "description": "理解抛物线的定义与标准方程，能由焦点或准线写出方程并画草图。",
+    "evidence": [
+      "由焦点(1,0)写出开口向右的抛物线方程",
+      "指出y²=4x的准线方程"
+    ]
+  },
+  {
+    "id": "mt_math_s5_sampling_methods",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "概率与统计",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "随机抽样深化",
+    "nameEn": "Sampling methods",
+    "standards": [
+      "moe-sx-2017:PS"
+    ],
+    "description": "能根据总体特点选择简单随机、分层或系统抽样，并说明样本代表性。",
+    "evidence": [
+      "为全校分层抽样设计各层人数",
+      "比较方便抽样与随机抽样的差异"
+    ]
+  },
+  {
+    "id": "mt_math_s5_sample_estimate_population",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "概率与统计",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "用样本估计总体",
+    "nameEn": "Estimating population from samples",
+    "standards": [
+      "moe-sx-2017:PS"
+    ],
+    "description": "能用样本频率分布、均值和方差估计总体相应特征，并讨论估计波动。",
+    "evidence": [
+      "根据频率分布直方图估计总体均值",
+      "比较两组样本方差说明哪组更分散"
+    ]
+  },
+  {
+    "id": "mt_math_s5_conditional_probability",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "概率与统计",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "条件概率",
+    "nameEn": "Conditional probability",
+    "standards": [
+      "moe-sx-2017:PS"
+    ],
+    "description": "理解条件概率的含义，能用公式或树状图计算简单条件概率。",
+    "evidence": [
+      "已知抽到红球后再抽到白球的概率",
+      "用树状图表示两步试验的条件概率"
+    ]
+  },
+  {
+    "id": "mt_math_s5_discrete_random_variable",
+    "type": "CONCEPTUAL",
+    "subject": "数学",
+    "domain": "概率与统计",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "离散随机变量",
+    "nameEn": "Discrete random variables",
+    "standards": [
+      "moe-sx-2017:PS"
+    ],
+    "description": "能列出简单离散随机变量的分布列，并求期望与方差。",
+    "evidence": [
+      "写出掷一枚硬币一次的分布列",
+      "根据分布列计算期望值"
+    ]
+  },
+  {
+    "id": "mt_math_s5_normal_curve_intuition",
+    "type": "REPRESENTATIONAL",
+    "subject": "数学",
+    "domain": "概率与统计",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "正态分布直观",
+    "nameEn": "Normal distribution intuition",
+    "standards": [
+      "moe-sx-2017:PS"
+    ],
+    "description": "认识正态曲线的钟形对称特征，能用均值和标准差描述数据的大致分布。",
+    "evidence": [
+      "指出正态曲线最高点对应的均值",
+      "说明标准差变大时曲线如何变扁"
+    ]
+  },
+  {
+    "id": "mt_math_s5_linear_regression",
+    "type": "PROCEDURAL",
+    "subject": "数学",
+    "domain": "概率与统计",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "线性回归",
+    "nameEn": "Linear regression",
+    "standards": [
+      "moe-sx-2017:PS"
+    ],
+    "description": "能根据散点图判断线性相关，求回归直线并用于粗略预测。",
+    "evidence": [
+      "根据散点图判断是否大致线性相关",
+      "用回归直线预测一个新的自变量对应值"
+    ]
+  },
+  {
+    "id": "mt_math_s5_function_modeling_task",
+    "type": "META",
+    "subject": "数学",
+    "domain": "数学建模",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "函数建模活动",
+    "nameEn": "Function modeling activity",
+    "standards": [
+      "moe-sx-2017:MD"
+    ],
+    "description": "能针对实际变化问题选择函数类型建模、求解并检验模型是否合理。",
+    "evidence": [
+      "为气温随时间变化选择合适函数类型",
+      "用实际数据检验模型预测误差"
+    ]
+  },
+  {
+    "id": "mt_math_s5_stats_modeling_task",
+    "type": "META",
+    "subject": "数学",
+    "domain": "数学建模",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "统计建模活动",
+    "nameEn": "Statistics modeling activity",
+    "standards": [
+      "moe-sx-2017:MD"
+    ],
+    "description": "能提出统计问题、采集或整理数据、建立统计模型并报告结论与局限。",
+    "evidence": [
+      "设计一项校园调查并说明抽样方法",
+      "根据模型结论提出一条可检验的建议"
+    ]
   }
 ]

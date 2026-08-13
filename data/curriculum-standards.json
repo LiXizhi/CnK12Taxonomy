@@ -2,18 +2,32 @@
   "note": "Codes and publicly known module titles only. Verbatim 课标 text is not included.",
   "codesOnlySources": [
     "moe-df-2022",
+    "moe-dl-2017",
     "moe-dl-2022",
+    "moe-hx-2017",
     "moe-kx-2022",
+    "moe-ld-2020",
     "moe-ld-2022",
+    "moe-ls-2017",
     "moe-ls-2022",
+    "moe-sw-2017",
+    "moe-sx-2017",
     "moe-sx-2022",
+    "moe-ty-2017",
     "moe-ty-2022",
+    "moe-tyjs-2017",
+    "moe-wl-2017",
+    "moe-xxjs-2017",
     "moe-xxkj-2022",
+    "moe-ys-2017",
     "moe-ys-2022",
+    "moe-yw-2017",
     "moe-yw-2022",
-    "moe-yy-2022"
+    "moe-yy-2017",
+    "moe-yy-2022",
+    "moe-zz-2017"
   ],
-  "curriculumCount": 11,
+  "curriculumCount": 25,
   "curricula": [
     {
       "slug": "moe-df-2022",
@@ -108,6 +122,38 @@
       "topicCount": 20
     },
     {
+      "slug": "moe-dl-2017",
+      "country": "CN",
+      "name": "普通高中地理课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-dl-2017:G1",
+          "code": "G1"
+        },
+        {
+          "key": "moe-dl-2017:G2",
+          "code": "G2"
+        },
+        {
+          "key": "moe-dl-2017:S1",
+          "code": "S1"
+        },
+        {
+          "key": "moe-dl-2017:S2",
+          "code": "S2"
+        },
+        {
+          "key": "moe-dl-2017:S3",
+          "code": "S3"
+        }
+      ],
+      "topicCount": 5
+    },
+    {
       "slug": "moe-dl-2022",
       "country": "CN",
       "name": "义务教育地理课程标准（2022年版）",
@@ -134,6 +180,38 @@
         }
       ],
       "topicCount": 4
+    },
+    {
+      "slug": "moe-hx-2017",
+      "country": "CN",
+      "name": "普通高中化学课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-hx-2017:MAT",
+          "code": "MAT"
+        },
+        {
+          "key": "moe-hx-2017:RXN",
+          "code": "RXN"
+        },
+        {
+          "key": "moe-hx-2017:STR",
+          "code": "STR"
+        },
+        {
+          "key": "moe-hx-2017:ORG",
+          "code": "ORG"
+        },
+        {
+          "key": "moe-hx-2017:LAB",
+          "code": "LAB"
+        }
+      ],
+      "topicCount": 5
     },
     {
       "slug": "moe-kx-2022",
@@ -420,6 +498,34 @@
       "topicCount": 68
     },
     {
+      "slug": "moe-ld-2020",
+      "country": "CN",
+      "name": "大中小学劳动教育指导纲要（试行）",
+      "version": "2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/jcj_kcjcgh/202007/t20200715_472808.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known labor-type titles only; verbatim 纲要 text omitted.",
+      "topics": [
+        {
+          "key": "moe-ld-2020:DL",
+          "code": "DL"
+        },
+        {
+          "key": "moe-ld-2020:PL",
+          "code": "PL"
+        },
+        {
+          "key": "moe-ld-2020:SL",
+          "code": "SL"
+        },
+        {
+          "key": "moe-ld-2020:CL",
+          "code": "CL"
+        }
+      ],
+      "topicCount": 4
+    },
+    {
       "slug": "moe-ld-2022",
       "country": "CN",
       "name": "义务教育劳动课程标准（2022年版）",
@@ -492,6 +598,38 @@
       "topicCount": 15
     },
     {
+      "slug": "moe-ls-2017",
+      "country": "CN",
+      "name": "普通高中历史课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-ls-2017:OG1",
+          "code": "OG1"
+        },
+        {
+          "key": "moe-ls-2017:OG2",
+          "code": "OG2"
+        },
+        {
+          "key": "moe-ls-2017:S1",
+          "code": "S1"
+        },
+        {
+          "key": "moe-ls-2017:S2",
+          "code": "S2"
+        },
+        {
+          "key": "moe-ls-2017:S3",
+          "code": "S3"
+        }
+      ],
+      "topicCount": 5
+    },
+    {
       "slug": "moe-ls-2022",
       "country": "CN",
       "name": "义务教育历史课程标准（2022年版）",
@@ -530,6 +668,70 @@
         }
       ],
       "topicCount": 7
+    },
+    {
+      "slug": "moe-sw-2017",
+      "country": "CN",
+      "name": "普通高中生物学课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-sw-2017:MC",
+          "code": "MC"
+        },
+        {
+          "key": "moe-sw-2017:GE",
+          "code": "GE"
+        },
+        {
+          "key": "moe-sw-2017:HO",
+          "code": "HO"
+        },
+        {
+          "key": "moe-sw-2017:ENV",
+          "code": "ENV"
+        },
+        {
+          "key": "moe-sw-2017:BT",
+          "code": "BT"
+        }
+      ],
+      "topicCount": 5
+    },
+    {
+      "slug": "moe-sx-2017",
+      "country": "CN",
+      "name": "普通高中数学课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-sx-2017:PRE",
+          "code": "PRE"
+        },
+        {
+          "key": "moe-sx-2017:FN",
+          "code": "FN"
+        },
+        {
+          "key": "moe-sx-2017:GA",
+          "code": "GA"
+        },
+        {
+          "key": "moe-sx-2017:PS",
+          "code": "PS"
+        },
+        {
+          "key": "moe-sx-2017:MD",
+          "code": "MD"
+        }
+      ],
+      "topicCount": 5
     },
     {
       "slug": "moe-sx-2022",
@@ -668,6 +870,34 @@
       "topicCount": 31
     },
     {
+      "slug": "moe-ty-2017",
+      "country": "CN",
+      "name": "普通高中体育与健康课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known content-element titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-ty-2017:MS",
+          "code": "MS"
+        },
+        {
+          "key": "moe-ty-2017:PF",
+          "code": "PF"
+        },
+        {
+          "key": "moe-ty-2017:HE",
+          "code": "HE"
+        },
+        {
+          "key": "moe-ty-2017:CH",
+          "code": "CH"
+        }
+      ],
+      "topicCount": 4
+    },
+    {
       "slug": "moe-ty-2022",
       "country": "CN",
       "name": "义务教育体育与健康课程标准（2022年版）",
@@ -780,6 +1010,94 @@
       "topicCount": 25
     },
     {
+      "slug": "moe-tyjs-2017",
+      "country": "CN",
+      "name": "普通高中通用技术课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-tyjs-2017:TD1",
+          "code": "TD1"
+        },
+        {
+          "key": "moe-tyjs-2017:TD2",
+          "code": "TD2"
+        },
+        {
+          "key": "moe-tyjs-2017:EL",
+          "code": "EL"
+        }
+      ],
+      "topicCount": 3
+    },
+    {
+      "slug": "moe-wl-2017",
+      "country": "CN",
+      "name": "普通高中物理课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-wl-2017:MECH",
+          "code": "MECH"
+        },
+        {
+          "key": "moe-wl-2017:EM",
+          "code": "EM"
+        },
+        {
+          "key": "moe-wl-2017:TH",
+          "code": "TH"
+        },
+        {
+          "key": "moe-wl-2017:WAV",
+          "code": "WAV"
+        },
+        {
+          "key": "moe-wl-2017:MOD",
+          "code": "MOD"
+        }
+      ],
+      "topicCount": 5
+    },
+    {
+      "slug": "moe-xxjs-2017",
+      "country": "CN",
+      "name": "普通高中信息技术课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-xxjs-2017:DC",
+          "code": "DC"
+        },
+        {
+          "key": "moe-xxjs-2017:IS",
+          "code": "IS"
+        },
+        {
+          "key": "moe-xxjs-2017:DS",
+          "code": "DS"
+        },
+        {
+          "key": "moe-xxjs-2017:NET",
+          "code": "NET"
+        },
+        {
+          "key": "moe-xxjs-2017:AI",
+          "code": "AI"
+        }
+      ],
+      "topicCount": 5
+    },
+    {
       "slug": "moe-xxkj-2022",
       "country": "CN",
       "name": "义务教育信息科技课程标准（2022年版）",
@@ -866,6 +1184,34 @@
         }
       ],
       "topicCount": 19
+    },
+    {
+      "slug": "moe-ys-2017",
+      "country": "CN",
+      "name": "普通高中艺术课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known art-form titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-ys-2017:MU",
+          "code": "MU"
+        },
+        {
+          "key": "moe-ys-2017:FA",
+          "code": "FA"
+        },
+        {
+          "key": "moe-ys-2017:INT",
+          "code": "INT"
+        },
+        {
+          "key": "moe-ys-2017:AP",
+          "code": "AP"
+        }
+      ],
+      "topicCount": 4
     },
     {
       "slug": "moe-ys-2022",
@@ -958,6 +1304,66 @@
         }
       ],
       "topicCount": 20
+    },
+    {
+      "slug": "moe-yw-2017",
+      "country": "CN",
+      "name": "普通高中语文课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known 学习任务群 titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-yw-2017:TG1",
+          "code": "TG1"
+        },
+        {
+          "key": "moe-yw-2017:TG2",
+          "code": "TG2"
+        },
+        {
+          "key": "moe-yw-2017:TG3",
+          "code": "TG3"
+        },
+        {
+          "key": "moe-yw-2017:TG4",
+          "code": "TG4"
+        },
+        {
+          "key": "moe-yw-2017:TG5",
+          "code": "TG5"
+        },
+        {
+          "key": "moe-yw-2017:TG6",
+          "code": "TG6"
+        },
+        {
+          "key": "moe-yw-2017:TG7",
+          "code": "TG7"
+        },
+        {
+          "key": "moe-yw-2017:TG8",
+          "code": "TG8"
+        },
+        {
+          "key": "moe-yw-2017:TG9",
+          "code": "TG9"
+        },
+        {
+          "key": "moe-yw-2017:TG10",
+          "code": "TG10"
+        },
+        {
+          "key": "moe-yw-2017:TG11",
+          "code": "TG11"
+        },
+        {
+          "key": "moe-yw-2017:TG12",
+          "code": "TG12"
+        }
+      ],
+      "topicCount": 12
     },
     {
       "slug": "moe-yw-2022",
@@ -1104,6 +1510,34 @@
       "topicCount": 33
     },
     {
+      "slug": "moe-yy-2017",
+      "country": "CN",
+      "name": "普通高中英语课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known element titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-yy-2017:SK",
+          "code": "SK"
+        },
+        {
+          "key": "moe-yy-2017:LK",
+          "code": "LK"
+        },
+        {
+          "key": "moe-yy-2017:CK",
+          "code": "CK"
+        },
+        {
+          "key": "moe-yy-2017:ST",
+          "code": "ST"
+        }
+      ],
+      "topicCount": 4
+    },
+    {
       "slug": "moe-yy-2022",
       "country": "CN",
       "name": "义务教育英语课程标准（2022年版）",
@@ -1238,6 +1672,46 @@
         }
       ],
       "topicCount": 31
+    },
+    {
+      "slug": "moe-zz-2017",
+      "country": "CN",
+      "name": "普通高中思想政治课程标准（2017年版2020年修订）",
+      "version": "2017/2020",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-zz-2017:M1",
+          "code": "M1"
+        },
+        {
+          "key": "moe-zz-2017:M2",
+          "code": "M2"
+        },
+        {
+          "key": "moe-zz-2017:M3",
+          "code": "M3"
+        },
+        {
+          "key": "moe-zz-2017:M4",
+          "code": "M4"
+        },
+        {
+          "key": "moe-zz-2017:S1",
+          "code": "S1"
+        },
+        {
+          "key": "moe-zz-2017:S2",
+          "code": "S2"
+        },
+        {
+          "key": "moe-zz-2017:S3",
+          "code": "S3"
+        }
+      ],
+      "topicCount": 7
     }
   ]
 }

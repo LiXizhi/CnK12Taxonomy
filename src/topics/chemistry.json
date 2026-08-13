@@ -1,0 +1,650 @@
+[
+  {
+    "id": "mt_hx_s5_matter_classification",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "物质的分类",
+    "nameEn": "Classifying matter",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能按纯净物与混合物、单质与化合物给常见物质分类并举例说明。",
+    "evidence": [
+      "把一组物质卡片分成纯净物和混合物",
+      "说明空气、蒸馏水、铁分别属于哪类"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_amount_of_substance",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "物质的量",
+    "nameEn": "Amount of substance",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能用物质的量、摩尔质量和气体摩尔体积在质量、微粒数之间换算。",
+    "evidence": [
+      "由质量求出某化合物的物质的量",
+      "计算标准状况下气体的体积"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_ionic_reaction",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "离子反应",
+    "nameEn": "Ionic reactions",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能写出常见复分解的离子方程式，并判断反应能否发生。",
+    "evidence": [
+      "改写氯化钡与硫酸钠的离子方程式",
+      "用离子方程式解释盐酸除铁锈"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_redox_reaction",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "氧化还原反应",
+    "nameEn": "Redox reactions",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能用化合价升降判断氧化还原反应，并标出电子转移方向与数目。",
+    "evidence": [
+      "标出氢气还原氧化铜的电子转移",
+      "判断某变化是否属于氧化还原"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_sodium_compounds",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "钠及其化合物",
+    "nameEn": "Sodium compounds",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能描述钠、氧化钠、过氧化钠和氢氧化钠的主要性质及相互转化。",
+    "evidence": [
+      "解释钠投入水中的现象与产物",
+      "写出过氧化钠与二氧化碳的反应"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_chlorine_compounds",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "氯及其化合物",
+    "nameEn": "Chlorine compounds",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能说明氯气、次氯酸和氯离子的主要性质，并选择合适的检验方法。",
+    "evidence": [
+      "用湿润淀粉碘化钾试纸检验氯气",
+      "解释漂白粉在空气中逐渐失效"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_sulfur_compounds",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "硫及其化合物",
+    "nameEn": "Sulfur compounds",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能梳理硫、二氧化硫、三氧化硫与硫酸之间的转化及酸性差异。",
+    "evidence": [
+      "写出二氧化硫催化氧化的化学方程式",
+      "比较稀硫酸与浓硫酸的脱水性"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_nitrogen_compounds",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "氮及其化合物",
+    "nameEn": "Nitrogen compounds",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能描述氮气、氨和硝酸的主要性质，并说出实验室制氨的要点。",
+    "evidence": [
+      "写出氨的实验室制取与收集方法",
+      "解释浓硝酸见光变黄的原因"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_metal_materials",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "金属材料",
+    "nameEn": "Metal materials",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能比较铁、铝、铜等金属的活动性，并说明防腐或合金化的常见做法。",
+    "evidence": [
+      "用金属活动性顺序判断置换能否发生",
+      "解释铝合金比纯铝更常用的原因"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_chem_lab_safety",
+    "type": "META",
+    "subject": "化学",
+    "domain": "物质化学",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "化学实验安全",
+    "nameEn": "Lab safety",
+    "standards": [
+      "moe-hx-2017:MAT"
+    ],
+    "description": "能识别常见危险化学品标识，说明加热、稀释浓酸等操作的安全要点。",
+    "evidence": [
+      "指出浓硫酸稀释时的正确加料顺序",
+      "根据标签判断某试剂的主要危险"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_reaction_and_energy",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "化学反应原理",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "化学反应与能量",
+    "nameEn": "Reaction and energy",
+    "standards": [
+      "moe-hx-2017:RXN"
+    ],
+    "description": "能从化学键断裂与形成说明反应吸热或放热，并举例能量转化。",
+    "evidence": [
+      "判断燃烧与碳酸氢铵分解的热效应",
+      "说明电池把化学能转化为电能"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_reaction_heat_calc",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "化学反应原理",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "反应热计算",
+    "nameEn": "Reaction heat calc",
+    "standards": [
+      "moe-hx-2017:RXN"
+    ],
+    "description": "能根据热化学方程式进行简单反应热计算，并注意物质的量与状态。",
+    "evidence": [
+      "由给定热化学方程式求生成焓",
+      "比较同一反应不同计量时的热量"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_reaction_rate",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "化学反应原理",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "化学反应速率",
+    "nameEn": "Reaction rate",
+    "standards": [
+      "moe-hx-2017:RXN"
+    ],
+    "description": "能说明浓度、温度、压强和催化剂对反应速率的影响并设计对比。",
+    "evidence": [
+      "解释食品冷藏能减慢变质",
+      "比较有无催化剂时双氧水分解快慢"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_chemical_equilibrium",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "化学反应原理",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "化学平衡",
+    "nameEn": "Chemical equilibrium",
+    "standards": [
+      "moe-hx-2017:RXN"
+    ],
+    "description": "能用勒夏特列原理解释浓度、压强、温度改变后平衡移动的方向。",
+    "evidence": [
+      "分析合成氨加压后平衡如何移动",
+      "说明升温对放热反应产率的影响"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_aqueous_ion_eq",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "化学反应原理",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "水溶液中的离子平衡",
+    "nameEn": "Aqueous ion equilibrium",
+    "standards": [
+      "moe-hx-2017:RXN"
+    ],
+    "description": "能分析弱酸弱碱电离和水的离子积，估算简单溶液的酸碱性。",
+    "evidence": [
+      "比较等浓度醋酸与盐酸的氢离子浓度",
+      "由水的离子积判断中性溶液的pH"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_precipitation_eq",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "化学反应原理",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "沉淀溶解平衡",
+    "nameEn": "Precipitation equilibrium",
+    "standards": [
+      "moe-hx-2017:RXN"
+    ],
+    "description": "能用溶度积判断沉淀能否生成或溶解，并解释同离子效应。",
+    "evidence": [
+      "判断混合两种溶液后是否出现沉淀",
+      "说明加入盐酸可使氢氧化镁溶解"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_electrochemistry_intro",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "化学反应原理",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "电化学基础",
+    "nameEn": "Electrochemistry intro",
+    "standards": [
+      "moe-hx-2017:RXN"
+    ],
+    "description": "能区分原电池与电解池，写出简单电极反应并判断电子流向。",
+    "evidence": [
+      "画出锌铜原电池并标出正负极",
+      "说明电镀时待镀件应接电源哪一极"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_atomic_structure_chem",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质结构",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "原子结构",
+    "nameEn": "Atomic structure",
+    "standards": [
+      "moe-hx-2017:STR"
+    ],
+    "description": "能用质子数、中子数和核外电子排布描述原子，区分同位素。",
+    "evidence": [
+      "写出钠原子的核外电子排布",
+      "说明碳十二与碳十四的异同"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_periodic_law",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质结构",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "元素周期律",
+    "nameEn": "Periodic law",
+    "standards": [
+      "moe-hx-2017:STR"
+    ],
+    "description": "能结合周期表说明原子半径、电负性和金属性沿周期族的递变。",
+    "evidence": [
+      "比较第三周期元素金属性变化",
+      "预测某主族元素最高正化合价"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_chemical_bonding",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质结构",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "化学键",
+    "nameEn": "Chemical bonding",
+    "standards": [
+      "moe-hx-2017:STR"
+    ],
+    "description": "能区分离子键、共价键和金属键，并用电子式表示简单成键。",
+    "evidence": [
+      "判断氯化钠与氢气各以何种键结合",
+      "画出氯化氢分子的电子式"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_molecular_geometry",
+    "type": "REPRESENTATIONAL",
+    "subject": "化学",
+    "domain": "物质结构",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "分子空间构型",
+    "nameEn": "Molecular geometry",
+    "standards": [
+      "moe-hx-2017:STR"
+    ],
+    "description": "能用价层电子对互斥模型判断甲烷、水、二氧化碳等分子的空间构型。",
+    "evidence": [
+      "说明甲烷呈正四面体的原因",
+      "比较水和二氧化碳的键角差异"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_crystal_types",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "物质结构",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "晶体类型",
+    "nameEn": "Crystal types",
+    "standards": [
+      "moe-hx-2017:STR"
+    ],
+    "description": "能区分离子晶体、分子晶体、原子晶体和金属晶体，并联系熔沸点。",
+    "evidence": [
+      "解释金刚石熔点远高于干冰",
+      "判断氯化钠晶体属于哪一类型"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_organic_structure",
+    "type": "LANGUAGE",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "有机物结构",
+    "nameEn": "Organic structure",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能识别碳骨架和官能团，用系统命名法给简单有机物命名。",
+    "evidence": [
+      "指出某结构简式中的官能团",
+      "给含五个碳的烷烃写出系统名称"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_alkanes",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "烷烃",
+    "nameEn": "Alkanes",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能说明烷烃的通式、同分异构和取代反应，并写出简单卤代产物。",
+    "evidence": [
+      "写出丁烷的两种碳链异构",
+      "完成甲烷与氯气取代的分步方程式"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_alkenes_alkynes",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "烯烃炔烃",
+    "nameEn": "Alkenes and alkynes",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能用加成反应鉴别不饱和烃，并说明乙烯、乙炔的主要用途。",
+    "evidence": [
+      "用溴水鉴别乙烷与乙烯",
+      "写出乙烯与氢气加成的方程式"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_benzene_homologs",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "苯及其同系物",
+    "nameEn": "Benzene homologs",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能描述苯的结构和主要化学性质，并区分苯与甲苯的侧链氧化。",
+    "evidence": [
+      "说明苯不能使溴水因加成而褪色",
+      "写出甲苯被酸性高锰酸钾氧化的产物"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_alcohols_phenols",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "醇和酚",
+    "nameEn": "Alcohols and phenols",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能比较醇与酚羟基的性质差异，并写出乙醇催化氧化等典型反应。",
+    "evidence": [
+      "用三氯化铁检验苯酚",
+      "写出乙醇氧化为乙醛的化学方程式"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_aldehydes_ketones",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "醛和酮",
+    "nameEn": "Aldehydes and ketones",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能用银镜反应或新制氢氧化铜区分醛与酮，并写出乙醛氧化产物。",
+    "evidence": [
+      "设计实验鉴别乙醛与丙酮",
+      "说明福尔马林的主要成分与用途"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_carboxylic_esters",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "羧酸和酯",
+    "nameEn": "Carboxylic acids and esters",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能写出乙酸与乙醇的酯化反应，并说明酯水解的酸碱条件差异。",
+    "evidence": [
+      "写出乙酸乙酯的实验室制取要点",
+      "比较酸性水解与碱性水解的产物"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_biomolecules_chem",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "生命中的有机物",
+    "nameEn": "Biomolecules",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能从化学组成说明糖类、油脂、蛋白质的基本结构和水解产物。",
+    "evidence": [
+      "写出葡萄糖的分子式并指出醛基",
+      "说明油脂皂化得到什么产物"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_polymer_materials",
+    "type": "CONCEPTUAL",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "高分子材料",
+    "nameEn": "Polymer materials",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能区分加聚与缩聚，并写出乙烯加聚和氨基酸缩聚的示意式。",
+    "evidence": [
+      "判断聚乙烯属于加聚还是缩聚产物",
+      "说明塑料回收分类的化学依据"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_organic_inference",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "有机化学",
+    "gradeStart": 12,
+    "gradeEnd": 12,
+    "name": "有机推断入门",
+    "nameEn": "Organic inference",
+    "standards": [
+      "moe-hx-2017:ORG"
+    ],
+    "description": "能根据官能团特征反应和分子式推断简单有机物结构并验证。",
+    "evidence": [
+      "由能使溴水褪色且氧化得羧酸推断烯烃",
+      "根据燃烧产物求未知烃的分子式"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_substance_tests",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "化学实验",
+    "gradeStart": 10,
+    "gradeEnd": 10,
+    "name": "物质检验",
+    "nameEn": "Substance tests",
+    "standards": [
+      "moe-hx-2017:LAB"
+    ],
+    "description": "能选择试剂检验氯离子、硫酸根、碳酸根和常见气体并说明现象。",
+    "evidence": [
+      "设计区分氯化钠与碳酸钠的实验",
+      "用澄清石灰水检验二氧化碳"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_quantitative_lab",
+    "type": "PROCEDURAL",
+    "subject": "化学",
+    "domain": "化学实验",
+    "gradeStart": 10,
+    "gradeEnd": 11,
+    "name": "定量实验",
+    "nameEn": "Quantitative lab",
+    "standards": [
+      "moe-hx-2017:LAB"
+    ],
+    "description": "能完成中和滴定或结晶水测定等定量实验，并处理一组实验数据。",
+    "evidence": [
+      "用标准碱液滴定未知酸并计算结果",
+      "由加热失重求出结晶水数目"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_experimental_error",
+    "type": "META",
+    "subject": "化学",
+    "domain": "化学实验",
+    "gradeStart": 11,
+    "gradeEnd": 11,
+    "name": "实验误差分析",
+    "nameEn": "Experimental error",
+    "standards": [
+      "moe-hx-2017:LAB"
+    ],
+    "description": "能识别滴定管读数、终点判断等操作对结果的影响并提出改进。",
+    "evidence": [
+      "分析仰视读数使滴定结果偏高还是偏低",
+      "说明锥形瓶用水润洗对结果的影响"
+    ]
+  },
+  {
+    "id": "mt_hx_s5_experiment_design",
+    "type": "META",
+    "subject": "化学",
+    "domain": "化学实验",
+    "gradeStart": 11,
+    "gradeEnd": 12,
+    "name": "实验方案设计",
+    "nameEn": "Experiment design",
+    "standards": [
+      "moe-hx-2017:LAB"
+    ],
+    "description": "能针对给定探究问题选择试剂、装置和对照，并评价方案是否严密。",
+    "evidence": [
+      "设计实验比较两种催化剂的效果",
+      "指出某气体制取装置的一处缺陷"
+    ]
+  }
+]

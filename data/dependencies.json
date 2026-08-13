@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "note": "topicId depends on prerequisiteId. Auto-wired within (subject, domain) by grade, plus src/dependencies extras.",
-  "edgeCount": 2094,
+  "edgeCount": 2707,
   "dependencies": [
     {
       "topicId": "mt_math_s2_rectangle_area",
@@ -302,6 +302,96 @@
       "prerequisiteId": "mt_df_s1_spring_festival_customs",
       "strength": "soft",
       "reason": "春节艺术形式建立在道法传统节日习俗之上。"
+    },
+    {
+      "topicId": "mt_math_s5_function_concept_graph",
+      "prerequisiteId": "mt_math_s4_quadratic_function",
+      "strength": "hard",
+      "reason": "高中函数概念与图像建立在初中二次函数之上。"
+    },
+    {
+      "topicId": "mt_chinese_s5_whole_book_annotation",
+      "prerequisiteId": "mt_chinese_s4_capstone_project_s4",
+      "strength": "soft",
+      "reason": "整本书批注阅读承接初中综合语文实践。"
+    },
+    {
+      "topicId": "mt_english_s5_listening_inference",
+      "prerequisiteId": "mt_english_s4_argumentative_writing",
+      "strength": "soft",
+      "reason": "高中听力推断与论证表达建立在初中议论文写作之上。"
+    },
+    {
+      "topicId": "mt_zz_s5_social_formation_process",
+      "prerequisiteId": "mt_df_s4_rule_of_law_thinking",
+      "strength": "soft",
+      "reason": "高中社会发展进程分析承接初中法治思维。"
+    },
+    {
+      "topicId": "mt_ls_s5_early_state_qin_han_unity",
+      "prerequisiteId": "mt_ls_s4_qin_unification",
+      "strength": "hard",
+      "reason": "纲要中的秦汉大一统需要先掌握初中秦统一史实。"
+    },
+    {
+      "topicId": "mt_dl_s5_earth_motion_geo_meaning",
+      "prerequisiteId": "mt_dl_s4_earth_revolution_seasons",
+      "strength": "hard",
+      "reason": "高中地球运动地理意义深化初中公转与四季。"
+    },
+    {
+      "topicId": "mt_wl_s5_newton_laws_apply",
+      "prerequisiteId": "mt_science_s4_newton_second_law",
+      "strength": "hard",
+      "reason": "高中牛顿定律应用建立在科学课牛顿第二定律之上。"
+    },
+    {
+      "topicId": "mt_hx_s5_ionic_reaction",
+      "prerequisiteId": "mt_science_s4_chemical_equations",
+      "strength": "hard",
+      "reason": "离子反应需要先会写和配平化学方程式。"
+    },
+    {
+      "topicId": "mt_sw_s5_cell_theory",
+      "prerequisiteId": "mt_science_s4_cell_division",
+      "strength": "soft",
+      "reason": "细胞学说深化建立在初中细胞分裂认识之上。"
+    },
+    {
+      "topicId": "mt_sw_s5_dna_replication",
+      "prerequisiteId": "mt_science_s4_dna_genes",
+      "strength": "hard",
+      "reason": "DNA复制需要先理解DNA与基因的基本概念。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_prog_fundamentals",
+      "prerequisiteId": "mt_it_s4_text_programming",
+      "strength": "hard",
+      "reason": "高中程序设计基础承接初中文本语言编程。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_design_general_process",
+      "prerequisiteId": "mt_science_s4_user_centered_design",
+      "strength": "soft",
+      "reason": "通用技术设计过程承接科学课以用户为中心的设计。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_track_event_refine",
+      "prerequisiteId": "mt_ty_s4_track_sprint_hurdle",
+      "strength": "soft",
+      "reason": "高中田径专项提高建立在初中短跑跨栏之上。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_music_work_analysis",
+      "prerequisiteId": "mt_ys_s4_cross_art_project",
+      "strength": "soft",
+      "reason": "高中音乐作品分析承接初中跨学科艺术项目。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_independent_living",
+      "prerequisiteId": "mt_ld_s4_career_shadow_visit",
+      "strength": "soft",
+      "reason": "高中独立生活管理承接初中职业体验中的劳动自立。"
     },
     {
       "topicId": "mt_ys_s1_instrument_sound_perceive",
@@ -1192,6 +1282,834 @@
       "reason": "同领域隔项准备：「艺术学习反思」支撑「艺术与文化认同」。"
     },
     {
+      "topicId": "mt_ys_s5_hs_keyboard_guitar_basic",
+      "prerequisiteId": "mt_ys_s5_hs_chinese_trad_music_deep",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国传统音乐深化」为「键盘或吉他基础」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_multipart_singing",
+      "prerequisiteId": "mt_ys_s5_hs_keyboard_guitar_basic",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「键盘或吉他基础」为「多声部演唱」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_multipart_singing",
+      "prerequisiteId": "mt_ys_s5_hs_chinese_trad_music_deep",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国传统音乐深化」支撑「多声部演唱」。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_music_work_analysis",
+      "prerequisiteId": "mt_ys_s5_hs_multipart_singing",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「多声部演唱」为「音乐作品分析」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_music_work_analysis",
+      "prerequisiteId": "mt_ys_s5_hs_keyboard_guitar_basic",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「键盘或吉他基础」支撑「音乐作品分析」。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_short_composition",
+      "prerequisiteId": "mt_ys_s5_hs_music_work_analysis",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「音乐作品分析」为「作曲小品」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_short_composition",
+      "prerequisiteId": "mt_ys_s5_hs_multipart_singing",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「多声部演唱」支撑「作曲小品」。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_color_expression",
+      "prerequisiteId": "mt_ys_s5_hs_chinese_shuhua_deep",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国书画深化」为「色彩表现」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_design_thinking_art",
+      "prerequisiteId": "mt_ys_s5_hs_color_expression",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「色彩表现」为「设计思维」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_design_thinking_art",
+      "prerequisiteId": "mt_ys_s5_hs_chinese_shuhua_deep",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国书画深化」支撑「设计思维」。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_digital_media_paint",
+      "prerequisiteId": "mt_ys_s5_hs_design_thinking_art",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「设计思维」为「数字媒体绘画」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_digital_media_paint",
+      "prerequisiteId": "mt_ys_s5_hs_color_expression",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「色彩表现」支撑「数字媒体绘画」。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_sketch_form_deep",
+      "prerequisiteId": "mt_ys_s5_hs_digital_media_paint",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「数字媒体绘画」为「素描造型深化」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_sketch_form_deep",
+      "prerequisiteId": "mt_ys_s5_hs_design_thinking_art",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「设计思维」支撑「素描造型深化」。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_dance_choreo_advance",
+      "prerequisiteId": "mt_ys_s5_hs_cross_media_exhibit",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「跨媒介展览」为「舞蹈编创提高」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_drama_rehearsal",
+      "prerequisiteId": "mt_ys_s5_hs_dance_choreo_advance",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「舞蹈编创提高」为「戏剧排练」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_drama_rehearsal",
+      "prerequisiteId": "mt_ys_s5_hs_cross_media_exhibit",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「跨媒介展览」支撑「戏剧排练」。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_short_film_make",
+      "prerequisiteId": "mt_ys_s5_hs_drama_rehearsal",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「戏剧排练」为「影视短片制作」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_short_film_make",
+      "prerequisiteId": "mt_ys_s5_hs_dance_choreo_advance",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「舞蹈编创提高」支撑「影视短片制作」。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_art_history_topic",
+      "prerequisiteId": "mt_ys_s5_hs_art_critique_writing",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「艺术评论写作」为「中外美术史专题」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_heritage_protection",
+      "prerequisiteId": "mt_ys_s5_hs_art_history_topic",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中外美术史专题」为「文化遗产保护」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_heritage_protection",
+      "prerequisiteId": "mt_ys_s5_hs_art_critique_writing",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「艺术评论写作」支撑「文化遗产保护」。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_music_style_contrast",
+      "prerequisiteId": "mt_ys_s5_hs_heritage_protection",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「文化遗产保护」为「音乐风格比较」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s5_hs_music_style_contrast",
+      "prerequisiteId": "mt_ys_s5_hs_art_history_topic",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中外美术史专题」支撑「音乐风格比较」。"
+    },
+    {
+      "topicId": "mt_sw_s5_cell_nucleus",
+      "prerequisiteId": "mt_sw_s5_cell_membrane",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「细胞膜」为「细胞核」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_cell_theory",
+      "prerequisiteId": "mt_sw_s5_cell_nucleus",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「细胞核」为「细胞学说」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_cell_theory",
+      "prerequisiteId": "mt_sw_s5_cell_membrane",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「细胞膜」支撑「细胞学说」。"
+    },
+    {
+      "topicId": "mt_sw_s5_cellular_respiration",
+      "prerequisiteId": "mt_sw_s5_cell_theory",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「细胞学说」为「细胞呼吸」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_cellular_respiration",
+      "prerequisiteId": "mt_sw_s5_cell_nucleus",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「细胞核」支撑「细胞呼吸」。"
+    },
+    {
+      "topicId": "mt_sw_s5_enzyme_action",
+      "prerequisiteId": "mt_sw_s5_cellular_respiration",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「细胞呼吸」为「酶的作用」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_enzyme_action",
+      "prerequisiteId": "mt_sw_s5_cell_theory",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「细胞学说」支撑「酶的作用」。"
+    },
+    {
+      "topicId": "mt_sw_s5_mitosis",
+      "prerequisiteId": "mt_sw_s5_enzyme_action",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「酶的作用」为「有丝分裂」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_mitosis",
+      "prerequisiteId": "mt_sw_s5_cellular_respiration",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「细胞呼吸」支撑「有丝分裂」。"
+    },
+    {
+      "topicId": "mt_sw_s5_nucleic_acids",
+      "prerequisiteId": "mt_sw_s5_mitosis",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「有丝分裂」为「核酸」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_nucleic_acids",
+      "prerequisiteId": "mt_sw_s5_enzyme_action",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「酶的作用」支撑「核酸」。"
+    },
+    {
+      "topicId": "mt_sw_s5_organelles",
+      "prerequisiteId": "mt_sw_s5_nucleic_acids",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「核酸」为「细胞器」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_organelles",
+      "prerequisiteId": "mt_sw_s5_mitosis",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「有丝分裂」支撑「细胞器」。"
+    },
+    {
+      "topicId": "mt_sw_s5_photosynthesis",
+      "prerequisiteId": "mt_sw_s5_organelles",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「细胞器」为「光合作用」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_photosynthesis",
+      "prerequisiteId": "mt_sw_s5_nucleic_acids",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「核酸」支撑「光合作用」。"
+    },
+    {
+      "topicId": "mt_sw_s5_protein_structure",
+      "prerequisiteId": "mt_sw_s5_photosynthesis",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「光合作用」为「蛋白质结构」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_protein_structure",
+      "prerequisiteId": "mt_sw_s5_organelles",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「细胞器」支撑「蛋白质结构」。"
+    },
+    {
+      "topicId": "mt_sw_s5_gene_mutation",
+      "prerequisiteId": "mt_sw_s5_dna_replication",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「DNA复制」为「基因突变」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_independent_assortment",
+      "prerequisiteId": "mt_sw_s5_gene_mutation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「基因突变」为「自由组合定律」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_independent_assortment",
+      "prerequisiteId": "mt_sw_s5_dna_replication",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「DNA复制」支撑「自由组合定律」。"
+    },
+    {
+      "topicId": "mt_sw_s5_meiosis",
+      "prerequisiteId": "mt_sw_s5_independent_assortment",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「自由组合定律」为「减数分裂」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_meiosis",
+      "prerequisiteId": "mt_sw_s5_gene_mutation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「基因突变」支撑「减数分裂」。"
+    },
+    {
+      "topicId": "mt_sw_s5_mendel_segregation",
+      "prerequisiteId": "mt_sw_s5_meiosis",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「减数分裂」为「孟德尔分离定律」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_mendel_segregation",
+      "prerequisiteId": "mt_sw_s5_independent_assortment",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「自由组合定律」支撑「孟德尔分离定律」。"
+    },
+    {
+      "topicId": "mt_sw_s5_transcription_translation",
+      "prerequisiteId": "mt_sw_s5_mendel_segregation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「孟德尔分离定律」为「转录与翻译」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_transcription_translation",
+      "prerequisiteId": "mt_sw_s5_meiosis",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「减数分裂」支撑「转录与翻译」。"
+    },
+    {
+      "topicId": "mt_sw_s5_modern_evolution",
+      "prerequisiteId": "mt_sw_s5_transcription_translation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「转录与翻译」为「现代生物进化理论」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_modern_evolution",
+      "prerequisiteId": "mt_sw_s5_mendel_segregation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「孟德尔分离定律」支撑「现代生物进化理论」。"
+    },
+    {
+      "topicId": "mt_sw_s5_population_gene_freq",
+      "prerequisiteId": "mt_sw_s5_modern_evolution",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「现代生物进化理论」为「种群基因频率」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_population_gene_freq",
+      "prerequisiteId": "mt_sw_s5_transcription_translation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「转录与翻译」支撑「种群基因频率」。"
+    },
+    {
+      "topicId": "mt_sw_s5_immune_regulation",
+      "prerequisiteId": "mt_sw_s5_hormone_regulation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「激素调节」为「免疫调节」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_internal_environment",
+      "prerequisiteId": "mt_sw_s5_immune_regulation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「免疫调节」为「内环境稳态」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_internal_environment",
+      "prerequisiteId": "mt_sw_s5_hormone_regulation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「激素调节」支撑「内环境稳态」。"
+    },
+    {
+      "topicId": "mt_sw_s5_neural_regulation",
+      "prerequisiteId": "mt_sw_s5_internal_environment",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「内环境稳态」为「神经调节」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_neural_regulation",
+      "prerequisiteId": "mt_sw_s5_immune_regulation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「免疫调节」支撑「神经调节」。"
+    },
+    {
+      "topicId": "mt_sw_s5_plant_hormones",
+      "prerequisiteId": "mt_sw_s5_neural_regulation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「神经调节」为「植物激素调节」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_plant_hormones",
+      "prerequisiteId": "mt_sw_s5_internal_environment",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「内环境稳态」支撑「植物激素调节」。"
+    },
+    {
+      "topicId": "mt_sw_s5_temp_water_salt",
+      "prerequisiteId": "mt_sw_s5_plant_hormones",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「植物激素调节」为「体温与水盐平衡」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_temp_water_salt",
+      "prerequisiteId": "mt_sw_s5_neural_regulation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「神经调节」支撑「体温与水盐平衡」。"
+    },
+    {
+      "topicId": "mt_sw_s5_ecological_protection",
+      "prerequisiteId": "mt_sw_s5_community_structure",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「群落结构」为「生态保护」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_ecosystem_cycles",
+      "prerequisiteId": "mt_sw_s5_ecological_protection",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「生态保护」为「生态系统物质循环」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_ecosystem_cycles",
+      "prerequisiteId": "mt_sw_s5_community_structure",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「群落结构」支撑「生态系统物质循环」。"
+    },
+    {
+      "topicId": "mt_sw_s5_ecosystem_energy",
+      "prerequisiteId": "mt_sw_s5_ecosystem_cycles",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「生态系统物质循环」为「生态系统能量流动」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_ecosystem_energy",
+      "prerequisiteId": "mt_sw_s5_ecological_protection",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「生态保护」支撑「生态系统能量流动」。"
+    },
+    {
+      "topicId": "mt_sw_s5_ecosystem_stability",
+      "prerequisiteId": "mt_sw_s5_ecosystem_energy",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「生态系统能量流动」为「生态系统稳定性」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_ecosystem_stability",
+      "prerequisiteId": "mt_sw_s5_ecosystem_cycles",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「生态系统物质循环」支撑「生态系统稳定性」。"
+    },
+    {
+      "topicId": "mt_sw_s5_population_traits",
+      "prerequisiteId": "mt_sw_s5_ecosystem_stability",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「生态系统稳定性」为「种群特征」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_population_traits",
+      "prerequisiteId": "mt_sw_s5_ecosystem_energy",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「生态系统能量流动」支撑「种群特征」。"
+    },
+    {
+      "topicId": "mt_sw_s5_cell_engineering",
+      "prerequisiteId": "mt_sw_s5_biotech_ethics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「生物技术伦理」为「细胞工程」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_fermentation_eng",
+      "prerequisiteId": "mt_sw_s5_cell_engineering",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「细胞工程」为「发酵工程」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_fermentation_eng",
+      "prerequisiteId": "mt_sw_s5_biotech_ethics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「生物技术伦理」支撑「发酵工程」。"
+    },
+    {
+      "topicId": "mt_sw_s5_genetic_engineering_intro",
+      "prerequisiteId": "mt_sw_s5_fermentation_eng",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「发酵工程」为「基因工程入门」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_genetic_engineering_intro",
+      "prerequisiteId": "mt_sw_s5_cell_engineering",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「细胞工程」支撑「基因工程入门」。"
+    },
+    {
+      "topicId": "mt_sw_s5_microbe_culture",
+      "prerequisiteId": "mt_sw_s5_genetic_engineering_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「基因工程入门」为「微生物培养」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_microbe_culture",
+      "prerequisiteId": "mt_sw_s5_fermentation_eng",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「发酵工程」支撑「微生物培养」。"
+    },
+    {
+      "topicId": "mt_sw_s5_pcr_concept",
+      "prerequisiteId": "mt_sw_s5_microbe_culture",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「微生物培养」为「PCR概念」提供准备。"
+    },
+    {
+      "topicId": "mt_sw_s5_pcr_concept",
+      "prerequisiteId": "mt_sw_s5_genetic_engineering_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「基因工程入门」支撑「PCR概念」。"
+    },
+    {
+      "topicId": "mt_hx_s5_chem_lab_safety",
+      "prerequisiteId": "mt_hx_s5_amount_of_substance",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「物质的量」为「化学实验安全」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_chlorine_compounds",
+      "prerequisiteId": "mt_hx_s5_chem_lab_safety",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「化学实验安全」为「氯及其化合物」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_chlorine_compounds",
+      "prerequisiteId": "mt_hx_s5_amount_of_substance",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「物质的量」支撑「氯及其化合物」。"
+    },
+    {
+      "topicId": "mt_hx_s5_ionic_reaction",
+      "prerequisiteId": "mt_hx_s5_chlorine_compounds",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「氯及其化合物」为「离子反应」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_ionic_reaction",
+      "prerequisiteId": "mt_hx_s5_chem_lab_safety",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「化学实验安全」支撑「离子反应」。"
+    },
+    {
+      "topicId": "mt_hx_s5_matter_classification",
+      "prerequisiteId": "mt_hx_s5_ionic_reaction",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「离子反应」为「物质的分类」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_matter_classification",
+      "prerequisiteId": "mt_hx_s5_chlorine_compounds",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「氯及其化合物」支撑「物质的分类」。"
+    },
+    {
+      "topicId": "mt_hx_s5_nitrogen_compounds",
+      "prerequisiteId": "mt_hx_s5_matter_classification",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「物质的分类」为「氮及其化合物」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_nitrogen_compounds",
+      "prerequisiteId": "mt_hx_s5_ionic_reaction",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「离子反应」支撑「氮及其化合物」。"
+    },
+    {
+      "topicId": "mt_hx_s5_redox_reaction",
+      "prerequisiteId": "mt_hx_s5_nitrogen_compounds",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「氮及其化合物」为「氧化还原反应」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_redox_reaction",
+      "prerequisiteId": "mt_hx_s5_matter_classification",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「物质的分类」支撑「氧化还原反应」。"
+    },
+    {
+      "topicId": "mt_hx_s5_sodium_compounds",
+      "prerequisiteId": "mt_hx_s5_redox_reaction",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「氧化还原反应」为「钠及其化合物」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_sodium_compounds",
+      "prerequisiteId": "mt_hx_s5_nitrogen_compounds",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「氮及其化合物」支撑「钠及其化合物」。"
+    },
+    {
+      "topicId": "mt_hx_s5_sulfur_compounds",
+      "prerequisiteId": "mt_hx_s5_sodium_compounds",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「钠及其化合物」为「硫及其化合物」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_sulfur_compounds",
+      "prerequisiteId": "mt_hx_s5_redox_reaction",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「氧化还原反应」支撑「硫及其化合物」。"
+    },
+    {
+      "topicId": "mt_hx_s5_metal_materials",
+      "prerequisiteId": "mt_hx_s5_sulfur_compounds",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「硫及其化合物」为「金属材料」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_metal_materials",
+      "prerequisiteId": "mt_hx_s5_sodium_compounds",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「钠及其化合物」支撑「金属材料」。"
+    },
+    {
+      "topicId": "mt_hx_s5_reaction_heat_calc",
+      "prerequisiteId": "mt_hx_s5_reaction_and_energy",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「化学反应与能量」为「反应热计算」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_reaction_rate",
+      "prerequisiteId": "mt_hx_s5_reaction_heat_calc",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「反应热计算」为「化学反应速率」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_reaction_rate",
+      "prerequisiteId": "mt_hx_s5_reaction_and_energy",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「化学反应与能量」支撑「化学反应速率」。"
+    },
+    {
+      "topicId": "mt_hx_s5_chemical_equilibrium",
+      "prerequisiteId": "mt_hx_s5_reaction_rate",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「化学反应速率」为「化学平衡」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_chemical_equilibrium",
+      "prerequisiteId": "mt_hx_s5_reaction_heat_calc",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「反应热计算」支撑「化学平衡」。"
+    },
+    {
+      "topicId": "mt_hx_s5_aqueous_ion_eq",
+      "prerequisiteId": "mt_hx_s5_chemical_equilibrium",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「化学平衡」为「水溶液中的离子平衡」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_aqueous_ion_eq",
+      "prerequisiteId": "mt_hx_s5_reaction_rate",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「化学反应速率」支撑「水溶液中的离子平衡」。"
+    },
+    {
+      "topicId": "mt_hx_s5_electrochemistry_intro",
+      "prerequisiteId": "mt_hx_s5_aqueous_ion_eq",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「水溶液中的离子平衡」为「电化学基础」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_electrochemistry_intro",
+      "prerequisiteId": "mt_hx_s5_chemical_equilibrium",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「化学平衡」支撑「电化学基础」。"
+    },
+    {
+      "topicId": "mt_hx_s5_precipitation_eq",
+      "prerequisiteId": "mt_hx_s5_electrochemistry_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「电化学基础」为「沉淀溶解平衡」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_precipitation_eq",
+      "prerequisiteId": "mt_hx_s5_aqueous_ion_eq",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「水溶液中的离子平衡」支撑「沉淀溶解平衡」。"
+    },
+    {
+      "topicId": "mt_hx_s5_chemical_bonding",
+      "prerequisiteId": "mt_hx_s5_atomic_structure_chem",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「原子结构」为「化学键」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_crystal_types",
+      "prerequisiteId": "mt_hx_s5_chemical_bonding",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「化学键」为「晶体类型」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_crystal_types",
+      "prerequisiteId": "mt_hx_s5_atomic_structure_chem",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「原子结构」支撑「晶体类型」。"
+    },
+    {
+      "topicId": "mt_hx_s5_molecular_geometry",
+      "prerequisiteId": "mt_hx_s5_crystal_types",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「晶体类型」为「分子空间构型」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_molecular_geometry",
+      "prerequisiteId": "mt_hx_s5_chemical_bonding",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「化学键」支撑「分子空间构型」。"
+    },
+    {
+      "topicId": "mt_hx_s5_periodic_law",
+      "prerequisiteId": "mt_hx_s5_molecular_geometry",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「分子空间构型」为「元素周期律」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_periodic_law",
+      "prerequisiteId": "mt_hx_s5_crystal_types",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「晶体类型」支撑「元素周期律」。"
+    },
+    {
+      "topicId": "mt_hx_s5_aldehydes_ketones",
+      "prerequisiteId": "mt_hx_s5_alcohols_phenols",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「醇和酚」为「醛和酮」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_alkanes",
+      "prerequisiteId": "mt_hx_s5_aldehydes_ketones",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「醛和酮」为「烷烃」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_alkanes",
+      "prerequisiteId": "mt_hx_s5_alcohols_phenols",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「醇和酚」支撑「烷烃」。"
+    },
+    {
+      "topicId": "mt_hx_s5_alkenes_alkynes",
+      "prerequisiteId": "mt_hx_s5_alkanes",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「烷烃」为「烯烃炔烃」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_alkenes_alkynes",
+      "prerequisiteId": "mt_hx_s5_aldehydes_ketones",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「醛和酮」支撑「烯烃炔烃」。"
+    },
+    {
+      "topicId": "mt_hx_s5_benzene_homologs",
+      "prerequisiteId": "mt_hx_s5_alkenes_alkynes",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「烯烃炔烃」为「苯及其同系物」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_benzene_homologs",
+      "prerequisiteId": "mt_hx_s5_alkanes",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「烷烃」支撑「苯及其同系物」。"
+    },
+    {
+      "topicId": "mt_hx_s5_biomolecules_chem",
+      "prerequisiteId": "mt_hx_s5_benzene_homologs",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「苯及其同系物」为「生命中的有机物」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_biomolecules_chem",
+      "prerequisiteId": "mt_hx_s5_alkenes_alkynes",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「烯烃炔烃」支撑「生命中的有机物」。"
+    },
+    {
+      "topicId": "mt_hx_s5_carboxylic_esters",
+      "prerequisiteId": "mt_hx_s5_biomolecules_chem",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「生命中的有机物」为「羧酸和酯」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_carboxylic_esters",
+      "prerequisiteId": "mt_hx_s5_benzene_homologs",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「苯及其同系物」支撑「羧酸和酯」。"
+    },
+    {
+      "topicId": "mt_hx_s5_organic_inference",
+      "prerequisiteId": "mt_hx_s5_carboxylic_esters",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「羧酸和酯」为「有机推断入门」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_organic_inference",
+      "prerequisiteId": "mt_hx_s5_biomolecules_chem",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「生命中的有机物」支撑「有机推断入门」。"
+    },
+    {
+      "topicId": "mt_hx_s5_organic_structure",
+      "prerequisiteId": "mt_hx_s5_organic_inference",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「有机推断入门」为「有机物结构」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_organic_structure",
+      "prerequisiteId": "mt_hx_s5_carboxylic_esters",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「羧酸和酯」支撑「有机物结构」。"
+    },
+    {
+      "topicId": "mt_hx_s5_polymer_materials",
+      "prerequisiteId": "mt_hx_s5_organic_structure",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「有机物结构」为「高分子材料」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_polymer_materials",
+      "prerequisiteId": "mt_hx_s5_organic_inference",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「有机推断入门」支撑「高分子材料」。"
+    },
+    {
+      "topicId": "mt_hx_s5_quantitative_lab",
+      "prerequisiteId": "mt_hx_s5_substance_tests",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「物质检验」为「定量实验」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_experimental_error",
+      "prerequisiteId": "mt_hx_s5_quantitative_lab",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「定量实验」为「实验误差分析」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_experimental_error",
+      "prerequisiteId": "mt_hx_s5_substance_tests",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「物质检验」支撑「实验误差分析」。"
+    },
+    {
+      "topicId": "mt_hx_s5_experiment_design",
+      "prerequisiteId": "mt_hx_s5_experimental_error",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「实验误差分析」为「实验方案设计」提供准备。"
+    },
+    {
+      "topicId": "mt_hx_s5_experiment_design",
+      "prerequisiteId": "mt_hx_s5_quantitative_lab",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「定量实验」支撑「实验方案设计」。"
+    },
+    {
       "topicId": "mt_chinese_s1_pinyin_tones",
       "prerequisiteId": "mt_chinese_s1_pinyin_initials_finals",
       "strength": "soft",
@@ -1930,6 +2848,42 @@
       "reason": "同领域隔项准备：「综合性学习」支撑「调查报告」。"
     },
     {
+      "topicId": "mt_chinese_s5_practical_text_extraction",
+      "prerequisiteId": "mt_chinese_s4_report_writing_s4",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「调查报告」，再学习「实用文本提取」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_practical_text_extraction",
+      "prerequisiteId": "mt_chinese_s4_workplace_writing",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「事务性写作」支撑「实用文本提取」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_speech_script_writing",
+      "prerequisiteId": "mt_chinese_s5_practical_text_extraction",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「实用文本提取」为「演讲稿撰写」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_speech_script_writing",
+      "prerequisiteId": "mt_chinese_s4_report_writing_s4",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「调查报告」支撑「演讲稿撰写」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_interview_and_report",
+      "prerequisiteId": "mt_chinese_s5_speech_script_writing",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「演讲稿撰写」为「访谈与书面报告」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_interview_and_report",
+      "prerequisiteId": "mt_chinese_s5_practical_text_extraction",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「实用文本提取」支撑「访谈与书面报告」。"
+    },
+    {
       "topicId": "mt_chinese_s1_expressive_reading",
       "prerequisiteId": "mt_chinese_s1_children_poetry",
       "strength": "soft",
@@ -2470,6 +3424,42 @@
       "reason": "同领域隔项准备：「反驳与回应」支撑「研究性小论文」。"
     },
     {
+      "topicId": "mt_chinese_s5_claim_evidence_mapping",
+      "prerequisiteId": "mt_chinese_s4_research_essay",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「研究性小论文」，再学习「论点论据梳理」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_claim_evidence_mapping",
+      "prerequisiteId": "mt_chinese_s4_rhetorical_analysis",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「修辞与论证分析」支撑「论点论据梳理」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_reasoning_gap_spotting",
+      "prerequisiteId": "mt_chinese_s5_claim_evidence_mapping",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「论点论据梳理」为「论证漏洞识别」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_reasoning_gap_spotting",
+      "prerequisiteId": "mt_chinese_s4_research_essay",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「研究性小论文」支撑「论证漏洞识别」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_reasoned_oral_argument",
+      "prerequisiteId": "mt_chinese_s5_reasoning_gap_spotting",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「论证漏洞识别」为「思辨性口头表达」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_reasoned_oral_argument",
+      "prerequisiteId": "mt_chinese_s5_claim_evidence_mapping",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「论点论据梳理」支撑「思辨性口头表达」。"
+    },
+    {
       "topicId": "mt_chinese_s1_reading_habits",
       "prerequisiteId": "mt_chinese_s1_picture_book_whole",
       "strength": "soft",
@@ -2744,6 +3734,138 @@
       "prerequisiteId": "mt_chinese_s4_art_literature_link",
       "strength": "soft",
       "reason": "同领域隔项准备：「艺术与文学联通」支撑「毕业式综合项目」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_whole_book_seminar",
+      "prerequisiteId": "mt_chinese_s5_whole_book_annotation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「整本书批注阅读」为「整本书研讨发言」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_whole_book_review",
+      "prerequisiteId": "mt_chinese_s5_whole_book_seminar",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「整本书研讨发言」为「整本书读后评论」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_whole_book_review",
+      "prerequisiteId": "mt_chinese_s5_whole_book_annotation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「整本书批注阅读」支撑「整本书读后评论」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_culture_phenomenon_comment",
+      "prerequisiteId": "mt_chinese_s5_local_culture_fieldwork",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社区文化调查」为「当代文化评说」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_multimodal_presentation",
+      "prerequisiteId": "mt_chinese_s5_cross_media_comparison",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「跨媒介信息比较」为「多媒介表达交流」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_register_and_diction",
+      "prerequisiteId": "mt_chinese_s5_classical_particle_sorting",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「文言虚词梳理」为「词语语体探究」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_language_phenomenon_inquiry",
+      "prerequisiteId": "mt_chinese_s5_register_and_diction",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「词语语体探究」为「语言现象专题」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_language_phenomenon_inquiry",
+      "prerequisiteId": "mt_chinese_s5_classical_particle_sorting",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「文言虚词梳理」支撑「语言现象专题」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_poetry_imagery_imitation",
+      "prerequisiteId": "mt_chinese_s5_fiction_close_reading",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「小说细读人物」为「诗歌意象仿写」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_prose_craft_analysis",
+      "prerequisiteId": "mt_chinese_s5_poetry_imagery_imitation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「诗歌意象仿写」为「散文笔法赏析」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_prose_craft_analysis",
+      "prerequisiteId": "mt_chinese_s5_fiction_close_reading",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「小说细读人物」支撑「散文笔法赏析」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_literary_piece_writing",
+      "prerequisiteId": "mt_chinese_s5_prose_craft_analysis",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「散文笔法赏析」为「文学性片段写作」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_literary_piece_writing",
+      "prerequisiteId": "mt_chinese_s5_poetry_imagery_imitation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「诗歌意象仿写」支撑「文学性片段写作」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_tang_song_poetry_study",
+      "prerequisiteId": "mt_chinese_s5_preqin_prose_study",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「先秦散文研读」为「唐宋诗词研习」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_classic_commentary_notes",
+      "prerequisiteId": "mt_chinese_s5_tang_song_poetry_study",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「唐宋诗词研习」为「经典札记写作」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_classic_commentary_notes",
+      "prerequisiteId": "mt_chinese_s5_preqin_prose_study",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「先秦散文研读」支撑「经典札记写作」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_revolutionary_theme_writing",
+      "prerequisiteId": "mt_chinese_s5_revolutionary_narrative",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「革命叙事研读」为「革命传统主题写作」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_contemporary_prose_study",
+      "prerequisiteId": "mt_chinese_s5_modern_fiction_author",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「现代小说作家研读」为「当代散文研习」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_author_style_compare",
+      "prerequisiteId": "mt_chinese_s5_contemporary_prose_study",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「当代散文研习」为「作家风格比较」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_author_style_compare",
+      "prerequisiteId": "mt_chinese_s5_modern_fiction_author",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「现代小说作家研读」支撑「作家风格比较」。"
+    },
+    {
+      "topicId": "mt_chinese_s5_foreign_poetry_drama",
+      "prerequisiteId": "mt_chinese_s5_foreign_novel_excerpt",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「外国小说选篇研读」为「外国诗歌戏剧研习」提供准备。"
+    },
+    {
+      "topicId": "mt_chinese_s5_cultural_treatise_notes",
+      "prerequisiteId": "mt_chinese_s5_science_essay_reading",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「科学论著节选阅读」为「文化论著读书笔记」提供准备。"
     },
     {
       "topicId": "mt_english_s2_be_verb_present",
@@ -3778,6 +4900,450 @@
       "reason": "同领域隔项准备：「错题分析」支撑「学习档案袋」。"
     },
     {
+      "topicId": "mt_english_s5_vocab_memory_strategies",
+      "prerequisiteId": "mt_english_s4_learning_portfolio",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「学习档案袋」，再学习「词汇记忆策略」。"
+    },
+    {
+      "topicId": "mt_english_s5_vocab_memory_strategies",
+      "prerequisiteId": "mt_english_s4_exam_strategies",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「考试策略」支撑「词汇记忆策略」。"
+    },
+    {
+      "topicId": "mt_english_s5_listening_speaking_plan",
+      "prerequisiteId": "mt_english_s5_vocab_memory_strategies",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「词汇记忆策略」为「听说训练计划」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_listening_speaking_plan",
+      "prerequisiteId": "mt_english_s4_learning_portfolio",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「学习档案袋」支撑「听说训练计划」。"
+    },
+    {
+      "topicId": "mt_english_s5_reading_strategy_choice",
+      "prerequisiteId": "mt_english_s5_listening_speaking_plan",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「听说训练计划」为「阅读策略选择」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_reading_strategy_choice",
+      "prerequisiteId": "mt_english_s5_vocab_memory_strategies",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「词汇记忆策略」支撑「阅读策略选择」。"
+    },
+    {
+      "topicId": "mt_english_s5_metacognitive_monitoring",
+      "prerequisiteId": "mt_english_s5_reading_strategy_choice",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「阅读策略选择」为「元认知监控」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_metacognitive_monitoring",
+      "prerequisiteId": "mt_english_s5_listening_speaking_plan",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「听说训练计划」支撑「元认知监控」。"
+    },
+    {
+      "topicId": "mt_english_s5_project_based_english",
+      "prerequisiteId": "mt_english_s5_metacognitive_monitoring",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「元认知监控」为「项目式英语学习」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_project_based_english",
+      "prerequisiteId": "mt_english_s5_reading_strategy_choice",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「阅读策略选择」支撑「项目式英语学习」。"
+    },
+    {
+      "topicId": "mt_english_s5_writing_process_reflection",
+      "prerequisiteId": "mt_english_s5_project_based_english",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「项目式英语学习」为「写作过程反思」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_writing_process_reflection",
+      "prerequisiteId": "mt_english_s5_metacognitive_monitoring",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「元认知监控」支撑「写作过程反思」。"
+    },
+    {
+      "topicId": "mt_english_s5_argumentative_reading",
+      "prerequisiteId": "mt_english_s5_listening_inference",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「听力推断」为「阅读议论文」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_discussion_negotiation",
+      "prerequisiteId": "mt_english_s5_argumentative_reading",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「阅读议论文」为「讨论协商」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_discussion_negotiation",
+      "prerequisiteId": "mt_english_s5_listening_inference",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「听力推断」支撑「讨论协商」。"
+    },
+    {
+      "topicId": "mt_english_s5_speech_presentation",
+      "prerequisiteId": "mt_english_s5_discussion_negotiation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「讨论协商」为「演讲陈述」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_speech_presentation",
+      "prerequisiteId": "mt_english_s5_argumentative_reading",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「阅读议论文」支撑「演讲陈述」。"
+    },
+    {
+      "topicId": "mt_english_s5_abridged_literature_reading",
+      "prerequisiteId": "mt_english_s5_speech_presentation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「演讲陈述」为「阅读文学简写」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_abridged_literature_reading",
+      "prerequisiteId": "mt_english_s5_discussion_negotiation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「讨论协商」支撑「阅读文学简写」。"
+    },
+    {
+      "topicId": "mt_english_s5_summary_writing_senior",
+      "prerequisiteId": "mt_english_s5_abridged_literature_reading",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「阅读文学简写」为「概要写作」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_summary_writing_senior",
+      "prerequisiteId": "mt_english_s5_speech_presentation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「演讲陈述」支撑「概要写作」。"
+    },
+    {
+      "topicId": "mt_english_s5_continuation_writing",
+      "prerequisiteId": "mt_english_s5_summary_writing_senior",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「概要写作」为「读后续写」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_continuation_writing",
+      "prerequisiteId": "mt_english_s5_abridged_literature_reading",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「阅读文学简写」支撑「读后续写」。"
+    },
+    {
+      "topicId": "mt_english_s5_practical_writing_senior",
+      "prerequisiteId": "mt_english_s5_continuation_writing",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「读后续写」为「应用文写作」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_practical_writing_senior",
+      "prerequisiteId": "mt_english_s5_summary_writing_senior",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「概要写作」支撑「应用文写作」。"
+    },
+    {
+      "topicId": "mt_english_s5_audiovisual_integration",
+      "prerequisiteId": "mt_english_s5_practical_writing_senior",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「应用文写作」为「视听信息整合」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_audiovisual_integration",
+      "prerequisiteId": "mt_english_s5_continuation_writing",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「读后续写」支撑「视听信息整合」。"
+    },
+    {
+      "topicId": "mt_english_s5_justifying_opinions",
+      "prerequisiteId": "mt_english_s5_audiovisual_integration",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「视听信息整合」为「观点阐释发言」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_justifying_opinions",
+      "prerequisiteId": "mt_english_s5_practical_writing_senior",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「应用文写作」支撑「观点阐释发言」。"
+    },
+    {
+      "topicId": "mt_english_s5_adverbial_clauses_senior",
+      "prerequisiteId": "mt_english_s5_attributive_clause_review",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「定语从句巩固」为「状语从句」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_nominal_clauses",
+      "prerequisiteId": "mt_english_s5_adverbial_clauses_senior",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「状语从句」为「名词性从句」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_nominal_clauses",
+      "prerequisiteId": "mt_english_s5_attributive_clause_review",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「定语从句巩固」支撑「名词性从句」。"
+    },
+    {
+      "topicId": "mt_english_s5_nonfinite_verbs",
+      "prerequisiteId": "mt_english_s5_nominal_clauses",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「名词性从句」为「非谓语动词」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_nonfinite_verbs",
+      "prerequisiteId": "mt_english_s5_adverbial_clauses_senior",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「状语从句」支撑「非谓语动词」。"
+    },
+    {
+      "topicId": "mt_english_s5_word_formation_senior",
+      "prerequisiteId": "mt_english_s5_nonfinite_verbs",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「非谓语动词」为「词汇构词」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_word_formation_senior",
+      "prerequisiteId": "mt_english_s5_nominal_clauses",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「名词性从句」支撑「词汇构词」。"
+    },
+    {
+      "topicId": "mt_english_s5_cohesion_devices",
+      "prerequisiteId": "mt_english_s5_word_formation_senior",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「词汇构词」为「语篇衔接」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_cohesion_devices",
+      "prerequisiteId": "mt_english_s5_nonfinite_verbs",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「非谓语动词」支撑「语篇衔接」。"
+    },
+    {
+      "topicId": "mt_english_s5_subjunctive_mood_intro",
+      "prerequisiteId": "mt_english_s5_cohesion_devices",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「语篇衔接」为「虚拟语气入门」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_subjunctive_mood_intro",
+      "prerequisiteId": "mt_english_s5_word_formation_senior",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「词汇构词」支撑「虚拟语气入门」。"
+    },
+    {
+      "topicId": "mt_english_s5_english_speaking_societies",
+      "prerequisiteId": "mt_english_s5_festival_custom_compare",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「中外节日习俗比较」，再学习「英语国家社会文化」。"
+    },
+    {
+      "topicId": "mt_english_s5_chinese_culture_in_english",
+      "prerequisiteId": "mt_english_s5_english_speaking_societies",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「英语国家社会文化」为「中国文化英语表达」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_chinese_culture_in_english",
+      "prerequisiteId": "mt_english_s5_festival_custom_compare",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中外节日习俗比较」支撑「中国文化英语表达」。"
+    },
+    {
+      "topicId": "mt_english_s5_culture_loaded_words",
+      "prerequisiteId": "mt_english_s5_chinese_culture_in_english",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国文化英语表达」为「文化负载词理解」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_culture_loaded_words",
+      "prerequisiteId": "mt_english_s5_english_speaking_societies",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「英语国家社会文化」支撑「文化负载词理解」。"
+    },
+    {
+      "topicId": "mt_english_s5_intercultural_conflict",
+      "prerequisiteId": "mt_english_s5_culture_loaded_words",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「文化负载词理解」为「跨文化冲突化解」提供准备。"
+    },
+    {
+      "topicId": "mt_english_s5_intercultural_conflict",
+      "prerequisiteId": "mt_english_s5_chinese_culture_in_english",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国文化英语表达」支撑「跨文化冲突化解」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_design_evaluation",
+      "prerequisiteId": "mt_tyjs_s5_design_drawings",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「设计图样」为「设计评价」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_design_general_process",
+      "prerequisiteId": "mt_tyjs_s5_design_evaluation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「设计评价」为「设计的一般过程」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_design_general_process",
+      "prerequisiteId": "mt_tyjs_s5_design_drawings",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「设计图样」支撑「设计的一般过程」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_find_clarify_problem",
+      "prerequisiteId": "mt_tyjs_s5_design_general_process",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「设计的一般过程」为「发现与明确问题」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_find_clarify_problem",
+      "prerequisiteId": "mt_tyjs_s5_design_evaluation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「设计评价」支撑「发现与明确问题」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_material_process",
+      "prerequisiteId": "mt_tyjs_s5_find_clarify_problem",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「发现与明确问题」为「材料与工艺」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_material_process",
+      "prerequisiteId": "mt_tyjs_s5_design_general_process",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「设计的一般过程」支撑「材料与工艺」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_model_making",
+      "prerequisiteId": "mt_tyjs_s5_material_process",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「材料与工艺」为「模型制作」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_model_making",
+      "prerequisiteId": "mt_tyjs_s5_find_clarify_problem",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「发现与明确问题」支撑「模型制作」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_scheme_ideation",
+      "prerequisiteId": "mt_tyjs_s5_model_making",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「模型制作」为「方案构思」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_scheme_ideation",
+      "prerequisiteId": "mt_tyjs_s5_material_process",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「材料与工艺」支撑「方案构思」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_tech_nature_scope",
+      "prerequisiteId": "mt_tyjs_s5_scheme_ideation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「方案构思」为「技术及其性质」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_tech_nature_scope",
+      "prerequisiteId": "mt_tyjs_s5_model_making",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「模型制作」支撑「技术及其性质」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_electronic_control_intro",
+      "prerequisiteId": "mt_tyjs_s5_control_design",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「控制及其设计」为「电子控制入门」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_process_flow_design",
+      "prerequisiteId": "mt_tyjs_s5_electronic_control_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「电子控制入门」为「流程及其设计」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_process_flow_design",
+      "prerequisiteId": "mt_tyjs_s5_control_design",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「控制及其设计」支撑「流程及其设计」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_robot_project",
+      "prerequisiteId": "mt_tyjs_s5_process_flow_design",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「流程及其设计」为「机器人专题」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_robot_project",
+      "prerequisiteId": "mt_tyjs_s5_electronic_control_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「电子控制入门」支撑「机器人专题」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_structure_design",
+      "prerequisiteId": "mt_tyjs_s5_robot_project",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「机器人专题」为「结构及其设计」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_structure_design",
+      "prerequisiteId": "mt_tyjs_s5_process_flow_design",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「流程及其设计」支撑「结构及其设计」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_system_design",
+      "prerequisiteId": "mt_tyjs_s5_structure_design",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「结构及其设计」为「系统及其设计」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_system_design",
+      "prerequisiteId": "mt_tyjs_s5_robot_project",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「机器人专题」支撑「系统及其设计」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_car_drive_maintain",
+      "prerequisiteId": "mt_tyjs_s5_architecture_design",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「建筑及其设计」为「汽车驾驶与保养入门」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_clothing_design",
+      "prerequisiteId": "mt_tyjs_s5_car_drive_maintain",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「汽车驾驶与保养入门」为「服装及其设计」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_clothing_design",
+      "prerequisiteId": "mt_tyjs_s5_architecture_design",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「建筑及其设计」支撑「服装及其设计」。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_tech_testing",
+      "prerequisiteId": "mt_tyjs_s5_clothing_design",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「服装及其设计」为「技术试验」提供准备。"
+    },
+    {
+      "topicId": "mt_tyjs_s5_tech_testing",
+      "prerequisiteId": "mt_tyjs_s5_car_drive_maintain",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「汽车驾驶与保养入门」支撑「技术试验」。"
+    },
+    {
       "topicId": "mt_dl_s4_hemisphere_division",
       "prerequisiteId": "mt_dl_s4_earth_shape_sphere",
       "strength": "soft",
@@ -4496,6 +6062,300 @@
       "prerequisiteId": "mt_dl_s4_local_environment_issues",
       "strength": "soft",
       "reason": "同领域隔项准备：「乡土环境问题」支撑「家乡地理展示」。"
+    },
+    {
+      "topicId": "mt_dl_s5_earth_motion_geo_meaning",
+      "prerequisiteId": "mt_dl_s5_atmosphere_heating_motion",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「大气受热与运动」为「地球运动地理意义」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_landform_shaping_processes",
+      "prerequisiteId": "mt_dl_s5_earth_motion_geo_meaning",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地球运动地理意义」为「地表形态塑造」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_landform_shaping_processes",
+      "prerequisiteId": "mt_dl_s5_atmosphere_heating_motion",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「大气受热与运动」支撑「地表形态塑造」。"
+    },
+    {
+      "topicId": "mt_dl_s5_natural_hazard_causes",
+      "prerequisiteId": "mt_dl_s5_landform_shaping_processes",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地表形态塑造」为「自然灾害成因」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_natural_hazard_causes",
+      "prerequisiteId": "mt_dl_s5_earth_motion_geo_meaning",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地球运动地理意义」支撑「自然灾害成因」。"
+    },
+    {
+      "topicId": "mt_dl_s5_physical_env_differentiation",
+      "prerequisiteId": "mt_dl_s5_natural_hazard_causes",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「自然灾害成因」为「自然地理环境差异性」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_physical_env_differentiation",
+      "prerequisiteId": "mt_dl_s5_landform_shaping_processes",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地表形态塑造」支撑「自然地理环境差异性」。"
+    },
+    {
+      "topicId": "mt_dl_s5_physical_env_integrity",
+      "prerequisiteId": "mt_dl_s5_physical_env_differentiation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「自然地理环境差异性」为「自然地理环境整体性」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_physical_env_integrity",
+      "prerequisiteId": "mt_dl_s5_natural_hazard_causes",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「自然灾害成因」支撑「自然地理环境整体性」。"
+    },
+    {
+      "topicId": "mt_dl_s5_pressure_belts_wind_belts",
+      "prerequisiteId": "mt_dl_s5_physical_env_integrity",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「自然地理环境整体性」为「气压带风带」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_pressure_belts_wind_belts",
+      "prerequisiteId": "mt_dl_s5_physical_env_differentiation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「自然地理环境差异性」支撑「气压带风带」。"
+    },
+    {
+      "topicId": "mt_dl_s5_vegetation_soil_coupling",
+      "prerequisiteId": "mt_dl_s5_pressure_belts_wind_belts",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「气压带风带」为「植被与土壤」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_vegetation_soil_coupling",
+      "prerequisiteId": "mt_dl_s5_physical_env_integrity",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「自然地理环境整体性」支撑「植被与土壤」。"
+    },
+    {
+      "topicId": "mt_dl_s5_water_cycle_ocean_currents",
+      "prerequisiteId": "mt_dl_s5_vegetation_soil_coupling",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「植被与土壤」为「水循环与洋流」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_water_cycle_ocean_currents",
+      "prerequisiteId": "mt_dl_s5_pressure_belts_wind_belts",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「气压带风带」支撑「水循环与洋流」。"
+    },
+    {
+      "topicId": "mt_dl_s5_weather_systems_analysis",
+      "prerequisiteId": "mt_dl_s5_water_cycle_ocean_currents",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「水循环与洋流」为「天气系统」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_weather_systems_analysis",
+      "prerequisiteId": "mt_dl_s5_vegetation_soil_coupling",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「植被与土壤」支撑「天气系统」。"
+    },
+    {
+      "topicId": "mt_dl_s5_industrial_location",
+      "prerequisiteId": "mt_dl_s5_agricultural_location",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「农业区位」为「工业区位」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_man_land_relationship_ideas",
+      "prerequisiteId": "mt_dl_s5_industrial_location",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「工业区位」为「人地关系思想」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_man_land_relationship_ideas",
+      "prerequisiteId": "mt_dl_s5_agricultural_location",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「农业区位」支撑「人地关系思想」。"
+    },
+    {
+      "topicId": "mt_dl_s5_population_distribution_migration",
+      "prerequisiteId": "mt_dl_s5_man_land_relationship_ideas",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「人地关系思想」为「人口分布与迁移」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_population_distribution_migration",
+      "prerequisiteId": "mt_dl_s5_industrial_location",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「工业区位」支撑「人口分布与迁移」。"
+    },
+    {
+      "topicId": "mt_dl_s5_regional_culture_landscape",
+      "prerequisiteId": "mt_dl_s5_population_distribution_migration",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「人口分布与迁移」为「地域文化」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_regional_culture_landscape",
+      "prerequisiteId": "mt_dl_s5_man_land_relationship_ideas",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「人地关系思想」支撑「地域文化」。"
+    },
+    {
+      "topicId": "mt_dl_s5_services_and_transport",
+      "prerequisiteId": "mt_dl_s5_regional_culture_landscape",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地域文化」为「服务业与交通」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_services_and_transport",
+      "prerequisiteId": "mt_dl_s5_population_distribution_migration",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「人口分布与迁移」支撑「服务业与交通」。"
+    },
+    {
+      "topicId": "mt_dl_s5_sustainable_development_geo",
+      "prerequisiteId": "mt_dl_s5_services_and_transport",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「服务业与交通」为「可持续发展」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_sustainable_development_geo",
+      "prerequisiteId": "mt_dl_s5_regional_culture_landscape",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地域文化」支撑「可持续发展」。"
+    },
+    {
+      "topicId": "mt_dl_s5_urbanization_process",
+      "prerequisiteId": "mt_dl_s5_sustainable_development_geo",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「可持续发展」为「城镇化过程」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_urbanization_process",
+      "prerequisiteId": "mt_dl_s5_services_and_transport",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「服务业与交通」支撑「城镇化过程」。"
+    },
+    {
+      "topicId": "mt_dl_s5_geo_info_tech_application",
+      "prerequisiteId": "mt_dl_s5_climate_causes_synthesis",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「气候成因综合」为「地理信息技术应用」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_hydrology_feature_analysis",
+      "prerequisiteId": "mt_dl_s5_geo_info_tech_application",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地理信息技术应用」为「水文特征分析」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_hydrology_feature_analysis",
+      "prerequisiteId": "mt_dl_s5_climate_causes_synthesis",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「气候成因综合」支撑「水文特征分析」。"
+    },
+    {
+      "topicId": "mt_dl_s5_lithosphere_material_cycle",
+      "prerequisiteId": "mt_dl_s5_hydrology_feature_analysis",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「水文特征分析」为「岩石圈物质循环」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_lithosphere_material_cycle",
+      "prerequisiteId": "mt_dl_s5_geo_info_tech_application",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地理信息技术应用」支撑「岩石圈物质循环」。"
+    },
+    {
+      "topicId": "mt_dl_s5_industrial_relocation",
+      "prerequisiteId": "mt_dl_s5_belt_road_geo_perspective",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「一带一路地理视角」为「产业转移」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_interregional_linkages",
+      "prerequisiteId": "mt_dl_s5_industrial_relocation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「产业转移」为「区际联系」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_interregional_linkages",
+      "prerequisiteId": "mt_dl_s5_belt_road_geo_perspective",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「一带一路地理视角」支撑「区际联系」。"
+    },
+    {
+      "topicId": "mt_dl_s5_regional_development_conditions",
+      "prerequisiteId": "mt_dl_s5_interregional_linkages",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「区际联系」为「区域发展条件」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_regional_development_conditions",
+      "prerequisiteId": "mt_dl_s5_industrial_relocation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「产业转移」支撑「区域发展条件」。"
+    },
+    {
+      "topicId": "mt_dl_s5_resource_exhausted_city_transition",
+      "prerequisiteId": "mt_dl_s5_regional_development_conditions",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「区域发展条件」为「资源枯竭型城市转型」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_resource_exhausted_city_transition",
+      "prerequisiteId": "mt_dl_s5_interregional_linkages",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「区际联系」支撑「资源枯竭型城市转型」。"
+    },
+    {
+      "topicId": "mt_dl_s5_energy_security_geo",
+      "prerequisiteId": "mt_dl_s5_cultivated_land_security",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「耕地资源安全」为「能源安全」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_environmental_security",
+      "prerequisiteId": "mt_dl_s5_energy_security_geo",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「能源安全」为「环境安全」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_environmental_security",
+      "prerequisiteId": "mt_dl_s5_cultivated_land_security",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「耕地资源安全」支撑「环境安全」。"
+    },
+    {
+      "topicId": "mt_dl_s5_maritime_territory_security",
+      "prerequisiteId": "mt_dl_s5_environmental_security",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「环境安全」为「海洋国土与安全」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_maritime_territory_security",
+      "prerequisiteId": "mt_dl_s5_energy_security_geo",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「能源安全」支撑「海洋国土与安全」。"
+    },
+    {
+      "topicId": "mt_dl_s5_water_resource_security",
+      "prerequisiteId": "mt_dl_s5_maritime_territory_security",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「海洋国土与安全」为「水资源安全」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s5_water_resource_security",
+      "prerequisiteId": "mt_dl_s5_environmental_security",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「环境安全」支撑「水资源安全」。"
     },
     {
       "topicId": "mt_ls_s4_qin_unification",
@@ -5234,6 +7094,474 @@
       "prerequisiteId": "mt_ls_s4_compare_historical_figures",
       "strength": "soft",
       "reason": "同领域隔项准备：「历史人物比较」支撑「小型史题探究」。"
+    },
+    {
+      "topicId": "mt_ls_s5_late_qing_crisis_exploration",
+      "prerequisiteId": "mt_ls_s5_early_state_qin_han_unity",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「早期国家与秦汉大一统」为「晚清危机与探索」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_liao_song_xia_jin_yuan_plural",
+      "prerequisiteId": "mt_ls_s5_late_qing_crisis_exploration",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「晚清危机与探索」为「辽宋夏金元多元」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_liao_song_xia_jin_yuan_plural",
+      "prerequisiteId": "mt_ls_s5_early_state_qin_han_unity",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「早期国家与秦汉大一统」支撑「辽宋夏金元多元」。"
+    },
+    {
+      "topicId": "mt_ls_s5_ming_qing_transformation",
+      "prerequisiteId": "mt_ls_s5_liao_song_xia_jin_yuan_plural",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「辽宋夏金元多元」为「明清变局」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_ming_qing_transformation",
+      "prerequisiteId": "mt_ls_s5_late_qing_crisis_exploration",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「晚清危机与探索」支撑「明清变局」。"
+    },
+    {
+      "topicId": "mt_ls_s5_new_democratic_revolution_path",
+      "prerequisiteId": "mt_ls_s5_ming_qing_transformation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「明清变局」为「新民主主义革命道路」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_new_democratic_revolution_path",
+      "prerequisiteId": "mt_ls_s5_liao_song_xia_jin_yuan_plural",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「辽宋夏金元多元」支撑「新民主主义革命道路」。"
+    },
+    {
+      "topicId": "mt_ls_s5_new_era_historical_position",
+      "prerequisiteId": "mt_ls_s5_new_democratic_revolution_path",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「新民主主义革命道路」为「新时代历史方位」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_new_era_historical_position",
+      "prerequisiteId": "mt_ls_s5_ming_qing_transformation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「明清变局」支撑「新时代历史方位」。"
+    },
+    {
+      "topicId": "mt_ls_s5_reform_era_new_period",
+      "prerequisiteId": "mt_ls_s5_new_era_historical_position",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「新时代历史方位」为「改革开放新时期」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_reform_era_new_period",
+      "prerequisiteId": "mt_ls_s5_new_democratic_revolution_path",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「新民主主义革命道路」支撑「改革开放新时期」。"
+    },
+    {
+      "topicId": "mt_ls_s5_socialist_revolution_construction",
+      "prerequisiteId": "mt_ls_s5_reform_era_new_period",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「改革开放新时期」为「社会主义革命与建设」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_socialist_revolution_construction",
+      "prerequisiteId": "mt_ls_s5_new_era_historical_position",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「新时代历史方位」支撑「社会主义革命与建设」。"
+    },
+    {
+      "topicId": "mt_ls_s5_wei_jin_sui_tang_institutions",
+      "prerequisiteId": "mt_ls_s5_socialist_revolution_construction",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社会主义革命与建设」为「魏晋至隋唐制度文化」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_wei_jin_sui_tang_institutions",
+      "prerequisiteId": "mt_ls_s5_reform_era_new_period",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「改革开放新时期」支撑「魏晋至隋唐制度文化」。"
+    },
+    {
+      "topicId": "mt_ls_s5_xinhai_republic_transition",
+      "prerequisiteId": "mt_ls_s5_wei_jin_sui_tang_institutions",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「魏晋至隋唐制度文化」为「辛亥革命与民国」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_xinhai_republic_transition",
+      "prerequisiteId": "mt_ls_s5_socialist_revolution_construction",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「社会主义革命与建设」支撑「辛亥革命与民国」。"
+    },
+    {
+      "topicId": "mt_ls_s5_cold_war_to_multipolarity",
+      "prerequisiteId": "mt_ls_s5_ancient_civ_comparative_models",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「古代文明比较」为「冷战与多极化」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_contemporary_global_challenges",
+      "prerequisiteId": "mt_ls_s5_cold_war_to_multipolarity",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「冷战与多极化」为「当代全球挑战」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_contemporary_global_challenges",
+      "prerequisiteId": "mt_ls_s5_ancient_civ_comparative_models",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「古代文明比较」支撑「当代全球挑战」。"
+    },
+    {
+      "topicId": "mt_ls_s5_industrial_rev_capitalism",
+      "prerequisiteId": "mt_ls_s5_contemporary_global_challenges",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「当代全球挑战」为「工业革命与资本主义」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_industrial_rev_capitalism",
+      "prerequisiteId": "mt_ls_s5_cold_war_to_multipolarity",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「冷战与多极化」支撑「工业革命与资本主义」。"
+    },
+    {
+      "topicId": "mt_ls_s5_medieval_world_systems",
+      "prerequisiteId": "mt_ls_s5_industrial_rev_capitalism",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「工业革命与资本主义」为「中古世界体系」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_medieval_world_systems",
+      "prerequisiteId": "mt_ls_s5_contemporary_global_challenges",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「当代全球挑战」支撑「中古世界体系」。"
+    },
+    {
+      "topicId": "mt_ls_s5_socialist_movement_russian_rev",
+      "prerequisiteId": "mt_ls_s5_medieval_world_systems",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中古世界体系」为「社会主义运动与俄国革命」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_socialist_movement_russian_rev",
+      "prerequisiteId": "mt_ls_s5_industrial_rev_capitalism",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「工业革命与资本主义」支撑「社会主义运动与俄国革命」。"
+    },
+    {
+      "topicId": "mt_ls_s5_two_world_wars_order",
+      "prerequisiteId": "mt_ls_s5_socialist_movement_russian_rev",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社会主义运动与俄国革命」为「两次世界大战与秩序」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_two_world_wars_order",
+      "prerequisiteId": "mt_ls_s5_medieval_world_systems",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中古世界体系」支撑「两次世界大战与秩序」。"
+    },
+    {
+      "topicId": "mt_ls_s5_west_rise_colonialism_sources",
+      "prerequisiteId": "mt_ls_s5_two_world_wars_order",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「两次世界大战与秩序」为「西方兴起与殖民」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_west_rise_colonialism_sources",
+      "prerequisiteId": "mt_ls_s5_socialist_movement_russian_rev",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「社会主义运动与俄国革命」支撑「西方兴起与殖民」。"
+    },
+    {
+      "topicId": "mt_ls_s5_grassroots_governance_history",
+      "prerequisiteId": "mt_ls_s5_ancient_exam_and_law",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国古代选官与法治」为「基层治理历史」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_intl_law_and_sovereignty",
+      "prerequisiteId": "mt_ls_s5_grassroots_governance_history",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「基层治理历史」为「国际法与主权」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_intl_law_and_sovereignty",
+      "prerequisiteId": "mt_ls_s5_ancient_exam_and_law",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国古代选官与法治」支撑「国际法与主权」。"
+    },
+    {
+      "topicId": "mt_ls_s5_modern_political_systems_compare",
+      "prerequisiteId": "mt_ls_s5_intl_law_and_sovereignty",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「国际法与主权」为「近代政治体制比较」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_modern_political_systems_compare",
+      "prerequisiteId": "mt_ls_s5_grassroots_governance_history",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「基层治理历史」支撑「近代政治体制比较」。"
+    },
+    {
+      "topicId": "mt_ls_s5_modern_state_governance",
+      "prerequisiteId": "mt_ls_s5_modern_political_systems_compare",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「近代政治体制比较」为「现代国家治理」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_modern_state_governance",
+      "prerequisiteId": "mt_ls_s5_intl_law_and_sovereignty",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「国际法与主权」支撑「现代国家治理」。"
+    },
+    {
+      "topicId": "mt_ls_s5_everyday_life_change",
+      "prerequisiteId": "mt_ls_s5_agrarian_and_commerce_ancient",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「古代农耕与工商业」为「日常生活变迁」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_industrialization_urbanization_hist",
+      "prerequisiteId": "mt_ls_s5_everyday_life_change",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「日常生活变迁」为「工业化与城市化」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_industrialization_urbanization_hist",
+      "prerequisiteId": "mt_ls_s5_agrarian_and_commerce_ancient",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「古代农耕与工商业」支撑「工业化与城市化」。"
+    },
+    {
+      "topicId": "mt_ls_s5_modern_economic_structure_shift",
+      "prerequisiteId": "mt_ls_s5_industrialization_urbanization_hist",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「工业化与城市化」为「近代经济结构变动」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_modern_economic_structure_shift",
+      "prerequisiteId": "mt_ls_s5_everyday_life_change",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「日常生活变迁」支撑「近代经济结构变动」。"
+    },
+    {
+      "topicId": "mt_ls_s5_social_security_history",
+      "prerequisiteId": "mt_ls_s5_modern_economic_structure_shift",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「近代经济结构变动」为「社会保障史」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_social_security_history",
+      "prerequisiteId": "mt_ls_s5_industrialization_urbanization_hist",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「工业化与城市化」支撑「社会保障史」。"
+    },
+    {
+      "topicId": "mt_ls_s5_global_cultural_interaction",
+      "prerequisiteId": "mt_ls_s5_chinese_civ_external_exchange",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中华文明对外交流」为「全球文化互动」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_modern_western_learning_east",
+      "prerequisiteId": "mt_ls_s5_global_cultural_interaction",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「全球文化互动」为「近代西学东渐」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_modern_western_learning_east",
+      "prerequisiteId": "mt_ls_s5_chinese_civ_external_exchange",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中华文明对外交流」支撑「近代西学东渐」。"
+    },
+    {
+      "topicId": "mt_ls_s5_world_religion_diffusion",
+      "prerequisiteId": "mt_ls_s5_modern_western_learning_east",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「近代西学东渐」为「世界宗教传播」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s5_world_religion_diffusion",
+      "prerequisiteId": "mt_ls_s5_global_cultural_interaction",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「全球文化互动」支撑「世界宗教传播」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_ct_project",
+      "prerequisiteId": "mt_xxjs_s5_hs_algo_describe",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「算法描述」为「计算思维项目」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_data_encoding",
+      "prerequisiteId": "mt_xxjs_s5_hs_ct_project",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「计算思维项目」为「数据编码」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_data_encoding",
+      "prerequisiteId": "mt_xxjs_s5_hs_algo_describe",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「算法描述」支撑「数据编码」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_oss_license",
+      "prerequisiteId": "mt_xxjs_s5_hs_data_encoding",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「数据编码」为「开源与许可」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_oss_license",
+      "prerequisiteId": "mt_xxjs_s5_hs_ct_project",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「计算思维项目」支撑「开源与许可」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_prog_debug",
+      "prerequisiteId": "mt_xxjs_s5_hs_oss_license",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「开源与许可」为「程序调试」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_prog_debug",
+      "prerequisiteId": "mt_xxjs_s5_hs_data_encoding",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「数据编码」支撑「程序调试」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_prog_fundamentals",
+      "prerequisiteId": "mt_xxjs_s5_hs_prog_debug",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「程序调试」为「程序设计基础」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_prog_fundamentals",
+      "prerequisiteId": "mt_xxjs_s5_hs_oss_license",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「开源与许可」支撑「程序设计基础」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_info_sec_ethics",
+      "prerequisiteId": "mt_xxjs_s5_hs_digital_society",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「数字化社会」为「信息安全与伦理」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_is_components",
+      "prerequisiteId": "mt_xxjs_s5_hs_info_sec_ethics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「信息安全与伦理」为「信息系统组成」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_is_components",
+      "prerequisiteId": "mt_xxjs_s5_hs_digital_society",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「数字化社会」支撑「信息系统组成」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_pip_law",
+      "prerequisiteId": "mt_xxjs_s5_hs_is_components",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「信息系统组成」为「个人信息保护法规」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_pip_law",
+      "prerequisiteId": "mt_xxjs_s5_hs_info_sec_ethics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「信息安全与伦理」支撑「个人信息保护法规」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_linear_struct",
+      "prerequisiteId": "mt_xxjs_s5_hs_db_query_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「数据库基础」为「线性结构」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_search_sort_impl",
+      "prerequisiteId": "mt_xxjs_s5_hs_linear_struct",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「线性结构」为「查找与排序实现」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_search_sort_impl",
+      "prerequisiteId": "mt_xxjs_s5_hs_db_query_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「数据库基础」支撑「查找与排序实现」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_tree_graph_view",
+      "prerequisiteId": "mt_xxjs_s5_hs_search_sort_impl",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「查找与排序实现」为「树与图直观」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_tree_graph_view",
+      "prerequisiteId": "mt_xxjs_s5_hs_linear_struct",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「线性结构」支撑「树与图直观」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_net_architecture",
+      "prerequisiteId": "mt_xxjs_s5_hs_iot_entry",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「物联网入门」为「网络体系结构」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_proto_address",
+      "prerequisiteId": "mt_xxjs_s5_hs_net_architecture",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「网络体系结构」为「协议与地址」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_proto_address",
+      "prerequisiteId": "mt_xxjs_s5_hs_iot_entry",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「物联网入门」支撑「协议与地址」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_web_api_client",
+      "prerequisiteId": "mt_xxjs_s5_hs_proto_address",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「协议与地址」为「网页与API」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_web_api_client",
+      "prerequisiteId": "mt_xxjs_s5_hs_net_architecture",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「网络体系结构」支撑「网页与API」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_ai_ethics_norm",
+      "prerequisiteId": "mt_xxjs_s5_hs_ai_app_cases",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「智能应用」为「人工智能伦理」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_ml_intuition",
+      "prerequisiteId": "mt_xxjs_s5_hs_ai_ethics_norm",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「人工智能伦理」为「机器学习直观」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_ml_intuition",
+      "prerequisiteId": "mt_xxjs_s5_hs_ai_app_cases",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「智能应用」支撑「机器学习直观」。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_train_test_sets",
+      "prerequisiteId": "mt_xxjs_s5_hs_ml_intuition",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「机器学习直观」为「训练与测试集」提供准备。"
+    },
+    {
+      "topicId": "mt_xxjs_s5_hs_train_test_sets",
+      "prerequisiteId": "mt_xxjs_s5_hs_ai_ethics_norm",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「人工智能伦理」支撑「训练与测试集」。"
     },
     {
       "topicId": "mt_it_s1_digital_device_parts",
@@ -6860,6 +9188,78 @@
       "prerequisiteId": "mt_ld_s4_labor_reflection_portfolio",
       "strength": "soft",
       "reason": "同领域隔项准备：「劳动档案」支撑「公益项目设计」。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_home_bookkeeping",
+      "prerequisiteId": "mt_ld_s5_hs_healthy_meal_plan",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「健康饮食规划」为「家庭财务记账」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_independent_living",
+      "prerequisiteId": "mt_ld_s5_hs_home_bookkeeping",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「家庭财务记账」为「独立生活管理」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_independent_living",
+      "prerequisiteId": "mt_ld_s5_hs_healthy_meal_plan",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「健康饮食规划」支撑「独立生活管理」。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_modern_agri_cognition",
+      "prerequisiteId": "mt_ld_s5_hs_campus_grow_raise",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「校园种植或养殖项目」为「现代农业认知」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_traditional_craft_make",
+      "prerequisiteId": "mt_ld_s5_hs_modern_agri_cognition",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「现代农业认知」为「传统工艺制作」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_traditional_craft_make",
+      "prerequisiteId": "mt_ld_s5_hs_campus_grow_raise",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「校园种植或养殖项目」支撑「传统工艺制作」。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_community_volunteer",
+      "prerequisiteId": "mt_ld_s5_hs_career_internship",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「职业体验见习」为「社区志愿服务」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_public_project_org",
+      "prerequisiteId": "mt_ld_s5_hs_community_volunteer",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社区志愿服务」为「公益项目组织」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_public_project_org",
+      "prerequisiteId": "mt_ld_s5_hs_career_internship",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「职业体验见习」支撑「公益项目组织」。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_labor_career_plan",
+      "prerequisiteId": "mt_ld_s5_hs_innovation_make",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「创新制作项目」为「劳动与职业规划」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_labor_safety_law",
+      "prerequisiteId": "mt_ld_s5_hs_labor_career_plan",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「劳动与职业规划」为「劳动安全与法规」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s5_hs_labor_safety_law",
+      "prerequisiteId": "mt_ld_s5_hs_innovation_make",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「创新制作项目」支撑「劳动安全与法规」。"
     },
     {
       "topicId": "mt_math_s1_add_sub_within_20",
@@ -9082,6 +11482,420 @@
       "reason": "同领域隔项准备：「数学建模入门」支撑「探究性课题」。"
     },
     {
+      "topicId": "mt_math_s5_logic_connectives",
+      "prerequisiteId": "mt_math_s5_inequality_properties",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「不等式的性质」为「常用逻辑用语」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_set_notation",
+      "prerequisiteId": "mt_math_s5_logic_connectives",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「常用逻辑用语」为「集合的表示」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_set_notation",
+      "prerequisiteId": "mt_math_s5_inequality_properties",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「不等式的性质」支撑「集合的表示」。"
+    },
+    {
+      "topicId": "mt_math_s5_set_operations",
+      "prerequisiteId": "mt_math_s5_set_notation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「集合的表示」为「集合的交并补」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_set_operations",
+      "prerequisiteId": "mt_math_s5_logic_connectives",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「常用逻辑用语」支撑「集合的交并补」。"
+    },
+    {
+      "topicId": "mt_math_s5_function_concept_graph",
+      "prerequisiteId": "mt_math_s5_exponential_function",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「指数函数」为「函数概念与图像」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_function_monotonicity",
+      "prerequisiteId": "mt_math_s5_function_concept_graph",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「函数概念与图像」为「函数的单调性」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_function_monotonicity",
+      "prerequisiteId": "mt_math_s5_exponential_function",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「指数函数」支撑「函数的单调性」。"
+    },
+    {
+      "topicId": "mt_math_s5_function_parity",
+      "prerequisiteId": "mt_math_s5_function_monotonicity",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「函数的单调性」为「函数的奇偶性」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_function_parity",
+      "prerequisiteId": "mt_math_s5_function_concept_graph",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「函数概念与图像」支撑「函数的奇偶性」。"
+    },
+    {
+      "topicId": "mt_math_s5_logarithmic_function",
+      "prerequisiteId": "mt_math_s5_function_parity",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「函数的奇偶性」为「对数函数」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_logarithmic_function",
+      "prerequisiteId": "mt_math_s5_function_monotonicity",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「函数的单调性」支撑「对数函数」。"
+    },
+    {
+      "topicId": "mt_math_s5_power_function",
+      "prerequisiteId": "mt_math_s5_logarithmic_function",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「对数函数」为「幂函数」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_power_function",
+      "prerequisiteId": "mt_math_s5_function_parity",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「函数的奇偶性」支撑「幂函数」。"
+    },
+    {
+      "topicId": "mt_math_s5_function_zeros",
+      "prerequisiteId": "mt_math_s5_power_function",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「幂函数」为「函数的零点」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_function_zeros",
+      "prerequisiteId": "mt_math_s5_logarithmic_function",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「对数函数」支撑「函数的零点」。"
+    },
+    {
+      "topicId": "mt_math_s5_arithmetic_sequence",
+      "prerequisiteId": "mt_math_s5_function_zeros",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「函数的零点」为「等差数列」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_arithmetic_sequence",
+      "prerequisiteId": "mt_math_s5_power_function",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「幂函数」支撑「等差数列」。"
+    },
+    {
+      "topicId": "mt_math_s5_geometric_sequence",
+      "prerequisiteId": "mt_math_s5_arithmetic_sequence",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「等差数列」为「等比数列」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_geometric_sequence",
+      "prerequisiteId": "mt_math_s5_function_zeros",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「函数的零点」支撑「等比数列」。"
+    },
+    {
+      "topicId": "mt_math_s5_sequence_concept",
+      "prerequisiteId": "mt_math_s5_geometric_sequence",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「等比数列」为「数列的概念」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_sequence_concept",
+      "prerequisiteId": "mt_math_s5_arithmetic_sequence",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「等差数列」支撑「数列的概念」。"
+    },
+    {
+      "topicId": "mt_math_s5_sine_cosine_graphs",
+      "prerequisiteId": "mt_math_s5_sequence_concept",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「数列的概念」为「正余弦图像」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_sine_cosine_graphs",
+      "prerequisiteId": "mt_math_s5_geometric_sequence",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「等比数列」支撑「正余弦图像」。"
+    },
+    {
+      "topicId": "mt_math_s5_solving_triangles",
+      "prerequisiteId": "mt_math_s5_sine_cosine_graphs",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「正余弦图像」为「解三角形」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_solving_triangles",
+      "prerequisiteId": "mt_math_s5_sequence_concept",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「数列的概念」支撑「解三角形」。"
+    },
+    {
+      "topicId": "mt_math_s5_trig_definition",
+      "prerequisiteId": "mt_math_s5_solving_triangles",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「解三角形」为「三角函数定义」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_trig_definition",
+      "prerequisiteId": "mt_math_s5_sine_cosine_graphs",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「正余弦图像」支撑「三角函数定义」。"
+    },
+    {
+      "topicId": "mt_math_s5_trig_identities",
+      "prerequisiteId": "mt_math_s5_trig_definition",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「三角函数定义」为「三角恒等变换」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_trig_identities",
+      "prerequisiteId": "mt_math_s5_solving_triangles",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「解三角形」支撑「三角恒等变换」。"
+    },
+    {
+      "topicId": "mt_math_s5_trig_reduction_formulas",
+      "prerequisiteId": "mt_math_s5_trig_identities",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「三角恒等变换」为「诱导公式」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_trig_reduction_formulas",
+      "prerequisiteId": "mt_math_s5_trig_definition",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「三角函数定义」支撑「诱导公式」。"
+    },
+    {
+      "topicId": "mt_math_s5_derivative_extrema",
+      "prerequisiteId": "mt_math_s5_trig_reduction_formulas",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「诱导公式」为「导数与极值」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_derivative_extrema",
+      "prerequisiteId": "mt_math_s5_trig_identities",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「三角恒等变换」支撑「导数与极值」。"
+    },
+    {
+      "topicId": "mt_math_s5_derivative_intuition",
+      "prerequisiteId": "mt_math_s5_derivative_extrema",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「导数与极值」为「导数的直观」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_derivative_intuition",
+      "prerequisiteId": "mt_math_s5_trig_reduction_formulas",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「诱导公式」支撑「导数的直观」。"
+    },
+    {
+      "topicId": "mt_math_s5_derivative_rules",
+      "prerequisiteId": "mt_math_s5_derivative_intuition",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「导数的直观」为「导数的运算」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_derivative_rules",
+      "prerequisiteId": "mt_math_s5_derivative_extrema",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「导数与极值」支撑「导数的运算」。"
+    },
+    {
+      "topicId": "mt_math_s5_space_incidence",
+      "prerequisiteId": "mt_math_s5_solid_geometry_views",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「立体几何直观」为「空间点线面位置」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_line_plane_parallel",
+      "prerequisiteId": "mt_math_s5_space_incidence",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「空间点线面位置」为「线面平行」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_line_plane_parallel",
+      "prerequisiteId": "mt_math_s5_solid_geometry_views",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「立体几何直观」支撑「线面平行」。"
+    },
+    {
+      "topicId": "mt_math_s5_line_plane_perpendicular",
+      "prerequisiteId": "mt_math_s5_line_plane_parallel",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「线面平行」为「线面垂直」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_line_plane_perpendicular",
+      "prerequisiteId": "mt_math_s5_space_incidence",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「空间点线面位置」支撑「线面垂直」。"
+    },
+    {
+      "topicId": "mt_math_s5_circle_equations",
+      "prerequisiteId": "mt_math_s5_line_plane_perpendicular",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「线面垂直」为「圆的方程」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_circle_equations",
+      "prerequisiteId": "mt_math_s5_line_plane_parallel",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「线面平行」支撑「圆的方程」。"
+    },
+    {
+      "topicId": "mt_math_s5_complex_numbers",
+      "prerequisiteId": "mt_math_s5_circle_equations",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「圆的方程」为「复数」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_complex_numbers",
+      "prerequisiteId": "mt_math_s5_line_plane_perpendicular",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「线面垂直」支撑「复数」。"
+    },
+    {
+      "topicId": "mt_math_s5_line_equations",
+      "prerequisiteId": "mt_math_s5_complex_numbers",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「复数」为「直线的方程」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_line_equations",
+      "prerequisiteId": "mt_math_s5_circle_equations",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「圆的方程」支撑「直线的方程」。"
+    },
+    {
+      "topicId": "mt_math_s5_planar_dot_product",
+      "prerequisiteId": "mt_math_s5_line_equations",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「直线的方程」为「平面向量数量积」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_planar_dot_product",
+      "prerequisiteId": "mt_math_s5_complex_numbers",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「复数」支撑「平面向量数量积」。"
+    },
+    {
+      "topicId": "mt_math_s5_space_vectors",
+      "prerequisiteId": "mt_math_s5_planar_dot_product",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「平面向量数量积」为「空间向量」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_space_vectors",
+      "prerequisiteId": "mt_math_s5_line_equations",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「直线的方程」支撑「空间向量」。"
+    },
+    {
+      "topicId": "mt_math_s5_ellipse",
+      "prerequisiteId": "mt_math_s5_space_vectors",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「空间向量」，再学习「椭圆」。"
+    },
+    {
+      "topicId": "mt_math_s5_ellipse",
+      "prerequisiteId": "mt_math_s5_planar_dot_product",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「平面向量数量积」支撑「椭圆」。"
+    },
+    {
+      "topicId": "mt_math_s5_hyperbola",
+      "prerequisiteId": "mt_math_s5_ellipse",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「椭圆」为「双曲线」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_hyperbola",
+      "prerequisiteId": "mt_math_s5_space_vectors",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「空间向量」支撑「双曲线」。"
+    },
+    {
+      "topicId": "mt_math_s5_parabola",
+      "prerequisiteId": "mt_math_s5_hyperbola",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「双曲线」为「抛物线」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_parabola",
+      "prerequisiteId": "mt_math_s5_ellipse",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「椭圆」支撑「抛物线」。"
+    },
+    {
+      "topicId": "mt_math_s5_discrete_random_variable",
+      "prerequisiteId": "mt_math_s5_conditional_probability",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「条件概率」为「离散随机变量」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_linear_regression",
+      "prerequisiteId": "mt_math_s5_discrete_random_variable",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「离散随机变量」为「线性回归」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_linear_regression",
+      "prerequisiteId": "mt_math_s5_conditional_probability",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「条件概率」支撑「线性回归」。"
+    },
+    {
+      "topicId": "mt_math_s5_normal_curve_intuition",
+      "prerequisiteId": "mt_math_s5_linear_regression",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「线性回归」为「正态分布直观」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_normal_curve_intuition",
+      "prerequisiteId": "mt_math_s5_discrete_random_variable",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「离散随机变量」支撑「正态分布直观」。"
+    },
+    {
+      "topicId": "mt_math_s5_sample_estimate_population",
+      "prerequisiteId": "mt_math_s5_normal_curve_intuition",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「正态分布直观」为「用样本估计总体」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_sample_estimate_population",
+      "prerequisiteId": "mt_math_s5_linear_regression",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「线性回归」支撑「用样本估计总体」。"
+    },
+    {
+      "topicId": "mt_math_s5_sampling_methods",
+      "prerequisiteId": "mt_math_s5_sample_estimate_population",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「用样本估计总体」为「随机抽样深化」提供准备。"
+    },
+    {
+      "topicId": "mt_math_s5_sampling_methods",
+      "prerequisiteId": "mt_math_s5_normal_curve_intuition",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「正态分布直观」支撑「随机抽样深化」。"
+    },
+    {
+      "topicId": "mt_math_s5_stats_modeling_task",
+      "prerequisiteId": "mt_math_s5_function_modeling_task",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「函数建模活动」为「统计建模活动」提供准备。"
+    },
+    {
       "topicId": "mt_df_s1_wash_hands_habit",
       "prerequisiteId": "mt_df_s1_tooth_brushing",
       "strength": "soft",
@@ -10958,6 +13772,870 @@
       "prerequisiteId": "mt_ty_s3_resilience_setback",
       "strength": "soft",
       "reason": "同领域隔项准备：「抗挫能力」支撑「体育精神反思」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_emerging_sports",
+      "prerequisiteId": "mt_ty_s5_hs_ball_tactics_apply",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「球类战术运用」为「新兴运动项目」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_gym_aerobics_combo",
+      "prerequisiteId": "mt_ty_s5_hs_emerging_sports",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「新兴运动项目」为「体操或健美操组合」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_gym_aerobics_combo",
+      "prerequisiteId": "mt_ty_s5_hs_ball_tactics_apply",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「球类战术运用」支撑「体操或健美操组合」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_swim_snow_cognition",
+      "prerequisiteId": "mt_ty_s5_hs_gym_aerobics_combo",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「体操或健美操组合」为「游泳或冰雪可选认知」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_swim_snow_cognition",
+      "prerequisiteId": "mt_ty_s5_hs_emerging_sports",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「新兴运动项目」支撑「游泳或冰雪可选认知」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_track_event_refine",
+      "prerequisiteId": "mt_ty_s5_hs_swim_snow_cognition",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「游泳或冰雪可选认知」为「田径专项提高」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_track_event_refine",
+      "prerequisiteId": "mt_ty_s5_hs_gym_aerobics_combo",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「体操或健美操组合」支撑「田径专项提高」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_wushu_routine_refine",
+      "prerequisiteId": "mt_ty_s5_hs_track_event_refine",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「田径专项提高」为「武术套路提高」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_wushu_routine_refine",
+      "prerequisiteId": "mt_ty_s5_hs_swim_snow_cognition",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「游泳或冰雪可选认知」支撑「武术套路提高」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_personal_exercise_plan",
+      "prerequisiteId": "mt_ty_s5_hs_fitness_test_read",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「体能测评解读」为「个性化锻炼计划」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_speed_agility_drill",
+      "prerequisiteId": "mt_ty_s5_hs_personal_exercise_plan",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「个性化锻炼计划」为「速度灵敏训练」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_speed_agility_drill",
+      "prerequisiteId": "mt_ty_s5_hs_fitness_test_read",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「体能测评解读」支撑「速度灵敏训练」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_strength_endurance",
+      "prerequisiteId": "mt_ty_s5_hs_speed_agility_drill",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「速度灵敏训练」为「力量耐力训练」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_strength_endurance",
+      "prerequisiteId": "mt_ty_s5_hs_personal_exercise_plan",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「个性化锻炼计划」支撑「力量耐力训练」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_cpr_practice_cognition",
+      "prerequisiteId": "mt_ty_s5_hs_avoid_addictive_behavior",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「远离成瘾行为」为「心肺复苏实操认知」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_mental_health_sport",
+      "prerequisiteId": "mt_ty_s5_hs_cpr_practice_cognition",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「心肺复苏实操认知」为「心理健康与运动」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_mental_health_sport",
+      "prerequisiteId": "mt_ty_s5_hs_avoid_addictive_behavior",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「远离成瘾行为」支撑「心理健康与运动」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_nutrition_weight_mgmt",
+      "prerequisiteId": "mt_ty_s5_hs_mental_health_sport",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「心理健康与运动」为「营养与体重管理」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_nutrition_weight_mgmt",
+      "prerequisiteId": "mt_ty_s5_hs_cpr_practice_cognition",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「心肺复苏实操认知」支撑「营养与体重管理」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_sport_injury_care",
+      "prerequisiteId": "mt_ty_s5_hs_nutrition_weight_mgmt",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「营养与体重管理」为「运动损伤处理」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_sport_injury_care",
+      "prerequisiteId": "mt_ty_s5_hs_mental_health_sport",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「心理健康与运动」支撑「运动损伤处理」。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_spirit_career_link",
+      "prerequisiteId": "mt_ty_s5_hs_rules_fair_play",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「竞赛规则与公平」为「体育精神与生涯」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_team_role_lead",
+      "prerequisiteId": "mt_ty_s5_hs_spirit_career_link",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「体育精神与生涯」为「团队角色与领导」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s5_hs_team_role_lead",
+      "prerequisiteId": "mt_ty_s5_hs_rules_fair_play",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「竞赛规则与公平」支撑「团队角色与领导」。"
+    },
+    {
+      "topicId": "mt_wl_s5_force_composition",
+      "prerequisiteId": "mt_wl_s5_curvilinear_motion",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「曲线运动」为「力的合成与分解」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_free_fall",
+      "prerequisiteId": "mt_wl_s5_force_composition",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「力的合成与分解」为「自由落体」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_free_fall",
+      "prerequisiteId": "mt_wl_s5_curvilinear_motion",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「曲线运动」支撑「自由落体」。"
+    },
+    {
+      "topicId": "mt_wl_s5_newton_laws_apply",
+      "prerequisiteId": "mt_wl_s5_free_fall",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「自由落体」为「牛顿定律应用」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_newton_laws_apply",
+      "prerequisiteId": "mt_wl_s5_force_composition",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「力的合成与分解」支撑「牛顿定律应用」。"
+    },
+    {
+      "topicId": "mt_wl_s5_overweight_weightless",
+      "prerequisiteId": "mt_wl_s5_newton_laws_apply",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「牛顿定律应用」为「超重与失重」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_overweight_weightless",
+      "prerequisiteId": "mt_wl_s5_free_fall",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「自由落体」支撑「超重与失重」。"
+    },
+    {
+      "topicId": "mt_wl_s5_particle_and_frame",
+      "prerequisiteId": "mt_wl_s5_overweight_weightless",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「超重与失重」为「质点与参考系」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_particle_and_frame",
+      "prerequisiteId": "mt_wl_s5_newton_laws_apply",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「牛顿定律应用」支撑「质点与参考系」。"
+    },
+    {
+      "topicId": "mt_wl_s5_projectile_motion",
+      "prerequisiteId": "mt_wl_s5_particle_and_frame",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「质点与参考系」为「平抛运动」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_projectile_motion",
+      "prerequisiteId": "mt_wl_s5_overweight_weightless",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「超重与失重」支撑「平抛运动」。"
+    },
+    {
+      "topicId": "mt_wl_s5_uniform_accel_motion",
+      "prerequisiteId": "mt_wl_s5_projectile_motion",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「平抛运动」为「匀变速直线运动」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_uniform_accel_motion",
+      "prerequisiteId": "mt_wl_s5_particle_and_frame",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「质点与参考系」支撑「匀变速直线运动」。"
+    },
+    {
+      "topicId": "mt_wl_s5_gravity_law",
+      "prerequisiteId": "mt_wl_s5_uniform_accel_motion",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「匀变速直线运动」为「万有引力定律」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_gravity_law",
+      "prerequisiteId": "mt_wl_s5_projectile_motion",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「平抛运动」支撑「万有引力定律」。"
+    },
+    {
+      "topicId": "mt_wl_s5_satellite_motion",
+      "prerequisiteId": "mt_wl_s5_gravity_law",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「万有引力定律」为「卫星运动」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_satellite_motion",
+      "prerequisiteId": "mt_wl_s5_uniform_accel_motion",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「匀变速直线运动」支撑「卫星运动」。"
+    },
+    {
+      "topicId": "mt_wl_s5_uniform_circular",
+      "prerequisiteId": "mt_wl_s5_satellite_motion",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「卫星运动」为「匀速圆周运动」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_uniform_circular",
+      "prerequisiteId": "mt_wl_s5_gravity_law",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「万有引力定律」支撑「匀速圆周运动」。"
+    },
+    {
+      "topicId": "mt_wl_s5_kinetic_energy_theorem",
+      "prerequisiteId": "mt_wl_s5_uniform_circular",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「匀速圆周运动」为「动能定理」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_kinetic_energy_theorem",
+      "prerequisiteId": "mt_wl_s5_satellite_motion",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「卫星运动」支撑「动能定理」。"
+    },
+    {
+      "topicId": "mt_wl_s5_mech_energy_conserv",
+      "prerequisiteId": "mt_wl_s5_kinetic_energy_theorem",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「动能定理」为「机械能守恒」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_mech_energy_conserv",
+      "prerequisiteId": "mt_wl_s5_uniform_circular",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「匀速圆周运动」支撑「机械能守恒」。"
+    },
+    {
+      "topicId": "mt_wl_s5_work_and_power",
+      "prerequisiteId": "mt_wl_s5_mech_energy_conserv",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「机械能守恒」为「功和功率」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_work_and_power",
+      "prerequisiteId": "mt_wl_s5_kinetic_energy_theorem",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「动能定理」支撑「功和功率」。"
+    },
+    {
+      "topicId": "mt_wl_s5_ampere_force",
+      "prerequisiteId": "mt_wl_s5_alternating_current",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「交变电流」为「安培力」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_capacitor",
+      "prerequisiteId": "mt_wl_s5_ampere_force",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「安培力」为「电容器」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_capacitor",
+      "prerequisiteId": "mt_wl_s5_alternating_current",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「交变电流」支撑「电容器」。"
+    },
+    {
+      "topicId": "mt_wl_s5_charge_coulomb",
+      "prerequisiteId": "mt_wl_s5_capacitor",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「电容器」为「电荷与库仑定律」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_charge_coulomb",
+      "prerequisiteId": "mt_wl_s5_ampere_force",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「安培力」支撑「电荷与库仑定律」。"
+    },
+    {
+      "topicId": "mt_wl_s5_electric_field_strength",
+      "prerequisiteId": "mt_wl_s5_charge_coulomb",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「电荷与库仑定律」为「电场强度」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_electric_field_strength",
+      "prerequisiteId": "mt_wl_s5_capacitor",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「电容器」支撑「电场强度」。"
+    },
+    {
+      "topicId": "mt_wl_s5_electromagnetic_induction",
+      "prerequisiteId": "mt_wl_s5_electric_field_strength",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「电场强度」为「电磁感应」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_electromagnetic_induction",
+      "prerequisiteId": "mt_wl_s5_charge_coulomb",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「电荷与库仑定律」支撑「电磁感应」。"
+    },
+    {
+      "topicId": "mt_wl_s5_lorentz_force",
+      "prerequisiteId": "mt_wl_s5_electromagnetic_induction",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「电磁感应」为「洛伦兹力」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_lorentz_force",
+      "prerequisiteId": "mt_wl_s5_electric_field_strength",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「电场强度」支撑「洛伦兹力」。"
+    },
+    {
+      "topicId": "mt_wl_s5_magnetic_field",
+      "prerequisiteId": "mt_wl_s5_lorentz_force",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「洛伦兹力」为「磁场」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_magnetic_field",
+      "prerequisiteId": "mt_wl_s5_electromagnetic_induction",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「电磁感应」支撑「磁场」。"
+    },
+    {
+      "topicId": "mt_wl_s5_potential_and_voltage",
+      "prerequisiteId": "mt_wl_s5_magnetic_field",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「磁场」为「电势与电势差」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_potential_and_voltage",
+      "prerequisiteId": "mt_wl_s5_lorentz_force",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「洛伦兹力」支撑「电势与电势差」。"
+    },
+    {
+      "topicId": "mt_wl_s5_resistance_law",
+      "prerequisiteId": "mt_wl_s5_potential_and_voltage",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「电势与电势差」为「电阻定律」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_resistance_law",
+      "prerequisiteId": "mt_wl_s5_magnetic_field",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「磁场」支撑「电阻定律」。"
+    },
+    {
+      "topicId": "mt_wl_s5_series_parallel",
+      "prerequisiteId": "mt_wl_s5_resistance_law",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「电阻定律」为「串并联电路」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_series_parallel",
+      "prerequisiteId": "mt_wl_s5_potential_and_voltage",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「电势与电势差」支撑「串并联电路」。"
+    },
+    {
+      "topicId": "mt_wl_s5_steady_current",
+      "prerequisiteId": "mt_wl_s5_series_parallel",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「串并联电路」为「恒定电流」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_steady_current",
+      "prerequisiteId": "mt_wl_s5_resistance_law",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「电阻定律」支撑「恒定电流」。"
+    },
+    {
+      "topicId": "mt_wl_s5_kinetic_molecular",
+      "prerequisiteId": "mt_wl_s5_ideal_gas_state",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「理想气体状态」为「分子动理论」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_thermo_first_law",
+      "prerequisiteId": "mt_wl_s5_kinetic_molecular",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「分子动理论」为「内能与热力学第一定律」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_thermo_first_law",
+      "prerequisiteId": "mt_wl_s5_ideal_gas_state",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「理想气体状态」支撑「内能与热力学第一定律」。"
+    },
+    {
+      "topicId": "mt_wl_s5_thermo_second_intro",
+      "prerequisiteId": "mt_wl_s5_thermo_first_law",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「内能与热力学第一定律」为「热力学第二定律入门」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_thermo_second_intro",
+      "prerequisiteId": "mt_wl_s5_kinetic_molecular",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「分子动理论」支撑「热力学第二定律入门」。"
+    },
+    {
+      "topicId": "mt_wl_s5_light_refraction",
+      "prerequisiteId": "mt_wl_s5_light_interference",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「光的干涉」为「光的折射」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_mechanical_wave",
+      "prerequisiteId": "mt_wl_s5_light_refraction",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「光的折射」为「机械波」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_mechanical_wave",
+      "prerequisiteId": "mt_wl_s5_light_interference",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「光的干涉」支撑「机械波」。"
+    },
+    {
+      "topicId": "mt_wl_s5_simple_harmonic",
+      "prerequisiteId": "mt_wl_s5_mechanical_wave",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「机械波」为「简谐运动」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_simple_harmonic",
+      "prerequisiteId": "mt_wl_s5_light_refraction",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「光的折射」支撑「简谐运动」。"
+    },
+    {
+      "topicId": "mt_wl_s5_simple_pendulum",
+      "prerequisiteId": "mt_wl_s5_simple_harmonic",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「简谐运动」为「单摆」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_simple_pendulum",
+      "prerequisiteId": "mt_wl_s5_mechanical_wave",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「机械波」支撑「单摆」。"
+    },
+    {
+      "topicId": "mt_wl_s5_wave_interfere_diffract",
+      "prerequisiteId": "mt_wl_s5_simple_pendulum",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「单摆」为「波的干涉衍射」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_wave_interfere_diffract",
+      "prerequisiteId": "mt_wl_s5_simple_harmonic",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「简谐运动」支撑「波的干涉衍射」。"
+    },
+    {
+      "topicId": "mt_wl_s5_hydrogen_spectrum",
+      "prerequisiteId": "mt_wl_s5_atomic_models",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「原子结构模型」为「氢原子光谱」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_mass_energy_intro",
+      "prerequisiteId": "mt_wl_s5_hydrogen_spectrum",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「氢原子光谱」为「质能方程入门」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_mass_energy_intro",
+      "prerequisiteId": "mt_wl_s5_atomic_models",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「原子结构模型」支撑「质能方程入门」。"
+    },
+    {
+      "topicId": "mt_wl_s5_nuclear_decay",
+      "prerequisiteId": "mt_wl_s5_mass_energy_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「质能方程入门」为「原子核与衰变」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_nuclear_decay",
+      "prerequisiteId": "mt_wl_s5_hydrogen_spectrum",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「氢原子光谱」支撑「原子核与衰变」。"
+    },
+    {
+      "topicId": "mt_wl_s5_photoelectric_effect",
+      "prerequisiteId": "mt_wl_s5_nuclear_decay",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「原子核与衰变」为「光电效应」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_photoelectric_effect",
+      "prerequisiteId": "mt_wl_s5_mass_energy_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「质能方程入门」支撑「光电效应」。"
+    },
+    {
+      "topicId": "mt_wl_s5_wave_particle_duality",
+      "prerequisiteId": "mt_wl_s5_photoelectric_effect",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「光电效应」为「波粒二象性」提供准备。"
+    },
+    {
+      "topicId": "mt_wl_s5_wave_particle_duality",
+      "prerequisiteId": "mt_wl_s5_nuclear_decay",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「原子核与衰变」支撑「波粒二象性」。"
+    },
+    {
+      "topicId": "mt_zz_s5_new_demo_to_socialism",
+      "prerequisiteId": "mt_zz_s5_china_dream_youth_duty",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国梦与青年责任」为「新民主主义到社会主义」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_reform_opening_great_decision",
+      "prerequisiteId": "mt_zz_s5_new_demo_to_socialism",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「新民主主义到社会主义」为「改革开放伟大决策」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_reform_opening_great_decision",
+      "prerequisiteId": "mt_zz_s5_china_dream_youth_duty",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国梦与青年责任」支撑「改革开放伟大决策」。"
+    },
+    {
+      "topicId": "mt_zz_s5_social_formation_process",
+      "prerequisiteId": "mt_zz_s5_reform_opening_great_decision",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「改革开放伟大决策」为「人类社会发展进程」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_social_formation_process",
+      "prerequisiteId": "mt_zz_s5_new_demo_to_socialism",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「新民主主义到社会主义」支撑「人类社会发展进程」。"
+    },
+    {
+      "topicId": "mt_zz_s5_utopia_to_scientific_socialism",
+      "prerequisiteId": "mt_zz_s5_social_formation_process",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「人类社会发展进程」为「社会主义从空想到科学」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_utopia_to_scientific_socialism",
+      "prerequisiteId": "mt_zz_s5_reform_opening_great_decision",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「改革开放伟大决策」支撑「社会主义从空想到科学」。"
+    },
+    {
+      "topicId": "mt_zz_s5_xjp_thought_entry",
+      "prerequisiteId": "mt_zz_s5_utopia_to_scientific_socialism",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社会主义从空想到科学」为「习近平新时代中国特色社会主义思想入门」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_xjp_thought_entry",
+      "prerequisiteId": "mt_zz_s5_social_formation_process",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「人类社会发展进程」支撑「习近平新时代中国特色社会主义思想入门」。"
+    },
+    {
+      "topicId": "mt_zz_s5_income_distribution_model",
+      "prerequisiteId": "mt_zz_s5_high_quality_development",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「高质量发展」为「收入分配」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_means_of_production_ownership",
+      "prerequisiteId": "mt_zz_s5_income_distribution_model",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「收入分配」为「生产资料所有制」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_means_of_production_ownership",
+      "prerequisiteId": "mt_zz_s5_high_quality_development",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「高质量发展」支撑「生产资料所有制」。"
+    },
+    {
+      "topicId": "mt_zz_s5_new_development_concepts",
+      "prerequisiteId": "mt_zz_s5_means_of_production_ownership",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「生产资料所有制」为「新发展理念」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_new_development_concepts",
+      "prerequisiteId": "mt_zz_s5_income_distribution_model",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「收入分配」支撑「新发展理念」。"
+    },
+    {
+      "topicId": "mt_zz_s5_social_security_functions",
+      "prerequisiteId": "mt_zz_s5_new_development_concepts",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「新发展理念」为「社会保障」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_social_security_functions",
+      "prerequisiteId": "mt_zz_s5_means_of_production_ownership",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「生产资料所有制」支撑「社会保障」。"
+    },
+    {
+      "topicId": "mt_zz_s5_socialist_market_economy",
+      "prerequisiteId": "mt_zz_s5_social_security_functions",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社会保障」为「社会主义市场经济」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_socialist_market_economy",
+      "prerequisiteId": "mt_zz_s5_new_development_concepts",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「新发展理念」支撑「社会主义市场经济」。"
+    },
+    {
+      "topicId": "mt_zz_s5_grassroots_self_governance",
+      "prerequisiteId": "mt_zz_s5_consultative_democracy",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「协商民主」为「基层群众自治」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_law_based_governance_whole",
+      "prerequisiteId": "mt_zz_s5_grassroots_self_governance",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「基层群众自治」为「全面依法治国」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_law_based_governance_whole",
+      "prerequisiteId": "mt_zz_s5_consultative_democracy",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「协商民主」支撑「全面依法治国」。"
+    },
+    {
+      "topicId": "mt_zz_s5_party_leadership_governance",
+      "prerequisiteId": "mt_zz_s5_law_based_governance_whole",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「全面依法治国」为「党的领导」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_party_leadership_governance",
+      "prerequisiteId": "mt_zz_s5_grassroots_self_governance",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「基层群众自治」支撑「党的领导」。"
+    },
+    {
+      "topicId": "mt_zz_s5_people_as_masters",
+      "prerequisiteId": "mt_zz_s5_party_leadership_governance",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「党的领导」为「人民当家作主」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_people_as_masters",
+      "prerequisiteId": "mt_zz_s5_law_based_governance_whole",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「全面依法治国」支撑「人民当家作主」。"
+    },
+    {
+      "topicId": "mt_zz_s5_peoples_congress_system",
+      "prerequisiteId": "mt_zz_s5_people_as_masters",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「人民当家作主」为「人民代表大会制度」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_peoples_congress_system",
+      "prerequisiteId": "mt_zz_s5_party_leadership_governance",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「党的领导」支撑「人民代表大会制度」。"
+    },
+    {
+      "topicId": "mt_zz_s5_contradiction_analysis_method",
+      "prerequisiteId": "mt_zz_s5_chinese_national_spirit",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中华民族精神」为「矛盾分析法」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_core_values_practice",
+      "prerequisiteId": "mt_zz_s5_contradiction_analysis_method",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「矛盾分析法」为「社会主义核心价值观践行」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_core_values_practice",
+      "prerequisiteId": "mt_zz_s5_chinese_national_spirit",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中华民族精神」支撑「社会主义核心价值观践行」。"
+    },
+    {
+      "topicId": "mt_zz_s5_cultural_inheritance_innovation",
+      "prerequisiteId": "mt_zz_s5_core_values_practice",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社会主义核心价值观践行」为「文化传承与创新」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_cultural_inheritance_innovation",
+      "prerequisiteId": "mt_zz_s5_contradiction_analysis_method",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「矛盾分析法」支撑「文化传承与创新」。"
+    },
+    {
+      "topicId": "mt_zz_s5_dialectics_connection_change",
+      "prerequisiteId": "mt_zz_s5_cultural_inheritance_innovation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「文化传承与创新」为「唯物辩证法联系发展」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_dialectics_connection_change",
+      "prerequisiteId": "mt_zz_s5_core_values_practice",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「社会主义核心价值观践行」支撑「唯物辩证法联系发展」。"
+    },
+    {
+      "topicId": "mt_zz_s5_historical_materialism_view",
+      "prerequisiteId": "mt_zz_s5_dialectics_connection_change",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「唯物辩证法联系发展」为「历史唯物主义」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_historical_materialism_view",
+      "prerequisiteId": "mt_zz_s5_cultural_inheritance_innovation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「文化传承与创新」支撑「历史唯物主义」。"
+    },
+    {
+      "topicId": "mt_zz_s5_matter_and_consciousness",
+      "prerequisiteId": "mt_zz_s5_historical_materialism_view",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「历史唯物主义」为「物质与意识」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_matter_and_consciousness",
+      "prerequisiteId": "mt_zz_s5_dialectics_connection_change",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「唯物辩证法联系发展」支撑「物质与意识」。"
+    },
+    {
+      "topicId": "mt_zz_s5_practice_and_cognition",
+      "prerequisiteId": "mt_zz_s5_matter_and_consciousness",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「物质与意识」为「实践与认识」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_practice_and_cognition",
+      "prerequisiteId": "mt_zz_s5_historical_materialism_view",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「历史唯物主义」支撑「实践与认识」。"
+    },
+    {
+      "topicId": "mt_zz_s5_economic_globalization_politics",
+      "prerequisiteId": "mt_zz_s5_contemporary_intl_pattern",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「当代国际格局」为「经济全球化」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_major_country_diplomacy",
+      "prerequisiteId": "mt_zz_s5_economic_globalization_politics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「经济全球化」为「中国特色大国外交」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_major_country_diplomacy",
+      "prerequisiteId": "mt_zz_s5_contemporary_intl_pattern",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「当代国际格局」支撑「中国特色大国外交」。"
+    },
+    {
+      "topicId": "mt_zz_s5_national_interest_ir",
+      "prerequisiteId": "mt_zz_s5_major_country_diplomacy",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国特色大国外交」为「国家利益与国际关系」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_national_interest_ir",
+      "prerequisiteId": "mt_zz_s5_economic_globalization_politics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「经济全球化」支撑「国家利益与国际关系」。"
+    },
+    {
+      "topicId": "mt_zz_s5_labor_law_intro",
+      "prerequisiteId": "mt_zz_s5_civil_law_in_life",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「民法与生活」为「劳动法入门」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_rights_remedy_paths",
+      "prerequisiteId": "mt_zz_s5_labor_law_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「劳动法入门」为「权利救济途径」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_rights_remedy_paths",
+      "prerequisiteId": "mt_zz_s5_civil_law_in_life",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「民法与生活」支撑「权利救济途径」。"
+    },
+    {
+      "topicId": "mt_zz_s5_formal_logic_intro",
+      "prerequisiteId": "mt_zz_s5_argument_and_rebuttal",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「论证与反驳」为「形式逻辑入门」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_scientific_thinking_methods",
+      "prerequisiteId": "mt_zz_s5_formal_logic_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「形式逻辑入门」为「科学思维方法」提供准备。"
+    },
+    {
+      "topicId": "mt_zz_s5_scientific_thinking_methods",
+      "prerequisiteId": "mt_zz_s5_argument_and_rebuttal",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「论证与反驳」支撑「科学思维方法」。"
     },
     {
       "topicId": "mt_science_s1_hot_and_cold",

@@ -1,0 +1,15 @@
+{
+  "slug": "moe-yy-2017",
+  "country": "CN",
+  "name": "普通高中英语课程标准（2017年版2020年修订）",
+  "version": "2017/2020",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known element titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-yy-2017:SK", "code": "SK"},
+    {"key": "moe-yy-2017:LK", "code": "LK"},
+    {"key": "moe-yy-2017:CK", "code": "CK"},
+    {"key": "moe-yy-2017:ST", "code": "ST"}
+  ]
+}

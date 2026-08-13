@@ -1,0 +1,18 @@
+{
+  "slug": "moe-zz-2017",
+  "country": "CN",
+  "name": "普通高中思想政治课程标准（2017年版2020年修订）",
+  "version": "2017/2020",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-zz-2017:M1", "code": "M1"},
+    {"key": "moe-zz-2017:M2", "code": "M2"},
+    {"key": "moe-zz-2017:M3", "code": "M3"},
+    {"key": "moe-zz-2017:M4", "code": "M4"},
+    {"key": "moe-zz-2017:S1", "code": "S1"},
+    {"key": "moe-zz-2017:S2", "code": "S2"},
+    {"key": "moe-zz-2017:S3", "code": "S3"}
+  ]
+}
