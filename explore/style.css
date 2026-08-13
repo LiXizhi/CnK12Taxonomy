@@ -154,6 +154,7 @@ header p {
 
 .search {
   position: absolute;
+  z-index: 1;
   top: 20px;
   right: 24px;
   width: min(340px, calc(100vw - 48px));
