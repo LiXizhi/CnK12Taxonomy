@@ -104,7 +104,7 @@ Produced works (an app, tutor, or model that *uses* the graph) stay yours. Deriv
 
 ### Attribution
 
-> Chinese K12 Taxonomy (v0.1) · 义务教育微主题知识图谱 · https://github.com/withmarbleapp/os-taxonomy (schema inspiration) · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content).
+> Chinese K12 Taxonomy (v0.1) · 义务教育微主题知识图谱 · https://github.com/LiXizhi/CnK12Taxonomy · schema inspired by https://github.com/withmarbleapp/os-taxonomy · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content).
 
 ## What's not here
 

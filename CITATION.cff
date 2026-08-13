@@ -6,7 +6,7 @@ authors:
   - family-names: Li
     given-names: Xizhi
     affiliation: Paracraft
-repository-code: "c:/lxzsrc/CnK12Taxonomy"
+repository-code: "https://github.com/LiXizhi/CnK12Taxonomy"
 license: "ODbL-1.0 AND CC-BY-SA-4.0"
 version: 0.1.0
 date-released: 2026-08-13
