@@ -1,0 +1,974 @@
+[
+  {
+    "id": "mt_ld_s1_pack_schoolbag",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "整理书包",
+    "nameEn": "Pack schoolbag",
+    "standards": [
+      "moe-ld-2022:DL.S1"
+    ],
+    "description": "能按课表整理书本文具，保持书包整洁。",
+    "evidence": [
+      "独立整理书包",
+      "检查是否带齐次日用品"
+    ]
+  },
+  {
+    "id": "mt_ld_s1_tidy_desk_corner",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "整理课桌与区域",
+    "nameEn": "Tidy desk",
+    "standards": [
+      "moe-ld-2022:DL.S1"
+    ],
+    "description": "能清理课桌、图书角并保持物品归位。",
+    "evidence": [
+      "课桌整洁无杂物",
+      "图书按编号放回"
+    ]
+  },
+  {
+    "id": "mt_ld_s1_wash_hands_face",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "洗手洗脸",
+    "nameEn": "Wash hands face",
+    "standards": [
+      "moe-ld-2022:DL.S1"
+    ],
+    "description": "掌握正确洗手洗脸步骤，养成卫生习惯。",
+    "evidence": [
+      "演示七步洗手法",
+      "饭前便后主动洗手"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_fold_clothes_basic",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "折叠衣物",
+    "nameEn": "Fold clothes",
+    "standards": [
+      "moe-ld-2022:DL.S2"
+    ],
+    "description": "能折叠上衣、裤子等常见衣物并摆放整齐。",
+    "evidence": [
+      "折叠T恤四角对齐",
+      "将衣物放入指定位置"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_simple_laundry",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "简单洗涤",
+    "nameEn": "Simple laundry",
+    "standards": [
+      "moe-ld-2022:DL.S2"
+    ],
+    "description": "在指导下手洗小件衣物并晾晒。",
+    "evidence": [
+      "手洗袜子并拧干",
+      "正确晾晒衣物"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_table_setting_cleanup",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "摆餐具与收拾",
+    "nameEn": "Table setting",
+    "standards": [
+      "moe-ld-2022:DL.S2"
+    ],
+    "description": "能摆放碗筷、饭后收拾桌面并擦桌。",
+    "evidence": [
+      "为家人摆好餐具",
+      "饭后清理桌面残渣"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_cooking_simple_meal",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "简易烹饪",
+    "nameEn": "Simple cooking",
+    "standards": [
+      "moe-ld-2022:DL.S3"
+    ],
+    "description": "在成人监护下完成煮面、蒸蛋等简单餐食。",
+    "evidence": [
+      "煮一碗面条",
+      "烹饪后关闭火源"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_kitchen_safety",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "厨房安全",
+    "nameEn": "Kitchen safety",
+    "standards": [
+      "moe-ld-2022:DL.S3"
+    ],
+    "description": "知道刀具、火源使用规范，避免烫伤切伤。",
+    "evidence": [
+      "列出厨房三条安全规则",
+      "发现隐患及时提醒"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_home_cleaning_plan",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "家庭清洁",
+    "nameEn": "Home cleaning",
+    "standards": [
+      "moe-ld-2022:DL.S3"
+    ],
+    "description": "能扫地、拖地、擦窗等并完成小块区域清洁。",
+    "evidence": [
+      "完成卧室地面清扫",
+      "清洁工具用后归位"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_garbage_sort_home",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "家庭垃圾分类",
+    "nameEn": "Home garbage sort",
+    "standards": [
+      "moe-ld-2022:DL.S3"
+    ],
+    "description": "能按当地标准进行垃圾分类投放。",
+    "evidence": [
+      "正确分类四类垃圾",
+      "说明有害垃圾例子"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_clothing_care_label",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "衣物护理",
+    "nameEn": "Clothing care",
+    "standards": [
+      "moe-ld-2022:DL.S4"
+    ],
+    "description": "能读懂洗涤标签并进行基本熨烫或整理。",
+    "evidence": [
+      "解读洗涤符号含义",
+      "熨烫一条围巾"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_budget_shopping_list",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "采购与预算",
+    "nameEn": "Shopping list",
+    "standards": [
+      "moe-ld-2022:DL.S4"
+    ],
+    "description": "能根据需求列清单并合理选购日用品。",
+    "evidence": [
+      "制定一周食材清单",
+      "比较价格做出选择"
+    ]
+  },
+  {
+    "id": "mt_ld_s1_seed_germination",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "种子萌发观察",
+    "nameEn": "Seed germination",
+    "standards": [
+      "moe-ld-2022:PL.S1"
+    ],
+    "description": "能浸泡、播种并观察种子发芽过程。",
+    "evidence": [
+      "记录豆苗三天变化",
+      "说明发芽需要水与温度"
+    ]
+  },
+  {
+    "id": "mt_ld_s1_water_plants",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "给植物浇水",
+    "nameEn": "Water plants",
+    "standards": [
+      "moe-ld-2022:PL.S1"
+    ],
+    "description": "能按需要给班级或家庭盆栽适量浇水。",
+    "evidence": [
+      "判断土壤干湿再浇水",
+      "浇水不泼洒到外"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_plant_vegetables_box",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "箱式蔬菜种植",
+    "nameEn": "Box gardening",
+    "standards": [
+      "moe-ld-2022:PL.S2"
+    ],
+    "description": "能在花箱中松土、播种、间苗并观察生长。",
+    "evidence": [
+      "完成一次蔬菜播种",
+      "记录生长高度"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_compost_waste",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "厨余堆肥",
+    "nameEn": "Compost waste",
+    "standards": [
+      "moe-ld-2022:PL.S2"
+    ],
+    "description": "了解厨余堆肥原理并参与班级堆肥箱管理。",
+    "evidence": [
+      "区分可堆肥与不可堆肥",
+      "翻动堆肥保持通气"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_observe_pets",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "小动物照料",
+    "nameEn": "Pet care",
+    "standards": [
+      "moe-ld-2022:PL.S2"
+    ],
+    "description": "能在指导下喂食、清洁并观察小动物习性。",
+    "evidence": [
+      "记录宠物一日作息",
+      "清理笼舍保持卫生"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_paper_craft_make",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "纸工制作",
+    "nameEn": "Paper craft",
+    "standards": [
+      "moe-ld-2022:PL.S2"
+    ],
+    "description": "能用折、剪、粘方法完成实用纸工作品。",
+    "evidence": [
+      "制作一个收纳盒",
+      "工具使用安全"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_simple_sewing",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "简易缝补",
+    "nameEn": "Simple sewing",
+    "standards": [
+      "moe-ld-2022:PL.S3"
+    ],
+    "description": "能穿针打结并缝纽扣或简单裂缝。",
+    "evidence": [
+      "缝好一颗脱落纽扣",
+      "针脚整齐不扎手"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_woodwork_measure_cut",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "木工测量切割",
+    "nameEn": "Woodwork basics",
+    "standards": [
+      "moe-ld-2022:PL.S3"
+    ],
+    "description": "在指导下测量、锯切并打磨简单木件。",
+    "evidence": [
+      "锯切指定长度木条",
+      "佩戴护具操作"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_assemble_simple_kit",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "简易组装",
+    "nameEn": "Simple assembly",
+    "standards": [
+      "moe-ld-2022:PL.S3"
+    ],
+    "description": "能按说明组装模型或小型家具部件。",
+    "evidence": [
+      "完成模型组装",
+      "检查螺丝是否拧紧"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_traditional_craft_try",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "传统手工艺",
+    "nameEn": "Traditional craft",
+    "standards": [
+      "moe-ld-2022:PL.S3"
+    ],
+    "description": "体验编织、陶艺等传统生产性手工基本步骤。",
+    "evidence": [
+      "完成一件陶艺或编织",
+      "说明工艺与材料"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_garden_harvest",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "种植与收获",
+    "nameEn": "Garden harvest",
+    "standards": [
+      "moe-ld-2022:PL.S4"
+    ],
+    "description": "能参与整地、施肥、收获并估算产量。",
+    "evidence": [
+      "收获班级菜园蔬菜",
+      "记录产量与用时"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_tool_maintenance",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "工具保养",
+    "nameEn": "Tool maintenance",
+    "standards": [
+      "moe-ld-2022:PL.S4"
+    ],
+    "description": "知道清洁、上油、存放工具的方法并执行。",
+    "evidence": [
+      "清洁并归位一套工具",
+      "说明生锈预防方法"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_small_batch_product",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "小批量制作",
+    "nameEn": "Small batch product",
+    "standards": [
+      "moe-ld-2022:PL.S4"
+    ],
+    "description": "能按流程小批量制作手工作品并控制质量。",
+    "evidence": [
+      "制作五份一致书签",
+      "检查次品并改进"
+    ]
+  },
+  {
+    "id": "mt_ld_s1_campus_duty_clean",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "校园值日清扫",
+    "nameEn": "Campus cleaning",
+    "standards": [
+      "moe-ld-2022:SL.S1"
+    ],
+    "description": "能完成分配的包干区清扫与垃圾分类。",
+    "evidence": [
+      "清扫走廊无纸屑",
+      "工具用后放回原处"
+    ]
+  },
+  {
+    "id": "mt_ld_s1_classroom_service",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "班级服务",
+    "nameEn": "Classroom service",
+    "standards": [
+      "moe-ld-2022:SL.S1"
+    ],
+    "description": "主动承担发作业、整理讲台等班级服务。",
+    "evidence": [
+      "一周完成三次服务",
+      "服务时不影响他人"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_library_helper",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "图书小助手",
+    "nameEn": "Library helper",
+    "standards": [
+      "moe-ld-2022:SL.S2"
+    ],
+    "description": "能整理图书、引导同学安静阅读。",
+    "evidence": [
+      "按编号上架十本书",
+      "提醒同学轻拿轻放"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_green_campus_care",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "校园绿化养护",
+    "nameEn": "Green campus",
+    "standards": [
+      "moe-ld-2022:SL.S2"
+    ],
+    "description": "参与浇树、除草、补植等校园绿化劳动。",
+    "evidence": [
+      "给指定树坑浇水",
+      "识别常见杂草"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_elder_visit_help",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "关爱老人服务",
+    "nameEn": "Elder visit",
+    "standards": [
+      "moe-ld-2022:SL.S2"
+    ],
+    "description": "能在成人组织下探望老人并提供简单帮助。",
+    "evidence": [
+      "为老人读一段书",
+      "陪老人散步聊天"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_community_cleanup",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "社区清洁",
+    "nameEn": "Community cleanup",
+    "standards": [
+      "moe-ld-2022:SL.S3"
+    ],
+    "description": "参与社区或公园清洁、宣传等公益劳动。",
+    "evidence": [
+      "参加一次社区捡垃圾",
+      "向居民宣传环保"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_event_volunteer",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "活动志愿",
+    "nameEn": "Event volunteer",
+    "standards": [
+      "moe-ld-2022:SL.S3"
+    ],
+    "description": "能在校运会等活动担任引导、后勤等志愿岗位。",
+    "evidence": [
+      "完成志愿岗位任务",
+      "提前到岗并穿戴标识"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_care_kindergarten_peer",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "帮扶低年级",
+    "nameEn": "Peer mentoring",
+    "standards": [
+      "moe-ld-2022:SL.S3"
+    ],
+    "description": "能指导低年级同学完成简单劳动任务。",
+    "evidence": [
+      "教一年级整理书包",
+      "耐心示范三遍"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_career_shadow_visit",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "职业体验参观",
+    "nameEn": "Career shadow",
+    "standards": [
+      "moe-ld-2022:SL.S4"
+    ],
+    "description": "通过参观或短期体验了解不同职业劳动内容。",
+    "evidence": [
+      "记录一种职业一天工作",
+      "说明所需技能"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_career_interview",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "职业访谈",
+    "nameEn": "Career interview",
+    "standards": [
+      "moe-ld-2022:SL.S4"
+    ],
+    "description": "能采访从业者并整理劳动特点与要求。",
+    "evidence": [
+      "完成一份访谈提纲",
+      "写出三条职业体会"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_public_service_design",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "公益项目设计",
+    "nameEn": "Public service design",
+    "standards": [
+      "moe-ld-2022:SL.S4"
+    ],
+    "description": "能小组设计并实施小型校园或社区服务项目。",
+    "evidence": [
+      "策划一次旧物捐赠",
+      "总结服务效果"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_labor_safety_tools",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "劳动工具安全",
+    "nameEn": "Tool safety",
+    "standards": [
+      "moe-ld-2022:DL.S2"
+    ],
+    "description": "知道剪刀、锤子等工具的正确握持与传递方式。",
+    "evidence": [
+      "演示剪刀传递方法",
+      "发现损坏工具报告老师"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_labor_safety_ppe",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "劳动防护用品",
+    "nameEn": "Labor PPE",
+    "standards": [
+      "moe-ld-2022:PL.S3"
+    ],
+    "description": "了解手套、护目镜等防护用品的使用场景。",
+    "evidence": [
+      "匹配任务与防护用品",
+      "操作前检查防护"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_labor_meaning_reflection",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "劳动意义",
+    "nameEn": "Labor meaning",
+    "standards": [
+      "moe-ld-2022:SL.S3"
+    ],
+    "description": "能结合实例说明劳动对个人与社会的价值。",
+    "evidence": [
+      "写一段劳动体会",
+      "举例劳动创造美好生活"
+    ]
+  },
+  {
+    "id": "mt_ld_s1_labor_habits_daily",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "日常劳动习惯",
+    "nameEn": "Daily labor habits",
+    "standards": [
+      "moe-ld-2022:DL.S1"
+    ],
+    "description": "养成自己的事自己做、每日小劳动的习惯。",
+    "evidence": [
+      "连续一周自己系鞋带",
+      "主动收拾玩具"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_food_prep_safe",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "安全备餐",
+    "nameEn": "Safe food prep",
+    "standards": [
+      "moe-ld-2022:DL.S4"
+    ],
+    "description": "能在监护下完成切配、烹饪并注意生熟分开。",
+    "evidence": [
+      "切配蔬菜并清台面",
+      "生熟砧板分开使用"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_repair_simple_fix",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "简单维修",
+    "nameEn": "Simple repair",
+    "standards": [
+      "moe-ld-2022:PL.S4"
+    ],
+    "description": "能拧紧松螺丝、更换笔芯等简单维修劳动。",
+    "evidence": [
+      "修复松动的椅脚",
+      "说明何时需专业维修"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_recycle_upcycle",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "废旧改造",
+    "nameEn": "Recycle upcycle",
+    "standards": [
+      "moe-ld-2022:PL.S2"
+    ],
+    "description": "能将废旧材料改造成可用物品。",
+    "evidence": [
+      "用瓶罐做花盆",
+      "说明再利用减少浪费"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_labor_contract_team",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "小组劳动契约",
+    "nameEn": "Team labor pact",
+    "standards": [
+      "moe-ld-2022:SL.S4"
+    ],
+    "description": "能与同伴制定劳动分工契约并互相监督。",
+    "evidence": [
+      "小组签署劳动分工表",
+      "按契约完成各自任务"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_seasonal_labor_festival",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "节日劳动服务",
+    "nameEn": "Festival service",
+    "standards": [
+      "moe-ld-2022:SL.S2"
+    ],
+    "description": "结合端午、中秋等节日参与包粽子、做月饼等服务劳动。",
+    "evidence": [
+      "参与一次节日劳动",
+      "说明节日劳动的文化意义"
+    ]
+  },
+  {
+    "id": "mt_ld_s1_weather_adapt_labor",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "天气与户外劳动",
+    "nameEn": "Weather and labor",
+    "standards": [
+      "moe-ld-2022:PL.S1"
+    ],
+    "description": "知道高温、雷雨等天气下调整或暂停户外劳动。",
+    "evidence": [
+      "说出雨天不宜浇花原因",
+      "炎热时选择室内劳动"
+    ]
+  },
+  {
+    "id": "mt_ld_s3_labor_time_management",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "劳动时间管理",
+    "nameEn": "Labor time mgmt",
+    "standards": [
+      "moe-ld-2022:DL.S3"
+    ],
+    "description": "能合理安排每日劳动时间，不与学习冲突。",
+    "evidence": [
+      "制定每日劳动时间表",
+      "按时完成计划任务"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_serve_cafeteria_line",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "食堂秩序服务",
+    "nameEn": "Cafeteria service",
+    "standards": [
+      "moe-ld-2022:SL.S2"
+    ],
+    "description": "能在午餐时协助维持排队秩序与桌面清洁。",
+    "evidence": [
+      "引导同学有序打餐",
+      "提醒光盘行动"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_labor_story_share",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "劳动故事分享",
+    "nameEn": "Labor stories",
+    "standards": [
+      "moe-ld-2022:DL.S2"
+    ],
+    "description": "能分享家人或劳动者的故事，理解劳动尊严。",
+    "evidence": [
+      "介绍一位劳动者",
+      "说出劳动中的困难与成就"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_plant_identification_field",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "田间识别",
+    "nameEn": "Field plant ID",
+    "standards": [
+      "moe-ld-2022:PL.S4"
+    ],
+    "description": "能在田间识别常见作物与杂草并记录。",
+    "evidence": [
+      "辨认三种作物",
+      "说明除草时机"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_digital_labor_tools",
+    "type": "CONCEPTUAL",
+    "subject": "劳动",
+    "domain": "生产劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "数字劳动工具",
+    "nameEn": "Digital labor tools",
+    "standards": [
+      "moe-ld-2022:PL.S4"
+    ],
+    "description": "了解表格、清单等数字工具在劳动组织中的作用。",
+    "evidence": [
+      "用表格记录劳动分工",
+      "在线共享任务进度"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_labor_reflection_portfolio",
+    "type": "META",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "劳动档案",
+    "nameEn": "Labor portfolio",
+    "standards": [
+      "moe-ld-2022:SL.S4"
+    ],
+    "description": "能整理劳动照片、记录与反思形成个人劳动档案。",
+    "evidence": [
+      "完成学期劳动档案",
+      "设定下一学期劳动目标"
+    ]
+  },
+  {
+    "id": "mt_ld_s2_shoe_care_clean",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "日常生活劳动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "鞋袜清洁",
+    "nameEn": "Shoe care",
+    "standards": [
+      "moe-ld-2022:DL.S2"
+    ],
+    "description": "能刷洗鞋面、晾晒鞋袜并保持足部卫生。",
+    "evidence": [
+      "刷洗运动鞋并晾晒",
+      "雨天后及时擦干鞋子"
+    ]
+  },
+  {
+    "id": "mt_ld_s4_neighborhood_survey_service",
+    "type": "PROCEDURAL",
+    "subject": "劳动",
+    "domain": "服务性劳动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "社区调查服务",
+    "nameEn": "Neighborhood survey",
+    "standards": [
+      "moe-ld-2022:SL.S4"
+    ],
+    "description": "能调查社区需求并提出可行服务建议。",
+    "evidence": [
+      "完成社区需求问卷",
+      "提交一份服务建议"
+    ]
+  }
+]

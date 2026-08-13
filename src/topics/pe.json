@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "mt_ty_s1_natural_walking",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "自然走",
+    "nameEn": "Natural walk",
+    "standards": [
+      "moe-ty-2022:MS.S1"
+    ],
+    "description": "能在不同地面上保持平衡自然行走。",
+    "evidence": [
+      "沿直线走十米不偏离",
+      "在窄道上平稳通过"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_running_basics",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "跑的基本动作",
+    "nameEn": "Running basics",
+    "standards": [
+      "moe-ty-2022:MS.S1"
+    ],
+    "description": "掌握摆臂、抬腿协调的慢跑动作。",
+    "evidence": [
+      "完成二十米慢跑",
+      "起跑时不抢跑"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_two_foot_jump",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "双脚跳",
+    "nameEn": "Two-foot jump",
+    "standards": [
+      "moe-ty-2022:MS.S1"
+    ],
+    "description": "能双脚同时起跳落地，跳过小障碍。",
+    "evidence": [
+      "跳过十厘米高障碍",
+      "落地时屈膝缓冲"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_throw_softball",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "投软球",
+    "nameEn": "Softball throw",
+    "standards": [
+      "moe-ty-2022:MS.S1"
+    ],
+    "description": "能用单手肩上投或下手投将软球投出。",
+    "evidence": [
+      "投中两米外目标",
+      "投掷前观察周围安全"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_catch_large_ball",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "接大球",
+    "nameEn": "Catch large ball",
+    "standards": [
+      "moe-ty-2022:MS.S1"
+    ],
+    "description": "能张开双臂接住滚来或抛来的大球。",
+    "evidence": [
+      "连续接住五次滚球",
+      "接球时目视来球"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_balance_on_line",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "走平衡",
+    "nameEn": "Balance walk",
+    "standards": [
+      "moe-ty-2022:MS.S1"
+    ],
+    "description": "能在地面线或低平衡木上保持身体稳定。",
+    "evidence": [
+      "走完全程不落地",
+      "双臂张开辅助平衡"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_formation_drill",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "队列与队形",
+    "nameEn": "Formation drill",
+    "standards": [
+      "moe-ty-2022:MS.S1"
+    ],
+    "description": "能听口令完成立正、稍息、齐步走等队列动作。",
+    "evidence": [
+      "与同伴保持整齐队形",
+      "快速准确变换两列队形"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_rhythmic_movement",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "节奏性动作",
+    "nameEn": "Rhythmic movement",
+    "standards": [
+      "moe-ty-2022:MS.S1"
+    ],
+    "description": "能随音乐或口令做简单节奏性体操动作。",
+    "evidence": [
+      "跟随节拍做八拍动作",
+      "与同伴动作同步"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_direction_change_run",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "变向跑",
+    "nameEn": "Direction change run",
+    "standards": [
+      "moe-ty-2022:MS.S2"
+    ],
+    "description": "能在跑动中改变方向并保持速度控制。",
+    "evidence": [
+      "绕桩跑不碰桩",
+      "急停后稳定站立"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_single_foot_hop",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "单脚跳",
+    "nameEn": "Single-foot hop",
+    "standards": [
+      "moe-ty-2022:MS.S2"
+    ],
+    "description": "能单脚连续跳跃一定距离并保持节奏。",
+    "evidence": [
+      "单脚跳过五米",
+      "左右脚交替练习"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_overhand_throw",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "肩上投掷",
+    "nameEn": "Overhand throw",
+    "standards": [
+      "moe-ty-2022:MS.S2"
+    ],
+    "description": "掌握转体、鞭打动作的肩上投掷。",
+    "evidence": [
+      "投沙包达到规定距离",
+      "投掷方向避开人群"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_kick_stationary_ball",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "踢球入门",
+    "nameEn": "Kick ball",
+    "standards": [
+      "moe-ty-2022:MS.S2"
+    ],
+    "description": "能用脚内侧或正脚背踢静止球。",
+    "evidence": [
+      "踢中三米外标志",
+      "支撑脚位置正确"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_dribble_handball",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "手运球",
+    "nameEn": "Hand dribble",
+    "standards": [
+      "moe-ty-2022:MS.S2"
+    ],
+    "description": "能连续用手运球并保持对球的控制。",
+    "evidence": [
+      "运球绕障碍十米",
+      "抬头观察路线"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_relay_handoff",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "接力传接",
+    "nameEn": "Relay handoff",
+    "standards": [
+      "moe-ty-2022:MS.S2"
+    ],
+    "description": "能在接力中稳定传接棒或标志物。",
+    "evidence": [
+      "完成四人接力不掉棒",
+      "在标记区内交接"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_long_jump_takeoff",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "立定跳远",
+    "nameEn": "Standing long jump",
+    "standards": [
+      "moe-ty-2022:MS.S3"
+    ],
+    "description": "掌握预摆、蹬伸、落地的立定跳远动作。",
+    "evidence": [
+      "跳出个人最好成绩",
+      "落地时双脚前伸"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_sprint_start",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "短跑起跑",
+    "nameEn": "Sprint start",
+    "standards": [
+      "moe-ty-2022:MS.S3"
+    ],
+    "description": "能采用合理起跑姿势快速启动。",
+    "evidence": [
+      "听口令起跑反应及时",
+      "起跑后加速跑十米"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_volleyball_pass",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "排球垫球",
+    "nameEn": "Volleyball pass",
+    "standards": [
+      "moe-ty-2022:MS.S3"
+    ],
+    "description": "能用前臂垫击排球并完成连续对垫。",
+    "evidence": [
+      "与同伴对垫五次",
+      "移动到位再垫球"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_basketball_dribble",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "篮球运球",
+    "nameEn": "Basketball dribble",
+    "standards": [
+      "moe-ty-2022:MS.S3"
+    ],
+    "description": "能低运球、变向运球通过简单路线。",
+    "evidence": [
+      "运球绕桩不丢球",
+      "非运球手保护球"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_rope_skipping_basic",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "跳绳基础",
+    "nameEn": "Rope skipping",
+    "standards": [
+      "moe-ty-2022:MS.S3"
+    ],
+    "description": "能连续跳绳并尝试不同节奏。",
+    "evidence": [
+      "连续跳三十次",
+      "调整绳长适合身高"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_gymnastics_roll",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "滚翻动作",
+    "nameEn": "Gymnastics roll",
+    "standards": [
+      "moe-ty-2022:MS.S3"
+    ],
+    "description": "能完成前滚翻或侧滚翻等基本体操动作。",
+    "evidence": [
+      "独立完成前滚翻",
+      "滚翻后平稳站起"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_throw_catch_progression",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "传接进阶",
+    "nameEn": "Throw catch",
+    "standards": [
+      "moe-ty-2022:MS.S3"
+    ],
+    "description": "能在移动中传接球并保持成功率。",
+    "evidence": [
+      "移动中完成十次传球",
+      "接球后快速传回"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_multi_skill_combo",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "组合动作",
+    "nameEn": "Skill combination",
+    "standards": [
+      "moe-ty-2022:MS.S4"
+    ],
+    "description": "能将跑、跳、投组合运用于游戏或测试。",
+    "evidence": [
+      "完成综合体能闯关",
+      "动作衔接流畅"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_flexibility_stretch",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "柔韧拉伸",
+    "nameEn": "Flexibility stretch",
+    "standards": [
+      "moe-ty-2022:PF.S1"
+    ],
+    "description": "能完成基本静态拉伸，增大关节活动范围。",
+    "evidence": [
+      "坐位体前屈有进步",
+      "拉伸时避免弹震"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_core_stability_play",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "核心稳定游戏",
+    "nameEn": "Core stability",
+    "standards": [
+      "moe-ty-2022:PF.S1"
+    ],
+    "description": "通过游戏体会腹部与背部协同稳定身体。",
+    "evidence": [
+      "平板支撑坚持十五秒",
+      "爬行时躯干不塌腰"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_endurance_jogging",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "耐力慢跑",
+    "nameEn": "Endurance jog",
+    "standards": [
+      "moe-ty-2022:PF.S2"
+    ],
+    "description": "能按节奏慢跑并完成规定圈数。",
+    "evidence": [
+      "慢跑一圈不停步",
+      "跑后做放松拉伸"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_strength_push_pull",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "推拉力量",
+    "nameEn": "Push and pull",
+    "standards": [
+      "moe-ty-2022:PF.S2"
+    ],
+    "description": "能完成俯卧撑、引体辅助等基础力量练习。",
+    "evidence": [
+      "完成标准跪姿俯卧撑",
+      "悬垂坚持十秒"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_agility_ladder",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "灵敏梯练习",
+    "nameEn": "Agility ladder",
+    "standards": [
+      "moe-ty-2022:PF.S2"
+    ],
+    "description": "能快速准确完成脚步穿越格线练习。",
+    "evidence": [
+      "完成绳梯往返",
+      "脚步轻快节奏稳"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_coordination_ball",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "球类协调",
+    "nameEn": "Ball coordination",
+    "standards": [
+      "moe-ty-2022:PF.S2"
+    ],
+    "description": "在抛接、拍球中提高手眼协调。",
+    "evidence": [
+      "对抛网球二十次",
+      "拍球走直线五米"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_speed_reaction",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "速度反应",
+    "nameEn": "Speed reaction",
+    "standards": [
+      "moe-ty-2022:PF.S3"
+    ],
+    "description": "能对信号快速做出跑、停、变向反应。",
+    "evidence": [
+      "听口令快速起跑",
+      "反应游戏得分提高"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_muscular_endurance",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "肌肉耐力",
+    "nameEn": "Muscular endurance",
+    "standards": [
+      "moe-ty-2022:PF.S3"
+    ],
+    "description": "能完成多组仰卧起坐、深蹲等练习。",
+    "evidence": [
+      "一分钟仰卧起坐达标",
+      "深蹲动作规范"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_cardio_fitness_test",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "心肺耐力",
+    "nameEn": "Cardio fitness",
+    "standards": [
+      "moe-ty-2022:PF.S3"
+    ],
+    "description": "了解心率与运动强度关系，完成耐力测试。",
+    "evidence": [
+      "完成八百或一千米跑",
+      "跑后测量脉搏恢复"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_shuttle_run",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "折返跑",
+    "nameEn": "Shuttle run",
+    "standards": [
+      "moe-ty-2022:PF.S3"
+    ],
+    "description": "能在折返跑中控制速度并快速转身。",
+    "evidence": [
+      "完成十米折返五次",
+      "转身时降低重心"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_power_jump",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "爆发力跳跃",
+    "nameEn": "Power jump",
+    "standards": [
+      "moe-ty-2022:PF.S4"
+    ],
+    "description": "通过纵跳、摸高等练习发展下肢爆发力。",
+    "evidence": [
+      "摸高成绩有提升",
+      "起跳前充分摆臂"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_strength_training_safe",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "力量训练安全",
+    "nameEn": "Strength training",
+    "standards": [
+      "moe-ty-2022:PF.S4"
+    ],
+    "description": "掌握自重力量练习的正确姿势与负荷控制。",
+    "evidence": [
+      "完成标准俯卧撑",
+      "力量练习后充分拉伸"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_fitness_self_monitor",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体能",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "体能自我监测",
+    "nameEn": "Fitness monitor",
+    "standards": [
+      "moe-ty-2022:PF.S4"
+    ],
+    "description": "能记录运动心率、成绩并制定改进计划。",
+    "evidence": [
+      "填写一周运动日志",
+      "根据数据调整训练量"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_football_rules_basics",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "足球规则初识",
+    "nameEn": "Football rules",
+    "standards": [
+      "moe-ty-2022:SP.S2"
+    ],
+    "description": "知道越位、犯规等基本规则及场上位置。",
+    "evidence": [
+      "说出守门员职责",
+      "识别手球犯规"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_football_pass_shoot",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "足球传射",
+    "nameEn": "Football pass shoot",
+    "standards": [
+      "moe-ty-2022:SP.S2"
+    ],
+    "description": "能与同伴短传配合并尝试射门。",
+    "evidence": [
+      "与同伴完成三次传球",
+      "射门脚法基本正确"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_football_safety",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "足球安全",
+    "nameEn": "Football safety",
+    "standards": [
+      "moe-ty-2022:SP.S2"
+    ],
+    "description": "了解护腿板、热身及对抗中的自我保护。",
+    "evidence": [
+      "赛前完成动态热身",
+      "不做危险铲球动作"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_warmup_cooldown",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "热身与放松",
+    "nameEn": "Warmup cooldown",
+    "standards": [
+      "moe-ty-2022:SP.S2"
+    ],
+    "description": "养成运动前热身、运动后拉伸的习惯。",
+    "evidence": [
+      "完成五分钟动态热身",
+      "跑后慢走并拉伸"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_outdoor_activity_safety",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "户外活动安全",
+    "nameEn": "Outdoor safety",
+    "standards": [
+      "moe-ty-2022:SP.S1"
+    ],
+    "description": "在跑步、游戏时注意场地、天气和同伴安全。",
+    "evidence": [
+      "检查活动场地无隐患",
+      "炎热天气减少暴晒"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_basketball_shoot_pass",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "篮球传投",
+    "nameEn": "Basketball skills",
+    "standards": [
+      "moe-ty-2022:SP.S3"
+    ],
+    "description": "能胸前传球、上篮或近距离投篮。",
+    "evidence": [
+      "连续上篮三次",
+      "传球到位不过高"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_basketball_defense",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "篮球防守",
+    "nameEn": "Basketball defense",
+    "standards": [
+      "moe-ty-2022:SP.S3"
+    ],
+    "description": "掌握滑步、盯人防守基本站位。",
+    "evidence": [
+      "防守时保持低重心",
+      "不拉拽对手"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_table_tennis_stroke",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "乒乓球击球",
+    "nameEn": "Table tennis",
+    "standards": [
+      "moe-ty-2022:SP.S3"
+    ],
+    "description": "能正手攻球或推挡往返击球。",
+    "evidence": [
+      "对打十个回合",
+      "握拍姿势正确"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_table_tennis_serve",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "乒乓球发球",
+    "nameEn": "Table tennis serve",
+    "standards": [
+      "moe-ty-2022:SP.S3"
+    ],
+    "description": "能发出合法的平击或下旋球。",
+    "evidence": [
+      "发球过网落台",
+      "发球不抛过高"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_badminton_clear",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "羽毛球高远球",
+    "nameEn": "Badminton clear",
+    "standards": [
+      "moe-ty-2022:SP.S3"
+    ],
+    "description": "能发高远球并完成简单对打。",
+    "evidence": [
+      "高远球过对方底线",
+      "握拍放松转紧"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_swimming_water_safety",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "游泳与水上安全",
+    "nameEn": "Swimming safety",
+    "standards": [
+      "moe-ty-2022:SP.S3"
+    ],
+    "description": "知道不在无监护水域游泳及抽筋自救要点。",
+    "evidence": [
+      "复述防溺水六不准",
+      "演示漂浮求助姿势"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_martial_arts_basic",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "武术基本功",
+    "nameEn": "Martial arts",
+    "standards": [
+      "moe-ty-2022:SP.S3"
+    ],
+    "description": "能练习基本步型、手型及一套简化动作。",
+    "evidence": [
+      "完成五步拳套路",
+      "冲拳发声有力"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_broadcast_gymnastics",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 3,
+    "gradeEnd": 6,
+    "name": "广播体操",
+    "nameEn": "Broadcast exercises",
+    "standards": [
+      "moe-ty-2022:SP.S2"
+    ],
+    "description": "能跟上节奏完成规定广播体操。",
+    "evidence": [
+      "整套动作连贯",
+      "节拍与动作一致"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_traditional_sports_games",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 3,
+    "gradeEnd": 6,
+    "name": "传统体育游戏",
+    "nameEn": "Traditional games",
+    "standards": [
+      "moe-ty-2022:SP.S2"
+    ],
+    "description": "体验踢毽子、跳绳、滚铁环等传统项目。",
+    "evidence": [
+      "连续踢毽子五次",
+      "与同伴合作完成游戏"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_swimming_basics",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "游泳基础",
+    "nameEn": "Swimming basics",
+    "standards": [
+      "moe-ty-2022:SP.S4"
+    ],
+    "description": "能在水中换气、漂浮并尝试一种泳姿。",
+    "evidence": [
+      "水中连续换气五次",
+      "蹬壁出发流线型"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_track_sprint_hurdle",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "田径短跑跨栏",
+    "nameEn": "Track sprint",
+    "standards": [
+      "moe-ty-2022:SP.S4"
+    ],
+    "description": "掌握短跑、跨栏或接力技术要点。",
+    "evidence": [
+      "百米跑成绩进步",
+      "跨栏节奏稳定"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_track_field_events",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "田赛项目",
+    "nameEn": "Field events",
+    "standards": [
+      "moe-ty-2022:SP.S4"
+    ],
+    "description": "能完成跳远、投掷等田赛基本技术。",
+    "evidence": [
+      "实心球出手角度合理",
+      "跳远助跑节奏正确"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_gymnastics_apparatus",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "体操器械",
+    "nameEn": "Gymnastics apparatus",
+    "standards": [
+      "moe-ty-2022:SP.S4"
+    ],
+    "description": "能在保护与帮助下完成简单器械动作。",
+    "evidence": [
+      "完成跳箱支撑越",
+      "双杠支撑摆动"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_volleyball_serve",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "排球发球",
+    "nameEn": "Volleyball serve",
+    "standards": [
+      "moe-ty-2022:SP.S4"
+    ],
+    "description": "能用下手或上手动作发球过网。",
+    "evidence": [
+      "发球成功率提高",
+      "发球前观察站位"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_team_tactics_intro",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "团队战术初识",
+    "nameEn": "Team tactics",
+    "standards": [
+      "moe-ty-2022:SP.S4"
+    ],
+    "description": "理解传切、掩护等基本配合概念。",
+    "evidence": [
+      "在比赛中完成一次配合",
+      "说明站位分工"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_balanced_diet",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "均衡饮食",
+    "nameEn": "Balanced diet",
+    "standards": [
+      "moe-ty-2022:HE.S1"
+    ],
+    "description": "知道每天摄入谷薯、蔬果、肉蛋奶等多样食物。",
+    "evidence": [
+      "画出一天均衡餐盘",
+      "说出三种健康零食"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_breakfast_importance",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "早餐重要性",
+    "nameEn": "Breakfast",
+    "standards": [
+      "moe-ty-2022:HE.S1"
+    ],
+    "description": "了解规律吃早餐对学习和生长的作用。",
+    "evidence": [
+      "记录一周早餐情况",
+      "设计一份健康早餐"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_posture_spine_care",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "姿势与脊柱",
+    "nameEn": "Posture care",
+    "standards": [
+      "moe-ty-2022:HE.S1"
+    ],
+    "description": "保持正确站坐姿势，避免长时间弯腰驼背。",
+    "evidence": [
+      "自检读写姿势",
+      "书包双肩背"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_sleep_hygiene",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "睡眠卫生",
+    "nameEn": "Sleep hygiene",
+    "standards": [
+      "moe-ty-2022:HE.S2"
+    ],
+    "description": "知道充足睡眠有助于恢复和专注，养成固定作息。",
+    "evidence": [
+      "记录就寝与起床时间",
+      "睡前减少屏幕使用"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_eye_care_habits",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "用眼卫生",
+    "nameEn": "Eye care",
+    "standards": [
+      "moe-ty-2022:HE.S2"
+    ],
+    "description": "保持读写距离、光线充足并定时休息眼睛。",
+    "evidence": [
+      "演示正确读写姿势",
+      "完成眼保健操"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_health_goal_setting",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "健康目标设定",
+    "nameEn": "Health goals",
+    "standards": [
+      "moe-ty-2022:HE.S2"
+    ],
+    "description": "能设定可测量的运动或饮食小目标并跟踪。",
+    "evidence": [
+      "设定每周运动三次",
+      "记录目标完成情况"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_nutrition_labels",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "营养标签",
+    "nameEn": "Nutrition labels",
+    "standards": [
+      "moe-ty-2022:HE.S3"
+    ],
+    "description": "能读懂包装上的能量、糖、盐等信息并做选择。",
+    "evidence": [
+      "比较两种饮料含糖量",
+      "选择低糖健康食品"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_hydration_exercise",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "运动补水",
+    "nameEn": "Hydration",
+    "standards": [
+      "moe-ty-2022:HE.S3"
+    ],
+    "description": "知道运动前后适量补水，避免脱水。",
+    "evidence": [
+      "说明运动中何时喝水",
+      "识别脱水早期信号"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_first_aid_basics",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "急救基础",
+    "nameEn": "First aid basics",
+    "standards": [
+      "moe-ty-2022:HE.S3"
+    ],
+    "description": "掌握擦伤处理、止血包扎及求助流程。",
+    "evidence": [
+      "演示清洁伤口步骤",
+      "拨打120说明情况"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_cpr_aed_awareness",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "心肺复苏认知",
+    "nameEn": "CPR awareness",
+    "standards": [
+      "moe-ty-2022:HE.S4"
+    ],
+    "description": "了解心肺复苏与AED使用的基本流程与意义。",
+    "evidence": [
+      "复述CPR步骤",
+      "找出校园AED位置"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_injury_prevention",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "运动损伤预防",
+    "nameEn": "Injury prevention",
+    "standards": [
+      "moe-ty-2022:HE.S4"
+    ],
+    "description": "知道热身、放松、循序渐进原则以预防损伤。",
+    "evidence": [
+      "制定赛前热身计划",
+      "识别过度训练信号"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_mental_health_stress",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "压力与情绪",
+    "nameEn": "Mental health",
+    "standards": [
+      "moe-ty-2022:HE.S4"
+    ],
+    "description": "能识别考试等压力并采用运动、呼吸等方法调节。",
+    "evidence": [
+      "说出两种减压方法",
+      "运动后记录心情变化"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_substance_avoidance",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "拒绝烟酒毒品",
+    "nameEn": "Substance avoidance",
+    "standards": [
+      "moe-ty-2022:HE.S4"
+    ],
+    "description": "了解烟酒毒品对健康的危害并坚定拒绝。",
+    "evidence": [
+      "列举吸烟三种危害",
+      "角色扮演拒绝递烟"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_follow_rules",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体育品德",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "遵守规则",
+    "nameEn": "Follow rules",
+    "standards": [
+      "moe-ty-2022:CH.S1"
+    ],
+    "description": "在游戏中自觉遵守规则，服从裁判或教师口令。",
+    "evidence": [
+      "犯规后主动承认",
+      "提醒同伴遵守规则"
+    ]
+  },
+  {
+    "id": "mt_ty_s1_respect_opponents",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体育品德",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "尊重对手",
+    "nameEn": "Respect opponents",
+    "standards": [
+      "moe-ty-2022:CH.S1"
+    ],
+    "description": "比赛前后与对手握手，不嘲笑失误。",
+    "evidence": [
+      "赛后向对手致谢",
+      "对手得分时不打扰"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_teamwork_cooperation",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体育品德",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "团队合作",
+    "nameEn": "Teamwork",
+    "standards": [
+      "moe-ty-2022:CH.S2"
+    ],
+    "description": "在集体项目中主动配合、鼓励同伴。",
+    "evidence": [
+      "传球给位置更佳队友",
+      "落后时为同伴加油"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_fair_play",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体育品德",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "公平竞赛",
+    "nameEn": "Fair play",
+    "standards": [
+      "moe-ty-2022:CH.S2"
+    ],
+    "description": "拒绝作弊，尊重判罚，体现体育精神。",
+    "evidence": [
+      "主动报告出界球",
+      "不因判罚与裁判争执"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_sport_event_etiquette",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体育品德",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "观赛礼仪",
+    "nameEn": "Event etiquette",
+    "standards": [
+      "moe-ty-2022:CH.S2"
+    ],
+    "description": "观看比赛时文明加油，不辱骂运动员或裁判。",
+    "evidence": [
+      "为双方精彩表现鼓掌",
+      "保持看台整洁"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_perseverance_effort",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体育品德",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "坚持与努力",
+    "nameEn": "Perseverance",
+    "standards": [
+      "moe-ty-2022:CH.S3"
+    ],
+    "description": "面对困难项目坚持练习，不轻言放弃。",
+    "evidence": [
+      "耐力跑坚持到终点",
+      "记录个人进步"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_resilience_setback",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体育品德",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "抗挫能力",
+    "nameEn": "Resilience",
+    "standards": [
+      "moe-ty-2022:CH.S3"
+    ],
+    "description": "比赛失利后能调整情绪，总结经验再尝试。",
+    "evidence": [
+      "失利后与队友总结",
+      "下次训练改进一点"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_leadership_rotation",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体育品德",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "轮换担当",
+    "nameEn": "Leadership rotation",
+    "standards": [
+      "moe-ty-2022:CH.S4"
+    ],
+    "description": "轮流担任队长、裁判等角色并负责任。",
+    "evidence": [
+      "担任裁判公正判罚",
+      "组织小组热身"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_sportsmanship_reflection",
+    "type": "META",
+    "subject": "体育与健康",
+    "domain": "体育品德",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "体育精神反思",
+    "nameEn": "Sportsmanship",
+    "standards": [
+      "moe-ty-2022:CH.S4"
+    ],
+    "description": "能结合实例说明尊重、公平、友谊的体育品德。",
+    "evidence": [
+      "撰写体育品德短文",
+      "举例中外运动员风范"
+    ]
+  },
+  {
+    "id": "mt_ty_s2_side_step_shuffle",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "基本运动技能",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "侧向滑步",
+    "nameEn": "Side shuffle",
+    "standards": [
+      "moe-ty-2022:MS.S2"
+    ],
+    "description": "能侧向快速移动并保持重心稳定。",
+    "evidence": [
+      "侧向滑步五米不交叉",
+      "防守站位时使用滑步"
+    ]
+  },
+  {
+    "id": "mt_ty_s4_handstand_wall",
+    "type": "PROCEDURAL",
+    "subject": "体育与健康",
+    "domain": "专项运动",
+    "gradeStart": 7,
+    "gradeEnd": 9,
+    "name": "靠墙倒立",
+    "nameEn": "Wall handstand",
+    "standards": [
+      "moe-ty-2022:SP.S4"
+    ],
+    "description": "能在保护下完成靠墙倒立体会支撑平衡。",
+    "evidence": [
+      "靠墙倒立坚持五秒",
+      "落地时屈膝缓冲"
+    ]
+  },
+  {
+    "id": "mt_ty_s3_physical_activity_guidelines",
+    "type": "CONCEPTUAL",
+    "subject": "体育与健康",
+    "domain": "健康教育",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "活动量指南",
+    "nameEn": "Activity guidelines",
+    "standards": [
+      "moe-ty-2022:HE.S3"
+    ],
+    "description": "知道每日中高强度活动建议时间并尝试达成。",
+    "evidence": [
+      "记录一天运动时长",
+      "说明久坐危害"
+    ]
+  }
+]

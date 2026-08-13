@@ -1,0 +1,15 @@
+{
+  "slug": "moe-dl-2022",
+  "country": "CN",
+  "name": "义务教育地理课程标准（2022年版）",
+  "version": "2022",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-dl-2022:EM", "code": "EM"},
+    {"key": "moe-dl-2022:WG", "code": "WG"},
+    {"key": "moe-dl-2022:CG", "code": "CG"},
+    {"key": "moe-dl-2022:LG", "code": "LG"}
+  ]
+}

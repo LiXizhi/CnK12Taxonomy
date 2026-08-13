@@ -1,0 +1,31 @@
+{
+  "slug": "moe-df-2022",
+  "country": "CN",
+  "name": "义务教育道德与法治课程标准（2022年版）",
+  "version": "2022",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known theme titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-df-2022:SELF", "code": "SELF"},
+    {"key": "moe-df-2022:SOC", "code": "SOC"},
+    {"key": "moe-df-2022:LAW", "code": "LAW"},
+    {"key": "moe-df-2022:NAT", "code": "NAT"},
+    {"key": "moe-df-2022:SELF.S1", "code": "SELF.S1"},
+    {"key": "moe-df-2022:SOC.S1", "code": "SOC.S1"},
+    {"key": "moe-df-2022:LAW.S1", "code": "LAW.S1"},
+    {"key": "moe-df-2022:NAT.S1", "code": "NAT.S1"},
+    {"key": "moe-df-2022:SELF.S2", "code": "SELF.S2"},
+    {"key": "moe-df-2022:SOC.S2", "code": "SOC.S2"},
+    {"key": "moe-df-2022:LAW.S2", "code": "LAW.S2"},
+    {"key": "moe-df-2022:NAT.S2", "code": "NAT.S2"},
+    {"key": "moe-df-2022:SELF.S3", "code": "SELF.S3"},
+    {"key": "moe-df-2022:SOC.S3", "code": "SOC.S3"},
+    {"key": "moe-df-2022:LAW.S3", "code": "LAW.S3"},
+    {"key": "moe-df-2022:NAT.S3", "code": "NAT.S3"},
+    {"key": "moe-df-2022:SELF.S4", "code": "SELF.S4"},
+    {"key": "moe-df-2022:SOC.S4", "code": "SOC.S4"},
+    {"key": "moe-df-2022:LAW.S4", "code": "LAW.S4"},
+    {"key": "moe-df-2022:NAT.S4", "code": "NAT.S4"}
+  ]
+}

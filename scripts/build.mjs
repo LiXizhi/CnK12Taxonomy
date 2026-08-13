@@ -12,7 +12,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = join(ROOT, 'src');
 const DATA = join(ROOT, 'data');
-const VERSION = '0.1.0';
+const VERSION = '0.2.0';
 
 const loadJson = (path) => JSON.parse(readFileSync(path, 'utf8'));
 const listJson = (dir) =>

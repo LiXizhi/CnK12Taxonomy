@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "mt_dl_s4_earth_shape_sphere",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "地球的形状",
+    "nameEn": "Earth shape",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "知道地球是近似球体，能说明麦哲伦航行等证据。",
+    "evidence": [
+      "描述地球形状的证据",
+      "在地球仪上指出极点和赤道"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_lat_long_grid",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "经纬网",
+    "nameEn": "Lat-long grid",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "理解经线指示南北、纬线指示东西，能在图上读出经纬度。",
+    "evidence": [
+      "读出三个城市的经纬度",
+      "说明经纬网定位的作用"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_hemisphere_division",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "半球划分",
+    "nameEn": "Hemispheres",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "能按赤道和本初子午线划分东、西、南、北半球并判断位置。",
+    "evidence": [
+      "判断北京所在半球",
+      "在空白图上标出半球界线"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_map_scale",
+    "type": "REPRESENTATIONAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "地图比例尺",
+    "nameEn": "Map scale",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "理解比例尺含义，能在图上量算实地距离。",
+    "evidence": [
+      "用比例尺计算两地距离",
+      "比较大、小比例尺地图的差异"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_map_direction",
+    "type": "REPRESENTATIONAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "地图方向",
+    "nameEn": "Map direction",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "能按指向标或经纬网判断地图方向。",
+    "evidence": [
+      "无指向标时判断图上方位的正北",
+      "根据指向标描述行进方向"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_map_legend_symbols",
+    "type": "REPRESENTATIONAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "地图图例与符号",
+    "nameEn": "Map legend",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "能读懂常见图例符号，理解其代表的地理事物。",
+    "evidence": [
+      "根据图例识别居民点与河流",
+      "为自制地图设计图例"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_map_three_elements",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "地图三要素",
+    "nameEn": "Map three elements",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "综合理解比例尺、方向、图例是地图核心要素。",
+    "evidence": [
+      "分析一张区域图的三要素",
+      "绘制含三要素的校园简图"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_contour_lines",
+    "type": "REPRESENTATIONAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "等高线地形",
+    "nameEn": "Contour lines",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "能读等高线地形图，判断坡度、鞍部、陡崖等地形部位。",
+    "evidence": [
+      "在等高线图上找山顶与山谷",
+      "说明密等高线表示陡坡"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_terrain_types",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "五种基本地形",
+    "nameEn": "Landform types",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "能区分山地、丘陵、平原、高原、盆地并举例。",
+    "evidence": [
+      "匹配地形类型与剖面示意",
+      "说出本地主要地形类型"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_earth_rotation_day_night",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "自转与昼夜",
+    "nameEn": "Rotation and day-night",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "知道地球自转产生昼夜更替，能演示晨昏线移动。",
+    "evidence": [
+      "用地球仪演示昼夜半球",
+      "解释同一时刻不同城市的时间差"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_earth_revolution_seasons",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "公转与四季",
+    "nameEn": "Revolution and seasons",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "理解公转与地轴倾斜导致四季和昼夜长短变化。",
+    "evidence": [
+      "比较夏至与冬至昼夜长短",
+      "说明南北半球季节相反"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_timezone_basics",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "时区初识",
+    "nameEn": "Time zones",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "知道经度相差15°约差1小时，能粗略计算区时。",
+    "evidence": [
+      "计算北京与伦敦的时差",
+      "解释国际日期变更线的作用"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_digital_map_basics",
+    "type": "PROCEDURAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "数字地图使用",
+    "nameEn": "Digital maps",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "能使用电子地图查位置、测距离并切换图层。",
+    "evidence": [
+      "用地图App查找指定地标",
+      "比较卫星图与地形图"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_coordinate_location",
+    "type": "PROCEDURAL",
+    "subject": "地理",
+    "domain": "地球与地图",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "经纬度定位应用",
+    "nameEn": "Coordinate location",
+    "standards": [
+      "moe-dl-2022:EM"
+    ],
+    "description": "能根据经纬度在地图或地球仪上标定位置。",
+    "evidence": [
+      "标出给定坐标的港口城市",
+      "写出家乡大致经纬度"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_land_sea_ratio",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "海陆分布",
+    "nameEn": "Land and sea",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "知道海洋占地球表面大部分，理解海陆分布格局。",
+    "evidence": [
+      "说出七大洲四大洋名称",
+      "描述陆地集中分布的半球"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_seven_continents",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "七大洲",
+    "nameEn": "Seven continents",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能在世界地图上指认七大洲并描述相对位置。",
+    "evidence": [
+      "按面积排序七大洲",
+      "说明亚洲与欧洲的分界"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_four_oceans",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "四大洋",
+    "nameEn": "Four oceans",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能在地图上指认太平洋、大西洋、印度洋、北冰洋。",
+    "evidence": [
+      "描述太平洋的位置特征",
+      "比较各大洋面积大小"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_plate_tectonics_intro",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "板块构造初识",
+    "nameEn": "Plate tectonics",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "知道岩石圈分为若干板块，板块交界多火山地震。",
+    "evidence": [
+      "在世界图上找环太平洋地震带",
+      "解释喜马拉雅山形成原因"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_volcano_earthquake_belt",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "火山与地震带",
+    "nameEn": "Volcano and quake belts",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能说出主要火山地震带分布及成因。",
+    "evidence": [
+      "标注主要地震带",
+      "说明地震预警与避险要点"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_climate_belt_zonation",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "气候带分布",
+    "nameEn": "Climate belts",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "理解纬度、海陆、地形影响下的气候带分布规律。",
+    "evidence": [
+      "在世界气候图上找热带位置",
+      "说明同纬度沿海与内陆气候差异"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_tropical_climate",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "热带气候类型",
+    "nameEn": "Tropical climates",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能区分热带雨林、热带草原、热带季风、热带沙漠气候特征。",
+    "evidence": [
+      "匹配气候类型与气温降水图",
+      "举例热带气候分布区"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_temperate_climate",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "温带气候类型",
+    "nameEn": "Temperate climates",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能描述温带海洋、温带大陆、温带季风等气候特点。",
+    "evidence": [
+      "读温带城市气温降水资料",
+      "比较欧洲西部与内陆气候"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_polar_climate",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "寒带气候",
+    "nameEn": "Polar climates",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "知道寒带全年低温，能联系极地环境与人类活动。",
+    "evidence": [
+      "描述南极气候特征",
+      "说明北极地区居民生活方式"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_monsoon_climate",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "季风气候",
+    "nameEn": "Monsoon climate",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "理解季风是海陆热力差异形成的季节性风向转换。",
+    "evidence": [
+      "比较冬夏季风风向",
+      "说明季风对农业的影响"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_climate_chart_reading",
+    "type": "REPRESENTATIONAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "气候资料判读",
+    "nameEn": "Climate charts",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能读气温曲线和降水柱状图判断气候类型。",
+    "evidence": [
+      "根据资料判断气候类型",
+      "说明判读依据"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_population_distribution",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "世界人口分布",
+    "nameEn": "World population",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "知道人口分布不均，能分析地形、气候、经济等因素。",
+    "evidence": [
+      "描述人口稠密与稀疏区",
+      "解释平原沿海人口多的原因"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_urban_rural_settlement",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "城乡聚落",
+    "nameEn": "Urban and rural",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能区分城市与乡村聚落，理解区位、交通对聚落的影响。",
+    "evidence": [
+      "比较两种聚落景观差异",
+      "分析河流对古城选址的作用"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_asia_location_range",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "亚洲位置范围",
+    "nameEn": "Asia location",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能在地图上描述亚洲跨纬度、经度范围及濒临海洋。",
+    "evidence": [
+      "说出亚洲相邻的大洲大洋",
+      "描述亚洲为何称世界第一大洲"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_asia_physical_geo",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "亚洲自然地理",
+    "nameEn": "Asia physical",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能概述亚洲地形复杂、河流放射状分布等自然特征。",
+    "evidence": [
+      "找出亚洲主要高原与平原",
+      "说明长江、湄公河流向特点"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_asia_economy_population",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "亚洲经济人口",
+    "nameEn": "Asia economy",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "了解亚洲人口大国与主要经济区分布。",
+    "evidence": [
+      "列举亚洲主要发展中国家",
+      "说明西亚石油资源地位"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_europe_location_features",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "欧洲位置特征",
+    "nameEn": "Europe location",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能描述欧洲海岸线曲折、内河航运发达等特点。",
+    "evidence": [
+      "在图上找主要半岛与海峡",
+      "说明欧洲地形以平原为主"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_europe_climate_agriculture",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "欧洲气候与农业",
+    "nameEn": "Europe climate",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "知道温带海洋性气候广布，理解其与畜牧业、旅游业关系。",
+    "evidence": [
+      "描述西欧气候对农业影响",
+      "举例欧洲著名旅游城市"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_africa_location_features",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "非洲位置特征",
+    "nameEn": "Africa location",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能描述非洲跨赤道、以高原为主的地形特征。",
+    "evidence": [
+      "找出撒哈拉沙漠与刚果盆地",
+      "说明东非大裂谷地理意义"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_africa_climate_resources",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "非洲气候与资源",
+    "nameEn": "Africa resources",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "了解非洲气候对称分布及矿产、生物资源特点。",
+    "evidence": [
+      "描述赤道附近气候带",
+      "举例非洲主要出口矿产"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_americas_overview",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "美洲概况",
+    "nameEn": "Americas overview",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能概述南北美洲地形、气候及主要国家分布。",
+    "evidence": [
+      "比较安第斯山与落基山",
+      "说明巴拿马运河的地理意义"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_oceania_antarctica",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "大洋洲与南极",
+    "nameEn": "Oceania and Antarctica",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "了解澳大利亚大陆特征及南极科学考察意义。",
+    "evidence": [
+      "描述澳大利亚气候与牧羊业",
+      "说明南极保护的环境价值"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_world_agriculture_pattern",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "世界农业分布",
+    "nameEn": "World agriculture",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "能联系自然条件说明世界主要农业类型分布。",
+    "evidence": [
+      "匹配农业类型与分布区",
+      "解释美国中部小麦带成因"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_global_environment_issues",
+    "type": "META",
+    "subject": "地理",
+    "domain": "世界地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "全球环境问题",
+    "nameEn": "Global environment",
+    "standards": [
+      "moe-dl-2022:WG"
+    ],
+    "description": "知道全球变暖、海洋污染等问题的表现与跨国合作。",
+    "evidence": [
+      "列举两种全球环境问题",
+      "提出个人减碳行动"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_location_territory",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "中国位置与疆域",
+    "nameEn": "China location",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "能在地图上描述中国海陆位置、四至点及邻国。",
+    "evidence": [
+      "说出中国濒临的海洋",
+      "描述中国南北跨纬度特点"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_admin_divisions",
+    "type": "REPRESENTATIONAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "行政区划",
+    "nameEn": "Admin divisions",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "知道省、自治区、直辖市、特别行政区四级结构。",
+    "evidence": [
+      "在图上找自治区与直辖市",
+      "说出本省相邻省级行政区"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_topography",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "中国地形特征",
+    "nameEn": "China topography",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "能概述地形复杂多样、山区面积大的特点。",
+    "evidence": [
+      "描述中国地形骨架",
+      "说明地形对交通的影响"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_three_steps",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "三级阶梯",
+    "nameEn": "Three terrain steps",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "理解西高东低三级阶梯及主要分界线。",
+    "evidence": [
+      "标出阶梯分界线",
+      "说明阶梯过渡带的地理意义"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_major_mountains",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "主要山脉",
+    "nameEn": "Major mountains",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "能在图上指认喜马拉雅、昆仑、秦岭等主要山脉。",
+    "evidence": [
+      "描述山脉走向分类",
+      "说明秦岭南北地理差异"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_rivers_lakes",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "主要河湖",
+    "nameEn": "Rivers and lakes",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "知道长江、黄河、珠江等流向及重要湖泊。",
+    "evidence": [
+      "比较长江与黄河水文特征",
+      "说明塔里木河的内流特征"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_climate_overview",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "中国气候概况",
+    "nameEn": "China climate",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "能概述季风气候显著、气候复杂多样。",
+    "evidence": [
+      "读中国温度带分布图",
+      "说明降水从东南向西北递减"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_monsoon_effect_china",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "季风对中国影响",
+    "nameEn": "Monsoon in China",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "理解夏季风带来降水、冬季风带来干冷。",
+    "evidence": [
+      "解释南方雨季与北方差异",
+      "说明旱涝灾害与季风关系"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_northeast_region",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "东北三省",
+    "nameEn": "Northeast China",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "能描述东北平原、黑土、重工业及商品粮基地特征。",
+    "evidence": [
+      "说明东北冬季漫长原因",
+      "列举东北主要工业城市"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_north_china_region",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "华北地区",
+    "nameEn": "North China",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "了解华北平原、黄土高原及水资源短缺问题。",
+    "evidence": [
+      "描述华北春旱成因",
+      "说明南水北调对华北意义"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_northwest_region",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "西北内陆",
+    "nameEn": "Northwest China",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "能描述干旱气候、绿洲农业及能源资源分布。",
+    "evidence": [
+      "解释西北深居内陆的影响",
+      "举例塔里木盆地油气资源"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_south_china_region",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "南方地区",
+    "nameEn": "South China",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "了解南方丘陵、水田农业及外向型经济特点。",
+    "evidence": [
+      "比较南方与北方农业差异",
+      "说明珠江三角洲产业特色"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_qinghai_tibet_region",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "青藏地区",
+    "nameEn": "Qinghai-Tibet",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "能描述高寒气候、太阳能资源及生态保护。",
+    "evidence": [
+      "说明青藏铁路建设挑战",
+      "列举高原特有动植物"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_four_regions_compare",
+    "type": "META",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "四大区域比较",
+    "nameEn": "Four regions compare",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "能比较四大地理区域的自然与人文差异。",
+    "evidence": [
+      "完成四大区域对比表",
+      "说明区域差异对生活方式影响"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_population_ethnic",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "人口与民族",
+    "nameEn": "Population and ethnic",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "知道人口分布东多西少及民族大杂居、小聚居。",
+    "evidence": [
+      "描述胡焕庸线两侧人口",
+      "举例民族自治地方"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_agriculture",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "中国农业",
+    "nameEn": "China agriculture",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "了解主要粮食作物、经济作物及农业现代化。",
+    "evidence": [
+      "匹配作物与主产区",
+      "说明杂交水稻的意义"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_china_industry_layout",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "工业布局",
+    "nameEn": "Industry layout",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "能描述沿海、沿江工业带及高新技术产业区。",
+    "evidence": [
+      "找出主要工业基地",
+      "说明资源型城市转型"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_water_resources_mismatch",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "水资源与调水",
+    "nameEn": "Water resources",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "理解时空分布不均，知道南水北调等重大工程。",
+    "evidence": [
+      "解释华北缺水原因",
+      "描述调水工程线路"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_land_resources_protection",
+    "type": "META",
+    "subject": "地理",
+    "domain": "中国地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "土地资源保护",
+    "nameEn": "Land protection",
+    "standards": [
+      "moe-dl-2022:CG"
+    ],
+    "description": "知道耕地保护、退耕还林还草等可持续利用措施。",
+    "evidence": [
+      "列举两种土地退化表现",
+      "提出保护耕地建议"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_hometown_map_sketch",
+    "type": "PROCEDURAL",
+    "subject": "地理",
+    "domain": "乡土地理",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "家乡地图绘制",
+    "nameEn": "Hometown map",
+    "standards": [
+      "moe-dl-2022:LG"
+    ],
+    "description": "能调查家乡主要地理要素并绘制比例合适的简图。",
+    "evidence": [
+      "绘制含图例的家乡简图",
+      "标注学校与主要道路"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_local_landforms_survey",
+    "type": "PROCEDURAL",
+    "subject": "地理",
+    "domain": "乡土地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "乡土地形调查",
+    "nameEn": "Local landforms",
+    "standards": [
+      "moe-dl-2022:LG"
+    ],
+    "description": "能观察并记录家乡地形、河流、植被等特点。",
+    "evidence": [
+      "完成一份地形观察记录",
+      "拍摄并说明一处地貌"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_local_climate_records",
+    "type": "PROCEDURAL",
+    "subject": "地理",
+    "domain": "乡土地理",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "乡土气候记录",
+    "nameEn": "Local climate",
+    "standards": [
+      "moe-dl-2022:LG"
+    ],
+    "description": "能连续观测并记录本地气温、降水或天气现象。",
+    "evidence": [
+      "记录一周天气变化",
+      "比较观测与预报差异"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_community_land_use",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "乡土地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "社区土地利用",
+    "nameEn": "Community land use",
+    "standards": [
+      "moe-dl-2022:LG"
+    ],
+    "description": "能识别居住区、商业区、绿地等土地利用类型。",
+    "evidence": [
+      "在航拍图识别功能区",
+      "讨论社区绿地需求"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_local_industry_services",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "乡土地理",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "乡土产业与服务",
+    "nameEn": "Local economy",
+    "standards": [
+      "moe-dl-2022:LG"
+    ],
+    "description": "了解家乡主要产业、特产及公共服务设施。",
+    "evidence": [
+      "采访介绍一种本地特产",
+      "在地图上标出主要市场"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_local_environment_issues",
+    "type": "META",
+    "subject": "地理",
+    "domain": "乡土地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "乡土环境问题",
+    "nameEn": "Local environment",
+    "standards": [
+      "moe-dl-2022:LG"
+    ],
+    "description": "能发现身边环境问题并提出可行改善建议。",
+    "evidence": [
+      "调查一条河流或街道卫生",
+      "提出两条社区环保倡议"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_field_survey_methods",
+    "type": "META",
+    "subject": "地理",
+    "domain": "乡土地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "地理调查方法",
+    "nameEn": "Field survey",
+    "standards": [
+      "moe-dl-2022:LG"
+    ],
+    "description": "掌握问卷、访谈、观察等基本乡土调查步骤。",
+    "evidence": [
+      "设计一份简短调查问卷",
+      "汇总调查结果并展示"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_local_heritage_geography",
+    "type": "CONCEPTUAL",
+    "subject": "地理",
+    "domain": "乡土地理",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "乡土文化遗产",
+    "nameEn": "Local heritage",
+    "standards": [
+      "moe-dl-2022:LG"
+    ],
+    "description": "能联系地理条件说明本地建筑、习俗或遗产特点。",
+    "evidence": [
+      "介绍一处本地历史地标",
+      "说明地形对聚落形态影响"
+    ]
+  },
+  {
+    "id": "mt_dl_s4_hometown_presentation",
+    "type": "PROCEDURAL",
+    "subject": "地理",
+    "domain": "乡土地理",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "家乡地理展示",
+    "nameEn": "Hometown presentation",
+    "standards": [
+      "moe-dl-2022:LG"
+    ],
+    "description": "能综合运用地图、照片和数据做家乡地理汇报。",
+    "evidence": [
+      "完成五分钟家乡介绍",
+      "回答同学关于乡土的提问"
+    ]
+  }
+]

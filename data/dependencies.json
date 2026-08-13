@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "note": "topicId depends on prerequisiteId. Auto-wired within (subject, domain) by grade, plus src/dependencies extras.",
-  "edgeCount": 1275,
+  "edgeCount": 2094,
   "dependencies": [
     {
       "topicId": "mt_math_s2_rectangle_area",
@@ -206,6 +206,990 @@
       "prerequisiteId": "mt_chinese_s1_pinyin_initials_finals",
       "strength": "soft",
       "reason": "键盘输入拼音依赖声母韵母认读。"
+    },
+    {
+      "topicId": "mt_df_s2_internet_personal_info",
+      "prerequisiteId": "mt_it_s1_personal_info_privacy",
+      "strength": "soft",
+      "reason": "道法谈网络个人信息保护，建立在信息科技「个人信息要保密」之上。"
+    },
+    {
+      "topicId": "mt_it_s4_data_privacy_law",
+      "prerequisiteId": "mt_df_s3_constitution_intro",
+      "strength": "soft",
+      "reason": "理解数据与隐私法规，需要先知道宪法与公民基本权利。"
+    },
+    {
+      "topicId": "mt_df_s4_rule_of_law_thinking",
+      "prerequisiteId": "mt_ls_s4_opium_war_1840",
+      "strength": "soft",
+      "reason": "近代史主权受损的史实，为法治思维提供历史对照。"
+    },
+    {
+      "topicId": "mt_ls_s4_map_reading_history",
+      "prerequisiteId": "mt_dl_s4_lat_long_grid",
+      "strength": "soft",
+      "reason": "读历史地图依赖经纬网与方位基础。"
+    },
+    {
+      "topicId": "mt_dl_s4_hometown_map_sketch",
+      "prerequisiteId": "mt_math_s3_ratio_scale",
+      "strength": "soft",
+      "reason": "绘制家乡简图需要比例尺意识。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_climate_overview",
+      "prerequisiteId": "mt_science_s3_climate_vs_weather",
+      "strength": "soft",
+      "reason": "中国气候概况建立在科学课「气候与天气」区分之上。"
+    },
+    {
+      "topicId": "mt_dl_s4_plate_tectonics_intro",
+      "prerequisiteId": "mt_science_s2_earth_layers_intro",
+      "strength": "soft",
+      "reason": "板块构造需要先知道地球内部圈层。"
+    },
+    {
+      "topicId": "mt_dl_s4_earth_rotation_day_night",
+      "prerequisiteId": "mt_science_s1_day_and_night",
+      "strength": "soft",
+      "reason": "地理自转与昼夜，承接科学课昼夜交替观察。"
+    },
+    {
+      "topicId": "mt_ty_s2_eye_care_habits",
+      "prerequisiteId": "mt_df_s2_eye_care_screen",
+      "strength": "soft",
+      "reason": "体育用眼卫生与道法屏幕时间习惯互相强化。"
+    },
+    {
+      "topicId": "mt_ty_s3_first_aid_basics",
+      "prerequisiteId": "mt_df_s3_first_aid_basics",
+      "strength": "soft",
+      "reason": "体育急救包扎建立在道法常见外伤处理之上。"
+    },
+    {
+      "topicId": "mt_df_s4_life_skills_cooking",
+      "prerequisiteId": "mt_ld_s3_cooking_simple_meal",
+      "strength": "soft",
+      "reason": "道法生活自理中的烹饪，承接劳动课简易烹饪。"
+    },
+    {
+      "topicId": "mt_ld_s1_water_plants",
+      "prerequisiteId": "mt_science_s1_plant_needs",
+      "strength": "soft",
+      "reason": "给植物浇水需要知道植物生长需要水。"
+    },
+    {
+      "topicId": "mt_ld_s2_plant_vegetables_box",
+      "prerequisiteId": "mt_science_s1_plant_needs",
+      "strength": "soft",
+      "reason": "箱式种植需要先理解植物生长条件。"
+    },
+    {
+      "topicId": "mt_ld_s1_wash_hands_face",
+      "prerequisiteId": "mt_df_s1_wash_hands_habit",
+      "strength": "soft",
+      "reason": "劳动洗手洗脸承接道法饭前便后洗手习惯。"
+    },
+    {
+      "topicId": "mt_ys_s3_calligraphy_strokes",
+      "prerequisiteId": "mt_chinese_s2_calligraphy_basics",
+      "strength": "soft",
+      "reason": "毛笔书法笔画承接语文硬笔书法初步。"
+    },
+    {
+      "topicId": "mt_ys_s1_festival_spring_art",
+      "prerequisiteId": "mt_df_s1_spring_festival_customs",
+      "strength": "soft",
+      "reason": "春节艺术形式建立在道法传统节日习俗之上。"
+    },
+    {
+      "topicId": "mt_ys_s1_instrument_sound_perceive",
+      "prerequisiteId": "mt_ys_s1_high_low_pitch",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「音高辨别」为「乐器音色感知」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_listening_concentration",
+      "prerequisiteId": "mt_ys_s1_instrument_sound_perceive",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「乐器音色感知」为「专注聆听」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_listening_concentration",
+      "prerequisiteId": "mt_ys_s1_high_low_pitch",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「音高辨别」支撑「专注聆听」。"
+    },
+    {
+      "topicId": "mt_ys_s1_nursery_song_sing",
+      "prerequisiteId": "mt_ys_s1_listening_concentration",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「专注聆听」为「儿歌演唱」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_nursery_song_sing",
+      "prerequisiteId": "mt_ys_s1_instrument_sound_perceive",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「乐器音色感知」支撑「儿歌演唱」。"
+    },
+    {
+      "topicId": "mt_ys_s1_rhythm_echo",
+      "prerequisiteId": "mt_ys_s1_nursery_song_sing",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「儿歌演唱」为「节奏模仿」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_rhythm_echo",
+      "prerequisiteId": "mt_ys_s1_listening_concentration",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「专注聆听」支撑「节奏模仿」。"
+    },
+    {
+      "topicId": "mt_ys_s1_singing_breath",
+      "prerequisiteId": "mt_ys_s1_rhythm_echo",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「节奏模仿」为「歌唱呼吸」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_singing_breath",
+      "prerequisiteId": "mt_ys_s1_nursery_song_sing",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「儿歌演唱」支撑「歌唱呼吸」。"
+    },
+    {
+      "topicId": "mt_ys_s1_steady_beat_clap",
+      "prerequisiteId": "mt_ys_s1_singing_breath",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「歌唱呼吸」为「稳定拍击」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_steady_beat_clap",
+      "prerequisiteId": "mt_ys_s1_rhythm_echo",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「节奏模仿」支撑「稳定拍击」。"
+    },
+    {
+      "topicId": "mt_ys_s2_classroom_instruments",
+      "prerequisiteId": "mt_ys_s1_steady_beat_clap",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「稳定拍击」，再学习「课堂乐器」。"
+    },
+    {
+      "topicId": "mt_ys_s2_classroom_instruments",
+      "prerequisiteId": "mt_ys_s1_singing_breath",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「歌唱呼吸」支撑「课堂乐器」。"
+    },
+    {
+      "topicId": "mt_ys_s2_drumming_patterns",
+      "prerequisiteId": "mt_ys_s2_classroom_instruments",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「课堂乐器」为「鼓点型练习」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_drumming_patterns",
+      "prerequisiteId": "mt_ys_s1_steady_beat_clap",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「稳定拍击」支撑「鼓点型练习」。"
+    },
+    {
+      "topicId": "mt_ys_s2_melody_line_shape",
+      "prerequisiteId": "mt_ys_s2_drumming_patterns",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「鼓点型练习」为「旋律线条」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_melody_line_shape",
+      "prerequisiteId": "mt_ys_s2_classroom_instruments",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「课堂乐器」支撑「旋律线条」。"
+    },
+    {
+      "topicId": "mt_ys_s2_note_duration",
+      "prerequisiteId": "mt_ys_s2_melody_line_shape",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「旋律线条」为「音符时值」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_note_duration",
+      "prerequisiteId": "mt_ys_s2_drumming_patterns",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「鼓点型练习」支撑「音符时值」。"
+    },
+    {
+      "topicId": "mt_ys_s2_rhythm_instrument_make",
+      "prerequisiteId": "mt_ys_s2_note_duration",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「音符时值」为「自制节奏乐器」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_rhythm_instrument_make",
+      "prerequisiteId": "mt_ys_s2_melody_line_shape",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「旋律线条」支撑「自制节奏乐器」。"
+    },
+    {
+      "topicId": "mt_ys_s2_tempo_dynamics",
+      "prerequisiteId": "mt_ys_s2_rhythm_instrument_make",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「自制节奏乐器」为「速度与力度」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_tempo_dynamics",
+      "prerequisiteId": "mt_ys_s2_note_duration",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「音符时值」支撑「速度与力度」。"
+    },
+    {
+      "topicId": "mt_ys_s2_two_part_singing",
+      "prerequisiteId": "mt_ys_s2_tempo_dynamics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「速度与力度」为「简单合唱」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_two_part_singing",
+      "prerequisiteId": "mt_ys_s2_rhythm_instrument_make",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「自制节奏乐器」支撑「简单合唱」。"
+    },
+    {
+      "topicId": "mt_ys_s3_choral_blend",
+      "prerequisiteId": "mt_ys_s2_two_part_singing",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「简单合唱」，再学习「合唱融合」。"
+    },
+    {
+      "topicId": "mt_ys_s3_choral_blend",
+      "prerequisiteId": "mt_ys_s2_tempo_dynamics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「速度与力度」支撑「合唱融合」。"
+    },
+    {
+      "topicId": "mt_ys_s3_composer_work_intro",
+      "prerequisiteId": "mt_ys_s3_choral_blend",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「合唱融合」为「作曲家与作品」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_composer_work_intro",
+      "prerequisiteId": "mt_ys_s2_two_part_singing",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「简单合唱」支撑「作曲家与作品」。"
+    },
+    {
+      "topicId": "mt_ys_s3_ensemble_cooperation",
+      "prerequisiteId": "mt_ys_s3_composer_work_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「作曲家与作品」为「小合奏配合」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_ensemble_cooperation",
+      "prerequisiteId": "mt_ys_s3_choral_blend",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「合唱融合」支撑「小合奏配合」。"
+    },
+    {
+      "topicId": "mt_ys_s3_music_improvisation",
+      "prerequisiteId": "mt_ys_s3_ensemble_cooperation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「小合奏配合」为「即兴表现」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_music_improvisation",
+      "prerequisiteId": "mt_ys_s3_composer_work_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「作曲家与作品」支撑「即兴表现」。"
+    },
+    {
+      "topicId": "mt_ys_s3_music_notation_intro",
+      "prerequisiteId": "mt_ys_s3_music_improvisation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「即兴表现」为「简谱识读」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_music_notation_intro",
+      "prerequisiteId": "mt_ys_s3_ensemble_cooperation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「小合奏配合」支撑「简谱识读」。"
+    },
+    {
+      "topicId": "mt_ys_s4_creative_melody",
+      "prerequisiteId": "mt_ys_s3_music_notation_intro",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「简谱识读」，再学习「旋律创编」。"
+    },
+    {
+      "topicId": "mt_ys_s4_creative_melody",
+      "prerequisiteId": "mt_ys_s3_music_improvisation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「即兴表现」支撑「旋律创编」。"
+    },
+    {
+      "topicId": "mt_ys_s4_harmony_basics",
+      "prerequisiteId": "mt_ys_s4_creative_melody",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「旋律创编」为「和声基础」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_harmony_basics",
+      "prerequisiteId": "mt_ys_s3_music_notation_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「简谱识读」支撑「和声基础」。"
+    },
+    {
+      "topicId": "mt_ys_s4_music_style_compare",
+      "prerequisiteId": "mt_ys_s4_harmony_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「和声基础」为「音乐风格比较」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_music_style_compare",
+      "prerequisiteId": "mt_ys_s4_creative_melody",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「旋律创编」支撑「音乐风格比较」。"
+    },
+    {
+      "topicId": "mt_ys_s4_vocal_health",
+      "prerequisiteId": "mt_ys_s4_music_style_compare",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「音乐风格比较」为「嗓音保健」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_vocal_health",
+      "prerequisiteId": "mt_ys_s4_harmony_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「和声基础」支撑「嗓音保健」。"
+    },
+    {
+      "topicId": "mt_ys_s1_color_primary_mix",
+      "prerequisiteId": "mt_ys_s1_collage_paper",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「纸材拼贴」为「原色与混合」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_line_drawing_shape",
+      "prerequisiteId": "mt_ys_s1_color_primary_mix",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「原色与混合」为「线条与形状」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_line_drawing_shape",
+      "prerequisiteId": "mt_ys_s1_collage_paper",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「纸材拼贴」支撑「线条与形状」。"
+    },
+    {
+      "topicId": "mt_ys_s1_warm_cool_colors",
+      "prerequisiteId": "mt_ys_s1_line_drawing_shape",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「线条与形状」为「冷暖色感受」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_warm_cool_colors",
+      "prerequisiteId": "mt_ys_s1_color_primary_mix",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「原色与混合」支撑「冷暖色感受」。"
+    },
+    {
+      "topicId": "mt_ys_s2_art_safety_tools",
+      "prerequisiteId": "mt_ys_s1_warm_cool_colors",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「冷暖色感受」，再学习「美术工具安全」。"
+    },
+    {
+      "topicId": "mt_ys_s2_art_safety_tools",
+      "prerequisiteId": "mt_ys_s1_line_drawing_shape",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「线条与形状」支撑「美术工具安全」。"
+    },
+    {
+      "topicId": "mt_ys_s2_composition_center",
+      "prerequisiteId": "mt_ys_s2_art_safety_tools",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「美术工具安全」为「画面构图」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_composition_center",
+      "prerequisiteId": "mt_ys_s1_warm_cool_colors",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「冷暖色感受」支撑「画面构图」。"
+    },
+    {
+      "topicId": "mt_ys_s2_craft_material_explore",
+      "prerequisiteId": "mt_ys_s2_composition_center",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「画面构图」为「材料探索」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_craft_material_explore",
+      "prerequisiteId": "mt_ys_s2_art_safety_tools",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「美术工具安全」支撑「材料探索」。"
+    },
+    {
+      "topicId": "mt_ys_s2_pattern_design",
+      "prerequisiteId": "mt_ys_s2_craft_material_explore",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「材料探索」为「纹样设计」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_pattern_design",
+      "prerequisiteId": "mt_ys_s2_composition_center",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「画面构图」支撑「纹样设计」。"
+    },
+    {
+      "topicId": "mt_ys_s2_printmaking_basic",
+      "prerequisiteId": "mt_ys_s2_pattern_design",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「纹样设计」为「版画初体验」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_printmaking_basic",
+      "prerequisiteId": "mt_ys_s2_craft_material_explore",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「材料探索」支撑「版画初体验」。"
+    },
+    {
+      "topicId": "mt_ys_s2_shading_light",
+      "prerequisiteId": "mt_ys_s2_printmaking_basic",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「版画初体验」为「明暗与体积」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_shading_light",
+      "prerequisiteId": "mt_ys_s2_pattern_design",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「纹样设计」支撑「明暗与体积」。"
+    },
+    {
+      "topicId": "mt_ys_s2_watercolor_wash",
+      "prerequisiteId": "mt_ys_s2_shading_light",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「明暗与体积」为「水彩晕染」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_watercolor_wash",
+      "prerequisiteId": "mt_ys_s2_printmaking_basic",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「版画初体验」支撑「水彩晕染」。"
+    },
+    {
+      "topicId": "mt_ys_s3_calligraphy_strokes",
+      "prerequisiteId": "mt_ys_s2_watercolor_wash",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「水彩晕染」，再学习「书法基本笔画」。"
+    },
+    {
+      "topicId": "mt_ys_s3_calligraphy_strokes",
+      "prerequisiteId": "mt_ys_s2_shading_light",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「明暗与体积」支撑「书法基本笔画」。"
+    },
+    {
+      "topicId": "mt_ys_s3_chinese_painting_basics",
+      "prerequisiteId": "mt_ys_s3_calligraphy_strokes",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「书法基本笔画」为「中国画入门」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_chinese_painting_basics",
+      "prerequisiteId": "mt_ys_s2_watercolor_wash",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「水彩晕染」支撑「中国画入门」。"
+    },
+    {
+      "topicId": "mt_ys_s3_clay_sculpture",
+      "prerequisiteId": "mt_ys_s3_chinese_painting_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国画入门」为「泥塑造型」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_clay_sculpture",
+      "prerequisiteId": "mt_ys_s3_calligraphy_strokes",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「书法基本笔画」支撑「泥塑造型」。"
+    },
+    {
+      "topicId": "mt_ys_s3_color_mixed_gray",
+      "prerequisiteId": "mt_ys_s3_clay_sculpture",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「泥塑造型」为「色彩混合」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_color_mixed_gray",
+      "prerequisiteId": "mt_ys_s3_chinese_painting_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国画入门」支撑「色彩混合」。"
+    },
+    {
+      "topicId": "mt_ys_s3_color_wheel_theory",
+      "prerequisiteId": "mt_ys_s3_color_mixed_gray",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「色彩混合」为「色环关系」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_color_wheel_theory",
+      "prerequisiteId": "mt_ys_s3_clay_sculpture",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「泥塑造型」支撑「色环关系」。"
+    },
+    {
+      "topicId": "mt_ys_s3_design_poster",
+      "prerequisiteId": "mt_ys_s3_color_wheel_theory",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「色环关系」为「海报设计」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_design_poster",
+      "prerequisiteId": "mt_ys_s3_color_mixed_gray",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「色彩混合」支撑「海报设计」。"
+    },
+    {
+      "topicId": "mt_ys_s3_sculpture_form",
+      "prerequisiteId": "mt_ys_s3_design_poster",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「海报设计」为「立体造型」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_sculpture_form",
+      "prerequisiteId": "mt_ys_s3_color_wheel_theory",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「色环关系」支撑「立体造型」。"
+    },
+    {
+      "topicId": "mt_ys_s3_sketch_observation",
+      "prerequisiteId": "mt_ys_s3_sculpture_form",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「立体造型」为「素描观察」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_sketch_observation",
+      "prerequisiteId": "mt_ys_s3_design_poster",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「海报设计」支撑「素描观察」。"
+    },
+    {
+      "topicId": "mt_ys_s4_digital_drawing",
+      "prerequisiteId": "mt_ys_s3_sketch_observation",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「素描观察」，再学习「数字绘画」。"
+    },
+    {
+      "topicId": "mt_ys_s4_digital_drawing",
+      "prerequisiteId": "mt_ys_s3_sculpture_form",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「立体造型」支撑「数字绘画」。"
+    },
+    {
+      "topicId": "mt_ys_s4_landscape_sketch_outdoor",
+      "prerequisiteId": "mt_ys_s4_digital_drawing",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「数字绘画」为「户外写生」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_landscape_sketch_outdoor",
+      "prerequisiteId": "mt_ys_s3_sketch_observation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「素描观察」支撑「户外写生」。"
+    },
+    {
+      "topicId": "mt_ys_s4_perspective_one_point",
+      "prerequisiteId": "mt_ys_s4_landscape_sketch_outdoor",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「户外写生」为「一点透视」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_perspective_one_point",
+      "prerequisiteId": "mt_ys_s4_digital_drawing",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「数字绘画」支撑「一点透视」。"
+    },
+    {
+      "topicId": "mt_ys_s4_seal_carving_intro",
+      "prerequisiteId": "mt_ys_s4_perspective_one_point",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「一点透视」为「篆刻初识」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_seal_carving_intro",
+      "prerequisiteId": "mt_ys_s4_landscape_sketch_outdoor",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「户外写生」支撑「篆刻初识」。"
+    },
+    {
+      "topicId": "mt_ys_s1_dance_basic_steps",
+      "prerequisiteId": "mt_ys_s1_body_expression",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「身体表达」为「舞蹈基本步」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_creative_costume",
+      "prerequisiteId": "mt_ys_s1_dance_basic_steps",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「舞蹈基本步」，再学习「简易服饰设计」。"
+    },
+    {
+      "topicId": "mt_ys_s2_creative_costume",
+      "prerequisiteId": "mt_ys_s1_body_expression",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「身体表达」支撑「简易服饰设计」。"
+    },
+    {
+      "topicId": "mt_ys_s2_drama_role_play",
+      "prerequisiteId": "mt_ys_s2_creative_costume",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「简易服饰设计」为「戏剧角色扮演」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_drama_role_play",
+      "prerequisiteId": "mt_ys_s1_dance_basic_steps",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「舞蹈基本步」支撑「戏剧角色扮演」。"
+    },
+    {
+      "topicId": "mt_ys_s2_folk_dance_intro",
+      "prerequisiteId": "mt_ys_s2_drama_role_play",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「戏剧角色扮演」为「民族舞蹈体验」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_folk_dance_intro",
+      "prerequisiteId": "mt_ys_s2_creative_costume",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「简易服饰设计」支撑「民族舞蹈体验」。"
+    },
+    {
+      "topicId": "mt_ys_s2_story_tableau",
+      "prerequisiteId": "mt_ys_s2_folk_dance_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「民族舞蹈体验」为「故事定格」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_story_tableau",
+      "prerequisiteId": "mt_ys_s2_drama_role_play",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「戏剧角色扮演」支撑「故事定格」。"
+    },
+    {
+      "topicId": "mt_ys_s3_dance_choreography",
+      "prerequisiteId": "mt_ys_s2_story_tableau",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「故事定格」，再学习「舞蹈编创」。"
+    },
+    {
+      "topicId": "mt_ys_s3_dance_choreography",
+      "prerequisiteId": "mt_ys_s2_folk_dance_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「民族舞蹈体验」支撑「舞蹈编创」。"
+    },
+    {
+      "topicId": "mt_ys_s3_drama_improv",
+      "prerequisiteId": "mt_ys_s3_dance_choreography",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「舞蹈编创」为「即兴戏剧」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_drama_improv",
+      "prerequisiteId": "mt_ys_s2_story_tableau",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「故事定格」支撑「即兴戏剧」。"
+    },
+    {
+      "topicId": "mt_ys_s3_shadow_puppet_intro",
+      "prerequisiteId": "mt_ys_s3_drama_improv",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「即兴戏剧」为「皮影初体验」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_shadow_puppet_intro",
+      "prerequisiteId": "mt_ys_s3_dance_choreography",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「舞蹈编创」支撑「皮影初体验」。"
+    },
+    {
+      "topicId": "mt_ys_s3_video_storyboard",
+      "prerequisiteId": "mt_ys_s3_shadow_puppet_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「皮影初体验」为「分镜绘制」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_video_storyboard",
+      "prerequisiteId": "mt_ys_s3_drama_improv",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「即兴戏剧」支撑「分镜绘制」。"
+    },
+    {
+      "topicId": "mt_ys_s4_cross_art_project",
+      "prerequisiteId": "mt_ys_s3_video_storyboard",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「分镜绘制」，再学习「跨学科艺术项目」。"
+    },
+    {
+      "topicId": "mt_ys_s4_cross_art_project",
+      "prerequisiteId": "mt_ys_s3_shadow_puppet_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「皮影初体验」支撑「跨学科艺术项目」。"
+    },
+    {
+      "topicId": "mt_ys_s4_film_shot_basics",
+      "prerequisiteId": "mt_ys_s4_cross_art_project",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「跨学科艺术项目」为「镜头语言初识」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_film_shot_basics",
+      "prerequisiteId": "mt_ys_s3_video_storyboard",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「分镜绘制」支撑「镜头语言初识」。"
+    },
+    {
+      "topicId": "mt_ys_s4_multimedia_artwork",
+      "prerequisiteId": "mt_ys_s4_film_shot_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「镜头语言初识」为「多媒体作品」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_multimedia_artwork",
+      "prerequisiteId": "mt_ys_s4_cross_art_project",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「跨学科艺术项目」支撑「多媒体作品」。"
+    },
+    {
+      "topicId": "mt_ys_s4_stage_light_sound",
+      "prerequisiteId": "mt_ys_s4_multimedia_artwork",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「多媒体作品」为「舞台声光」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_stage_light_sound",
+      "prerequisiteId": "mt_ys_s4_film_shot_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「镜头语言初识」支撑「舞台声光」。"
+    },
+    {
+      "topicId": "mt_ys_s1_festival_spring_art",
+      "prerequisiteId": "mt_ys_s1_artwork_appreciation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「画作欣赏」为「春节艺术」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_lantern_festival_art",
+      "prerequisiteId": "mt_ys_s1_festival_spring_art",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「春节艺术」为「元宵艺术」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_lantern_festival_art",
+      "prerequisiteId": "mt_ys_s1_artwork_appreciation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「画作欣赏」支撑「元宵艺术」。"
+    },
+    {
+      "topicId": "mt_ys_s1_listen_describe_music",
+      "prerequisiteId": "mt_ys_s1_lantern_festival_art",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「元宵艺术」为「听音乐描述」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s1_listen_describe_music",
+      "prerequisiteId": "mt_ys_s1_festival_spring_art",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「春节艺术」支撑「听音乐描述」。"
+    },
+    {
+      "topicId": "mt_ys_s2_dragon_boat_festival_art",
+      "prerequisiteId": "mt_ys_s1_listen_describe_music",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「听音乐描述」，再学习「端午艺术」。"
+    },
+    {
+      "topicId": "mt_ys_s2_dragon_boat_festival_art",
+      "prerequisiteId": "mt_ys_s1_lantern_festival_art",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「元宵艺术」支撑「端午艺术」。"
+    },
+    {
+      "topicId": "mt_ys_s2_folk_song_intro",
+      "prerequisiteId": "mt_ys_s2_dragon_boat_festival_art",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「端午艺术」为「民歌欣赏」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_folk_song_intro",
+      "prerequisiteId": "mt_ys_s1_listen_describe_music",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「听音乐描述」支撑「民歌欣赏」。"
+    },
+    {
+      "topicId": "mt_ys_s2_masterwork_visual",
+      "prerequisiteId": "mt_ys_s2_folk_song_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「民歌欣赏」为「名画欣赏」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_masterwork_visual",
+      "prerequisiteId": "mt_ys_s2_dragon_boat_festival_art",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「端午艺术」支撑「名画欣赏」。"
+    },
+    {
+      "topicId": "mt_ys_s2_mid_autumn_art",
+      "prerequisiteId": "mt_ys_s2_masterwork_visual",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「名画欣赏」为「中秋艺术」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_mid_autumn_art",
+      "prerequisiteId": "mt_ys_s2_folk_song_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「民歌欣赏」支撑「中秋艺术」。"
+    },
+    {
+      "topicId": "mt_ys_s2_opera_mask_intro",
+      "prerequisiteId": "mt_ys_s2_mid_autumn_art",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中秋艺术」为「戏曲脸谱」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_opera_mask_intro",
+      "prerequisiteId": "mt_ys_s2_masterwork_visual",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「名画欣赏」支撑「戏曲脸谱」。"
+    },
+    {
+      "topicId": "mt_ys_s2_national_anthem_etiquette",
+      "prerequisiteId": "mt_ys_s2_opera_mask_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「戏曲脸谱」为「国歌礼仪」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s2_national_anthem_etiquette",
+      "prerequisiteId": "mt_ys_s2_mid_autumn_art",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中秋艺术」支撑「国歌礼仪」。"
+    },
+    {
+      "topicId": "mt_ys_s3_architecture_appreciate",
+      "prerequisiteId": "mt_ys_s2_national_anthem_etiquette",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「国歌礼仪」为「建筑欣赏」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_architecture_appreciate",
+      "prerequisiteId": "mt_ys_s2_opera_mask_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「戏曲脸谱」支撑「建筑欣赏」。"
+    },
+    {
+      "topicId": "mt_ys_s3_heritage_craft_try",
+      "prerequisiteId": "mt_ys_s3_architecture_appreciate",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「建筑欣赏」为「非遗技艺体验」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_heritage_craft_try",
+      "prerequisiteId": "mt_ys_s2_national_anthem_etiquette",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「国歌礼仪」支撑「非遗技艺体验」。"
+    },
+    {
+      "topicId": "mt_ys_s3_intangible_heritage",
+      "prerequisiteId": "mt_ys_s3_heritage_craft_try",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「非遗技艺体验」为「非遗艺术」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_intangible_heritage",
+      "prerequisiteId": "mt_ys_s3_architecture_appreciate",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「建筑欣赏」支撑「非遗艺术」。"
+    },
+    {
+      "topicId": "mt_ys_s3_museum_etiquette",
+      "prerequisiteId": "mt_ys_s3_intangible_heritage",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「非遗艺术」为「美术馆礼仪」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_museum_etiquette",
+      "prerequisiteId": "mt_ys_s3_heritage_craft_try",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「非遗技艺体验」支撑「美术馆礼仪」。"
+    },
+    {
+      "topicId": "mt_ys_s3_world_music_listen",
+      "prerequisiteId": "mt_ys_s3_museum_etiquette",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「美术馆礼仪」为「世界音乐」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s3_world_music_listen",
+      "prerequisiteId": "mt_ys_s3_intangible_heritage",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「非遗艺术」支撑「世界音乐」。"
+    },
+    {
+      "topicId": "mt_ys_s4_aesthetic_criteria",
+      "prerequisiteId": "mt_ys_s3_world_music_listen",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「世界音乐」，再学习「审美标准」。"
+    },
+    {
+      "topicId": "mt_ys_s4_aesthetic_criteria",
+      "prerequisiteId": "mt_ys_s3_museum_etiquette",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「美术馆礼仪」支撑「审美标准」。"
+    },
+    {
+      "topicId": "mt_ys_s4_art_exhibition_curate",
+      "prerequisiteId": "mt_ys_s4_aesthetic_criteria",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「审美标准」为「班级艺术展」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_art_exhibition_curate",
+      "prerequisiteId": "mt_ys_s3_world_music_listen",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「世界音乐」支撑「班级艺术展」。"
+    },
+    {
+      "topicId": "mt_ys_s4_art_reflection_journal",
+      "prerequisiteId": "mt_ys_s4_art_exhibition_curate",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「班级艺术展」为「艺术学习反思」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_art_reflection_journal",
+      "prerequisiteId": "mt_ys_s4_aesthetic_criteria",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「审美标准」支撑「艺术学习反思」。"
+    },
+    {
+      "topicId": "mt_ys_s4_comparative_art_history",
+      "prerequisiteId": "mt_ys_s4_art_reflection_journal",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「艺术学习反思」为「中外艺术比较」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_comparative_art_history",
+      "prerequisiteId": "mt_ys_s4_art_exhibition_curate",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「班级艺术展」支撑「中外艺术比较」。"
+    },
+    {
+      "topicId": "mt_ys_s4_cultural_identity_art",
+      "prerequisiteId": "mt_ys_s4_comparative_art_history",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中外艺术比较」为「艺术与文化认同」提供准备。"
+    },
+    {
+      "topicId": "mt_ys_s4_cultural_identity_art",
+      "prerequisiteId": "mt_ys_s4_art_reflection_journal",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「艺术学习反思」支撑「艺术与文化认同」。"
     },
     {
       "topicId": "mt_chinese_s1_pinyin_tones",
@@ -2794,6 +3778,1464 @@
       "reason": "同领域隔项准备：「错题分析」支撑「学习档案袋」。"
     },
     {
+      "topicId": "mt_dl_s4_hemisphere_division",
+      "prerequisiteId": "mt_dl_s4_earth_shape_sphere",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地球的形状」为「半球划分」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_lat_long_grid",
+      "prerequisiteId": "mt_dl_s4_hemisphere_division",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「半球划分」为「经纬网」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_lat_long_grid",
+      "prerequisiteId": "mt_dl_s4_earth_shape_sphere",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地球的形状」支撑「经纬网」。"
+    },
+    {
+      "topicId": "mt_dl_s4_map_direction",
+      "prerequisiteId": "mt_dl_s4_lat_long_grid",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「经纬网」为「地图方向」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_map_direction",
+      "prerequisiteId": "mt_dl_s4_hemisphere_division",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「半球划分」支撑「地图方向」。"
+    },
+    {
+      "topicId": "mt_dl_s4_map_legend_symbols",
+      "prerequisiteId": "mt_dl_s4_map_direction",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地图方向」为「地图图例与符号」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_map_legend_symbols",
+      "prerequisiteId": "mt_dl_s4_lat_long_grid",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「经纬网」支撑「地图图例与符号」。"
+    },
+    {
+      "topicId": "mt_dl_s4_map_scale",
+      "prerequisiteId": "mt_dl_s4_map_legend_symbols",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地图图例与符号」为「地图比例尺」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_map_scale",
+      "prerequisiteId": "mt_dl_s4_map_direction",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地图方向」支撑「地图比例尺」。"
+    },
+    {
+      "topicId": "mt_dl_s4_contour_lines",
+      "prerequisiteId": "mt_dl_s4_map_scale",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地图比例尺」为「等高线地形」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_contour_lines",
+      "prerequisiteId": "mt_dl_s4_map_legend_symbols",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地图图例与符号」支撑「等高线地形」。"
+    },
+    {
+      "topicId": "mt_dl_s4_earth_revolution_seasons",
+      "prerequisiteId": "mt_dl_s4_contour_lines",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「等高线地形」为「公转与四季」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_earth_revolution_seasons",
+      "prerequisiteId": "mt_dl_s4_map_scale",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地图比例尺」支撑「公转与四季」。"
+    },
+    {
+      "topicId": "mt_dl_s4_earth_rotation_day_night",
+      "prerequisiteId": "mt_dl_s4_earth_revolution_seasons",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「公转与四季」为「自转与昼夜」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_earth_rotation_day_night",
+      "prerequisiteId": "mt_dl_s4_contour_lines",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「等高线地形」支撑「自转与昼夜」。"
+    },
+    {
+      "topicId": "mt_dl_s4_map_three_elements",
+      "prerequisiteId": "mt_dl_s4_earth_rotation_day_night",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「自转与昼夜」为「地图三要素」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_map_three_elements",
+      "prerequisiteId": "mt_dl_s4_earth_revolution_seasons",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「公转与四季」支撑「地图三要素」。"
+    },
+    {
+      "topicId": "mt_dl_s4_terrain_types",
+      "prerequisiteId": "mt_dl_s4_map_three_elements",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地图三要素」为「五种基本地形」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_terrain_types",
+      "prerequisiteId": "mt_dl_s4_earth_rotation_day_night",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「自转与昼夜」支撑「五种基本地形」。"
+    },
+    {
+      "topicId": "mt_dl_s4_timezone_basics",
+      "prerequisiteId": "mt_dl_s4_terrain_types",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「五种基本地形」为「时区初识」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_timezone_basics",
+      "prerequisiteId": "mt_dl_s4_map_three_elements",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地图三要素」支撑「时区初识」。"
+    },
+    {
+      "topicId": "mt_dl_s4_coordinate_location",
+      "prerequisiteId": "mt_dl_s4_timezone_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「时区初识」为「经纬度定位应用」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_coordinate_location",
+      "prerequisiteId": "mt_dl_s4_terrain_types",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「五种基本地形」支撑「经纬度定位应用」。"
+    },
+    {
+      "topicId": "mt_dl_s4_digital_map_basics",
+      "prerequisiteId": "mt_dl_s4_coordinate_location",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「经纬度定位应用」为「数字地图使用」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_digital_map_basics",
+      "prerequisiteId": "mt_dl_s4_timezone_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「时区初识」支撑「数字地图使用」。"
+    },
+    {
+      "topicId": "mt_dl_s4_land_sea_ratio",
+      "prerequisiteId": "mt_dl_s4_four_oceans",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「四大洋」为「海陆分布」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_seven_continents",
+      "prerequisiteId": "mt_dl_s4_land_sea_ratio",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「海陆分布」为「七大洲」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_seven_continents",
+      "prerequisiteId": "mt_dl_s4_four_oceans",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「四大洋」支撑「七大洲」。"
+    },
+    {
+      "topicId": "mt_dl_s4_asia_location_range",
+      "prerequisiteId": "mt_dl_s4_seven_continents",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「七大洲」为「亚洲位置范围」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_asia_location_range",
+      "prerequisiteId": "mt_dl_s4_land_sea_ratio",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「海陆分布」支撑「亚洲位置范围」。"
+    },
+    {
+      "topicId": "mt_dl_s4_asia_physical_geo",
+      "prerequisiteId": "mt_dl_s4_asia_location_range",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「亚洲位置范围」为「亚洲自然地理」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_asia_physical_geo",
+      "prerequisiteId": "mt_dl_s4_seven_continents",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「七大洲」支撑「亚洲自然地理」。"
+    },
+    {
+      "topicId": "mt_dl_s4_climate_belt_zonation",
+      "prerequisiteId": "mt_dl_s4_asia_physical_geo",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「亚洲自然地理」为「气候带分布」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_climate_belt_zonation",
+      "prerequisiteId": "mt_dl_s4_asia_location_range",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「亚洲位置范围」支撑「气候带分布」。"
+    },
+    {
+      "topicId": "mt_dl_s4_climate_chart_reading",
+      "prerequisiteId": "mt_dl_s4_climate_belt_zonation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「气候带分布」为「气候资料判读」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_climate_chart_reading",
+      "prerequisiteId": "mt_dl_s4_asia_physical_geo",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「亚洲自然地理」支撑「气候资料判读」。"
+    },
+    {
+      "topicId": "mt_dl_s4_monsoon_climate",
+      "prerequisiteId": "mt_dl_s4_climate_chart_reading",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「气候资料判读」为「季风气候」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_monsoon_climate",
+      "prerequisiteId": "mt_dl_s4_climate_belt_zonation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「气候带分布」支撑「季风气候」。"
+    },
+    {
+      "topicId": "mt_dl_s4_plate_tectonics_intro",
+      "prerequisiteId": "mt_dl_s4_monsoon_climate",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「季风气候」为「板块构造初识」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_plate_tectonics_intro",
+      "prerequisiteId": "mt_dl_s4_climate_chart_reading",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「气候资料判读」支撑「板块构造初识」。"
+    },
+    {
+      "topicId": "mt_dl_s4_polar_climate",
+      "prerequisiteId": "mt_dl_s4_plate_tectonics_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「板块构造初识」为「寒带气候」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_polar_climate",
+      "prerequisiteId": "mt_dl_s4_monsoon_climate",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「季风气候」支撑「寒带气候」。"
+    },
+    {
+      "topicId": "mt_dl_s4_population_distribution",
+      "prerequisiteId": "mt_dl_s4_polar_climate",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「寒带气候」为「世界人口分布」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_population_distribution",
+      "prerequisiteId": "mt_dl_s4_plate_tectonics_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「板块构造初识」支撑「世界人口分布」。"
+    },
+    {
+      "topicId": "mt_dl_s4_temperate_climate",
+      "prerequisiteId": "mt_dl_s4_population_distribution",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「世界人口分布」为「温带气候类型」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_temperate_climate",
+      "prerequisiteId": "mt_dl_s4_polar_climate",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「寒带气候」支撑「温带气候类型」。"
+    },
+    {
+      "topicId": "mt_dl_s4_tropical_climate",
+      "prerequisiteId": "mt_dl_s4_temperate_climate",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「温带气候类型」为「热带气候类型」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_tropical_climate",
+      "prerequisiteId": "mt_dl_s4_population_distribution",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「世界人口分布」支撑「热带气候类型」。"
+    },
+    {
+      "topicId": "mt_dl_s4_urban_rural_settlement",
+      "prerequisiteId": "mt_dl_s4_tropical_climate",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「热带气候类型」为「城乡聚落」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_urban_rural_settlement",
+      "prerequisiteId": "mt_dl_s4_temperate_climate",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「温带气候类型」支撑「城乡聚落」。"
+    },
+    {
+      "topicId": "mt_dl_s4_volcano_earthquake_belt",
+      "prerequisiteId": "mt_dl_s4_urban_rural_settlement",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「城乡聚落」为「火山与地震带」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_volcano_earthquake_belt",
+      "prerequisiteId": "mt_dl_s4_tropical_climate",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「热带气候类型」支撑「火山与地震带」。"
+    },
+    {
+      "topicId": "mt_dl_s4_africa_climate_resources",
+      "prerequisiteId": "mt_dl_s4_volcano_earthquake_belt",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「火山与地震带」为「非洲气候与资源」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_africa_climate_resources",
+      "prerequisiteId": "mt_dl_s4_urban_rural_settlement",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「城乡聚落」支撑「非洲气候与资源」。"
+    },
+    {
+      "topicId": "mt_dl_s4_africa_location_features",
+      "prerequisiteId": "mt_dl_s4_africa_climate_resources",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「非洲气候与资源」为「非洲位置特征」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_africa_location_features",
+      "prerequisiteId": "mt_dl_s4_volcano_earthquake_belt",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「火山与地震带」支撑「非洲位置特征」。"
+    },
+    {
+      "topicId": "mt_dl_s4_asia_economy_population",
+      "prerequisiteId": "mt_dl_s4_africa_location_features",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「非洲位置特征」为「亚洲经济人口」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_asia_economy_population",
+      "prerequisiteId": "mt_dl_s4_africa_climate_resources",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「非洲气候与资源」支撑「亚洲经济人口」。"
+    },
+    {
+      "topicId": "mt_dl_s4_europe_climate_agriculture",
+      "prerequisiteId": "mt_dl_s4_asia_economy_population",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「亚洲经济人口」为「欧洲气候与农业」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_europe_climate_agriculture",
+      "prerequisiteId": "mt_dl_s4_africa_location_features",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「非洲位置特征」支撑「欧洲气候与农业」。"
+    },
+    {
+      "topicId": "mt_dl_s4_europe_location_features",
+      "prerequisiteId": "mt_dl_s4_europe_climate_agriculture",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「欧洲气候与农业」为「欧洲位置特征」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_europe_location_features",
+      "prerequisiteId": "mt_dl_s4_asia_economy_population",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「亚洲经济人口」支撑「欧洲位置特征」。"
+    },
+    {
+      "topicId": "mt_dl_s4_americas_overview",
+      "prerequisiteId": "mt_dl_s4_europe_location_features",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「欧洲位置特征」为「美洲概况」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_americas_overview",
+      "prerequisiteId": "mt_dl_s4_europe_climate_agriculture",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「欧洲气候与农业」支撑「美洲概况」。"
+    },
+    {
+      "topicId": "mt_dl_s4_global_environment_issues",
+      "prerequisiteId": "mt_dl_s4_americas_overview",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「美洲概况」为「全球环境问题」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_global_environment_issues",
+      "prerequisiteId": "mt_dl_s4_europe_location_features",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「欧洲位置特征」支撑「全球环境问题」。"
+    },
+    {
+      "topicId": "mt_dl_s4_oceania_antarctica",
+      "prerequisiteId": "mt_dl_s4_global_environment_issues",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「全球环境问题」为「大洋洲与南极」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_oceania_antarctica",
+      "prerequisiteId": "mt_dl_s4_americas_overview",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「美洲概况」支撑「大洋洲与南极」。"
+    },
+    {
+      "topicId": "mt_dl_s4_world_agriculture_pattern",
+      "prerequisiteId": "mt_dl_s4_oceania_antarctica",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「大洋洲与南极」为「世界农业分布」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_world_agriculture_pattern",
+      "prerequisiteId": "mt_dl_s4_global_environment_issues",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「全球环境问题」支撑「世界农业分布」。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_location_territory",
+      "prerequisiteId": "mt_dl_s4_china_admin_divisions",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「行政区划」为「中国位置与疆域」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_climate_overview",
+      "prerequisiteId": "mt_dl_s4_china_location_territory",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国位置与疆域」为「中国气候概况」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_climate_overview",
+      "prerequisiteId": "mt_dl_s4_china_admin_divisions",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「行政区划」支撑「中国气候概况」。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_major_mountains",
+      "prerequisiteId": "mt_dl_s4_china_climate_overview",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国气候概况」为「主要山脉」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_major_mountains",
+      "prerequisiteId": "mt_dl_s4_china_location_territory",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国位置与疆域」支撑「主要山脉」。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_rivers_lakes",
+      "prerequisiteId": "mt_dl_s4_china_major_mountains",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「主要山脉」为「主要河湖」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_rivers_lakes",
+      "prerequisiteId": "mt_dl_s4_china_climate_overview",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国气候概况」支撑「主要河湖」。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_three_steps",
+      "prerequisiteId": "mt_dl_s4_china_rivers_lakes",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「主要河湖」为「三级阶梯」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_three_steps",
+      "prerequisiteId": "mt_dl_s4_china_major_mountains",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「主要山脉」支撑「三级阶梯」。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_topography",
+      "prerequisiteId": "mt_dl_s4_china_three_steps",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「三级阶梯」为「中国地形特征」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_topography",
+      "prerequisiteId": "mt_dl_s4_china_rivers_lakes",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「主要河湖」支撑「中国地形特征」。"
+    },
+    {
+      "topicId": "mt_dl_s4_monsoon_effect_china",
+      "prerequisiteId": "mt_dl_s4_china_topography",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国地形特征」为「季风对中国影响」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_monsoon_effect_china",
+      "prerequisiteId": "mt_dl_s4_china_three_steps",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「三级阶梯」支撑「季风对中国影响」。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_population_ethnic",
+      "prerequisiteId": "mt_dl_s4_monsoon_effect_china",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「季风对中国影响」为「人口与民族」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_population_ethnic",
+      "prerequisiteId": "mt_dl_s4_china_topography",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国地形特征」支撑「人口与民族」。"
+    },
+    {
+      "topicId": "mt_dl_s4_north_china_region",
+      "prerequisiteId": "mt_dl_s4_china_population_ethnic",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「人口与民族」为「华北地区」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_north_china_region",
+      "prerequisiteId": "mt_dl_s4_monsoon_effect_china",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「季风对中国影响」支撑「华北地区」。"
+    },
+    {
+      "topicId": "mt_dl_s4_northeast_region",
+      "prerequisiteId": "mt_dl_s4_north_china_region",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「华北地区」为「东北三省」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_northeast_region",
+      "prerequisiteId": "mt_dl_s4_china_population_ethnic",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「人口与民族」支撑「东北三省」。"
+    },
+    {
+      "topicId": "mt_dl_s4_northwest_region",
+      "prerequisiteId": "mt_dl_s4_northeast_region",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「东北三省」为「西北内陆」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_northwest_region",
+      "prerequisiteId": "mt_dl_s4_north_china_region",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「华北地区」支撑「西北内陆」。"
+    },
+    {
+      "topicId": "mt_dl_s4_qinghai_tibet_region",
+      "prerequisiteId": "mt_dl_s4_northwest_region",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「西北内陆」为「青藏地区」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_qinghai_tibet_region",
+      "prerequisiteId": "mt_dl_s4_northeast_region",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「东北三省」支撑「青藏地区」。"
+    },
+    {
+      "topicId": "mt_dl_s4_south_china_region",
+      "prerequisiteId": "mt_dl_s4_qinghai_tibet_region",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「青藏地区」为「南方地区」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_south_china_region",
+      "prerequisiteId": "mt_dl_s4_northwest_region",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「西北内陆」支撑「南方地区」。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_agriculture",
+      "prerequisiteId": "mt_dl_s4_south_china_region",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「南方地区」为「中国农业」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_agriculture",
+      "prerequisiteId": "mt_dl_s4_qinghai_tibet_region",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「青藏地区」支撑「中国农业」。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_industry_layout",
+      "prerequisiteId": "mt_dl_s4_china_agriculture",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国农业」为「工业布局」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_china_industry_layout",
+      "prerequisiteId": "mt_dl_s4_south_china_region",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「南方地区」支撑「工业布局」。"
+    },
+    {
+      "topicId": "mt_dl_s4_four_regions_compare",
+      "prerequisiteId": "mt_dl_s4_china_industry_layout",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「工业布局」为「四大区域比较」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_four_regions_compare",
+      "prerequisiteId": "mt_dl_s4_china_agriculture",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国农业」支撑「四大区域比较」。"
+    },
+    {
+      "topicId": "mt_dl_s4_land_resources_protection",
+      "prerequisiteId": "mt_dl_s4_four_regions_compare",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「四大区域比较」为「土地资源保护」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_land_resources_protection",
+      "prerequisiteId": "mt_dl_s4_china_industry_layout",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「工业布局」支撑「土地资源保护」。"
+    },
+    {
+      "topicId": "mt_dl_s4_water_resources_mismatch",
+      "prerequisiteId": "mt_dl_s4_land_resources_protection",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「土地资源保护」为「水资源与调水」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_water_resources_mismatch",
+      "prerequisiteId": "mt_dl_s4_four_regions_compare",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「四大区域比较」支撑「水资源与调水」。"
+    },
+    {
+      "topicId": "mt_dl_s4_local_climate_records",
+      "prerequisiteId": "mt_dl_s4_hometown_map_sketch",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「家乡地图绘制」为「乡土气候记录」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_local_landforms_survey",
+      "prerequisiteId": "mt_dl_s4_local_climate_records",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「乡土气候记录」为「乡土地形调查」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_local_landforms_survey",
+      "prerequisiteId": "mt_dl_s4_hometown_map_sketch",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「家乡地图绘制」支撑「乡土地形调查」。"
+    },
+    {
+      "topicId": "mt_dl_s4_community_land_use",
+      "prerequisiteId": "mt_dl_s4_local_landforms_survey",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「乡土地形调查」为「社区土地利用」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_community_land_use",
+      "prerequisiteId": "mt_dl_s4_local_climate_records",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「乡土气候记录」支撑「社区土地利用」。"
+    },
+    {
+      "topicId": "mt_dl_s4_local_industry_services",
+      "prerequisiteId": "mt_dl_s4_community_land_use",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社区土地利用」为「乡土产业与服务」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_local_industry_services",
+      "prerequisiteId": "mt_dl_s4_local_landforms_survey",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「乡土地形调查」支撑「乡土产业与服务」。"
+    },
+    {
+      "topicId": "mt_dl_s4_field_survey_methods",
+      "prerequisiteId": "mt_dl_s4_local_industry_services",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「乡土产业与服务」为「地理调查方法」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_field_survey_methods",
+      "prerequisiteId": "mt_dl_s4_community_land_use",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「社区土地利用」支撑「地理调查方法」。"
+    },
+    {
+      "topicId": "mt_dl_s4_local_environment_issues",
+      "prerequisiteId": "mt_dl_s4_field_survey_methods",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「地理调查方法」为「乡土环境问题」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_local_environment_issues",
+      "prerequisiteId": "mt_dl_s4_local_industry_services",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「乡土产业与服务」支撑「乡土环境问题」。"
+    },
+    {
+      "topicId": "mt_dl_s4_local_heritage_geography",
+      "prerequisiteId": "mt_dl_s4_local_environment_issues",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「乡土环境问题」为「乡土文化遗产」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_local_heritage_geography",
+      "prerequisiteId": "mt_dl_s4_field_survey_methods",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「地理调查方法」支撑「乡土文化遗产」。"
+    },
+    {
+      "topicId": "mt_dl_s4_hometown_presentation",
+      "prerequisiteId": "mt_dl_s4_local_heritage_geography",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「乡土文化遗产」为「家乡地理展示」提供准备。"
+    },
+    {
+      "topicId": "mt_dl_s4_hometown_presentation",
+      "prerequisiteId": "mt_dl_s4_local_environment_issues",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「乡土环境问题」支撑「家乡地理展示」。"
+    },
+    {
+      "topicId": "mt_ls_s4_qin_unification",
+      "prerequisiteId": "mt_ls_s4_bronze_culture_shang",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「商代青铜文明」为「秦统一六国」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_xia_shang_zhou_timeline",
+      "prerequisiteId": "mt_ls_s4_qin_unification",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「秦统一六国」为「夏商周三代概览」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_xia_shang_zhou_timeline",
+      "prerequisiteId": "mt_ls_s4_bronze_culture_shang",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「商代青铜文明」支撑「夏商周三代概览」。"
+    },
+    {
+      "topicId": "mt_ls_s4_zhou_feudal_system",
+      "prerequisiteId": "mt_ls_s4_xia_shang_zhou_timeline",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「夏商周三代概览」为「西周分封制」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_zhou_feudal_system",
+      "prerequisiteId": "mt_ls_s4_qin_unification",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「秦统一六国」支撑「西周分封制」。"
+    },
+    {
+      "topicId": "mt_ls_s4_han_silk_road",
+      "prerequisiteId": "mt_ls_s4_zhou_feudal_system",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「西周分封制」为「汉代与丝绸之路」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_han_silk_road",
+      "prerequisiteId": "mt_ls_s4_xia_shang_zhou_timeline",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「夏商周三代概览」支撑「汉代与丝绸之路」。"
+    },
+    {
+      "topicId": "mt_ls_s4_tang_golden_age",
+      "prerequisiteId": "mt_ls_s4_han_silk_road",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「汉代与丝绸之路」为「盛唐气象」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_tang_golden_age",
+      "prerequisiteId": "mt_ls_s4_zhou_feudal_system",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「西周分封制」支撑「盛唐气象」。"
+    },
+    {
+      "topicId": "mt_ls_s4_ming_zhenghe_voyage",
+      "prerequisiteId": "mt_ls_s4_tang_golden_age",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「盛唐气象」为「明代郑和下西洋」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_ming_zhenghe_voyage",
+      "prerequisiteId": "mt_ls_s4_han_silk_road",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「汉代与丝绸之路」支撑「明代郑和下西洋」。"
+    },
+    {
+      "topicId": "mt_ls_s4_song_economy_culture",
+      "prerequisiteId": "mt_ls_s4_ming_zhenghe_voyage",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「明代郑和下西洋」为「宋代经济与文化」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_song_economy_culture",
+      "prerequisiteId": "mt_ls_s4_tang_golden_age",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「盛唐气象」支撑「宋代经济与文化」。"
+    },
+    {
+      "topicId": "mt_ls_s4_yuan_multicultural",
+      "prerequisiteId": "mt_ls_s4_song_economy_culture",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「宋代经济与文化」为「元朝辽阔疆域」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_yuan_multicultural",
+      "prerequisiteId": "mt_ls_s4_ming_zhenghe_voyage",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「明代郑和下西洋」支撑「元朝辽阔疆域」。"
+    },
+    {
+      "topicId": "mt_ls_s4_great_wall_function",
+      "prerequisiteId": "mt_ls_s4_yuan_multicultural",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「元朝辽阔疆域」为「长城与防御体系」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_great_wall_function",
+      "prerequisiteId": "mt_ls_s4_song_economy_culture",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「宋代经济与文化」支撑「长城与防御体系」。"
+    },
+    {
+      "topicId": "mt_ls_s4_qing_frontier_governance",
+      "prerequisiteId": "mt_ls_s4_great_wall_function",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「长城与防御体系」为「清代边疆治理」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_qing_frontier_governance",
+      "prerequisiteId": "mt_ls_s4_yuan_multicultural",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「元朝辽阔疆域」支撑「清代边疆治理」。"
+    },
+    {
+      "topicId": "mt_ls_s4_confucius_and_education",
+      "prerequisiteId": "mt_ls_s4_qing_frontier_governance",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「清代边疆治理」为「孔子与儒家教育」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_confucius_and_education",
+      "prerequisiteId": "mt_ls_s4_great_wall_function",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「长城与防御体系」支撑「孔子与儒家教育」。"
+    },
+    {
+      "topicId": "mt_ls_s4_unequal_treaties",
+      "prerequisiteId": "mt_ls_s4_opium_war_1840",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「鸦片战争与开端」为「不平等条约体系」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_self_strengthening",
+      "prerequisiteId": "mt_ls_s4_unequal_treaties",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「不平等条约体系」为「洋务运动」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_self_strengthening",
+      "prerequisiteId": "mt_ls_s4_opium_war_1840",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「鸦片战争与开端」支撑「洋务运动」。"
+    },
+    {
+      "topicId": "mt_ls_s4_taiping_heavenly",
+      "prerequisiteId": "mt_ls_s4_self_strengthening",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「洋务运动」为「太平天国运动」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_taiping_heavenly",
+      "prerequisiteId": "mt_ls_s4_unequal_treaties",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「不平等条约体系」支撑「太平天国运动」。"
+    },
+    {
+      "topicId": "mt_ls_s4_1911_revolution",
+      "prerequisiteId": "mt_ls_s4_taiping_heavenly",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「太平天国运动」为「辛亥革命」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_1911_revolution",
+      "prerequisiteId": "mt_ls_s4_self_strengthening",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「洋务运动」支撑「辛亥革命」。"
+    },
+    {
+      "topicId": "mt_ls_s4_boxer_anti_imperialist",
+      "prerequisiteId": "mt_ls_s4_1911_revolution",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「辛亥革命」为「义和团反帝斗争」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_boxer_anti_imperialist",
+      "prerequisiteId": "mt_ls_s4_taiping_heavenly",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「太平天国运动」支撑「义和团反帝斗争」。"
+    },
+    {
+      "topicId": "mt_ls_s4_hundred_days_reform",
+      "prerequisiteId": "mt_ls_s4_boxer_anti_imperialist",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「义和团反帝斗争」为「戊戌变法」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_hundred_days_reform",
+      "prerequisiteId": "mt_ls_s4_1911_revolution",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「辛亥革命」支撑「戊戌变法」。"
+    },
+    {
+      "topicId": "mt_ls_s4_cpc_founding_1921",
+      "prerequisiteId": "mt_ls_s4_hundred_days_reform",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「戊戌变法」为「中国共产党成立」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_cpc_founding_1921",
+      "prerequisiteId": "mt_ls_s4_boxer_anti_imperialist",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「义和团反帝斗争」支撑「中国共产党成立」。"
+    },
+    {
+      "topicId": "mt_ls_s4_long_march_spirit",
+      "prerequisiteId": "mt_ls_s4_cpc_founding_1921",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国共产党成立」为「红军长征」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_long_march_spirit",
+      "prerequisiteId": "mt_ls_s4_hundred_days_reform",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「戊戌变法」支撑「红军长征」。"
+    },
+    {
+      "topicId": "mt_ls_s4_may_fourth_movement",
+      "prerequisiteId": "mt_ls_s4_long_march_spirit",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「红军长征」为「五四运动」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_may_fourth_movement",
+      "prerequisiteId": "mt_ls_s4_cpc_founding_1921",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国共产党成立」支撑「五四运动」。"
+    },
+    {
+      "topicId": "mt_ls_s4_anti_japanese_war",
+      "prerequisiteId": "mt_ls_s4_may_fourth_movement",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「五四运动」为「抗日战争」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_anti_japanese_war",
+      "prerequisiteId": "mt_ls_s4_long_march_spirit",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「红军长征」支撑「抗日战争」。"
+    },
+    {
+      "topicId": "mt_ls_s4_liberation_war_1949",
+      "prerequisiteId": "mt_ls_s4_anti_japanese_war",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「抗日战争」为「解放战争与建国」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_liberation_war_1949",
+      "prerequisiteId": "mt_ls_s4_may_fourth_movement",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「五四运动」支撑「解放战争与建国」。"
+    },
+    {
+      "topicId": "mt_ls_s4_land_reform_industry",
+      "prerequisiteId": "mt_ls_s4_prc_founding_1949",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中华人民共和国成立」为「土地改革与工业化」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_new_era_missions",
+      "prerequisiteId": "mt_ls_s4_land_reform_industry",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「土地改革与工业化」为「新时代历史使命」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_new_era_missions",
+      "prerequisiteId": "mt_ls_s4_prc_founding_1949",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中华人民共和国成立」支撑「新时代历史使命」。"
+    },
+    {
+      "topicId": "mt_ls_s4_one_country_two_systems",
+      "prerequisiteId": "mt_ls_s4_new_era_missions",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「新时代历史使命」为「一国两制与统一」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_one_country_two_systems",
+      "prerequisiteId": "mt_ls_s4_land_reform_industry",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「土地改革与工业化」支撑「一国两制与统一」。"
+    },
+    {
+      "topicId": "mt_ls_s4_poverty_alleviation",
+      "prerequisiteId": "mt_ls_s4_one_country_two_systems",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「一国两制与统一」为「脱贫攻坚成就」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_poverty_alleviation",
+      "prerequisiteId": "mt_ls_s4_new_era_missions",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「新时代历史使命」支撑「脱贫攻坚成就」。"
+    },
+    {
+      "topicId": "mt_ls_s4_reform_opening_1978",
+      "prerequisiteId": "mt_ls_s4_poverty_alleviation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「脱贫攻坚成就」为「改革开放决策」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_reform_opening_1978",
+      "prerequisiteId": "mt_ls_s4_one_country_two_systems",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「一国两制与统一」支撑「改革开放决策」。"
+    },
+    {
+      "topicId": "mt_ls_s4_socialism_modernization",
+      "prerequisiteId": "mt_ls_s4_reform_opening_1978",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「改革开放决策」为「社会主义现代化建设」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_socialism_modernization",
+      "prerequisiteId": "mt_ls_s4_poverty_alleviation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「脱贫攻坚成就」支撑「社会主义现代化建设」。"
+    },
+    {
+      "topicId": "mt_ls_s4_socialism_system_advantage",
+      "prerequisiteId": "mt_ls_s4_socialism_modernization",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社会主义现代化建设」为「中国特色社会主义制度优势」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_socialism_system_advantage",
+      "prerequisiteId": "mt_ls_s4_reform_opening_1978",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「改革开放决策」支撑「中国特色社会主义制度优势」。"
+    },
+    {
+      "topicId": "mt_ls_s4_mesopotamia_egypt",
+      "prerequisiteId": "mt_ls_s4_indus_ganges_civilization",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「古印度文明」为「两河流域与古埃及」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_ancient_greece_democracy",
+      "prerequisiteId": "mt_ls_s4_mesopotamia_egypt",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「两河流域与古埃及」为「古希腊民主政治」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_ancient_greece_democracy",
+      "prerequisiteId": "mt_ls_s4_indus_ganges_civilization",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「古印度文明」支撑「古希腊民主政治」。"
+    },
+    {
+      "topicId": "mt_ls_s4_rome_law_empire",
+      "prerequisiteId": "mt_ls_s4_ancient_greece_democracy",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「古希腊民主政治」为「古罗马法律与帝国」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_rome_law_empire",
+      "prerequisiteId": "mt_ls_s4_mesopotamia_egypt",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「两河流域与古埃及」支撑「古罗马法律与帝国」。"
+    },
+    {
+      "topicId": "mt_ls_s4_islamic_golden_age",
+      "prerequisiteId": "mt_ls_s4_rome_law_empire",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「古罗马法律与帝国」为「阿拉伯帝国与文化」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_islamic_golden_age",
+      "prerequisiteId": "mt_ls_s4_ancient_greece_democracy",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「古希腊民主政治」支撑「阿拉伯帝国与文化」。"
+    },
+    {
+      "topicId": "mt_ls_s4_medieval_europe_feudal",
+      "prerequisiteId": "mt_ls_s4_islamic_golden_age",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「阿拉伯帝国与文化」为「中世纪欧洲封建」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_medieval_europe_feudal",
+      "prerequisiteId": "mt_ls_s4_rome_law_empire",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「古罗马法律与帝国」支撑「中世纪欧洲封建」。"
+    },
+    {
+      "topicId": "mt_ls_s4_ancient_civilization_comparison",
+      "prerequisiteId": "mt_ls_s4_medieval_europe_feudal",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中世纪欧洲封建」为「古代文明比较」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_ancient_civilization_comparison",
+      "prerequisiteId": "mt_ls_s4_islamic_golden_age",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「阿拉伯帝国与文化」支撑「古代文明比较」。"
+    },
+    {
+      "topicId": "mt_ls_s4_silk_road_world_link",
+      "prerequisiteId": "mt_ls_s4_ancient_civilization_comparison",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「古代文明比较」为「古代世界联系」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_silk_road_world_link",
+      "prerequisiteId": "mt_ls_s4_medieval_europe_feudal",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中世纪欧洲封建」支撑「古代世界联系」。"
+    },
+    {
+      "topicId": "mt_ls_s4_african_kingdoms",
+      "prerequisiteId": "mt_ls_s4_silk_road_world_link",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「古代世界联系」为「古代非洲文明」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_african_kingdoms",
+      "prerequisiteId": "mt_ls_s4_ancient_civilization_comparison",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「古代文明比较」支撑「古代非洲文明」。"
+    },
+    {
+      "topicId": "mt_ls_s4_japanese_ancient_state",
+      "prerequisiteId": "mt_ls_s4_african_kingdoms",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「古代非洲文明」为「古代日本大化改新」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_japanese_ancient_state",
+      "prerequisiteId": "mt_ls_s4_silk_road_world_link",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「古代世界联系」支撑「古代日本大化改新」。"
+    },
+    {
+      "topicId": "mt_ls_s4_renaissance_humanism",
+      "prerequisiteId": "mt_ls_s4_geographic_discoveries",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「新航路开辟」为「文艺复兴人文主义」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_enlightenment_ideas",
+      "prerequisiteId": "mt_ls_s4_renaissance_humanism",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「文艺复兴人文主义」为「启蒙运动思想」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_enlightenment_ideas",
+      "prerequisiteId": "mt_ls_s4_geographic_discoveries",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「新航路开辟」支撑「启蒙运动思想」。"
+    },
+    {
+      "topicId": "mt_ls_s4_industrial_revolution",
+      "prerequisiteId": "mt_ls_s4_enlightenment_ideas",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「启蒙运动思想」为「工业革命」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_industrial_revolution",
+      "prerequisiteId": "mt_ls_s4_renaissance_humanism",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「文艺复兴人文主义」支撑「工业革命」。"
+    },
+    {
+      "topicId": "mt_ls_s4_american_independence",
+      "prerequisiteId": "mt_ls_s4_industrial_revolution",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「工业革命」为「美国独立战争」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_american_independence",
+      "prerequisiteId": "mt_ls_s4_enlightenment_ideas",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「启蒙运动思想」支撑「美国独立战争」。"
+    },
+    {
+      "topicId": "mt_ls_s4_french_revolution",
+      "prerequisiteId": "mt_ls_s4_american_independence",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「美国独立战争」为「法国大革命」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_french_revolution",
+      "prerequisiteId": "mt_ls_s4_industrial_revolution",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「工业革命」支撑「法国大革命」。"
+    },
+    {
+      "topicId": "mt_ls_s4_imperialism_division",
+      "prerequisiteId": "mt_ls_s4_french_revolution",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「法国大革命」为「资本主义进入帝国主义」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_imperialism_division",
+      "prerequisiteId": "mt_ls_s4_american_independence",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「美国独立战争」支撑「资本主义进入帝国主义」。"
+    },
+    {
+      "topicId": "mt_ls_s4_marxism_birth",
+      "prerequisiteId": "mt_ls_s4_imperialism_division",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「资本主义进入帝国主义」为「马克思主义诞生」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_marxism_birth",
+      "prerequisiteId": "mt_ls_s4_french_revolution",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「法国大革命」支撑「马克思主义诞生」。"
+    },
+    {
+      "topicId": "mt_ls_s4_japan_meiji_restoration",
+      "prerequisiteId": "mt_ls_s4_marxism_birth",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「马克思主义诞生」为「日本明治维新」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_japan_meiji_restoration",
+      "prerequisiteId": "mt_ls_s4_imperialism_division",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「资本主义进入帝国主义」支撑「日本明治维新」。"
+    },
+    {
+      "topicId": "mt_ls_s4_latin_america_independence",
+      "prerequisiteId": "mt_ls_s4_japan_meiji_restoration",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「日本明治维新」为「拉丁美洲独立运动」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_latin_america_independence",
+      "prerequisiteId": "mt_ls_s4_marxism_birth",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「马克思主义诞生」支撑「拉丁美洲独立运动」。"
+    },
+    {
+      "topicId": "mt_ls_s4_scientific_revolution",
+      "prerequisiteId": "mt_ls_s4_latin_america_independence",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「拉丁美洲独立运动」为「近代科学革命」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_scientific_revolution",
+      "prerequisiteId": "mt_ls_s4_japan_meiji_restoration",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「日本明治维新」支撑「近代科学革命」。"
+    },
+    {
+      "topicId": "mt_ls_s4_world_market_formation",
+      "prerequisiteId": "mt_ls_s4_scientific_revolution",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「近代科学革命」为「世界市场形成」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_world_market_formation",
+      "prerequisiteId": "mt_ls_s4_latin_america_independence",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「拉丁美洲独立运动」支撑「世界市场形成」。"
+    },
+    {
+      "topicId": "mt_ls_s4_ww1_causes",
+      "prerequisiteId": "mt_ls_s4_russian_revolution",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「俄国十月革命」为「第一次世界大战」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_great_depression",
+      "prerequisiteId": "mt_ls_s4_ww1_causes",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「第一次世界大战」为「1929经济大危机」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_great_depression",
+      "prerequisiteId": "mt_ls_s4_russian_revolution",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「俄国十月革命」支撑「1929经济大危机」。"
+    },
+    {
+      "topicId": "mt_ls_s4_cold_war_bipolar",
+      "prerequisiteId": "mt_ls_s4_great_depression",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「1929经济大危机」为「冷战与两极格局」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_cold_war_bipolar",
+      "prerequisiteId": "mt_ls_s4_ww1_causes",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「第一次世界大战」支撑「冷战与两极格局」。"
+    },
+    {
+      "topicId": "mt_ls_s4_decolonization_wave",
+      "prerequisiteId": "mt_ls_s4_cold_war_bipolar",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「冷战与两极格局」为「亚非拉民族独立浪潮」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_decolonization_wave",
+      "prerequisiteId": "mt_ls_s4_great_depression",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「1929经济大危机」支撑「亚非拉民族独立浪潮」。"
+    },
+    {
+      "topicId": "mt_ls_s4_globalization_trends",
+      "prerequisiteId": "mt_ls_s4_decolonization_wave",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「亚非拉民族独立浪潮」为「经济全球化」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_globalization_trends",
+      "prerequisiteId": "mt_ls_s4_cold_war_bipolar",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「冷战与两极格局」支撑「经济全球化」。"
+    },
+    {
+      "topicId": "mt_ls_s4_human_rights_development",
+      "prerequisiteId": "mt_ls_s4_globalization_trends",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「经济全球化」为「现代人权发展」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_human_rights_development",
+      "prerequisiteId": "mt_ls_s4_decolonization_wave",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「亚非拉民族独立浪潮」支撑「现代人权发展」。"
+    },
+    {
+      "topicId": "mt_ls_s4_tech_revolution_info",
+      "prerequisiteId": "mt_ls_s4_human_rights_development",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「现代人权发展」为「信息时代变革」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_tech_revolution_info",
+      "prerequisiteId": "mt_ls_s4_globalization_trends",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「经济全球化」支撑「信息时代变革」。"
+    },
+    {
+      "topicId": "mt_ls_s4_united_nations",
+      "prerequisiteId": "mt_ls_s4_tech_revolution_info",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「信息时代变革」为「联合国与战后秩序」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_united_nations",
+      "prerequisiteId": "mt_ls_s4_human_rights_development",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「现代人权发展」支撑「联合国与战后秩序」。"
+    },
+    {
+      "topicId": "mt_ls_s4_ww2_anti_fascist",
+      "prerequisiteId": "mt_ls_s4_united_nations",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「联合国与战后秩序」为「第二次世界大战」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_ww2_anti_fascist",
+      "prerequisiteId": "mt_ls_s4_tech_revolution_info",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「信息时代变革」支撑「第二次世界大战」。"
+    },
+    {
+      "topicId": "mt_ls_s4_primary_secondary_sources",
+      "prerequisiteId": "mt_ls_s4_historical_timeline_skill",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「绘制历史年表」为「一手与二手史料」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_archaeology_evidence",
+      "prerequisiteId": "mt_ls_s4_primary_secondary_sources",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「一手与二手史料」为「考古与历史证据」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_archaeology_evidence",
+      "prerequisiteId": "mt_ls_s4_historical_timeline_skill",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「绘制历史年表」支撑「考古与历史证据」。"
+    },
+    {
+      "topicId": "mt_ls_s4_map_reading_history",
+      "prerequisiteId": "mt_ls_s4_archaeology_evidence",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「考古与历史证据」为「历史地图识读」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_map_reading_history",
+      "prerequisiteId": "mt_ls_s4_primary_secondary_sources",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「一手与二手史料」支撑「历史地图识读」。"
+    },
+    {
+      "topicId": "mt_ls_s4_cause_and_effect",
+      "prerequisiteId": "mt_ls_s4_map_reading_history",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「历史地图识读」为「历史因果分析」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_cause_and_effect",
+      "prerequisiteId": "mt_ls_s4_archaeology_evidence",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「考古与历史证据」支撑「历史因果分析」。"
+    },
+    {
+      "topicId": "mt_ls_s4_compare_historical_figures",
+      "prerequisiteId": "mt_ls_s4_cause_and_effect",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「历史因果分析」为「历史人物比较」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_compare_historical_figures",
+      "prerequisiteId": "mt_ls_s4_map_reading_history",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「历史地图识读」支撑「历史人物比较」。"
+    },
+    {
+      "topicId": "mt_ls_s4_historiography_bias",
+      "prerequisiteId": "mt_ls_s4_compare_historical_figures",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「历史人物比较」为「史料的立场与偏见」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_historiography_bias",
+      "prerequisiteId": "mt_ls_s4_cause_and_effect",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「历史因果分析」支撑「史料的立场与偏见」。"
+    },
+    {
+      "topicId": "mt_ls_s4_research_mini_project",
+      "prerequisiteId": "mt_ls_s4_historiography_bias",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「史料的立场与偏见」为「小型史题探究」提供准备。"
+    },
+    {
+      "topicId": "mt_ls_s4_research_mini_project",
+      "prerequisiteId": "mt_ls_s4_compare_historical_figures",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「历史人物比较」支撑「小型史题探究」。"
+    },
+    {
       "topicId": "mt_it_s1_digital_device_parts",
       "prerequisiteId": "mt_it_s1_digital_art_create",
       "strength": "soft",
@@ -3824,6 +6266,600 @@
       "prerequisiteId": "mt_it_s4_machine_learning_intro",
       "strength": "soft",
       "reason": "同领域隔项准备：「机器学习入门」支撑「智慧社会应用」。"
+    },
+    {
+      "topicId": "mt_ld_s1_pack_schoolbag",
+      "prerequisiteId": "mt_ld_s1_labor_habits_daily",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「日常劳动习惯」为「整理书包」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s1_tidy_desk_corner",
+      "prerequisiteId": "mt_ld_s1_pack_schoolbag",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「整理书包」为「整理课桌与区域」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s1_tidy_desk_corner",
+      "prerequisiteId": "mt_ld_s1_labor_habits_daily",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「日常劳动习惯」支撑「整理课桌与区域」。"
+    },
+    {
+      "topicId": "mt_ld_s1_wash_hands_face",
+      "prerequisiteId": "mt_ld_s1_tidy_desk_corner",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「整理课桌与区域」为「洗手洗脸」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s1_wash_hands_face",
+      "prerequisiteId": "mt_ld_s1_pack_schoolbag",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「整理书包」支撑「洗手洗脸」。"
+    },
+    {
+      "topicId": "mt_ld_s2_fold_clothes_basic",
+      "prerequisiteId": "mt_ld_s1_wash_hands_face",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「洗手洗脸」，再学习「折叠衣物」。"
+    },
+    {
+      "topicId": "mt_ld_s2_fold_clothes_basic",
+      "prerequisiteId": "mt_ld_s1_tidy_desk_corner",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「整理课桌与区域」支撑「折叠衣物」。"
+    },
+    {
+      "topicId": "mt_ld_s2_labor_safety_tools",
+      "prerequisiteId": "mt_ld_s2_fold_clothes_basic",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「折叠衣物」为「劳动工具安全」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_labor_safety_tools",
+      "prerequisiteId": "mt_ld_s1_wash_hands_face",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「洗手洗脸」支撑「劳动工具安全」。"
+    },
+    {
+      "topicId": "mt_ld_s2_labor_story_share",
+      "prerequisiteId": "mt_ld_s2_labor_safety_tools",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「劳动工具安全」为「劳动故事分享」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_labor_story_share",
+      "prerequisiteId": "mt_ld_s2_fold_clothes_basic",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「折叠衣物」支撑「劳动故事分享」。"
+    },
+    {
+      "topicId": "mt_ld_s2_shoe_care_clean",
+      "prerequisiteId": "mt_ld_s2_labor_story_share",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「劳动故事分享」为「鞋袜清洁」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_shoe_care_clean",
+      "prerequisiteId": "mt_ld_s2_labor_safety_tools",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「劳动工具安全」支撑「鞋袜清洁」。"
+    },
+    {
+      "topicId": "mt_ld_s2_simple_laundry",
+      "prerequisiteId": "mt_ld_s2_shoe_care_clean",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「鞋袜清洁」为「简单洗涤」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_simple_laundry",
+      "prerequisiteId": "mt_ld_s2_labor_story_share",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「劳动故事分享」支撑「简单洗涤」。"
+    },
+    {
+      "topicId": "mt_ld_s2_table_setting_cleanup",
+      "prerequisiteId": "mt_ld_s2_simple_laundry",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「简单洗涤」为「摆餐具与收拾」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_table_setting_cleanup",
+      "prerequisiteId": "mt_ld_s2_shoe_care_clean",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「鞋袜清洁」支撑「摆餐具与收拾」。"
+    },
+    {
+      "topicId": "mt_ld_s3_cooking_simple_meal",
+      "prerequisiteId": "mt_ld_s2_table_setting_cleanup",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「摆餐具与收拾」，再学习「简易烹饪」。"
+    },
+    {
+      "topicId": "mt_ld_s3_cooking_simple_meal",
+      "prerequisiteId": "mt_ld_s2_simple_laundry",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「简单洗涤」支撑「简易烹饪」。"
+    },
+    {
+      "topicId": "mt_ld_s3_garbage_sort_home",
+      "prerequisiteId": "mt_ld_s3_cooking_simple_meal",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「简易烹饪」为「家庭垃圾分类」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_garbage_sort_home",
+      "prerequisiteId": "mt_ld_s2_table_setting_cleanup",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「摆餐具与收拾」支撑「家庭垃圾分类」。"
+    },
+    {
+      "topicId": "mt_ld_s3_home_cleaning_plan",
+      "prerequisiteId": "mt_ld_s3_garbage_sort_home",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「家庭垃圾分类」为「家庭清洁」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_home_cleaning_plan",
+      "prerequisiteId": "mt_ld_s3_cooking_simple_meal",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「简易烹饪」支撑「家庭清洁」。"
+    },
+    {
+      "topicId": "mt_ld_s3_kitchen_safety",
+      "prerequisiteId": "mt_ld_s3_home_cleaning_plan",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「家庭清洁」为「厨房安全」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_kitchen_safety",
+      "prerequisiteId": "mt_ld_s3_garbage_sort_home",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「家庭垃圾分类」支撑「厨房安全」。"
+    },
+    {
+      "topicId": "mt_ld_s3_labor_time_management",
+      "prerequisiteId": "mt_ld_s3_kitchen_safety",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「厨房安全」为「劳动时间管理」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_labor_time_management",
+      "prerequisiteId": "mt_ld_s3_home_cleaning_plan",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「家庭清洁」支撑「劳动时间管理」。"
+    },
+    {
+      "topicId": "mt_ld_s4_budget_shopping_list",
+      "prerequisiteId": "mt_ld_s3_labor_time_management",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「劳动时间管理」，再学习「采购与预算」。"
+    },
+    {
+      "topicId": "mt_ld_s4_budget_shopping_list",
+      "prerequisiteId": "mt_ld_s3_kitchen_safety",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「厨房安全」支撑「采购与预算」。"
+    },
+    {
+      "topicId": "mt_ld_s4_clothing_care_label",
+      "prerequisiteId": "mt_ld_s4_budget_shopping_list",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「采购与预算」为「衣物护理」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_clothing_care_label",
+      "prerequisiteId": "mt_ld_s3_labor_time_management",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「劳动时间管理」支撑「衣物护理」。"
+    },
+    {
+      "topicId": "mt_ld_s4_food_prep_safe",
+      "prerequisiteId": "mt_ld_s4_clothing_care_label",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「衣物护理」为「安全备餐」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_food_prep_safe",
+      "prerequisiteId": "mt_ld_s4_budget_shopping_list",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「采购与预算」支撑「安全备餐」。"
+    },
+    {
+      "topicId": "mt_ld_s1_water_plants",
+      "prerequisiteId": "mt_ld_s1_seed_germination",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「种子萌发观察」为「给植物浇水」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s1_weather_adapt_labor",
+      "prerequisiteId": "mt_ld_s1_water_plants",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「给植物浇水」为「天气与户外劳动」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s1_weather_adapt_labor",
+      "prerequisiteId": "mt_ld_s1_seed_germination",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「种子萌发观察」支撑「天气与户外劳动」。"
+    },
+    {
+      "topicId": "mt_ld_s2_compost_waste",
+      "prerequisiteId": "mt_ld_s1_weather_adapt_labor",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「天气与户外劳动」，再学习「厨余堆肥」。"
+    },
+    {
+      "topicId": "mt_ld_s2_compost_waste",
+      "prerequisiteId": "mt_ld_s1_water_plants",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「给植物浇水」支撑「厨余堆肥」。"
+    },
+    {
+      "topicId": "mt_ld_s2_observe_pets",
+      "prerequisiteId": "mt_ld_s2_compost_waste",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「厨余堆肥」为「小动物照料」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_observe_pets",
+      "prerequisiteId": "mt_ld_s1_weather_adapt_labor",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「天气与户外劳动」支撑「小动物照料」。"
+    },
+    {
+      "topicId": "mt_ld_s2_paper_craft_make",
+      "prerequisiteId": "mt_ld_s2_observe_pets",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「小动物照料」为「纸工制作」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_paper_craft_make",
+      "prerequisiteId": "mt_ld_s2_compost_waste",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「厨余堆肥」支撑「纸工制作」。"
+    },
+    {
+      "topicId": "mt_ld_s2_plant_vegetables_box",
+      "prerequisiteId": "mt_ld_s2_paper_craft_make",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「纸工制作」为「箱式蔬菜种植」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_plant_vegetables_box",
+      "prerequisiteId": "mt_ld_s2_observe_pets",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「小动物照料」支撑「箱式蔬菜种植」。"
+    },
+    {
+      "topicId": "mt_ld_s2_recycle_upcycle",
+      "prerequisiteId": "mt_ld_s2_plant_vegetables_box",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「箱式蔬菜种植」为「废旧改造」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_recycle_upcycle",
+      "prerequisiteId": "mt_ld_s2_paper_craft_make",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「纸工制作」支撑「废旧改造」。"
+    },
+    {
+      "topicId": "mt_ld_s3_assemble_simple_kit",
+      "prerequisiteId": "mt_ld_s2_recycle_upcycle",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「废旧改造」，再学习「简易组装」。"
+    },
+    {
+      "topicId": "mt_ld_s3_assemble_simple_kit",
+      "prerequisiteId": "mt_ld_s2_plant_vegetables_box",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「箱式蔬菜种植」支撑「简易组装」。"
+    },
+    {
+      "topicId": "mt_ld_s3_labor_safety_ppe",
+      "prerequisiteId": "mt_ld_s3_assemble_simple_kit",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「简易组装」为「劳动防护用品」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_labor_safety_ppe",
+      "prerequisiteId": "mt_ld_s2_recycle_upcycle",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「废旧改造」支撑「劳动防护用品」。"
+    },
+    {
+      "topicId": "mt_ld_s3_simple_sewing",
+      "prerequisiteId": "mt_ld_s3_labor_safety_ppe",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「劳动防护用品」为「简易缝补」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_simple_sewing",
+      "prerequisiteId": "mt_ld_s3_assemble_simple_kit",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「简易组装」支撑「简易缝补」。"
+    },
+    {
+      "topicId": "mt_ld_s3_traditional_craft_try",
+      "prerequisiteId": "mt_ld_s3_simple_sewing",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「简易缝补」为「传统手工艺」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_traditional_craft_try",
+      "prerequisiteId": "mt_ld_s3_labor_safety_ppe",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「劳动防护用品」支撑「传统手工艺」。"
+    },
+    {
+      "topicId": "mt_ld_s3_woodwork_measure_cut",
+      "prerequisiteId": "mt_ld_s3_traditional_craft_try",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「传统手工艺」为「木工测量切割」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_woodwork_measure_cut",
+      "prerequisiteId": "mt_ld_s3_simple_sewing",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「简易缝补」支撑「木工测量切割」。"
+    },
+    {
+      "topicId": "mt_ld_s4_digital_labor_tools",
+      "prerequisiteId": "mt_ld_s3_woodwork_measure_cut",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「木工测量切割」，再学习「数字劳动工具」。"
+    },
+    {
+      "topicId": "mt_ld_s4_digital_labor_tools",
+      "prerequisiteId": "mt_ld_s3_traditional_craft_try",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「传统手工艺」支撑「数字劳动工具」。"
+    },
+    {
+      "topicId": "mt_ld_s4_garden_harvest",
+      "prerequisiteId": "mt_ld_s4_digital_labor_tools",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「数字劳动工具」为「种植与收获」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_garden_harvest",
+      "prerequisiteId": "mt_ld_s3_woodwork_measure_cut",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「木工测量切割」支撑「种植与收获」。"
+    },
+    {
+      "topicId": "mt_ld_s4_plant_identification_field",
+      "prerequisiteId": "mt_ld_s4_garden_harvest",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「种植与收获」为「田间识别」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_plant_identification_field",
+      "prerequisiteId": "mt_ld_s4_digital_labor_tools",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「数字劳动工具」支撑「田间识别」。"
+    },
+    {
+      "topicId": "mt_ld_s4_repair_simple_fix",
+      "prerequisiteId": "mt_ld_s4_plant_identification_field",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「田间识别」为「简单维修」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_repair_simple_fix",
+      "prerequisiteId": "mt_ld_s4_garden_harvest",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「种植与收获」支撑「简单维修」。"
+    },
+    {
+      "topicId": "mt_ld_s4_small_batch_product",
+      "prerequisiteId": "mt_ld_s4_repair_simple_fix",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「简单维修」为「小批量制作」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_small_batch_product",
+      "prerequisiteId": "mt_ld_s4_plant_identification_field",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「田间识别」支撑「小批量制作」。"
+    },
+    {
+      "topicId": "mt_ld_s4_tool_maintenance",
+      "prerequisiteId": "mt_ld_s4_small_batch_product",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「小批量制作」为「工具保养」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_tool_maintenance",
+      "prerequisiteId": "mt_ld_s4_repair_simple_fix",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「简单维修」支撑「工具保养」。"
+    },
+    {
+      "topicId": "mt_ld_s1_classroom_service",
+      "prerequisiteId": "mt_ld_s1_campus_duty_clean",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「校园值日清扫」为「班级服务」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_elder_visit_help",
+      "prerequisiteId": "mt_ld_s1_classroom_service",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「班级服务」，再学习「关爱老人服务」。"
+    },
+    {
+      "topicId": "mt_ld_s2_elder_visit_help",
+      "prerequisiteId": "mt_ld_s1_campus_duty_clean",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「校园值日清扫」支撑「关爱老人服务」。"
+    },
+    {
+      "topicId": "mt_ld_s2_green_campus_care",
+      "prerequisiteId": "mt_ld_s2_elder_visit_help",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「关爱老人服务」为「校园绿化养护」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_green_campus_care",
+      "prerequisiteId": "mt_ld_s1_classroom_service",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「班级服务」支撑「校园绿化养护」。"
+    },
+    {
+      "topicId": "mt_ld_s2_library_helper",
+      "prerequisiteId": "mt_ld_s2_green_campus_care",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「校园绿化养护」为「图书小助手」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_library_helper",
+      "prerequisiteId": "mt_ld_s2_elder_visit_help",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「关爱老人服务」支撑「图书小助手」。"
+    },
+    {
+      "topicId": "mt_ld_s2_seasonal_labor_festival",
+      "prerequisiteId": "mt_ld_s2_library_helper",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「图书小助手」为「节日劳动服务」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_seasonal_labor_festival",
+      "prerequisiteId": "mt_ld_s2_green_campus_care",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「校园绿化养护」支撑「节日劳动服务」。"
+    },
+    {
+      "topicId": "mt_ld_s2_serve_cafeteria_line",
+      "prerequisiteId": "mt_ld_s2_seasonal_labor_festival",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「节日劳动服务」为「食堂秩序服务」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s2_serve_cafeteria_line",
+      "prerequisiteId": "mt_ld_s2_library_helper",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「图书小助手」支撑「食堂秩序服务」。"
+    },
+    {
+      "topicId": "mt_ld_s3_care_kindergarten_peer",
+      "prerequisiteId": "mt_ld_s2_serve_cafeteria_line",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「食堂秩序服务」，再学习「帮扶低年级」。"
+    },
+    {
+      "topicId": "mt_ld_s3_care_kindergarten_peer",
+      "prerequisiteId": "mt_ld_s2_seasonal_labor_festival",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「节日劳动服务」支撑「帮扶低年级」。"
+    },
+    {
+      "topicId": "mt_ld_s3_community_cleanup",
+      "prerequisiteId": "mt_ld_s3_care_kindergarten_peer",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「帮扶低年级」为「社区清洁」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_community_cleanup",
+      "prerequisiteId": "mt_ld_s2_serve_cafeteria_line",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「食堂秩序服务」支撑「社区清洁」。"
+    },
+    {
+      "topicId": "mt_ld_s3_event_volunteer",
+      "prerequisiteId": "mt_ld_s3_community_cleanup",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社区清洁」为「活动志愿」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_event_volunteer",
+      "prerequisiteId": "mt_ld_s3_care_kindergarten_peer",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「帮扶低年级」支撑「活动志愿」。"
+    },
+    {
+      "topicId": "mt_ld_s3_labor_meaning_reflection",
+      "prerequisiteId": "mt_ld_s3_event_volunteer",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「活动志愿」为「劳动意义」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s3_labor_meaning_reflection",
+      "prerequisiteId": "mt_ld_s3_community_cleanup",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「社区清洁」支撑「劳动意义」。"
+    },
+    {
+      "topicId": "mt_ld_s4_career_interview",
+      "prerequisiteId": "mt_ld_s3_labor_meaning_reflection",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「劳动意义」，再学习「职业访谈」。"
+    },
+    {
+      "topicId": "mt_ld_s4_career_interview",
+      "prerequisiteId": "mt_ld_s3_event_volunteer",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「活动志愿」支撑「职业访谈」。"
+    },
+    {
+      "topicId": "mt_ld_s4_career_shadow_visit",
+      "prerequisiteId": "mt_ld_s4_career_interview",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「职业访谈」为「职业体验参观」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_career_shadow_visit",
+      "prerequisiteId": "mt_ld_s3_labor_meaning_reflection",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「劳动意义」支撑「职业体验参观」。"
+    },
+    {
+      "topicId": "mt_ld_s4_labor_contract_team",
+      "prerequisiteId": "mt_ld_s4_career_shadow_visit",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「职业体验参观」为「小组劳动契约」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_labor_contract_team",
+      "prerequisiteId": "mt_ld_s4_career_interview",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「职业访谈」支撑「小组劳动契约」。"
+    },
+    {
+      "topicId": "mt_ld_s4_labor_reflection_portfolio",
+      "prerequisiteId": "mt_ld_s4_labor_contract_team",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「小组劳动契约」为「劳动档案」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_labor_reflection_portfolio",
+      "prerequisiteId": "mt_ld_s4_career_shadow_visit",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「职业体验参观」支撑「劳动档案」。"
+    },
+    {
+      "topicId": "mt_ld_s4_neighborhood_survey_service",
+      "prerequisiteId": "mt_ld_s4_labor_reflection_portfolio",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「劳动档案」为「社区调查服务」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_neighborhood_survey_service",
+      "prerequisiteId": "mt_ld_s4_labor_contract_team",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「小组劳动契约」支撑「社区调查服务」。"
+    },
+    {
+      "topicId": "mt_ld_s4_public_service_design",
+      "prerequisiteId": "mt_ld_s4_neighborhood_survey_service",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社区调查服务」为「公益项目设计」提供准备。"
+    },
+    {
+      "topicId": "mt_ld_s4_public_service_design",
+      "prerequisiteId": "mt_ld_s4_labor_reflection_portfolio",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「劳动档案」支撑「公益项目设计」。"
     },
     {
       "topicId": "mt_math_s1_add_sub_within_20",
@@ -6044,6 +9080,1884 @@
       "prerequisiteId": "mt_math_s4_math_modeling",
       "strength": "soft",
       "reason": "同领域隔项准备：「数学建模入门」支撑「探究性课题」。"
+    },
+    {
+      "topicId": "mt_df_s1_wash_hands_habit",
+      "prerequisiteId": "mt_df_s1_tooth_brushing",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「早晚刷牙护齿」为「饭前便后洗手」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_body_privacy",
+      "prerequisiteId": "mt_df_s1_wash_hands_habit",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「饭前便后洗手」为「身体隐私保护」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_body_privacy",
+      "prerequisiteId": "mt_df_s1_tooth_brushing",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「早晚刷牙护齿」支撑「身体隐私保护」。"
+    },
+    {
+      "topicId": "mt_df_s1_safe_playground",
+      "prerequisiteId": "mt_df_s1_body_privacy",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「身体隐私保护」为「游戏场地安全」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_safe_playground",
+      "prerequisiteId": "mt_df_s1_wash_hands_habit",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「饭前便后洗手」支撑「游戏场地安全」。"
+    },
+    {
+      "topicId": "mt_df_s1_sleep_schedule",
+      "prerequisiteId": "mt_df_s1_safe_playground",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「游戏场地安全」为「规律作息睡眠」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_sleep_schedule",
+      "prerequisiteId": "mt_df_s1_body_privacy",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「身体隐私保护」支撑「规律作息睡眠」。"
+    },
+    {
+      "topicId": "mt_df_s1_stranger_safety",
+      "prerequisiteId": "mt_df_s1_sleep_schedule",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「规律作息睡眠」为「陌生人安全防范」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_stranger_safety",
+      "prerequisiteId": "mt_df_s1_safe_playground",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「游戏场地安全」支撑「陌生人安全防范」。"
+    },
+    {
+      "topicId": "mt_df_s1_traffic_pedestrian",
+      "prerequisiteId": "mt_df_s1_stranger_safety",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「陌生人安全防范」为「步行交通安全」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_traffic_pedestrian",
+      "prerequisiteId": "mt_df_s1_sleep_schedule",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「规律作息睡眠」支撑「步行交通安全」。"
+    },
+    {
+      "topicId": "mt_df_s1_fire_escape_basics",
+      "prerequisiteId": "mt_df_s1_traffic_pedestrian",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「步行交通安全」为「火灾逃生初识」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_fire_escape_basics",
+      "prerequisiteId": "mt_df_s1_stranger_safety",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「陌生人安全防范」支撑「火灾逃生初识」。"
+    },
+    {
+      "topicId": "mt_df_s2_balanced_diet",
+      "prerequisiteId": "mt_df_s1_fire_escape_basics",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「火灾逃生初识」，再学习「均衡饮食选择」。"
+    },
+    {
+      "topicId": "mt_df_s2_balanced_diet",
+      "prerequisiteId": "mt_df_s1_traffic_pedestrian",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「步行交通安全」支撑「均衡饮食选择」。"
+    },
+    {
+      "topicId": "mt_df_s2_eye_care_screen",
+      "prerequisiteId": "mt_df_s2_balanced_diet",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「均衡饮食选择」为「用眼与屏幕时间」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_eye_care_screen",
+      "prerequisiteId": "mt_df_s1_fire_escape_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「火灾逃生初识」支撑「用眼与屏幕时间」。"
+    },
+    {
+      "topicId": "mt_df_s2_emotion_naming",
+      "prerequisiteId": "mt_df_s2_eye_care_screen",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「用眼与屏幕时间」为「识别与表达情绪」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_emotion_naming",
+      "prerequisiteId": "mt_df_s2_balanced_diet",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「均衡饮食选择」支撑「识别与表达情绪」。"
+    },
+    {
+      "topicId": "mt_df_s2_stress_relief_child",
+      "prerequisiteId": "mt_df_s2_emotion_naming",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「识别与表达情绪」为「儿童减压方法」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_stress_relief_child",
+      "prerequisiteId": "mt_df_s2_eye_care_screen",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「用眼与屏幕时间」支撑「儿童减压方法」。"
+    },
+    {
+      "topicId": "mt_df_s2_disaster_drill",
+      "prerequisiteId": "mt_df_s2_stress_relief_child",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「儿童减压方法」为「防震减灾演练」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_disaster_drill",
+      "prerequisiteId": "mt_df_s2_emotion_naming",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「识别与表达情绪」支撑「防震减灾演练」。"
+    },
+    {
+      "topicId": "mt_df_s2_extreme_weather_safety",
+      "prerequisiteId": "mt_df_s2_disaster_drill",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「防震减灾演练」为「极端天气防护」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_extreme_weather_safety",
+      "prerequisiteId": "mt_df_s2_stress_relief_child",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「儿童减压方法」支撑「极端天气防护」。"
+    },
+    {
+      "topicId": "mt_df_s2_internet_personal_info",
+      "prerequisiteId": "mt_df_s2_extreme_weather_safety",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「极端天气防护」为「网络个人信息保护」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_internet_personal_info",
+      "prerequisiteId": "mt_df_s2_disaster_drill",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「防震减灾演练」支撑「网络个人信息保护」。"
+    },
+    {
+      "topicId": "mt_df_s3_mental_health_aware",
+      "prerequisiteId": "mt_df_s2_internet_personal_info",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「网络个人信息保护」，再学习「心理健康觉察」。"
+    },
+    {
+      "topicId": "mt_df_s3_mental_health_aware",
+      "prerequisiteId": "mt_df_s2_extreme_weather_safety",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「极端天气防护」支撑「心理健康觉察」。"
+    },
+    {
+      "topicId": "mt_df_s3_puberty_hygiene",
+      "prerequisiteId": "mt_df_s3_mental_health_aware",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「心理健康觉察」为「青春期卫生常识」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_puberty_hygiene",
+      "prerequisiteId": "mt_df_s2_internet_personal_info",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「网络个人信息保护」支撑「青春期卫生常识」。"
+    },
+    {
+      "topicId": "mt_df_s3_first_aid_basics",
+      "prerequisiteId": "mt_df_s3_puberty_hygiene",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「青春期卫生常识」为「常见外伤处理」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_first_aid_basics",
+      "prerequisiteId": "mt_df_s3_mental_health_aware",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「心理健康觉察」支撑「常见外伤处理」。"
+    },
+    {
+      "topicId": "mt_df_s3_substance_refusal",
+      "prerequisiteId": "mt_df_s3_first_aid_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「常见外伤处理」为「远离烟酒毒品」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_substance_refusal",
+      "prerequisiteId": "mt_df_s3_puberty_hygiene",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「青春期卫生常识」支撑「远离烟酒毒品」。"
+    },
+    {
+      "topicId": "mt_df_s3_sun_and_exercise",
+      "prerequisiteId": "mt_df_s3_substance_refusal",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「远离烟酒毒品」为「户外运动与防晒」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_sun_and_exercise",
+      "prerequisiteId": "mt_df_s3_first_aid_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「常见外伤处理」支撑「户外运动与防晒」。"
+    },
+    {
+      "topicId": "mt_df_s4_adolescent_body_mind",
+      "prerequisiteId": "mt_df_s3_sun_and_exercise",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「户外运动与防晒」，再学习「青春期身心调适」。"
+    },
+    {
+      "topicId": "mt_df_s4_adolescent_body_mind",
+      "prerequisiteId": "mt_df_s3_substance_refusal",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「远离烟酒毒品」支撑「青春期身心调适」。"
+    },
+    {
+      "topicId": "mt_df_s4_sleep_and_study_balance",
+      "prerequisiteId": "mt_df_s4_adolescent_body_mind",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「青春期身心调适」为「学习与休息平衡」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_sleep_and_study_balance",
+      "prerequisiteId": "mt_df_s3_sun_and_exercise",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「户外运动与防晒」支撑「学习与休息平衡」。"
+    },
+    {
+      "topicId": "mt_df_s4_addiction_prevention",
+      "prerequisiteId": "mt_df_s4_sleep_and_study_balance",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「学习与休息平衡」为「网络与游戏成瘾预防」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_addiction_prevention",
+      "prerequisiteId": "mt_df_s4_adolescent_body_mind",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「青春期身心调适」支撑「网络与游戏成瘾预防」。"
+    },
+    {
+      "topicId": "mt_df_s4_life_skills_cooking",
+      "prerequisiteId": "mt_df_s4_addiction_prevention",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「网络与游戏成瘾预防」为「基本生活自理技能」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_life_skills_cooking",
+      "prerequisiteId": "mt_df_s4_sleep_and_study_balance",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「学习与休息平衡」支撑「基本生活自理技能」。"
+    },
+    {
+      "topicId": "mt_df_s4_seek_professional_help",
+      "prerequisiteId": "mt_df_s4_life_skills_cooking",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「基本生活自理技能」为「心理求助渠道」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_seek_professional_help",
+      "prerequisiteId": "mt_df_s4_addiction_prevention",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「网络与游戏成瘾预防」支撑「心理求助渠道」。"
+    },
+    {
+      "topicId": "mt_df_s1_respect_elders",
+      "prerequisiteId": "mt_df_s1_love_parents",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「爱父母与长辈」为「尊敬师长长辈」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_greeting_manners",
+      "prerequisiteId": "mt_df_s1_respect_elders",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「尊敬师长长辈」为「礼貌用语问候」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_greeting_manners",
+      "prerequisiteId": "mt_df_s1_love_parents",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「爱父母与长辈」支撑「礼貌用语问候」。"
+    },
+    {
+      "topicId": "mt_df_s1_queue_and_wait",
+      "prerequisiteId": "mt_df_s1_greeting_manners",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「礼貌用语问候」为「排队与等候」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_queue_and_wait",
+      "prerequisiteId": "mt_df_s1_respect_elders",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「尊敬师长长辈」支撑「排队与等候」。"
+    },
+    {
+      "topicId": "mt_df_s1_share_with_peers",
+      "prerequisiteId": "mt_df_s1_queue_and_wait",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「排队与等候」为「与同伴分享」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_share_with_peers",
+      "prerequisiteId": "mt_df_s1_greeting_manners",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「礼貌用语问候」支撑「与同伴分享」。"
+    },
+    {
+      "topicId": "mt_df_s1_active_listening",
+      "prerequisiteId": "mt_df_s1_share_with_peers",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「与同伴分享」为「认真倾听他人」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_active_listening",
+      "prerequisiteId": "mt_df_s1_queue_and_wait",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「排队与等候」支撑「认真倾听他人」。"
+    },
+    {
+      "topicId": "mt_df_s1_help_classmates",
+      "prerequisiteId": "mt_df_s1_active_listening",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「认真倾听他人」为「帮助有困难同学」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_help_classmates",
+      "prerequisiteId": "mt_df_s1_share_with_peers",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「与同伴分享」支撑「帮助有困难同学」。"
+    },
+    {
+      "topicId": "mt_df_s2_empathy_others",
+      "prerequisiteId": "mt_df_s1_help_classmates",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「帮助有困难同学」，再学习「换位思考同理心」。"
+    },
+    {
+      "topicId": "mt_df_s2_empathy_others",
+      "prerequisiteId": "mt_df_s1_active_listening",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「认真倾听他人」支撑「换位思考同理心」。"
+    },
+    {
+      "topicId": "mt_df_s2_friendship_qualities",
+      "prerequisiteId": "mt_df_s2_empathy_others",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「换位思考同理心」为「好朋友的品质」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_friendship_qualities",
+      "prerequisiteId": "mt_df_s1_help_classmates",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「帮助有困难同学」支撑「好朋友的品质」。"
+    },
+    {
+      "topicId": "mt_df_s2_conflict_talk",
+      "prerequisiteId": "mt_df_s2_friendship_qualities",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「好朋友的品质」为「同伴冲突沟通」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_conflict_talk",
+      "prerequisiteId": "mt_df_s2_empathy_others",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「换位思考同理心」支撑「同伴冲突沟通」。"
+    },
+    {
+      "topicId": "mt_df_s2_honesty_promise",
+      "prerequisiteId": "mt_df_s2_conflict_talk",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「同伴冲突沟通」为「守信与诚实」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_honesty_promise",
+      "prerequisiteId": "mt_df_s2_friendship_qualities",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「好朋友的品质」支撑「守信与诚实」。"
+    },
+    {
+      "topicId": "mt_df_s2_care_community",
+      "prerequisiteId": "mt_df_s2_honesty_promise",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「守信与诚实」为「关爱社区邻里」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_care_community",
+      "prerequisiteId": "mt_df_s2_conflict_talk",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「同伴冲突沟通」支撑「关爱社区邻里」。"
+    },
+    {
+      "topicId": "mt_df_s2_group_cooperation",
+      "prerequisiteId": "mt_df_s2_care_community",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「关爱社区邻里」为「小组合作分工」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_group_cooperation",
+      "prerequisiteId": "mt_df_s2_honesty_promise",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「守信与诚实」支撑「小组合作分工」。"
+    },
+    {
+      "topicId": "mt_df_s3_anti_bullying_stand",
+      "prerequisiteId": "mt_df_s2_group_cooperation",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「小组合作分工」，再学习「抵制校园欺凌」。"
+    },
+    {
+      "topicId": "mt_df_s3_anti_bullying_stand",
+      "prerequisiteId": "mt_df_s2_care_community",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「关爱社区邻里」支撑「抵制校园欺凌」。"
+    },
+    {
+      "topicId": "mt_df_s3_inclusive_peers",
+      "prerequisiteId": "mt_df_s3_anti_bullying_stand",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「抵制校园欺凌」为「尊重差异包容」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_inclusive_peers",
+      "prerequisiteId": "mt_df_s2_group_cooperation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「小组合作分工」支撑「尊重差异包容」。"
+    },
+    {
+      "topicId": "mt_df_s3_family_chores",
+      "prerequisiteId": "mt_df_s3_inclusive_peers",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「尊重差异包容」为「承担家庭劳动」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_family_chores",
+      "prerequisiteId": "mt_df_s3_anti_bullying_stand",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「抵制校园欺凌」支撑「承担家庭劳动」。"
+    },
+    {
+      "topicId": "mt_df_s3_school_responsibility",
+      "prerequisiteId": "mt_df_s3_family_chores",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「承担家庭劳动」为「班级公共服务」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_school_responsibility",
+      "prerequisiteId": "mt_df_s3_inclusive_peers",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「尊重差异包容」支撑「班级公共服务」。"
+    },
+    {
+      "topicId": "mt_df_s3_volunteer_spirit",
+      "prerequisiteId": "mt_df_s3_school_responsibility",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「班级公共服务」为「志愿服务意识」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_volunteer_spirit",
+      "prerequisiteId": "mt_df_s3_family_chores",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「承担家庭劳动」支撑「志愿服务意识」。"
+    },
+    {
+      "topicId": "mt_df_s4_peer_pressure_refusal",
+      "prerequisiteId": "mt_df_s3_volunteer_spirit",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「志愿服务意识」，再学习「拒绝不良同伴压力」。"
+    },
+    {
+      "topicId": "mt_df_s4_peer_pressure_refusal",
+      "prerequisiteId": "mt_df_s3_school_responsibility",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「班级公共服务」支撑「拒绝不良同伴压力」。"
+    },
+    {
+      "topicId": "mt_df_s4_social_media_ethics",
+      "prerequisiteId": "mt_df_s4_peer_pressure_refusal",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「拒绝不良同伴压力」为「网络交往伦理」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_social_media_ethics",
+      "prerequisiteId": "mt_df_s3_volunteer_spirit",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「志愿服务意识」支撑「网络交往伦理」。"
+    },
+    {
+      "topicId": "mt_df_s4_civic_participation_youth",
+      "prerequisiteId": "mt_df_s4_social_media_ethics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「网络交往伦理」为「青少年公共参与」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_civic_participation_youth",
+      "prerequisiteId": "mt_df_s4_peer_pressure_refusal",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「拒绝不良同伴压力」支撑「青少年公共参与」。"
+    },
+    {
+      "topicId": "mt_df_s4_global_citizenship",
+      "prerequisiteId": "mt_df_s4_civic_participation_youth",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「青少年公共参与」，再学习「全球视野与责任」。"
+    },
+    {
+      "topicId": "mt_df_s4_global_citizenship",
+      "prerequisiteId": "mt_df_s4_social_media_ethics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「网络交往伦理」支撑「全球视野与责任」。"
+    },
+    {
+      "topicId": "mt_df_s4_intercultural_respect",
+      "prerequisiteId": "mt_df_s4_global_citizenship",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「全球视野与责任」为「跨文化尊重交往」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_intercultural_respect",
+      "prerequisiteId": "mt_df_s4_civic_participation_youth",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「青少年公共参与」支撑「跨文化尊重交往」。"
+    },
+    {
+      "topicId": "mt_df_s1_no_littering",
+      "prerequisiteId": "mt_df_s1_classroom_rules",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「课堂规则意义」为「不乱扔垃圾」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_traffic_light_rules",
+      "prerequisiteId": "mt_df_s1_no_littering",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「不乱扔垃圾」为「红绿灯与交通信号」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_traffic_light_rules",
+      "prerequisiteId": "mt_df_s1_classroom_rules",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「课堂规则意义」支撑「红绿灯与交通信号」。"
+    },
+    {
+      "topicId": "mt_df_s1_fair_turn_taking",
+      "prerequisiteId": "mt_df_s1_traffic_light_rules",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「红绿灯与交通信号」为「公平轮流规则」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_fair_turn_taking",
+      "prerequisiteId": "mt_df_s1_no_littering",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「不乱扔垃圾」支撑「公平轮流规则」。"
+    },
+    {
+      "topicId": "mt_df_s1_respect_others_property",
+      "prerequisiteId": "mt_df_s1_fair_turn_taking",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「公平轮流规则」为「爱护他人物品」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_respect_others_property",
+      "prerequisiteId": "mt_df_s1_traffic_light_rules",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「红绿灯与交通信号」支撑「爱护他人物品」。"
+    },
+    {
+      "topicId": "mt_df_s2_school_rules_why",
+      "prerequisiteId": "mt_df_s1_respect_others_property",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「爱护他人物品」，再学习「校规的目的」。"
+    },
+    {
+      "topicId": "mt_df_s2_school_rules_why",
+      "prerequisiteId": "mt_df_s1_fair_turn_taking",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「公平轮流规则」支撑「校规的目的」。"
+    },
+    {
+      "topicId": "mt_df_s2_honest_shopping",
+      "prerequisiteId": "mt_df_s2_school_rules_why",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「校规的目的」为「诚实消费行为」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_honest_shopping",
+      "prerequisiteId": "mt_df_s1_respect_others_property",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「爱护他人物品」支撑「诚实消费行为」。"
+    },
+    {
+      "topicId": "mt_df_s2_public_order_quiet",
+      "prerequisiteId": "mt_df_s2_honest_shopping",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「诚实消费行为」为「公共场所秩序」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_public_order_quiet",
+      "prerequisiteId": "mt_df_s2_school_rules_why",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「校规的目的」支撑「公共场所秩序」。"
+    },
+    {
+      "topicId": "mt_df_s2_copyright_respect",
+      "prerequisiteId": "mt_df_s2_public_order_quiet",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「公共场所秩序」为「尊重他人创作」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_copyright_respect",
+      "prerequisiteId": "mt_df_s2_honest_shopping",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「诚实消费行为」支撑「尊重他人创作」。"
+    },
+    {
+      "topicId": "mt_df_s2_dispute_peaceful",
+      "prerequisiteId": "mt_df_s2_copyright_respect",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「尊重他人创作」为「和平解决小纠纷」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_dispute_peaceful",
+      "prerequisiteId": "mt_df_s2_public_order_quiet",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「公共场所秩序」支撑「和平解决小纠纷」。"
+    },
+    {
+      "topicId": "mt_df_s3_constitution_intro",
+      "prerequisiteId": "mt_df_s2_dispute_peaceful",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「和平解决小纠纷」，再学习「宪法是国家根本法」。"
+    },
+    {
+      "topicId": "mt_df_s3_constitution_intro",
+      "prerequisiteId": "mt_df_s2_copyright_respect",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「尊重他人创作」支撑「宪法是国家根本法」。"
+    },
+    {
+      "topicId": "mt_df_s3_rights_and_duties",
+      "prerequisiteId": "mt_df_s3_constitution_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「宪法是国家根本法」为「权利与义务统一」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_rights_and_duties",
+      "prerequisiteId": "mt_df_s2_dispute_peaceful",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「和平解决小纠纷」支撑「权利与义务统一」。"
+    },
+    {
+      "topicId": "mt_df_s3_minor_protection_law",
+      "prerequisiteId": "mt_df_s3_rights_and_duties",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「权利与义务统一」为「未成年人保护法概览」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_minor_protection_law",
+      "prerequisiteId": "mt_df_s3_constitution_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「宪法是国家根本法」支撑「未成年人保护法概览」。"
+    },
+    {
+      "topicId": "mt_df_s3_consumer_rights_basic",
+      "prerequisiteId": "mt_df_s3_minor_protection_law",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「未成年人保护法概览」为「消费者基本权利」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_consumer_rights_basic",
+      "prerequisiteId": "mt_df_s3_rights_and_duties",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「权利与义务统一」支撑「消费者基本权利」。"
+    },
+    {
+      "topicId": "mt_df_s3_mediation_and_report",
+      "prerequisiteId": "mt_df_s3_consumer_rights_basic",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「消费者基本权利」为「求助与举报渠道」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_mediation_and_report",
+      "prerequisiteId": "mt_df_s3_minor_protection_law",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「未成年人保护法概览」支撑「求助与举报渠道」。"
+    },
+    {
+      "topicId": "mt_df_s4_rule_of_law_thinking",
+      "prerequisiteId": "mt_df_s3_mediation_and_report",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「求助与举报渠道」，再学习「法治思维初识」。"
+    },
+    {
+      "topicId": "mt_df_s4_rule_of_law_thinking",
+      "prerequisiteId": "mt_df_s3_consumer_rights_basic",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「消费者基本权利」支撑「法治思维初识」。"
+    },
+    {
+      "topicId": "mt_df_s4_civil_code_basics",
+      "prerequisiteId": "mt_df_s4_rule_of_law_thinking",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「法治思维初识」为「民法典生活相关」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_civil_code_basics",
+      "prerequisiteId": "mt_df_s3_mediation_and_report",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「求助与举报渠道」支撑「民法典生活相关」。"
+    },
+    {
+      "topicId": "mt_df_s4_cyber_law_basics",
+      "prerequisiteId": "mt_df_s4_civil_code_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「民法典生活相关」为「网络安全与法律」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_cyber_law_basics",
+      "prerequisiteId": "mt_df_s4_rule_of_law_thinking",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「法治思维初识」支撑「网络安全与法律」。"
+    },
+    {
+      "topicId": "mt_df_s4_criminal_law_age",
+      "prerequisiteId": "mt_df_s4_cyber_law_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「网络安全与法律」为「刑事责任年龄认知」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_criminal_law_age",
+      "prerequisiteId": "mt_df_s4_civil_code_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「民法典生活相关」支撑「刑事责任年龄认知」。"
+    },
+    {
+      "topicId": "mt_df_s4_legal_aid_channels",
+      "prerequisiteId": "mt_df_s4_criminal_law_age",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「刑事责任年龄认知」为「法律援助途径」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_legal_aid_channels",
+      "prerequisiteId": "mt_df_s4_cyber_law_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「网络安全与法律」支撑「法律援助途径」。"
+    },
+    {
+      "topicId": "mt_df_s1_love_hometown",
+      "prerequisiteId": "mt_df_s1_flag_anthem_etiquette",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「国旗国歌礼仪」为「爱家乡爱学校」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_spring_festival_customs",
+      "prerequisiteId": "mt_df_s1_love_hometown",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「爱家乡爱学校」为「春节等传统节日」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_spring_festival_customs",
+      "prerequisiteId": "mt_df_s1_flag_anthem_etiquette",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「国旗国歌礼仪」支撑「春节等传统节日」。"
+    },
+    {
+      "topicId": "mt_df_s1_local_heroes_stories",
+      "prerequisiteId": "mt_df_s1_spring_festival_customs",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「春节等传统节日」为「本地英雄故事」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_local_heroes_stories",
+      "prerequisiteId": "mt_df_s1_love_hometown",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「爱家乡爱学校」支撑「本地英雄故事」。"
+    },
+    {
+      "topicId": "mt_df_s1_national_symbols",
+      "prerequisiteId": "mt_df_s1_local_heroes_stories",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「本地英雄故事」为「国家象征认知」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s1_national_symbols",
+      "prerequisiteId": "mt_df_s1_spring_festival_customs",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「春节等传统节日」支撑「国家象征认知」。"
+    },
+    {
+      "topicId": "mt_df_s2_traditional_virtues",
+      "prerequisiteId": "mt_df_s1_national_symbols",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「国家象征认知」，再学习「中华传统美德」。"
+    },
+    {
+      "topicId": "mt_df_s2_traditional_virtues",
+      "prerequisiteId": "mt_df_s1_local_heroes_stories",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「本地英雄故事」支撑「中华传统美德」。"
+    },
+    {
+      "topicId": "mt_df_s2_ethnic Unity_intro",
+      "prerequisiteId": "mt_df_s2_traditional_virtues",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中华传统美德」为「民族团结初识」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_ethnic Unity_intro",
+      "prerequisiteId": "mt_df_s1_national_symbols",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「国家象征认知」支撑「民族团结初识」。"
+    },
+    {
+      "topicId": "mt_df_s2_revolutionary_heritage",
+      "prerequisiteId": "mt_df_s2_ethnic Unity_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「民族团结初识」为「红色文化初识」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_revolutionary_heritage",
+      "prerequisiteId": "mt_df_s2_traditional_virtues",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中华传统美德」支撑「红色文化初识」。"
+    },
+    {
+      "topicId": "mt_df_s2_cultural_heritage_local",
+      "prerequisiteId": "mt_df_s2_revolutionary_heritage",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「红色文化初识」为「身边文化遗产」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_cultural_heritage_local",
+      "prerequisiteId": "mt_df_s2_ethnic Unity_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「民族团结初识」支撑「身边文化遗产」。"
+    },
+    {
+      "topicId": "mt_df_s2_environment_homeland",
+      "prerequisiteId": "mt_df_s2_cultural_heritage_local",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「身边文化遗产」为「建设美丽家园」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_environment_homeland",
+      "prerequisiteId": "mt_df_s2_revolutionary_heritage",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「红色文化初识」支撑「建设美丽家园」。"
+    },
+    {
+      "topicId": "mt_df_s2_territory_awareness",
+      "prerequisiteId": "mt_df_s2_environment_homeland",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「建设美丽家园」为「国土与领土意识」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s2_territory_awareness",
+      "prerequisiteId": "mt_df_s2_cultural_heritage_local",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「身边文化遗产」支撑「国土与领土意识」。"
+    },
+    {
+      "topicId": "mt_df_s3_chinese_civilization_pride",
+      "prerequisiteId": "mt_df_s2_territory_awareness",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「国土与领土意识」，再学习「中华文明自豪感」。"
+    },
+    {
+      "topicId": "mt_df_s3_chinese_civilization_pride",
+      "prerequisiteId": "mt_df_s2_environment_homeland",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「建设美丽家园」支撑「中华文明自豪感」。"
+    },
+    {
+      "topicId": "mt_df_s3_belt_road_awareness",
+      "prerequisiteId": "mt_df_s3_chinese_civilization_pride",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中华文明自豪感」为「对外开放与合作」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_belt_road_awareness",
+      "prerequisiteId": "mt_df_s2_territory_awareness",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「国土与领土意识」支撑「对外开放与合作」。"
+    },
+    {
+      "topicId": "mt_df_s3_core_socialist_values",
+      "prerequisiteId": "mt_df_s3_belt_road_awareness",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「对外开放与合作」为「社会主义核心价值观」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_core_socialist_values",
+      "prerequisiteId": "mt_df_s3_chinese_civilization_pride",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中华文明自豪感」支撑「社会主义核心价值观」。"
+    },
+    {
+      "topicId": "mt_df_s3_chinese_culture_symbols",
+      "prerequisiteId": "mt_df_s3_core_socialist_values",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「社会主义核心价值观」为「中华文化符号」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_chinese_culture_symbols",
+      "prerequisiteId": "mt_df_s3_belt_road_awareness",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「对外开放与合作」支撑「中华文化符号」。"
+    },
+    {
+      "topicId": "mt_df_s3_national_security_basics",
+      "prerequisiteId": "mt_df_s3_chinese_culture_symbols",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中华文化符号」为「总体国家安全观入门」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s3_national_security_basics",
+      "prerequisiteId": "mt_df_s3_core_socialist_values",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「社会主义核心价值观」支撑「总体国家安全观入门」。"
+    },
+    {
+      "topicId": "mt_df_s4_national_security_youth",
+      "prerequisiteId": "mt_df_s3_national_security_basics",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「总体国家安全观入门」，再学习「青少年国家安全责任」。"
+    },
+    {
+      "topicId": "mt_df_s4_national_security_youth",
+      "prerequisiteId": "mt_df_s3_chinese_culture_symbols",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中华文化符号」支撑「青少年国家安全责任」。"
+    },
+    {
+      "topicId": "mt_df_s4_cultural_confidence",
+      "prerequisiteId": "mt_df_s4_national_security_youth",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「青少年国家安全责任」为「文化自信与传承」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_cultural_confidence",
+      "prerequisiteId": "mt_df_s3_national_security_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「总体国家安全观入门」支撑「文化自信与传承」。"
+    },
+    {
+      "topicId": "mt_df_s4_reform_opening_achievements",
+      "prerequisiteId": "mt_df_s4_cultural_confidence",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「文化自信与传承」为「改革开放伟大成就」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_reform_opening_achievements",
+      "prerequisiteId": "mt_df_s4_national_security_youth",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「青少年国家安全责任」支撑「改革开放伟大成就」。"
+    },
+    {
+      "topicId": "mt_df_s4_socialism_with_chinese_chars",
+      "prerequisiteId": "mt_df_s4_reform_opening_achievements",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「改革开放伟大成就」为「中国特色社会主义」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_socialism_with_chinese_chars",
+      "prerequisiteId": "mt_df_s4_cultural_confidence",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「文化自信与传承」支撑「中国特色社会主义」。"
+    },
+    {
+      "topicId": "mt_df_s4_dream_china_youth",
+      "prerequisiteId": "mt_df_s4_socialism_with_chinese_chars",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「中国特色社会主义」为「少年与中国梦」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_dream_china_youth",
+      "prerequisiteId": "mt_df_s4_reform_opening_achievements",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「改革开放伟大成就」支撑「少年与中国梦」。"
+    },
+    {
+      "topicId": "mt_df_s4_international_view_cooperation",
+      "prerequisiteId": "mt_df_s4_dream_china_youth",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「少年与中国梦」为「国际视野与合作」提供准备。"
+    },
+    {
+      "topicId": "mt_df_s4_international_view_cooperation",
+      "prerequisiteId": "mt_df_s4_socialism_with_chinese_chars",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「中国特色社会主义」支撑「国际视野与合作」。"
+    },
+    {
+      "topicId": "mt_ty_s1_catch_large_ball",
+      "prerequisiteId": "mt_ty_s1_balance_on_line",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「走平衡」为「接大球」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s1_formation_drill",
+      "prerequisiteId": "mt_ty_s1_catch_large_ball",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「接大球」为「队列与队形」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s1_formation_drill",
+      "prerequisiteId": "mt_ty_s1_balance_on_line",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「走平衡」支撑「队列与队形」。"
+    },
+    {
+      "topicId": "mt_ty_s1_natural_walking",
+      "prerequisiteId": "mt_ty_s1_formation_drill",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「队列与队形」为「自然走」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s1_natural_walking",
+      "prerequisiteId": "mt_ty_s1_catch_large_ball",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「接大球」支撑「自然走」。"
+    },
+    {
+      "topicId": "mt_ty_s1_rhythmic_movement",
+      "prerequisiteId": "mt_ty_s1_natural_walking",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「自然走」为「节奏性动作」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s1_rhythmic_movement",
+      "prerequisiteId": "mt_ty_s1_formation_drill",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「队列与队形」支撑「节奏性动作」。"
+    },
+    {
+      "topicId": "mt_ty_s1_running_basics",
+      "prerequisiteId": "mt_ty_s1_rhythmic_movement",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「节奏性动作」为「跑的基本动作」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s1_running_basics",
+      "prerequisiteId": "mt_ty_s1_natural_walking",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「自然走」支撑「跑的基本动作」。"
+    },
+    {
+      "topicId": "mt_ty_s1_throw_softball",
+      "prerequisiteId": "mt_ty_s1_running_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「跑的基本动作」为「投软球」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s1_throw_softball",
+      "prerequisiteId": "mt_ty_s1_rhythmic_movement",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「节奏性动作」支撑「投软球」。"
+    },
+    {
+      "topicId": "mt_ty_s1_two_foot_jump",
+      "prerequisiteId": "mt_ty_s1_throw_softball",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「投软球」为「双脚跳」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s1_two_foot_jump",
+      "prerequisiteId": "mt_ty_s1_running_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「跑的基本动作」支撑「双脚跳」。"
+    },
+    {
+      "topicId": "mt_ty_s2_direction_change_run",
+      "prerequisiteId": "mt_ty_s1_two_foot_jump",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「双脚跳」，再学习「变向跑」。"
+    },
+    {
+      "topicId": "mt_ty_s2_direction_change_run",
+      "prerequisiteId": "mt_ty_s1_throw_softball",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「投软球」支撑「变向跑」。"
+    },
+    {
+      "topicId": "mt_ty_s2_dribble_handball",
+      "prerequisiteId": "mt_ty_s2_direction_change_run",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「变向跑」为「手运球」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_dribble_handball",
+      "prerequisiteId": "mt_ty_s1_two_foot_jump",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「双脚跳」支撑「手运球」。"
+    },
+    {
+      "topicId": "mt_ty_s2_kick_stationary_ball",
+      "prerequisiteId": "mt_ty_s2_dribble_handball",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「手运球」为「踢球入门」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_kick_stationary_ball",
+      "prerequisiteId": "mt_ty_s2_direction_change_run",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「变向跑」支撑「踢球入门」。"
+    },
+    {
+      "topicId": "mt_ty_s2_overhand_throw",
+      "prerequisiteId": "mt_ty_s2_kick_stationary_ball",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「踢球入门」为「肩上投掷」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_overhand_throw",
+      "prerequisiteId": "mt_ty_s2_dribble_handball",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「手运球」支撑「肩上投掷」。"
+    },
+    {
+      "topicId": "mt_ty_s2_relay_handoff",
+      "prerequisiteId": "mt_ty_s2_overhand_throw",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「肩上投掷」为「接力传接」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_relay_handoff",
+      "prerequisiteId": "mt_ty_s2_kick_stationary_ball",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「踢球入门」支撑「接力传接」。"
+    },
+    {
+      "topicId": "mt_ty_s2_side_step_shuffle",
+      "prerequisiteId": "mt_ty_s2_relay_handoff",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「接力传接」为「侧向滑步」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_side_step_shuffle",
+      "prerequisiteId": "mt_ty_s2_overhand_throw",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「肩上投掷」支撑「侧向滑步」。"
+    },
+    {
+      "topicId": "mt_ty_s2_single_foot_hop",
+      "prerequisiteId": "mt_ty_s2_side_step_shuffle",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「侧向滑步」为「单脚跳」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_single_foot_hop",
+      "prerequisiteId": "mt_ty_s2_relay_handoff",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「接力传接」支撑「单脚跳」。"
+    },
+    {
+      "topicId": "mt_ty_s3_basketball_dribble",
+      "prerequisiteId": "mt_ty_s2_single_foot_hop",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「单脚跳」，再学习「篮球运球」。"
+    },
+    {
+      "topicId": "mt_ty_s3_basketball_dribble",
+      "prerequisiteId": "mt_ty_s2_side_step_shuffle",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「侧向滑步」支撑「篮球运球」。"
+    },
+    {
+      "topicId": "mt_ty_s3_gymnastics_roll",
+      "prerequisiteId": "mt_ty_s3_basketball_dribble",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「篮球运球」为「滚翻动作」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_gymnastics_roll",
+      "prerequisiteId": "mt_ty_s2_single_foot_hop",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「单脚跳」支撑「滚翻动作」。"
+    },
+    {
+      "topicId": "mt_ty_s3_long_jump_takeoff",
+      "prerequisiteId": "mt_ty_s3_gymnastics_roll",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「滚翻动作」为「立定跳远」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_long_jump_takeoff",
+      "prerequisiteId": "mt_ty_s3_basketball_dribble",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「篮球运球」支撑「立定跳远」。"
+    },
+    {
+      "topicId": "mt_ty_s3_rope_skipping_basic",
+      "prerequisiteId": "mt_ty_s3_long_jump_takeoff",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「立定跳远」为「跳绳基础」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_rope_skipping_basic",
+      "prerequisiteId": "mt_ty_s3_gymnastics_roll",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「滚翻动作」支撑「跳绳基础」。"
+    },
+    {
+      "topicId": "mt_ty_s3_sprint_start",
+      "prerequisiteId": "mt_ty_s3_rope_skipping_basic",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「跳绳基础」为「短跑起跑」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_sprint_start",
+      "prerequisiteId": "mt_ty_s3_long_jump_takeoff",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「立定跳远」支撑「短跑起跑」。"
+    },
+    {
+      "topicId": "mt_ty_s3_throw_catch_progression",
+      "prerequisiteId": "mt_ty_s3_sprint_start",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「短跑起跑」为「传接进阶」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_throw_catch_progression",
+      "prerequisiteId": "mt_ty_s3_rope_skipping_basic",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「跳绳基础」支撑「传接进阶」。"
+    },
+    {
+      "topicId": "mt_ty_s3_volleyball_pass",
+      "prerequisiteId": "mt_ty_s3_throw_catch_progression",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「传接进阶」为「排球垫球」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_volleyball_pass",
+      "prerequisiteId": "mt_ty_s3_sprint_start",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「短跑起跑」支撑「排球垫球」。"
+    },
+    {
+      "topicId": "mt_ty_s4_multi_skill_combo",
+      "prerequisiteId": "mt_ty_s3_volleyball_pass",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「排球垫球」，再学习「组合动作」。"
+    },
+    {
+      "topicId": "mt_ty_s4_multi_skill_combo",
+      "prerequisiteId": "mt_ty_s3_throw_catch_progression",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「传接进阶」支撑「组合动作」。"
+    },
+    {
+      "topicId": "mt_ty_s1_flexibility_stretch",
+      "prerequisiteId": "mt_ty_s1_core_stability_play",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「核心稳定游戏」为「柔韧拉伸」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_agility_ladder",
+      "prerequisiteId": "mt_ty_s1_flexibility_stretch",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「柔韧拉伸」，再学习「灵敏梯练习」。"
+    },
+    {
+      "topicId": "mt_ty_s2_agility_ladder",
+      "prerequisiteId": "mt_ty_s1_core_stability_play",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「核心稳定游戏」支撑「灵敏梯练习」。"
+    },
+    {
+      "topicId": "mt_ty_s2_coordination_ball",
+      "prerequisiteId": "mt_ty_s2_agility_ladder",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「灵敏梯练习」为「球类协调」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_coordination_ball",
+      "prerequisiteId": "mt_ty_s1_flexibility_stretch",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「柔韧拉伸」支撑「球类协调」。"
+    },
+    {
+      "topicId": "mt_ty_s2_endurance_jogging",
+      "prerequisiteId": "mt_ty_s2_coordination_ball",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「球类协调」为「耐力慢跑」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_endurance_jogging",
+      "prerequisiteId": "mt_ty_s2_agility_ladder",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「灵敏梯练习」支撑「耐力慢跑」。"
+    },
+    {
+      "topicId": "mt_ty_s2_strength_push_pull",
+      "prerequisiteId": "mt_ty_s2_endurance_jogging",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「耐力慢跑」为「推拉力量」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_strength_push_pull",
+      "prerequisiteId": "mt_ty_s2_coordination_ball",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「球类协调」支撑「推拉力量」。"
+    },
+    {
+      "topicId": "mt_ty_s3_cardio_fitness_test",
+      "prerequisiteId": "mt_ty_s2_strength_push_pull",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「推拉力量」，再学习「心肺耐力」。"
+    },
+    {
+      "topicId": "mt_ty_s3_cardio_fitness_test",
+      "prerequisiteId": "mt_ty_s2_endurance_jogging",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「耐力慢跑」支撑「心肺耐力」。"
+    },
+    {
+      "topicId": "mt_ty_s3_muscular_endurance",
+      "prerequisiteId": "mt_ty_s3_cardio_fitness_test",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「心肺耐力」为「肌肉耐力」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_muscular_endurance",
+      "prerequisiteId": "mt_ty_s2_strength_push_pull",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「推拉力量」支撑「肌肉耐力」。"
+    },
+    {
+      "topicId": "mt_ty_s3_shuttle_run",
+      "prerequisiteId": "mt_ty_s3_muscular_endurance",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「肌肉耐力」为「折返跑」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_shuttle_run",
+      "prerequisiteId": "mt_ty_s3_cardio_fitness_test",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「心肺耐力」支撑「折返跑」。"
+    },
+    {
+      "topicId": "mt_ty_s3_speed_reaction",
+      "prerequisiteId": "mt_ty_s3_shuttle_run",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「折返跑」为「速度反应」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_speed_reaction",
+      "prerequisiteId": "mt_ty_s3_muscular_endurance",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「肌肉耐力」支撑「速度反应」。"
+    },
+    {
+      "topicId": "mt_ty_s4_fitness_self_monitor",
+      "prerequisiteId": "mt_ty_s3_speed_reaction",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「速度反应」，再学习「体能自我监测」。"
+    },
+    {
+      "topicId": "mt_ty_s4_fitness_self_monitor",
+      "prerequisiteId": "mt_ty_s3_shuttle_run",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「折返跑」支撑「体能自我监测」。"
+    },
+    {
+      "topicId": "mt_ty_s4_power_jump",
+      "prerequisiteId": "mt_ty_s4_fitness_self_monitor",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「体能自我监测」为「爆发力跳跃」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_power_jump",
+      "prerequisiteId": "mt_ty_s3_speed_reaction",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「速度反应」支撑「爆发力跳跃」。"
+    },
+    {
+      "topicId": "mt_ty_s4_strength_training_safe",
+      "prerequisiteId": "mt_ty_s4_power_jump",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「爆发力跳跃」为「力量训练安全」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_strength_training_safe",
+      "prerequisiteId": "mt_ty_s4_fitness_self_monitor",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「体能自我监测」支撑「力量训练安全」。"
+    },
+    {
+      "topicId": "mt_ty_s2_football_pass_shoot",
+      "prerequisiteId": "mt_ty_s1_outdoor_activity_safety",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「户外活动安全」，再学习「足球传射」。"
+    },
+    {
+      "topicId": "mt_ty_s2_football_rules_basics",
+      "prerequisiteId": "mt_ty_s2_football_pass_shoot",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「足球传射」为「足球规则初识」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_football_rules_basics",
+      "prerequisiteId": "mt_ty_s1_outdoor_activity_safety",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「户外活动安全」支撑「足球规则初识」。"
+    },
+    {
+      "topicId": "mt_ty_s2_football_safety",
+      "prerequisiteId": "mt_ty_s2_football_rules_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「足球规则初识」为「足球安全」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_football_safety",
+      "prerequisiteId": "mt_ty_s2_football_pass_shoot",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「足球传射」支撑「足球安全」。"
+    },
+    {
+      "topicId": "mt_ty_s2_warmup_cooldown",
+      "prerequisiteId": "mt_ty_s2_football_safety",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「足球安全」为「热身与放松」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_warmup_cooldown",
+      "prerequisiteId": "mt_ty_s2_football_rules_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「足球规则初识」支撑「热身与放松」。"
+    },
+    {
+      "topicId": "mt_ty_s2_broadcast_gymnastics",
+      "prerequisiteId": "mt_ty_s2_warmup_cooldown",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「热身与放松」为「广播体操」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_broadcast_gymnastics",
+      "prerequisiteId": "mt_ty_s2_football_safety",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「足球安全」支撑「广播体操」。"
+    },
+    {
+      "topicId": "mt_ty_s2_traditional_sports_games",
+      "prerequisiteId": "mt_ty_s2_broadcast_gymnastics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「广播体操」为「传统体育游戏」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_traditional_sports_games",
+      "prerequisiteId": "mt_ty_s2_warmup_cooldown",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「热身与放松」支撑「传统体育游戏」。"
+    },
+    {
+      "topicId": "mt_ty_s3_badminton_clear",
+      "prerequisiteId": "mt_ty_s2_traditional_sports_games",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「传统体育游戏」为「羽毛球高远球」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_badminton_clear",
+      "prerequisiteId": "mt_ty_s2_broadcast_gymnastics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「广播体操」支撑「羽毛球高远球」。"
+    },
+    {
+      "topicId": "mt_ty_s3_basketball_defense",
+      "prerequisiteId": "mt_ty_s3_badminton_clear",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「羽毛球高远球」为「篮球防守」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_basketball_defense",
+      "prerequisiteId": "mt_ty_s2_traditional_sports_games",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「传统体育游戏」支撑「篮球防守」。"
+    },
+    {
+      "topicId": "mt_ty_s3_basketball_shoot_pass",
+      "prerequisiteId": "mt_ty_s3_basketball_defense",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「篮球防守」为「篮球传投」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_basketball_shoot_pass",
+      "prerequisiteId": "mt_ty_s3_badminton_clear",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「羽毛球高远球」支撑「篮球传投」。"
+    },
+    {
+      "topicId": "mt_ty_s3_martial_arts_basic",
+      "prerequisiteId": "mt_ty_s3_basketball_shoot_pass",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「篮球传投」为「武术基本功」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_martial_arts_basic",
+      "prerequisiteId": "mt_ty_s3_basketball_defense",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「篮球防守」支撑「武术基本功」。"
+    },
+    {
+      "topicId": "mt_ty_s3_swimming_water_safety",
+      "prerequisiteId": "mt_ty_s3_martial_arts_basic",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「武术基本功」为「游泳与水上安全」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_swimming_water_safety",
+      "prerequisiteId": "mt_ty_s3_basketball_shoot_pass",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「篮球传投」支撑「游泳与水上安全」。"
+    },
+    {
+      "topicId": "mt_ty_s3_table_tennis_serve",
+      "prerequisiteId": "mt_ty_s3_swimming_water_safety",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「游泳与水上安全」为「乒乓球发球」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_table_tennis_serve",
+      "prerequisiteId": "mt_ty_s3_martial_arts_basic",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「武术基本功」支撑「乒乓球发球」。"
+    },
+    {
+      "topicId": "mt_ty_s3_table_tennis_stroke",
+      "prerequisiteId": "mt_ty_s3_table_tennis_serve",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「乒乓球发球」为「乒乓球击球」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_table_tennis_stroke",
+      "prerequisiteId": "mt_ty_s3_swimming_water_safety",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「游泳与水上安全」支撑「乒乓球击球」。"
+    },
+    {
+      "topicId": "mt_ty_s4_gymnastics_apparatus",
+      "prerequisiteId": "mt_ty_s3_table_tennis_stroke",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「乒乓球击球」，再学习「体操器械」。"
+    },
+    {
+      "topicId": "mt_ty_s4_gymnastics_apparatus",
+      "prerequisiteId": "mt_ty_s3_table_tennis_serve",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「乒乓球发球」支撑「体操器械」。"
+    },
+    {
+      "topicId": "mt_ty_s4_handstand_wall",
+      "prerequisiteId": "mt_ty_s4_gymnastics_apparatus",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「体操器械」为「靠墙倒立」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_handstand_wall",
+      "prerequisiteId": "mt_ty_s3_table_tennis_stroke",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「乒乓球击球」支撑「靠墙倒立」。"
+    },
+    {
+      "topicId": "mt_ty_s4_swimming_basics",
+      "prerequisiteId": "mt_ty_s4_handstand_wall",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「靠墙倒立」为「游泳基础」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_swimming_basics",
+      "prerequisiteId": "mt_ty_s4_gymnastics_apparatus",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「体操器械」支撑「游泳基础」。"
+    },
+    {
+      "topicId": "mt_ty_s4_team_tactics_intro",
+      "prerequisiteId": "mt_ty_s4_swimming_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「游泳基础」为「团队战术初识」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_team_tactics_intro",
+      "prerequisiteId": "mt_ty_s4_handstand_wall",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「靠墙倒立」支撑「团队战术初识」。"
+    },
+    {
+      "topicId": "mt_ty_s4_track_field_events",
+      "prerequisiteId": "mt_ty_s4_team_tactics_intro",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「团队战术初识」为「田赛项目」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_track_field_events",
+      "prerequisiteId": "mt_ty_s4_swimming_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「游泳基础」支撑「田赛项目」。"
+    },
+    {
+      "topicId": "mt_ty_s4_track_sprint_hurdle",
+      "prerequisiteId": "mt_ty_s4_track_field_events",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「田赛项目」为「田径短跑跨栏」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_track_sprint_hurdle",
+      "prerequisiteId": "mt_ty_s4_team_tactics_intro",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「团队战术初识」支撑「田径短跑跨栏」。"
+    },
+    {
+      "topicId": "mt_ty_s4_volleyball_serve",
+      "prerequisiteId": "mt_ty_s4_track_sprint_hurdle",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「田径短跑跨栏」为「排球发球」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_volleyball_serve",
+      "prerequisiteId": "mt_ty_s4_track_field_events",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「田赛项目」支撑「排球发球」。"
+    },
+    {
+      "topicId": "mt_ty_s1_breakfast_importance",
+      "prerequisiteId": "mt_ty_s1_balanced_diet",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「均衡饮食」为「早餐重要性」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s1_posture_spine_care",
+      "prerequisiteId": "mt_ty_s1_breakfast_importance",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「早餐重要性」为「姿势与脊柱」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s1_posture_spine_care",
+      "prerequisiteId": "mt_ty_s1_balanced_diet",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「均衡饮食」支撑「姿势与脊柱」。"
+    },
+    {
+      "topicId": "mt_ty_s2_eye_care_habits",
+      "prerequisiteId": "mt_ty_s1_posture_spine_care",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「姿势与脊柱」，再学习「用眼卫生」。"
+    },
+    {
+      "topicId": "mt_ty_s2_eye_care_habits",
+      "prerequisiteId": "mt_ty_s1_breakfast_importance",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「早餐重要性」支撑「用眼卫生」。"
+    },
+    {
+      "topicId": "mt_ty_s2_health_goal_setting",
+      "prerequisiteId": "mt_ty_s2_eye_care_habits",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「用眼卫生」为「健康目标设定」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_health_goal_setting",
+      "prerequisiteId": "mt_ty_s1_posture_spine_care",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「姿势与脊柱」支撑「健康目标设定」。"
+    },
+    {
+      "topicId": "mt_ty_s2_sleep_hygiene",
+      "prerequisiteId": "mt_ty_s2_health_goal_setting",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「健康目标设定」为「睡眠卫生」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_sleep_hygiene",
+      "prerequisiteId": "mt_ty_s2_eye_care_habits",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「用眼卫生」支撑「睡眠卫生」。"
+    },
+    {
+      "topicId": "mt_ty_s3_first_aid_basics",
+      "prerequisiteId": "mt_ty_s2_sleep_hygiene",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「睡眠卫生」，再学习「急救基础」。"
+    },
+    {
+      "topicId": "mt_ty_s3_first_aid_basics",
+      "prerequisiteId": "mt_ty_s2_health_goal_setting",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「健康目标设定」支撑「急救基础」。"
+    },
+    {
+      "topicId": "mt_ty_s3_hydration_exercise",
+      "prerequisiteId": "mt_ty_s3_first_aid_basics",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「急救基础」为「运动补水」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_hydration_exercise",
+      "prerequisiteId": "mt_ty_s2_sleep_hygiene",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「睡眠卫生」支撑「运动补水」。"
+    },
+    {
+      "topicId": "mt_ty_s3_nutrition_labels",
+      "prerequisiteId": "mt_ty_s3_hydration_exercise",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「运动补水」为「营养标签」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_nutrition_labels",
+      "prerequisiteId": "mt_ty_s3_first_aid_basics",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「急救基础」支撑「营养标签」。"
+    },
+    {
+      "topicId": "mt_ty_s3_physical_activity_guidelines",
+      "prerequisiteId": "mt_ty_s3_nutrition_labels",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「营养标签」为「活动量指南」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_physical_activity_guidelines",
+      "prerequisiteId": "mt_ty_s3_hydration_exercise",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「运动补水」支撑「活动量指南」。"
+    },
+    {
+      "topicId": "mt_ty_s4_cpr_aed_awareness",
+      "prerequisiteId": "mt_ty_s3_physical_activity_guidelines",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「活动量指南」，再学习「心肺复苏认知」。"
+    },
+    {
+      "topicId": "mt_ty_s4_cpr_aed_awareness",
+      "prerequisiteId": "mt_ty_s3_nutrition_labels",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「营养标签」支撑「心肺复苏认知」。"
+    },
+    {
+      "topicId": "mt_ty_s4_injury_prevention",
+      "prerequisiteId": "mt_ty_s4_cpr_aed_awareness",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「心肺复苏认知」为「运动损伤预防」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_injury_prevention",
+      "prerequisiteId": "mt_ty_s3_physical_activity_guidelines",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「活动量指南」支撑「运动损伤预防」。"
+    },
+    {
+      "topicId": "mt_ty_s4_mental_health_stress",
+      "prerequisiteId": "mt_ty_s4_injury_prevention",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「运动损伤预防」为「压力与情绪」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_mental_health_stress",
+      "prerequisiteId": "mt_ty_s4_cpr_aed_awareness",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「心肺复苏认知」支撑「压力与情绪」。"
+    },
+    {
+      "topicId": "mt_ty_s4_substance_avoidance",
+      "prerequisiteId": "mt_ty_s4_mental_health_stress",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「压力与情绪」为「拒绝烟酒毒品」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_substance_avoidance",
+      "prerequisiteId": "mt_ty_s4_injury_prevention",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「运动损伤预防」支撑「拒绝烟酒毒品」。"
+    },
+    {
+      "topicId": "mt_ty_s1_respect_opponents",
+      "prerequisiteId": "mt_ty_s1_follow_rules",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「遵守规则」为「尊重对手」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_fair_play",
+      "prerequisiteId": "mt_ty_s1_respect_opponents",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「尊重对手」，再学习「公平竞赛」。"
+    },
+    {
+      "topicId": "mt_ty_s2_fair_play",
+      "prerequisiteId": "mt_ty_s1_follow_rules",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「遵守规则」支撑「公平竞赛」。"
+    },
+    {
+      "topicId": "mt_ty_s2_sport_event_etiquette",
+      "prerequisiteId": "mt_ty_s2_fair_play",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「公平竞赛」为「观赛礼仪」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_sport_event_etiquette",
+      "prerequisiteId": "mt_ty_s1_respect_opponents",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「尊重对手」支撑「观赛礼仪」。"
+    },
+    {
+      "topicId": "mt_ty_s2_teamwork_cooperation",
+      "prerequisiteId": "mt_ty_s2_sport_event_etiquette",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「观赛礼仪」为「团队合作」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s2_teamwork_cooperation",
+      "prerequisiteId": "mt_ty_s2_fair_play",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「公平竞赛」支撑「团队合作」。"
+    },
+    {
+      "topicId": "mt_ty_s3_perseverance_effort",
+      "prerequisiteId": "mt_ty_s2_teamwork_cooperation",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「团队合作」，再学习「坚持与努力」。"
+    },
+    {
+      "topicId": "mt_ty_s3_perseverance_effort",
+      "prerequisiteId": "mt_ty_s2_sport_event_etiquette",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「观赛礼仪」支撑「坚持与努力」。"
+    },
+    {
+      "topicId": "mt_ty_s3_resilience_setback",
+      "prerequisiteId": "mt_ty_s3_perseverance_effort",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「坚持与努力」为「抗挫能力」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s3_resilience_setback",
+      "prerequisiteId": "mt_ty_s2_teamwork_cooperation",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「团队合作」支撑「抗挫能力」。"
+    },
+    {
+      "topicId": "mt_ty_s4_leadership_rotation",
+      "prerequisiteId": "mt_ty_s3_resilience_setback",
+      "strength": "hard",
+      "reason": "同领域递进：先掌握「抗挫能力」，再学习「轮换担当」。"
+    },
+    {
+      "topicId": "mt_ty_s4_leadership_rotation",
+      "prerequisiteId": "mt_ty_s3_perseverance_effort",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「坚持与努力」支撑「轮换担当」。"
+    },
+    {
+      "topicId": "mt_ty_s4_sportsmanship_reflection",
+      "prerequisiteId": "mt_ty_s4_leadership_rotation",
+      "strength": "soft",
+      "reason": "同领域相邻微主题：「轮换担当」为「体育精神反思」提供准备。"
+    },
+    {
+      "topicId": "mt_ty_s4_sportsmanship_reflection",
+      "prerequisiteId": "mt_ty_s3_resilience_setback",
+      "strength": "soft",
+      "reason": "同领域隔项准备：「抗挫能力」支撑「体育精神反思」。"
     },
     {
       "topicId": "mt_science_s1_hot_and_cold",

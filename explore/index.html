@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>义务教育微主题图谱 · Chinese K12 Taxonomy</title>
+    <link rel="stylesheet" href="./style.css" />
+    <script src="https://cdn.keepwork.com/npm/three@0.128.0/build/three.min.js"></script>
+    <script src="https://cdn.keepwork.com/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+    <div class="hud">
+      <header>
+        <h1>孩子在义务教育里学什么</h1>
+        <p>
+          一张可旋转的开放地图：每个点是一个可教微主题，颜色是学科，高度是年级，细线是先修。
+          点一下，就能沿着「必须先会什么」往回走。
+          <span class="stats" id="counts">加载中…</span>
+          · <a href="https://github.com/LiXizhi/CnK12Taxonomy">GitHub</a>
+        </p>
+        <div class="subjects" id="subjects"></div>
+      </header>
+      <div class="search">
+        <input id="q" type="search" placeholder="搜索微主题、领域、英文名…" autocomplete="off" />
+        <div class="hits" id="hits"></div>
+      </div>
+      <aside></aside>
+      <div class="hint">拖动旋转 · 滚轮缩放 · 点击圆点看先修 · <kbd>Esc</kbd> 取消选择 · 学科按钮可开关</div>
+      <div class="sources">
+        信息源：
+        <a href="https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html" target="_blank" rel="noopener">义务教育课程方案和课程标准（2022年版）</a>
+        （教育部 教材〔2022〕2号）
+      </div>
+    </div>
+    <div class="tooltip" id="tooltip"></div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "slug": "moe-ls-2022",
+  "country": "CN",
+  "name": "义务教育历史课程标准（2022年版）",
+  "version": "2022",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known period titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-ls-2022:CN.ANC", "code": "CN.ANC"},
+    {"key": "moe-ls-2022:CN.MOD", "code": "CN.MOD"},
+    {"key": "moe-ls-2022:CN.CON", "code": "CN.CON"},
+    {"key": "moe-ls-2022:WD.ANC", "code": "WD.ANC"},
+    {"key": "moe-ls-2022:WD.MOD", "code": "WD.MOD"},
+    {"key": "moe-ls-2022:WD.CON", "code": "WD.CON"},
+    {"key": "moe-ls-2022:METH", "code": "METH"}
+  ]
+}

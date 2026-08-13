@@ -1,0 +1,31 @@
+{
+  "slug": "moe-ys-2022",
+  "country": "CN",
+  "name": "义务教育艺术课程标准（2022年版）",
+  "version": "2022",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known art-form titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-ys-2022:MU", "code": "MU"},
+    {"key": "moe-ys-2022:FA", "code": "FA"},
+    {"key": "moe-ys-2022:INT", "code": "INT"},
+    {"key": "moe-ys-2022:AP", "code": "AP"},
+    {"key": "moe-ys-2022:MU.S1", "code": "MU.S1"},
+    {"key": "moe-ys-2022:FA.S1", "code": "FA.S1"},
+    {"key": "moe-ys-2022:INT.S1", "code": "INT.S1"},
+    {"key": "moe-ys-2022:AP.S1", "code": "AP.S1"},
+    {"key": "moe-ys-2022:MU.S2", "code": "MU.S2"},
+    {"key": "moe-ys-2022:FA.S2", "code": "FA.S2"},
+    {"key": "moe-ys-2022:INT.S2", "code": "INT.S2"},
+    {"key": "moe-ys-2022:AP.S2", "code": "AP.S2"},
+    {"key": "moe-ys-2022:MU.S3", "code": "MU.S3"},
+    {"key": "moe-ys-2022:FA.S3", "code": "FA.S3"},
+    {"key": "moe-ys-2022:INT.S3", "code": "INT.S3"},
+    {"key": "moe-ys-2022:AP.S3", "code": "AP.S3"},
+    {"key": "moe-ys-2022:MU.S4", "code": "MU.S4"},
+    {"key": "moe-ys-2022:FA.S4", "code": "FA.S4"},
+    {"key": "moe-ys-2022:INT.S4", "code": "INT.S4"},
+    {"key": "moe-ys-2022:AP.S4", "code": "AP.S4"}
+  ]
+}

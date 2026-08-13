@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "mt_ls_s4_bronze_culture_shang",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "商代青铜文明",
+    "nameEn": "Shang bronze culture",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "了解商代青铜器与甲骨文，知道它们是研究商史的重要证据。",
+    "evidence": [
+      "描述司母戊鼎的特点",
+      "辨认几个常见甲骨文"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_han_silk_road",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "汉代与丝绸之路",
+    "nameEn": "Han Silk Road",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "知道张骞通西域开辟丝绸之路，促进中外经济文化交流。",
+    "evidence": [
+      "在地图上标出丝绸之路路线",
+      "举一例传入中国的作物"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_qin_unification",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "秦统一六国",
+    "nameEn": "Qin unification",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "了解秦始皇统一文字、货币、度量衡，建立中央集权制度。",
+    "evidence": [
+      "列举三项统一措施",
+      "解释郡县制与分封制区别"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_tang_golden_age",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "盛唐气象",
+    "nameEn": "Tang golden age",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "了解唐代开放繁荣，能举例说明诗歌、艺术与国际交往。",
+    "evidence": [
+      "背诵或解读一首唐诗背景",
+      "说明长安的国际地位"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_xia_shang_zhou_timeline",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "夏商周三代概览",
+    "nameEn": "Xia Shang Zhou",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "知道夏、商、西周是我国早期王朝，能按时间顺序排列三代重大事件。",
+    "evidence": [
+      "排列禹、汤、武王相关事件",
+      "在年表上标出三代起止"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_zhou_feudal_system",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "西周分封制",
+    "nameEn": "Zhou feudal system",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "知道周天子分封诸侯，理解分封制对早期政治格局的影响。",
+    "evidence": [
+      "画出简化的分封示意图",
+      "说明诸侯对天子的义务"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_great_wall_function",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "长城与防御体系",
+    "nameEn": "Great Wall",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "知道长城历代修建与军事防御功能，理解其象征意义。",
+    "evidence": [
+      "区分秦长城与明长城",
+      "讨论长城的历史文化价值"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_ming_zhenghe_voyage",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "明代郑和下西洋",
+    "nameEn": "Zheng He voyages",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "知道郑和七次下西洋的时间、目的及中外交往意义。",
+    "evidence": [
+      "列出郑和船队到达的地区",
+      "比较中外航海的不同目的"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_qing_frontier_governance",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "清代边疆治理",
+    "nameEn": "Qing frontiers",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "了解清朝巩固边疆举措，知道台湾、西藏、新疆隶属中央的历史。",
+    "evidence": [
+      "说明驻藏大臣的职责",
+      "梳理台湾归属沿革"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_song_economy_culture",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "宋代经济与文化",
+    "nameEn": "Song economy",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "知道宋代商业与城市发达，科技发明如活字印刷影响深远。",
+    "evidence": [
+      "说明交子出现的意义",
+      "介绍毕昇活字印刷"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_yuan_multicultural",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "元朝辽阔疆域",
+    "nameEn": "Yuan empire",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "了解元朝统一多民族国家格局，知道行省制度对后世影响。",
+    "evidence": [
+      "在地图指出元朝疆域范围",
+      "解释行省制度作用"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_confucius_and_education",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国古代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "孔子与儒家教育",
+    "nameEn": "Confucius education",
+    "standards": [
+      "moe-ls-2022:CN.ANC"
+    ],
+    "description": "了解孔子生平和有教无类思想，知道儒家对古代教育的影响。",
+    "evidence": [
+      "解释论语名句的含义",
+      "比较古代科举与今天升学"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_opium_war_1840",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "鸦片战争与开端",
+    "nameEn": "Opium War 1840",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "知道1840年鸦片战争是中国近代史开端，理解主权遭破坏的开始。",
+    "evidence": [
+      "列出战争主要结果",
+      "说明《南京条约》割地赔款"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_self_strengthening",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "洋务运动",
+    "nameEn": "Self-Strengthening Movement",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "了解洋务派办军工民用企业，认识“师夷长技”的局限与作用。",
+    "evidence": [
+      "列举江南制造总局等洋务企业",
+      "评价洋务运动成败"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_taiping_heavenly",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "太平天国运动",
+    "nameEn": "Taiping Rebellion",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "知道太平天国反抗封建统治与外国侵略，认识农民战争的历史作用。",
+    "evidence": [
+      "简述《天朝田亩制度》主张",
+      "分析运动失败原因"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_unequal_treaties",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "不平等条约体系",
+    "nameEn": "Unequal treaties",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "了解列强通过条约攫取通商、领事裁判等特权，中国沦为半殖民地。",
+    "evidence": [
+      "归纳条约常见条款类型",
+      "在地图上标出通商口岸"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_1911_revolution",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "辛亥革命",
+    "nameEn": "1911 Revolution",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "知道辛亥革命推翻清朝、建立中华民国，结束两千多年君主专制。",
+    "evidence": [
+      "说明武昌起义过程",
+      "评价辛亥革命历史意义"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_boxer_anti_imperialist",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "义和团反帝斗争",
+    "nameEn": "Boxer Movement",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "了解义和团反帝爱国性质，认识中外反动势力联合镇压的结果。",
+    "evidence": [
+      "说明义和团口号含义",
+      "梳理八国联军侵华影响"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_cpc_founding_1921",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "中国共产党成立",
+    "nameEn": "CPC founding 1921",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "知道1921年中国共产党诞生是中国历史开天辟地大事。",
+    "evidence": [
+      "说出中共一大召开地点",
+      "解释建党的历史必然"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_hundred_days_reform",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "戊戌变法",
+    "nameEn": "Hundred Days Reform",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "知道康有为、梁启超推动维新变法，理解变法图强与保守势力冲突。",
+    "evidence": [
+      "列出变法主要措施",
+      "分析变法失败原因"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_long_march_spirit",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "红军长征",
+    "nameEn": "Long March",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "了解红军长征历程，理解遵义会议转折意义和长征精神。",
+    "evidence": [
+      "在地图标出长征主要路线",
+      "概括长征精神内涵"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_may_fourth_movement",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "五四运动",
+    "nameEn": "May Fourth Movement",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "了解五四运动反帝反封建性质，知道它促进马克思主义传播。",
+    "evidence": [
+      "分析“外争主权内除国贼”",
+      "列举运动代表人物"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_anti_japanese_war",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "抗日战争",
+    "nameEn": "Anti-Japanese War",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "知道全民族抗战历程，理解中国人民是抗战胜利的中流砥柱。",
+    "evidence": [
+      "列举正面与敌后战场战例",
+      "说明抗战胜利伟大意义"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_liberation_war_1949",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国近代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "解放战争与建国",
+    "nameEn": "Liberation War",
+    "standards": [
+      "moe-ls-2022:CN.MOD"
+    ],
+    "description": "了解三大战役与渡江战役，知道1949新中国成立的历史意义。",
+    "evidence": [
+      "排列解放战争关键节点",
+      "解释新民主主义革命胜利"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_land_reform_industry",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国现代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "土地改革与工业化",
+    "nameEn": "Land reform and industry",
+    "standards": [
+      "moe-ls-2022:CN.CON"
+    ],
+    "description": "了解土地改革解放生产力，一五计划奠定工业化基础。",
+    "evidence": [
+      "说明土地改革对农民意义",
+      "列举一五计划重点工程"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_prc_founding_1949",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国现代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "中华人民共和国成立",
+    "nameEn": "PRC founding",
+    "standards": [
+      "moe-ls-2022:CN.CON"
+    ],
+    "description": "知道1949年10月1日开国大典，理解中国人民站起来的含义。",
+    "evidence": [
+      "描述开国大典主要场景",
+      "比较新旧中国政权性质"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_new_era_missions",
+    "type": "META",
+    "subject": "历史",
+    "domain": "中国现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "新时代历史使命",
+    "nameEn": "New era missions",
+    "standards": [
+      "moe-ls-2022:CN.CON"
+    ],
+    "description": "知道中国特色社会主义进入新时代，理解第二个百年奋斗目标。",
+    "evidence": [
+      "写出两个一百年目标",
+      "联系自身谈使命担当"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_one_country_two_systems",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "一国两制与统一",
+    "nameEn": "One country two systems",
+    "standards": [
+      "moe-ls-2022:CN.CON"
+    ],
+    "description": "知道“一国两制”方针，了解香港、澳门回归祖国历程。",
+    "evidence": [
+      "说明港澳回归时间",
+      "解释一国两制基本内涵"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_poverty_alleviation",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "脱贫攻坚成就",
+    "nameEn": "Poverty alleviation",
+    "standards": [
+      "moe-ls-2022:CN.CON"
+    ],
+    "description": "了解新时代脱贫攻坚全面胜利，理解以人民为中心的发展思想。",
+    "evidence": [
+      "列举脱贫典型做法",
+      "讨论共同富裕目标"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_reform_opening_1978",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "改革开放决策",
+    "nameEn": "Reform opening 1978",
+    "standards": [
+      "moe-ls-2022:CN.CON"
+    ],
+    "description": "知道十一届三中全会开启改革开放，理解工作重心转移。",
+    "evidence": [
+      "解释家庭联产承包责任制",
+      "举例经济特区的作用"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_socialism_modernization",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "社会主义现代化建设",
+    "nameEn": "Modernization drive",
+    "standards": [
+      "moe-ls-2022:CN.CON"
+    ],
+    "description": "了解改革开放以来经济、科技、国防等现代化成就。",
+    "evidence": [
+      "用实例说明高铁或航天成就",
+      "讨论现代化与人民生活"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_socialism_system_advantage",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "中国现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "中国特色社会主义制度优势",
+    "nameEn": "System advantages",
+    "standards": [
+      "moe-ls-2022:CN.CON"
+    ],
+    "description": "通过抗疫、救灾等实例，理解集中力量办大事的制度优势。",
+    "evidence": [
+      "分析一次重大工程组织方式",
+      "比较中外应对危机差异"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_ancient_greece_democracy",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "古希腊民主政治",
+    "nameEn": "Ancient Greek democracy",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "知道雅典城邦民主政治特点，理解其对西方政治文化影响。",
+    "evidence": [
+      "比较雅典公民与非公民",
+      "评价雅典民主局限"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_indus_ganges_civilization",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "古印度文明",
+    "nameEn": "Ancient India",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "了解印度河流域文明与种姓制度，知道佛教起源与传播。",
+    "evidence": [
+      "简述种姓制度层级",
+      "说明佛教传播路径"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_mesopotamia_egypt",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "两河流域与古埃及",
+    "nameEn": "Mesopotamia and Egypt",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "知道古巴比伦、古埃及文明出现较早，了解金字塔与汉谟拉比法典。",
+    "evidence": [
+      "比较两大文明河流环境",
+      "说明法典的历史价值"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_rome_law_empire",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "古罗马法律与帝国",
+    "nameEn": "Roman law and empire",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "了解罗马法对后世法律影响，知道罗马帝国扩张与衰亡。",
+    "evidence": [
+      "解释《十二铜表法》意义",
+      "在地图标出罗马帝国疆域"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_ancient_civilization_comparison",
+    "type": "META",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "古代文明比较",
+    "nameEn": "Ancient civilizations compare",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "能从大河、海洋等角度比较古代文明产生条件与成就。",
+    "evidence": [
+      "完成文明特征对照表",
+      "讨论地理环境对文明影响"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_islamic_golden_age",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "阿拉伯帝国与文化",
+    "nameEn": "Islamic golden age",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "知道阿拉伯帝国促进东西方文化交流，保存并传播科学知识。",
+    "evidence": [
+      "举例阿拉伯数字传播",
+      "说明驿站对交流作用"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_medieval_europe_feudal",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "中世纪欧洲封建",
+    "nameEn": "Medieval feudal Europe",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "了解西欧封建等级制度与庄园经济，知道基督教会的影响。",
+    "evidence": [
+      "画出封建等级金字塔",
+      "说明庄园自给自足"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_silk_road_world_link",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "古代世界联系",
+    "nameEn": "Ancient world links",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "知道欧亚非古代存在贸易与文化传播，丝绸之路是重要纽带。",
+    "evidence": [
+      "标出主要商路",
+      "举一例技术西传或东传"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_african_kingdoms",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "古代非洲文明",
+    "nameEn": "Ancient African kingdoms",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "知道古代非洲存在马里等王国，了解其贸易与文化成就。",
+    "evidence": [
+      "在地图标出主要王国",
+      "说明撒哈拉贸易路线"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_japanese_ancient_state",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界古代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "古代日本大化改新",
+    "nameEn": "Ancient Japan reform",
+    "standards": [
+      "moe-ls-2022:WD.ANC"
+    ],
+    "description": "了解大化改新学习隋唐制度，知道日本古代国家形成过程。",
+    "evidence": [
+      "比较大化改新与中国制度",
+      "说明遣唐使作用"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_enlightenment_ideas",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "启蒙运动思想",
+    "nameEn": "Enlightenment",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "知道伏尔泰、卢梭等启蒙思想家，理解理性、自由平等观念。",
+    "evidence": [
+      "概括启蒙思想对革命影响",
+      "比较启蒙与文艺复兴"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_geographic_discoveries",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "新航路开辟",
+    "nameEn": "Age of Discovery",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "了解哥伦布、麦哲伦等航行，知道新航路开辟改变世界格局。",
+    "evidence": [
+      "在地图标出主要航线",
+      "分析殖民扩张双重影响"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_industrial_revolution",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "工业革命",
+    "nameEn": "Industrial Revolution",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "了解蒸汽机、工厂制度等变革，认识工业革命推动城市化。",
+    "evidence": [
+      "列举三项工业革命发明",
+      "分析工业化社会影响"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_renaissance_humanism",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "文艺复兴人文主义",
+    "nameEn": "Renaissance",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "知道文艺复兴兴起于意大利，人文主义反对神权，促进思想解放。",
+    "evidence": [
+      "介绍一位文艺复兴代表",
+      "说明人文主义核心主张"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_american_independence",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "美国独立战争",
+    "nameEn": "American Revolution",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "知道1776年《独立宣言》，了解美国摆脱殖民统治建立共和制。",
+    "evidence": [
+      "说明独立战争原因",
+      "解释《独立宣言》原则"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_french_revolution",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "法国大革命",
+    "nameEn": "French Revolution",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "了解攻占巴士底狱、《人权宣言》，认识革命打击封建制度。",
+    "evidence": [
+      "排列革命主要阶段",
+      "评价《人权宣言》意义"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_imperialism_division",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "资本主义进入帝国主义",
+    "nameEn": "Imperialism",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "了解19世纪末列强瓜分世界，认识殖民体系形成。",
+    "evidence": [
+      "在地图标出主要殖民地",
+      "分析帝国主义矛盾"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_marxism_birth",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "马克思主义诞生",
+    "nameEn": "Marxism birth",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "知道1848年《共产党宣言》发表，了解科学社会主义基本原理。",
+    "evidence": [
+      "解释剩余价值概念入门",
+      "说明马克思主义传播"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_japan_meiji_restoration",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "日本明治维新",
+    "nameEn": "Meiji Restoration",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "知道日本通过明治维新走上资本主义道路，对外扩张。",
+    "evidence": [
+      "列举维新主要措施",
+      "评价维新成败"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_latin_america_independence",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "拉丁美洲独立运动",
+    "nameEn": "Latin American independence",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "了解玻利瓦尔等领导独立斗争，认识民族解放运动。",
+    "evidence": [
+      "在地图标出独立国家",
+      "比较拉美与北美独立"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_scientific_revolution",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "近代科学革命",
+    "nameEn": "Scientific revolution",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "知道牛顿、达尔文等科学成就，理解科学推动社会变革。",
+    "evidence": [
+      "说明万有引力或进化论影响",
+      "讨论科学与人文关系"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_world_market_formation",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界近代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "世界市场形成",
+    "nameEn": "World market",
+    "standards": [
+      "moe-ls-2022:WD.MOD"
+    ],
+    "description": "理解工业革命与新航路如何促成全球贸易体系。",
+    "evidence": [
+      "绘制世界市场形成流程图",
+      "举例一种全球商品流动"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_great_depression",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "1929经济大危机",
+    "nameEn": "Great Depression",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "了解资本主义世界经济危机，知道罗斯福新政等应对。",
+    "evidence": [
+      "说明危机表现",
+      "比较新政与传统自由放任"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_russian_revolution",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "俄国十月革命",
+    "nameEn": "October Revolution",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "知道1917年十月革命建立第一个社会主义国家，开辟新道路。",
+    "evidence": [
+      "排列俄国革命阶段",
+      "解释苏维埃政权特点"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_ww1_causes",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "第一次世界大战",
+    "nameEn": "World War I",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "了解一战爆发原因、主要战场与凡尔赛体系，认识战争灾难。",
+    "evidence": [
+      "分析帝国主义矛盾",
+      "说明凡尔赛条约问题"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_cold_war_bipolar",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "冷战与两极格局",
+    "nameEn": "Cold War",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "了解美苏冷战对峙，知道两极格局对世界政治的影响。",
+    "evidence": [
+      "区分冷战与热战",
+      "说明柏林墙象征意义"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_decolonization_wave",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "亚非拉民族独立浪潮",
+    "nameEn": "Decolonization",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "知道二战后殖民体系瓦解，亚非拉国家纷纷独立。",
+    "evidence": [
+      "在地图标出独立国家",
+      "分析万隆会议意义"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_globalization_trends",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "经济全球化",
+    "nameEn": "Globalization",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "了解冷战后经济全球化加深，认识机遇与挑战并存。",
+    "evidence": [
+      "举例跨国公司与互联网",
+      "讨论全球化对就业影响"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_human_rights_development",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "现代人权发展",
+    "nameEn": "Human rights",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "知道《世界人权宣言》等文件，理解人权进步与各国差异。",
+    "evidence": [
+      "概括宣言核心权利",
+      "比较历史中人权状况"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_tech_revolution_info",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "信息时代变革",
+    "nameEn": "Information age",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "了解第三次科技革命，认识信息技术对生产生活的改变。",
+    "evidence": [
+      "列举信息技术应用",
+      "讨论数字鸿沟问题"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_united_nations",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "联合国与战后秩序",
+    "nameEn": "United Nations",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "知道1945年联合国成立，理解维护和平、促进发展的宗旨。",
+    "evidence": [
+      "列举联合国主要机构",
+      "举例联合国维和行动"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_ww2_anti_fascist",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "世界现代史",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "第二次世界大战",
+    "nameEn": "World War II",
+    "standards": [
+      "moe-ls-2022:WD.CON"
+    ],
+    "description": "知道二战反法西斯性质，了解中国人民与世界人民共同胜利。",
+    "evidence": [
+      "列出二战重要战役",
+      "说明反法西斯同盟意义"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_archaeology_evidence",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "史料与方法",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "考古与历史证据",
+    "nameEn": "Archaeology evidence",
+    "standards": [
+      "moe-ls-2022:METH"
+    ],
+    "description": "知道考古发掘提供实物证据，可与文献互证。",
+    "evidence": [
+      "举例考古发现改变认识",
+      "说明层位学基本概念"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_historical_timeline_skill",
+    "type": "PROCEDURAL",
+    "subject": "历史",
+    "domain": "史料与方法",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "绘制历史年表",
+    "nameEn": "Timeline skills",
+    "standards": [
+      "moe-ls-2022:METH"
+    ],
+    "description": "能用年表整理朝代或事件顺序，标注起止年代。",
+    "evidence": [
+      "完成中国朝代年表填空",
+      "为近代史事件排序"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_map_reading_history",
+    "type": "PROCEDURAL",
+    "subject": "历史",
+    "domain": "史料与方法",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "历史地图识读",
+    "nameEn": "Historical map reading",
+    "standards": [
+      "moe-ls-2022:METH"
+    ],
+    "description": "能在历史地图上读取方位、路线、疆域变化等信息。",
+    "evidence": [
+      "从地图读出行军路线",
+      "比较两张疆域图差异"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_primary_secondary_sources",
+    "type": "CONCEPTUAL",
+    "subject": "历史",
+    "domain": "史料与方法",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "一手与二手史料",
+    "nameEn": "Primary and secondary sources",
+    "standards": [
+      "moe-ls-2022:METH"
+    ],
+    "description": "能区分文物、当事人记录与后人著作，判断史料价值。",
+    "evidence": [
+      "分类给定史料类型",
+      "说明为什么文物是一手史料"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_cause_and_effect",
+    "type": "META",
+    "subject": "历史",
+    "domain": "史料与方法",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "历史因果分析",
+    "nameEn": "Cause and effect",
+    "standards": [
+      "moe-ls-2022:METH"
+    ],
+    "description": "分析历史事件时能区分原因、经过、结果，避免简单归因。",
+    "evidence": [
+      "用因果链分析辛亥革命",
+      "区分直接原因与根本原因"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_compare_historical_figures",
+    "type": "PROCEDURAL",
+    "subject": "历史",
+    "domain": "史料与方法",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "历史人物比较",
+    "nameEn": "Compare figures",
+    "standards": [
+      "moe-ls-2022:METH"
+    ],
+    "description": "能从时代背景评价历史人物，避免绝对化褒贬。",
+    "evidence": [
+      "比较两位改革者异同",
+      "写出评价历史人物角度"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_historiography_bias",
+    "type": "META",
+    "subject": "历史",
+    "domain": "史料与方法",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "史料的立场与偏见",
+    "nameEn": "Source bias",
+    "standards": [
+      "moe-ls-2022:METH"
+    ],
+    "description": "阅读史料时注意作者立场、时代局限，批判性使用材料。",
+    "evidence": [
+      "分析两份材料观点差异",
+      "说明为何要多源互证"
+    ]
+  },
+  {
+    "id": "mt_ls_s4_research_mini_project",
+    "type": "PROCEDURAL",
+    "subject": "历史",
+    "domain": "史料与方法",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "小型史题探究",
+    "nameEn": "Mini history research",
+    "standards": [
+      "moe-ls-2022:METH"
+    ],
+    "description": "能围绕明确史题搜集史料、形成观点并口头或书面表达。",
+    "evidence": [
+      "完成一篇短文含史料引用",
+      "汇报探究过程与结论"
+    ]
+  }
+]

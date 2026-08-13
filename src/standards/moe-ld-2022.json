@@ -1,0 +1,26 @@
+{
+  "slug": "moe-ld-2022",
+  "country": "CN",
+  "name": "义务教育劳动课程标准（2022年版）",
+  "version": "2022",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known labor-type titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {"key": "moe-ld-2022:DL", "code": "DL"},
+    {"key": "moe-ld-2022:PL", "code": "PL"},
+    {"key": "moe-ld-2022:SL", "code": "SL"},
+    {"key": "moe-ld-2022:DL.S1", "code": "DL.S1"},
+    {"key": "moe-ld-2022:PL.S1", "code": "PL.S1"},
+    {"key": "moe-ld-2022:SL.S1", "code": "SL.S1"},
+    {"key": "moe-ld-2022:DL.S2", "code": "DL.S2"},
+    {"key": "moe-ld-2022:PL.S2", "code": "PL.S2"},
+    {"key": "moe-ld-2022:SL.S2", "code": "SL.S2"},
+    {"key": "moe-ld-2022:DL.S3", "code": "DL.S3"},
+    {"key": "moe-ld-2022:PL.S3", "code": "PL.S3"},
+    {"key": "moe-ld-2022:SL.S3", "code": "SL.S3"},
+    {"key": "moe-ld-2022:DL.S4", "code": "DL.S4"},
+    {"key": "moe-ld-2022:PL.S4", "code": "PL.S4"},
+    {"key": "moe-ld-2022:SL.S4", "code": "SL.S4"}
+  ]
+}

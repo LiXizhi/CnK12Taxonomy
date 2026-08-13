@@ -1,0 +1,81 @@
+# -*- coding: utf-8 -*-
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from topiclib import T
+
+
+Pfx = "dl"
+Sub = "地理"
+
+def g(slug, typ, domain, g0, g1, name, en, std, desc, *ev):
+    return T(Pfx, Sub, slug, typ, domain, g0, g1, name, en, std, desc, *ev)
+
+GEOGRAPHY = [
+    g('earth_shape_sphere', 'C', '地球与地图', 7, 7, '地球的形状', 'Earth shape', 'moe-dl-2022:EM', '知道地球是近似球体，能说明麦哲伦航行等证据。', '描述地球形状的证据', '在地球仪上指出极点和赤道'),
+    g('lat_long_grid', 'C', '地球与地图', 7, 7, '经纬网', 'Lat-long grid', 'moe-dl-2022:EM', '理解经线指示南北、纬线指示东西，能在图上读出经纬度。', '读出三个城市的经纬度', '说明经纬网定位的作用'),
+    g('hemisphere_division', 'C', '地球与地图', 7, 7, '半球划分', 'Hemispheres', 'moe-dl-2022:EM', '能按赤道和本初子午线划分东、西、南、北半球并判断位置。', '判断北京所在半球', '在空白图上标出半球界线'),
+    g('map_scale', 'R', '地球与地图', 7, 7, '地图比例尺', 'Map scale', 'moe-dl-2022:EM', '理解比例尺含义，能在图上量算实地距离。', '用比例尺计算两地距离', '比较大、小比例尺地图的差异'),
+    g('map_direction', 'R', '地球与地图', 7, 7, '地图方向', 'Map direction', 'moe-dl-2022:EM', '能按指向标或经纬网判断地图方向。', '无指向标时判断图上方位的正北', '根据指向标描述行进方向'),
+    g('map_legend_symbols', 'R', '地球与地图', 7, 7, '地图图例与符号', 'Map legend', 'moe-dl-2022:EM', '能读懂常见图例符号，理解其代表的地理事物。', '根据图例识别居民点与河流', '为自制地图设计图例'),
+    g('map_three_elements', 'C', '地球与地图', 7, 8, '地图三要素', 'Map three elements', 'moe-dl-2022:EM', '综合理解比例尺、方向、图例是地图核心要素。', '分析一张区域图的三要素', '绘制含三要素的校园简图'),
+    g('contour_lines', 'R', '地球与地图', 7, 8, '等高线地形', 'Contour lines', 'moe-dl-2022:EM', '能读等高线地形图，判断坡度、鞍部、陡崖等地形部位。', '在等高线图上找山顶与山谷', '说明密等高线表示陡坡'),
+    g('terrain_types', 'C', '地球与地图', 7, 8, '五种基本地形', 'Landform types', 'moe-dl-2022:EM', '能区分山地、丘陵、平原、高原、盆地并举例。', '匹配地形类型与剖面示意', '说出本地主要地形类型'),
+    g('earth_rotation_day_night', 'C', '地球与地图', 7, 8, '自转与昼夜', 'Rotation and day-night', 'moe-dl-2022:EM', '知道地球自转产生昼夜更替，能演示晨昏线移动。', '用地球仪演示昼夜半球', '解释同一时刻不同城市的时间差'),
+    g('earth_revolution_seasons', 'C', '地球与地图', 7, 8, '公转与四季', 'Revolution and seasons', 'moe-dl-2022:EM', '理解公转与地轴倾斜导致四季和昼夜长短变化。', '比较夏至与冬至昼夜长短', '说明南北半球季节相反'),
+    g('timezone_basics', 'C', '地球与地图', 8, 8, '时区初识', 'Time zones', 'moe-dl-2022:EM', '知道经度相差15°约差1小时，能粗略计算区时。', '计算北京与伦敦的时差', '解释国际日期变更线的作用'),
+    g('digital_map_basics', 'P', '地球与地图', 8, 9, '数字地图使用', 'Digital maps', 'moe-dl-2022:EM', '能使用电子地图查位置、测距离并切换图层。', '用地图App查找指定地标', '比较卫星图与地形图'),
+    g('coordinate_location', 'P', '地球与地图', 8, 9, '经纬度定位应用', 'Coordinate location', 'moe-dl-2022:EM', '能根据经纬度在地图或地球仪上标定位置。', '标出给定坐标的港口城市', '写出家乡大致经纬度'),
+    g('land_sea_ratio', 'C', '世界地理', 7, 7, '海陆分布', 'Land and sea', 'moe-dl-2022:WG', '知道海洋占地球表面大部分，理解海陆分布格局。', '说出七大洲四大洋名称', '描述陆地集中分布的半球'),
+    g('seven_continents', 'C', '世界地理', 7, 7, '七大洲', 'Seven continents', 'moe-dl-2022:WG', '能在世界地图上指认七大洲并描述相对位置。', '按面积排序七大洲', '说明亚洲与欧洲的分界'),
+    g('four_oceans', 'C', '世界地理', 7, 7, '四大洋', 'Four oceans', 'moe-dl-2022:WG', '能在地图上指认太平洋、大西洋、印度洋、北冰洋。', '描述太平洋的位置特征', '比较各大洋面积大小'),
+    g('plate_tectonics_intro', 'C', '世界地理', 7, 8, '板块构造初识', 'Plate tectonics', 'moe-dl-2022:WG', '知道岩石圈分为若干板块，板块交界多火山地震。', '在世界图上找环太平洋地震带', '解释喜马拉雅山形成原因'),
+    g('volcano_earthquake_belt', 'C', '世界地理', 7, 8, '火山与地震带', 'Volcano and quake belts', 'moe-dl-2022:WG', '能说出主要火山地震带分布及成因。', '标注主要地震带', '说明地震预警与避险要点'),
+    g('climate_belt_zonation', 'C', '世界地理', 7, 8, '气候带分布', 'Climate belts', 'moe-dl-2022:WG', '理解纬度、海陆、地形影响下的气候带分布规律。', '在世界气候图上找热带位置', '说明同纬度沿海与内陆气候差异'),
+    g('tropical_climate', 'C', '世界地理', 7, 8, '热带气候类型', 'Tropical climates', 'moe-dl-2022:WG', '能区分热带雨林、热带草原、热带季风、热带沙漠气候特征。', '匹配气候类型与气温降水图', '举例热带气候分布区'),
+    g('temperate_climate', 'C', '世界地理', 7, 8, '温带气候类型', 'Temperate climates', 'moe-dl-2022:WG', '能描述温带海洋、温带大陆、温带季风等气候特点。', '读温带城市气温降水资料', '比较欧洲西部与内陆气候'),
+    g('polar_climate', 'C', '世界地理', 7, 8, '寒带气候', 'Polar climates', 'moe-dl-2022:WG', '知道寒带全年低温，能联系极地环境与人类活动。', '描述南极气候特征', '说明北极地区居民生活方式'),
+    g('monsoon_climate', 'C', '世界地理', 7, 8, '季风气候', 'Monsoon climate', 'moe-dl-2022:WG', '理解季风是海陆热力差异形成的季节性风向转换。', '比较冬夏季风风向', '说明季风对农业的影响'),
+    g('climate_chart_reading', 'R', '世界地理', 7, 8, '气候资料判读', 'Climate charts', 'moe-dl-2022:WG', '能读气温曲线和降水柱状图判断气候类型。', '根据资料判断气候类型', '说明判读依据'),
+    g('population_distribution', 'C', '世界地理', 7, 8, '世界人口分布', 'World population', 'moe-dl-2022:WG', '知道人口分布不均，能分析地形、气候、经济等因素。', '描述人口稠密与稀疏区', '解释平原沿海人口多的原因'),
+    g('urban_rural_settlement', 'C', '世界地理', 7, 8, '城乡聚落', 'Urban and rural', 'moe-dl-2022:WG', '能区分城市与乡村聚落，理解区位、交通对聚落的影响。', '比较两种聚落景观差异', '分析河流对古城选址的作用'),
+    g('asia_location_range', 'C', '世界地理', 7, 8, '亚洲位置范围', 'Asia location', 'moe-dl-2022:WG', '能在地图上描述亚洲跨纬度、经度范围及濒临海洋。', '说出亚洲相邻的大洲大洋', '描述亚洲为何称世界第一大洲'),
+    g('asia_physical_geo', 'C', '世界地理', 7, 8, '亚洲自然地理', 'Asia physical', 'moe-dl-2022:WG', '能概述亚洲地形复杂、河流放射状分布等自然特征。', '找出亚洲主要高原与平原', '说明长江、湄公河流向特点'),
+    g('asia_economy_population', 'C', '世界地理', 8, 8, '亚洲经济人口', 'Asia economy', 'moe-dl-2022:WG', '了解亚洲人口大国与主要经济区分布。', '列举亚洲主要发展中国家', '说明西亚石油资源地位'),
+    g('europe_location_features', 'C', '世界地理', 8, 8, '欧洲位置特征', 'Europe location', 'moe-dl-2022:WG', '能描述欧洲海岸线曲折、内河航运发达等特点。', '在图上找主要半岛与海峡', '说明欧洲地形以平原为主'),
+    g('europe_climate_agriculture', 'C', '世界地理', 8, 8, '欧洲气候与农业', 'Europe climate', 'moe-dl-2022:WG', '知道温带海洋性气候广布，理解其与畜牧业、旅游业关系。', '描述西欧气候对农业影响', '举例欧洲著名旅游城市'),
+    g('africa_location_features', 'C', '世界地理', 8, 8, '非洲位置特征', 'Africa location', 'moe-dl-2022:WG', '能描述非洲跨赤道、以高原为主的地形特征。', '找出撒哈拉沙漠与刚果盆地', '说明东非大裂谷地理意义'),
+    g('africa_climate_resources', 'C', '世界地理', 8, 8, '非洲气候与资源', 'Africa resources', 'moe-dl-2022:WG', '了解非洲气候对称分布及矿产、生物资源特点。', '描述赤道附近气候带', '举例非洲主要出口矿产'),
+    g('americas_overview', 'C', '世界地理', 8, 9, '美洲概况', 'Americas overview', 'moe-dl-2022:WG', '能概述南北美洲地形、气候及主要国家分布。', '比较安第斯山与落基山', '说明巴拿马运河的地理意义'),
+    g('oceania_antarctica', 'C', '世界地理', 8, 9, '大洋洲与南极', 'Oceania and Antarctica', 'moe-dl-2022:WG', '了解澳大利亚大陆特征及南极科学考察意义。', '描述澳大利亚气候与牧羊业', '说明南极保护的环境价值'),
+    g('world_agriculture_pattern', 'C', '世界地理', 8, 9, '世界农业分布', 'World agriculture', 'moe-dl-2022:WG', '能联系自然条件说明世界主要农业类型分布。', '匹配农业类型与分布区', '解释美国中部小麦带成因'),
+    g('global_environment_issues', 'M', '世界地理', 8, 9, '全球环境问题', 'Global environment', 'moe-dl-2022:WG', '知道全球变暖、海洋污染等问题的表现与跨国合作。', '列举两种全球环境问题', '提出个人减碳行动'),
+    g('china_location_territory', 'C', '中国地理', 7, 7, '中国位置与疆域', 'China location', 'moe-dl-2022:CG', '能在地图上描述中国海陆位置、四至点及邻国。', '说出中国濒临的海洋', '描述中国南北跨纬度特点'),
+    g('china_admin_divisions', 'R', '中国地理', 7, 7, '行政区划', 'Admin divisions', 'moe-dl-2022:CG', '知道省、自治区、直辖市、特别行政区四级结构。', '在图上找自治区与直辖市', '说出本省相邻省级行政区'),
+    g('china_topography', 'C', '中国地理', 7, 8, '中国地形特征', 'China topography', 'moe-dl-2022:CG', '能概述地形复杂多样、山区面积大的特点。', '描述中国地形骨架', '说明地形对交通的影响'),
+    g('china_three_steps', 'C', '中国地理', 7, 8, '三级阶梯', 'Three terrain steps', 'moe-dl-2022:CG', '理解西高东低三级阶梯及主要分界线。', '标出阶梯分界线', '说明阶梯过渡带的地理意义'),
+    g('china_major_mountains', 'C', '中国地理', 7, 8, '主要山脉', 'Major mountains', 'moe-dl-2022:CG', '能在图上指认喜马拉雅、昆仑、秦岭等主要山脉。', '描述山脉走向分类', '说明秦岭南北地理差异'),
+    g('china_rivers_lakes', 'C', '中国地理', 7, 8, '主要河湖', 'Rivers and lakes', 'moe-dl-2022:CG', '知道长江、黄河、珠江等流向及重要湖泊。', '比较长江与黄河水文特征', '说明塔里木河的内流特征'),
+    g('china_climate_overview', 'C', '中国地理', 7, 8, '中国气候概况', 'China climate', 'moe-dl-2022:CG', '能概述季风气候显著、气候复杂多样。', '读中国温度带分布图', '说明降水从东南向西北递减'),
+    g('monsoon_effect_china', 'C', '中国地理', 7, 8, '季风对中国影响', 'Monsoon in China', 'moe-dl-2022:CG', '理解夏季风带来降水、冬季风带来干冷。', '解释南方雨季与北方差异', '说明旱涝灾害与季风关系'),
+    g('northeast_region', 'C', '中国地理', 8, 8, '东北三省', 'Northeast China', 'moe-dl-2022:CG', '能描述东北平原、黑土、重工业及商品粮基地特征。', '说明东北冬季漫长原因', '列举东北主要工业城市'),
+    g('north_china_region', 'C', '中国地理', 8, 8, '华北地区', 'North China', 'moe-dl-2022:CG', '了解华北平原、黄土高原及水资源短缺问题。', '描述华北春旱成因', '说明南水北调对华北意义'),
+    g('northwest_region', 'C', '中国地理', 8, 8, '西北内陆', 'Northwest China', 'moe-dl-2022:CG', '能描述干旱气候、绿洲农业及能源资源分布。', '解释西北深居内陆的影响', '举例塔里木盆地油气资源'),
+    g('south_china_region', 'C', '中国地理', 8, 8, '南方地区', 'South China', 'moe-dl-2022:CG', '了解南方丘陵、水田农业及外向型经济特点。', '比较南方与北方农业差异', '说明珠江三角洲产业特色'),
+    g('qinghai_tibet_region', 'C', '中国地理', 8, 8, '青藏地区', 'Qinghai-Tibet', 'moe-dl-2022:CG', '能描述高寒气候、太阳能资源及生态保护。', '说明青藏铁路建设挑战', '列举高原特有动植物'),
+    g('four_regions_compare', 'M', '中国地理', 8, 9, '四大区域比较', 'Four regions compare', 'moe-dl-2022:CG', '能比较四大地理区域的自然与人文差异。', '完成四大区域对比表', '说明区域差异对生活方式影响'),
+    g('china_population_ethnic', 'C', '中国地理', 8, 8, '人口与民族', 'Population and ethnic', 'moe-dl-2022:CG', '知道人口分布东多西少及民族大杂居、小聚居。', '描述胡焕庸线两侧人口', '举例民族自治地方'),
+    g('china_agriculture', 'C', '中国地理', 8, 9, '中国农业', 'China agriculture', 'moe-dl-2022:CG', '了解主要粮食作物、经济作物及农业现代化。', '匹配作物与主产区', '说明杂交水稻的意义'),
+    g('china_industry_layout', 'C', '中国地理', 8, 9, '工业布局', 'Industry layout', 'moe-dl-2022:CG', '能描述沿海、沿江工业带及高新技术产业区。', '找出主要工业基地', '说明资源型城市转型'),
+    g('water_resources_mismatch', 'C', '中国地理', 8, 9, '水资源与调水', 'Water resources', 'moe-dl-2022:CG', '理解时空分布不均，知道南水北调等重大工程。', '解释华北缺水原因', '描述调水工程线路'),
+    g('land_resources_protection', 'M', '中国地理', 8, 9, '土地资源保护', 'Land protection', 'moe-dl-2022:CG', '知道耕地保护、退耕还林还草等可持续利用措施。', '列举两种土地退化表现', '提出保护耕地建议'),
+    g('hometown_map_sketch', 'P', '乡土地理', 7, 7, '家乡地图绘制', 'Hometown map', 'moe-dl-2022:LG', '能调查家乡主要地理要素并绘制比例合适的简图。', '绘制含图例的家乡简图', '标注学校与主要道路'),
+    g('local_landforms_survey', 'P', '乡土地理', 7, 8, '乡土地形调查', 'Local landforms', 'moe-dl-2022:LG', '能观察并记录家乡地形、河流、植被等特点。', '完成一份地形观察记录', '拍摄并说明一处地貌'),
+    g('local_climate_records', 'P', '乡土地理', 7, 8, '乡土气候记录', 'Local climate', 'moe-dl-2022:LG', '能连续观测并记录本地气温、降水或天气现象。', '记录一周天气变化', '比较观测与预报差异'),
+    g('community_land_use', 'C', '乡土地理', 8, 8, '社区土地利用', 'Community land use', 'moe-dl-2022:LG', '能识别居住区、商业区、绿地等土地利用类型。', '在航拍图识别功能区', '讨论社区绿地需求'),
+    g('local_industry_services', 'C', '乡土地理', 8, 8, '乡土产业与服务', 'Local economy', 'moe-dl-2022:LG', '了解家乡主要产业、特产及公共服务设施。', '采访介绍一种本地特产', '在地图上标出主要市场'),
+    g('local_environment_issues', 'M', '乡土地理', 8, 9, '乡土环境问题', 'Local environment', 'moe-dl-2022:LG', '能发现身边环境问题并提出可行改善建议。', '调查一条河流或街道卫生', '提出两条社区环保倡议'),
+    g('field_survey_methods', 'M', '乡土地理', 8, 9, '地理调查方法', 'Field survey', 'moe-dl-2022:LG', '掌握问卷、访谈、观察等基本乡土调查步骤。', '设计一份简短调查问卷', '汇总调查结果并展示'),
+    g('local_heritage_geography', 'C', '乡土地理', 8, 9, '乡土文化遗产', 'Local heritage', 'moe-dl-2022:LG', '能联系地理条件说明本地建筑、习俗或遗产特点。', '介绍一处本地历史地标', '说明地形对聚落形态影响'),
+    g('hometown_presentation', 'P', '乡土地理', 9, 9, '家乡地理展示', 'Hometown presentation', 'moe-dl-2022:LG', '能综合运用地图、照片和数据做家乡地理汇报。', '完成五分钟家乡介绍', '回答同学关于乡土的提问'),
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "mt_df_s1_body_privacy",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "身体隐私保护",
+    "nameEn": "Body privacy",
+    "standards": [
+      "moe-df-2022:SELF.S1"
+    ],
+    "description": "知道背心短裤覆盖处是隐私部位，不允许他人随意触碰或拍摄。",
+    "evidence": [
+      "区分可公开与需保护的身体部位",
+      "遇到不当触碰知道告诉信任的成人"
+    ]
+  },
+  {
+    "id": "mt_df_s1_safe_playground",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "游戏场地安全",
+    "nameEn": "Playground safety",
+    "standards": [
+      "moe-df-2022:SELF.S1"
+    ],
+    "description": "在操场或游乐区活动时，能避开危险器械并遵守使用说明。",
+    "evidence": [
+      "指出游乐设施上的警示标志",
+      "说明追逐打闹的风险"
+    ]
+  },
+  {
+    "id": "mt_df_s1_sleep_schedule",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "规律作息睡眠",
+    "nameEn": "Regular sleep",
+    "standards": [
+      "moe-df-2022:SELF.S1"
+    ],
+    "description": "知道充足睡眠有助于生长，能按时就寝、按时起床。",
+    "evidence": [
+      "记录一周睡觉起床时间",
+      "说明熬夜对身体的影响"
+    ]
+  },
+  {
+    "id": "mt_df_s1_stranger_safety",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "陌生人安全防范",
+    "nameEn": "Stranger safety",
+    "standards": [
+      "moe-df-2022:SELF.S1"
+    ],
+    "description": "不跟陌生人走、不吃陌生人食物，遇到搭讪能寻求成人帮助。",
+    "evidence": [
+      "角色扮演拒绝陌生人诱惑",
+      "说出三种求助方式"
+    ]
+  },
+  {
+    "id": "mt_df_s1_tooth_brushing",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "早晚刷牙护齿",
+    "nameEn": "Tooth brushing",
+    "standards": [
+      "moe-df-2022:SELF.S1"
+    ],
+    "description": "养成早晚刷牙、饭后漱口的习惯，知道保护牙齿的基本方法。",
+    "evidence": [
+      "说出刷牙的两个最佳时段",
+      "演示竖刷法清洁牙齿"
+    ]
+  },
+  {
+    "id": "mt_df_s1_traffic_pedestrian",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "步行交通安全",
+    "nameEn": "Pedestrian safety",
+    "standards": [
+      "moe-df-2022:SELF.S1"
+    ],
+    "description": "过马路走斑马线、看信号灯，不在车流中追逐或蹲玩。",
+    "evidence": [
+      "模拟红灯停绿灯行",
+      "找出图片中的交通危险行为"
+    ]
+  },
+  {
+    "id": "mt_df_s1_wash_hands_habit",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "饭前便后洗手",
+    "nameEn": "Handwashing habit",
+    "standards": [
+      "moe-df-2022:SELF.S1"
+    ],
+    "description": "知道饭前便后要洗手，能用七步洗手法清洁双手，减少病菌传播。",
+    "evidence": [
+      "演示正确洗手步骤",
+      "检查同伴洗手是否到位"
+    ]
+  },
+  {
+    "id": "mt_df_s1_fire_escape_basics",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "火灾逃生初识",
+    "nameEn": "Fire escape basics",
+    "standards": [
+      "moe-df-2022:SELF.S1"
+    ],
+    "description": "知道火警电话119，了解低姿捂口鼻、不乘电梯等基本逃生要点。",
+    "evidence": [
+      "画出教室到安全出口路线",
+      "说出遇火不可返回取物的理由"
+    ]
+  },
+  {
+    "id": "mt_df_s2_balanced_diet",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "均衡饮食选择",
+    "nameEn": "Balanced diet",
+    "standards": [
+      "moe-df-2022:SELF.S2"
+    ],
+    "description": "知道主食、蔬菜、蛋白质应搭配，少吃过多零食和含糖饮料。",
+    "evidence": [
+      "为一餐搭配三类食物",
+      "识别不健康零食并说明原因"
+    ]
+  },
+  {
+    "id": "mt_df_s2_emotion_naming",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "识别与表达情绪",
+    "nameEn": "Naming emotions",
+    "standards": [
+      "moe-df-2022:SELF.S2"
+    ],
+    "description": "能说出高兴、难过、生气等常见情绪，用合适方式向他人表达。",
+    "evidence": [
+      "用词语描述一张表情图",
+      "写一句表达当前感受的话"
+    ]
+  },
+  {
+    "id": "mt_df_s2_eye_care_screen",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "用眼与屏幕时间",
+    "nameEn": "Eye care and screens",
+    "standards": [
+      "moe-df-2022:SELF.S2"
+    ],
+    "description": "知道连续用眼需休息，控制屏幕时间并保持正确读写距离。",
+    "evidence": [
+      "演示一尺一拳一寸姿势",
+      "制定每日屏幕使用上限"
+    ]
+  },
+  {
+    "id": "mt_df_s2_stress_relief_child",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "儿童减压方法",
+    "nameEn": "Stress relief",
+    "standards": [
+      "moe-df-2022:SELF.S2"
+    ],
+    "description": "遇到挫折或紧张时，能运用深呼吸、运动或倾诉等方式调节。",
+    "evidence": [
+      "演示腹式呼吸三次",
+      "列举两种让自己冷静的方法"
+    ]
+  },
+  {
+    "id": "mt_df_s2_disaster_drill",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "防震减灾演练",
+    "nameEn": "Disaster drills",
+    "standards": [
+      "moe-df-2022:SELF.S2"
+    ],
+    "description": "参加地震等演练时，能听从指挥、迅速避险并有序疏散。",
+    "evidence": [
+      "演示桌下避震动作",
+      "说出疏散集合点位置"
+    ]
+  },
+  {
+    "id": "mt_df_s2_extreme_weather_safety",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "极端天气防护",
+    "nameEn": "Extreme weather safety",
+    "standards": [
+      "moe-df-2022:SELF.S2"
+    ],
+    "description": "了解暴雨、高温等极端天气的危害，知道减少外出与寻求庇护等措施。",
+    "evidence": [
+      "制定暴雨天出行注意事项",
+      "说明高温中暑的预防"
+    ]
+  },
+  {
+    "id": "mt_df_s2_internet_personal_info",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "网络个人信息保护",
+    "nameEn": "Online privacy",
+    "standards": [
+      "moe-df-2022:SELF.S2"
+    ],
+    "description": "不在网络随意透露姓名、地址、学校等个人信息，警惕网络诈骗。",
+    "evidence": [
+      "判断哪些信息不可公开",
+      "模拟识别钓鱼链接特征"
+    ]
+  },
+  {
+    "id": "mt_df_s3_first_aid_basics",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "常见外伤处理",
+    "nameEn": "First aid basics",
+    "standards": [
+      "moe-df-2022:SELF.S3"
+    ],
+    "description": "能对轻微擦伤清洁包扎，知道大出血和昏迷需立即呼救。",
+    "evidence": [
+      "演示创可贴正确用法",
+      "拨打120说明地点和情况"
+    ]
+  },
+  {
+    "id": "mt_df_s3_mental_health_aware",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "心理健康觉察",
+    "nameEn": "Mental health awareness",
+    "standards": [
+      "moe-df-2022:SELF.S3"
+    ],
+    "description": "知道持续情绪低落或焦虑可寻求老师、家长或专业人员帮助。",
+    "evidence": [
+      "列举两个可倾诉的对象",
+      "识别需要求助的信号"
+    ]
+  },
+  {
+    "id": "mt_df_s3_puberty_hygiene",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "青春期卫生常识",
+    "nameEn": "Puberty hygiene",
+    "standards": [
+      "moe-df-2022:SELF.S3"
+    ],
+    "description": "了解青春期身体变化需加强清洁与护理，以科学态度看待发育差异。",
+    "evidence": [
+      "说明换洗衣物勤洗晒的意义",
+      "拒绝嘲笑他人身体变化"
+    ]
+  },
+  {
+    "id": "mt_df_s3_substance_refusal",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "远离烟酒毒品",
+    "nameEn": "Refuse substances",
+    "standards": [
+      "moe-df-2022:SELF.S3"
+    ],
+    "description": "知道吸烟、饮酒和毒品危害健康，能坚决拒绝同伴怂恿。",
+    "evidence": [
+      "说出拒绝递烟的用语",
+      "解释毒品对大脑的伤害"
+    ]
+  },
+  {
+    "id": "mt_df_s3_sun_and_exercise",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "户外运动与防晒",
+    "nameEn": "Exercise and sun protection",
+    "standards": [
+      "moe-df-2022:SELF.S3"
+    ],
+    "description": "坚持适量运动增强体质，户外活动时注意补水与防晒。",
+    "evidence": [
+      "制定一周运动计划",
+      "说明暴晒中暑的预防"
+    ]
+  },
+  {
+    "id": "mt_df_s4_adolescent_body_mind",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "青春期身心调适",
+    "nameEn": "Adolescent adjustment",
+    "standards": [
+      "moe-df-2022:SELF.S4"
+    ],
+    "description": "理解第二性征与情绪波动是正常现象，学会自我接纳与情绪管理。",
+    "evidence": [
+      "写下一项自我接纳的做法",
+      "用日记记录情绪变化"
+    ]
+  },
+  {
+    "id": "mt_df_s4_sleep_and_study_balance",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "学习与休息平衡",
+    "nameEn": "Study-rest balance",
+    "standards": [
+      "moe-df-2022:SELF.S4"
+    ],
+    "description": "合理安排学习与休息，避免长期熬夜影响发育与注意力。",
+    "evidence": [
+      "制定可执行的作息表",
+      "评估一周睡眠是否充足"
+    ]
+  },
+  {
+    "id": "mt_df_s4_addiction_prevention",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "网络与游戏成瘾预防",
+    "nameEn": "Addiction prevention",
+    "standards": [
+      "moe-df-2022:SELF.S4"
+    ],
+    "description": "识别沉迷网络或游戏的危害，设定使用规则并培养线下兴趣。",
+    "evidence": [
+      "签订家庭上网协议",
+      "列举两种替代性休闲活动"
+    ]
+  },
+  {
+    "id": "mt_df_s4_life_skills_cooking",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "基本生活自理技能",
+    "nameEn": "Life skills",
+    "standards": [
+      "moe-df-2022:SELF.S4"
+    ],
+    "description": "掌握整理房间、简单烹饪等生活技能，提高独立生活能力。",
+    "evidence": [
+      "完成一次安全简易餐食",
+      "演示垃圾分类投放"
+    ]
+  },
+  {
+    "id": "mt_df_s4_seek_professional_help",
+    "type": "META",
+    "subject": "道德与法治",
+    "domain": "自我与健康",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "心理求助渠道",
+    "nameEn": "Seeking help",
+    "standards": [
+      "moe-df-2022:SELF.S4"
+    ],
+    "description": "知道校心理老师、热线等求助资源，消除对心理帮助的偏见。",
+    "evidence": [
+      "列出本校心理支持方式",
+      "模拟向信任成人求助对话"
+    ]
+  },
+  {
+    "id": "mt_df_s1_greeting_manners",
+    "type": "LANGUAGE",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "礼貌用语问候",
+    "nameEn": "Polite greetings",
+    "standards": [
+      "moe-df-2022:SOC.S1"
+    ],
+    "description": "会使用请、谢谢、对不起等礼貌用语，与人交流态度友善。",
+    "evidence": [
+      "补全对话中的礼貌用语",
+      "角色扮演借物还物"
+    ]
+  },
+  {
+    "id": "mt_df_s1_love_parents",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "爱父母与长辈",
+    "nameEn": "Love for parents",
+    "standards": [
+      "moe-df-2022:SOC.S1"
+    ],
+    "description": "体会父母长辈的关爱，能用语言和行动表达感恩。",
+    "evidence": [
+      "为家人做一件力所能及的事",
+      "说出父母为自己做过的一件事"
+    ]
+  },
+  {
+    "id": "mt_df_s1_queue_and_wait",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "排队与等候",
+    "nameEn": "Queuing and waiting",
+    "standards": [
+      "moe-df-2022:SOC.S1"
+    ],
+    "description": "在食堂、游戏等活动中有序排队，不插队、不推挤。",
+    "evidence": [
+      "模拟排队打饭情景",
+      "指出插队行为的后果"
+    ]
+  },
+  {
+    "id": "mt_df_s1_respect_elders",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "尊敬师长长辈",
+    "nameEn": "Respect elders",
+    "standards": [
+      "moe-df-2022:SOC.S1"
+    ],
+    "description": "见到老师、长辈主动问好，说话有礼，听从合理教导。",
+    "evidence": [
+      "模拟见到老师问好",
+      "纠正不礼貌用语"
+    ]
+  },
+  {
+    "id": "mt_df_s1_share_with_peers",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "与同伴分享",
+    "nameEn": "Sharing with peers",
+    "standards": [
+      "moe-df-2022:SOC.S1"
+    ],
+    "description": "愿意与同学分享玩具、材料，体验分享带来的快乐。",
+    "evidence": [
+      "活动中轮流使用材料",
+      "描述一次分享经历"
+    ]
+  },
+  {
+    "id": "mt_df_s1_active_listening",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "认真倾听他人",
+    "nameEn": "Active listening",
+    "standards": [
+      "moe-df-2022:SOC.S1"
+    ],
+    "description": "与人交谈时看着对方、不打断，听懂后再回应。",
+    "evidence": [
+      "练习复述同伴一句话",
+      "评价一次倾听是否专注"
+    ]
+  },
+  {
+    "id": "mt_df_s1_help_classmates",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "帮助有困难同学",
+    "nameEn": "Helping classmates",
+    "standards": [
+      "moe-df-2022:SOC.S1"
+    ],
+    "description": "同学遇到困难时愿意伸出援手，如扶起摔倒者、协助找东西。",
+    "evidence": [
+      "讲述一次帮助同学的事",
+      "讨论哪些帮助是安全合适的"
+    ]
+  },
+  {
+    "id": "mt_df_s2_conflict_talk",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "同伴冲突沟通",
+    "nameEn": "Conflict communication",
+    "standards": [
+      "moe-df-2022:SOC.S2"
+    ],
+    "description": "与同学发生矛盾时，优先用语言协商而非动手。",
+    "evidence": [
+      "角色扮演和平解决争执",
+      "写出三步沟通话术"
+    ]
+  },
+  {
+    "id": "mt_df_s2_empathy_others",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "换位思考同理心",
+    "nameEn": "Empathy",
+    "standards": [
+      "moe-df-2022:SOC.S2"
+    ],
+    "description": "能站在他人角度感受情绪，避免只考虑自己。",
+    "evidence": [
+      "续写他人视角的短故事",
+      "讨论冲突中双方感受"
+    ]
+  },
+  {
+    "id": "mt_df_s2_friendship_qualities",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "好朋友的品质",
+    "nameEn": "Friendship qualities",
+    "standards": [
+      "moe-df-2022:SOC.S2"
+    ],
+    "description": "知道真诚、守信、互助是友谊的基础，能选择积极同伴。",
+    "evidence": [
+      "列举好朋友的三个品质",
+      "分析故事中的友谊行为"
+    ]
+  },
+  {
+    "id": "mt_df_s2_honesty_promise",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "守信与诚实",
+    "nameEn": "Honesty and promises",
+    "standards": [
+      "moe-df-2022:SOC.S2"
+    ],
+    "description": "答应的事努力做到，做错事敢于承认并改正。",
+    "evidence": [
+      "分享一次守信经历",
+      "分析说谎带来的信任损失"
+    ]
+  },
+  {
+    "id": "mt_df_s2_care_community",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "关爱社区邻里",
+    "nameEn": "Caring for community",
+    "standards": [
+      "moe-df-2022:SOC.S2"
+    ],
+    "description": "关心社区环境与邻里，参与力所能及的美化或帮扶活动。",
+    "evidence": [
+      "参加一次社区清洁",
+      "描述邻居互助的例子"
+    ]
+  },
+  {
+    "id": "mt_df_s2_group_cooperation",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "小组合作分工",
+    "nameEn": "Group cooperation",
+    "standards": [
+      "moe-df-2022:SOC.S2"
+    ],
+    "description": "在小组活动中承担角色、听取意见，共同完成任务。",
+    "evidence": [
+      "完成一次分工合作任务",
+      "反思自己在组内的贡献"
+    ]
+  },
+  {
+    "id": "mt_df_s3_anti_bullying_stand",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "抵制校园欺凌",
+    "nameEn": "Anti-bullying",
+    "standards": [
+      "moe-df-2022:SOC.S3"
+    ],
+    "description": "认识欺凌的表现与危害，不做欺凌者，发现欺凌及时报告。",
+    "evidence": [
+      "区分玩笑与欺凌",
+      "说出报告欺凌的渠道"
+    ]
+  },
+  {
+    "id": "mt_df_s3_family_chores",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "承担家庭劳动",
+    "nameEn": "Family chores",
+    "standards": [
+      "moe-df-2022:SOC.S3"
+    ],
+    "description": "主动参与整理房间、洗碗等家务，体会家庭成员责任。",
+    "evidence": [
+      "坚持一周家务记录",
+      "说明劳动对家庭的意义"
+    ]
+  },
+  {
+    "id": "mt_df_s3_inclusive_peers",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "尊重差异包容",
+    "nameEn": "Inclusive peers",
+    "standards": [
+      "moe-df-2022:SOC.S3"
+    ],
+    "description": "尊重同学的家庭、民族、能力差异，不歧视或起外号。",
+    "evidence": [
+      "改写带有歧视的语言",
+      "设计包容同学的班级约定"
+    ]
+  },
+  {
+    "id": "mt_df_s3_school_responsibility",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "班级公共服务",
+    "nameEn": "School responsibility",
+    "standards": [
+      "moe-df-2022:SOC.S3"
+    ],
+    "description": "担任值日、课代表等任务时认真负责，维护集体利益。",
+    "evidence": [
+      "完成一次值日检查",
+      "提出改进班级管理的建议"
+    ]
+  },
+  {
+    "id": "mt_df_s3_volunteer_spirit",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "志愿服务意识",
+    "nameEn": "Volunteer spirit",
+    "standards": [
+      "moe-df-2022:SOC.S3"
+    ],
+    "description": "了解志愿服务的意义，愿意在指导下参与公益小活动。",
+    "evidence": [
+      "参与一次班级公益行动",
+      "写简短服务感受"
+    ]
+  },
+  {
+    "id": "mt_df_s4_peer_pressure_refusal",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "拒绝不良同伴压力",
+    "nameEn": "Refuse peer pressure",
+    "standards": [
+      "moe-df-2022:SOC.S4"
+    ],
+    "description": "面对吸烟、打架等怂恿时能坚定说“不”，并离开危险情境。",
+    "evidence": [
+      "演练拒绝不良提议",
+      "分析从众心理的风险"
+    ]
+  },
+  {
+    "id": "mt_df_s4_social_media_ethics",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "网络交往伦理",
+    "nameEn": "Social media ethics",
+    "standards": [
+      "moe-df-2022:SOC.S4"
+    ],
+    "description": "网络发言文明理性，不造谣、不人身攻击，保护他人名誉。",
+    "evidence": [
+      "修改一条不友善评论",
+      "说明转发不实信息的后果"
+    ]
+  },
+  {
+    "id": "mt_df_s4_civic_participation_youth",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "青少年公共参与",
+    "nameEn": "Youth civic participation",
+    "standards": [
+      "moe-df-2022:SOC.S4"
+    ],
+    "description": "通过少先队、共青团等渠道参与班级与社区公共事务讨论。",
+    "evidence": [
+      "提出一项班级公约修订",
+      "参加一次模拟听证会"
+    ]
+  },
+  {
+    "id": "mt_df_s4_global_citizenship",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "全球视野与责任",
+    "nameEn": "Global citizenship",
+    "standards": [
+      "moe-df-2022:SOC.S4"
+    ],
+    "description": "了解人类命运共同体理念，关注气候变化、贫困等全球议题。",
+    "evidence": [
+      "列举一项全球合作案例",
+      "设计节约资源的个人行动"
+    ]
+  },
+  {
+    "id": "mt_df_s4_intercultural_respect",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "交往与责任",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "跨文化尊重交往",
+    "nameEn": "Intercultural respect",
+    "standards": [
+      "moe-df-2022:SOC.S4"
+    ],
+    "description": "与不同文化背景的人交往时保持尊重，避免刻板印象。",
+    "evidence": [
+      "比较中外礼仪差异",
+      "纠正带有偏见的表述"
+    ]
+  },
+  {
+    "id": "mt_df_s1_classroom_rules",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "课堂规则意义",
+    "nameEn": "Classroom rules",
+    "standards": [
+      "moe-df-2022:LAW.S1"
+    ],
+    "description": "知道课堂规则保障学习秩序，能遵守举手发言、认真听讲等要求。",
+    "evidence": [
+      "说出三条课堂规则",
+      "解释规则对集体的用处"
+    ]
+  },
+  {
+    "id": "mt_df_s1_no_littering",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "不乱扔垃圾",
+    "nameEn": "No littering",
+    "standards": [
+      "moe-df-2022:LAW.S1"
+    ],
+    "description": "知道乱扔垃圾破坏环境，能分类投放到指定容器。",
+    "evidence": [
+      "纠正随意丢纸屑行为",
+      "演示垃圾分类投放"
+    ]
+  },
+  {
+    "id": "mt_df_s1_traffic_light_rules",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "红绿灯与交通信号",
+    "nameEn": "Traffic signals",
+    "standards": [
+      "moe-df-2022:LAW.S1"
+    ],
+    "description": "认识红绿灯和常见交通标志，知道行人应遵守信号通行。",
+    "evidence": [
+      "匹配标志与含义",
+      "模拟路口安全过马路"
+    ]
+  },
+  {
+    "id": "mt_df_s1_fair_turn_taking",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "公平轮流规则",
+    "nameEn": "Fair turn taking",
+    "standards": [
+      "moe-df-2022:LAW.S1"
+    ],
+    "description": "在游戏中遵守轮流规则，接受裁判结果，胜不骄败不馁。",
+    "evidence": [
+      "设计公平轮换方案",
+      "处理一次游戏中的争执"
+    ]
+  },
+  {
+    "id": "mt_df_s1_respect_others_property",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "爱护他人物品",
+    "nameEn": "Respect property",
+    "standards": [
+      "moe-df-2022:LAW.S1"
+    ],
+    "description": "不损坏、不私自拿他人物品，借东西要征得同意并及时归还。",
+    "evidence": [
+      "分析损坏公物的后果",
+      "模拟借还文具对话"
+    ]
+  },
+  {
+    "id": "mt_df_s2_honest_shopping",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "诚实消费行为",
+    "nameEn": "Honest shopping",
+    "standards": [
+      "moe-df-2022:LAW.S2"
+    ],
+    "description": "购物时不私拆包装、不逃单，知道诚信是商业活动基础。",
+    "evidence": [
+      "分析逃单对商家的影响",
+      "模拟找零核对"
+    ]
+  },
+  {
+    "id": "mt_df_s2_public_order_quiet",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "公共场所秩序",
+    "nameEn": "Public order",
+    "standards": [
+      "moe-df-2022:LAW.S2"
+    ],
+    "description": "在图书馆、医院等场所保持安静、排队，不影响他人。",
+    "evidence": [
+      "列出图书馆行为清单",
+      "角色扮演公共场所礼仪"
+    ]
+  },
+  {
+    "id": "mt_df_s2_school_rules_why",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "校规的目的",
+    "nameEn": "Purpose of school rules",
+    "standards": [
+      "moe-df-2022:LAW.S2"
+    ],
+    "description": "理解校规保护安全与学习权利，自觉服从合理管理。",
+    "evidence": [
+      "举例说明校规保护谁",
+      "讨论规则与自由的关系"
+    ]
+  },
+  {
+    "id": "mt_df_s2_copyright_respect",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "尊重他人创作",
+    "nameEn": "Copyright respect",
+    "standards": [
+      "moe-df-2022:LAW.S2"
+    ],
+    "description": "知道作品有作者，不抄袭作业或随意复制他人文字图片。",
+    "evidence": [
+      "标注引用来源",
+      "改写作业中的抄袭段落"
+    ]
+  },
+  {
+    "id": "mt_df_s2_dispute_peaceful",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "和平解决小纠纷",
+    "nameEn": "Peaceful disputes",
+    "standards": [
+      "moe-df-2022:LAW.S2"
+    ],
+    "description": "与同学发生物品或游戏纠纷时，优先找老师或家长调解。",
+    "evidence": [
+      "写出调解请求步骤",
+      "对比动手与协商的结果"
+    ]
+  },
+  {
+    "id": "mt_df_s3_constitution_intro",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "宪法是国家根本法",
+    "nameEn": "Constitution intro",
+    "standards": [
+      "moe-df-2022:LAW.S3"
+    ],
+    "description": "知道宪法具有最高法律效力，规定国家根本制度与公民基本权利。",
+    "evidence": [
+      "说出宪法日日期",
+      "列举一项宪法规定的公民权利"
+    ]
+  },
+  {
+    "id": "mt_df_s3_minor_protection_law",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "未成年人保护法概览",
+    "nameEn": "Minor protection law",
+    "standards": [
+      "moe-df-2022:LAW.S3"
+    ],
+    "description": "了解家庭、学校、社会、网络、政府、司法六大保护方向。",
+    "evidence": [
+      "识别一种网络保护要求",
+      "举例学校保护的做法"
+    ]
+  },
+  {
+    "id": "mt_df_s3_rights_and_duties",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "权利与义务统一",
+    "nameEn": "Rights and duties",
+    "standards": [
+      "moe-df-2022:LAW.S3"
+    ],
+    "description": "理解享受权利同时应履行义务，如受教育权与遵守纪律。",
+    "evidence": [
+      "匹配权利与对应义务",
+      "分析只享权利不尽义务的问题"
+    ]
+  },
+  {
+    "id": "mt_df_s3_consumer_rights_basic",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "消费者基本权利",
+    "nameEn": "Consumer rights",
+    "standards": [
+      "moe-df-2022:LAW.S3"
+    ],
+    "description": "知道购买商品可要求发票，遇到质量问题可向家长或消协反映。",
+    "evidence": [
+      "阅读商品三包说明",
+      "模拟退换货合理诉求"
+    ]
+  },
+  {
+    "id": "mt_df_s3_mediation_and_report",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "求助与举报渠道",
+    "nameEn": "Mediation and reporting",
+    "standards": [
+      "moe-df-2022:LAW.S3"
+    ],
+    "description": "遇到侵权或违法线索，知道向老师、家长或110等渠道求助。",
+    "evidence": [
+      "列出三种求助电话",
+      "判断哪些情况应报警"
+    ]
+  },
+  {
+    "id": "mt_df_s4_civil_code_basics",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "民法典生活相关",
+    "nameEn": "Civil code basics",
+    "standards": [
+      "moe-df-2022:LAW.S4"
+    ],
+    "description": "了解民法典保护人身权、财产权，与日常生活密切相关。",
+    "evidence": [
+      "举例合同与侵权区别",
+      "说明隐私权受法律保护"
+    ]
+  },
+  {
+    "id": "mt_df_s4_rule_of_law_thinking",
+    "type": "META",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "法治思维初识",
+    "nameEn": "Rule-of-law thinking",
+    "standards": [
+      "moe-df-2022:LAW.S4"
+    ],
+    "description": "遇事找法、解决问题用法，理解法律面前人人平等。",
+    "evidence": [
+      "用法律视角分析案例",
+      "区分人情与法治处理"
+    ]
+  },
+  {
+    "id": "mt_df_s4_criminal_law_age",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "刑事责任年龄认知",
+    "nameEn": "Criminal responsibility age",
+    "standards": [
+      "moe-df-2022:LAW.S4"
+    ],
+    "description": "了解刑法对未成年人犯罪的特殊规定，增强守法底线意识。",
+    "evidence": [
+      "讨论严重暴力行为的后果",
+      "说明矫治教育的意义"
+    ]
+  },
+  {
+    "id": "mt_df_s4_cyber_law_basics",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "网络安全与法律",
+    "nameEn": "Cyber law basics",
+    "standards": [
+      "moe-df-2022:LAW.S4"
+    ],
+    "description": "知道传播谣言、侵犯隐私、网络诈骗等可能承担法律责任。",
+    "evidence": [
+      "分析网络谣言案例",
+      "列出安全上网法律边界"
+    ]
+  },
+  {
+    "id": "mt_df_s4_legal_aid_channels",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "法治与规则",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "法律援助途径",
+    "nameEn": "Legal aid",
+    "standards": [
+      "moe-df-2022:LAW.S4"
+    ],
+    "description": "知道可寻求律师、法律援助中心、12348热线等帮助。",
+    "evidence": [
+      "查找本地法律援助信息",
+      "模拟咨询法律问题"
+    ]
+  },
+  {
+    "id": "mt_df_s1_flag_anthem_etiquette",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 1,
+    "gradeEnd": 1,
+    "name": "国旗国歌礼仪",
+    "nameEn": "Flag and anthem etiquette",
+    "standards": [
+      "moe-df-2022:NAT.S1"
+    ],
+    "description": "知道升国旗奏国歌时应肃立行注目礼，不嬉笑打闹。",
+    "evidence": [
+      "演示升旗仪式站姿",
+      "说出国歌名称"
+    ]
+  },
+  {
+    "id": "mt_df_s1_love_hometown",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "爱家乡爱学校",
+    "nameEn": "Love hometown",
+    "standards": [
+      "moe-df-2022:NAT.S1"
+    ],
+    "description": "能介绍家乡或学校的名称、特色，产生亲近与自豪感。",
+    "evidence": [
+      "画一幅家乡或校园图",
+      "向同学介绍本地一种特产"
+    ]
+  },
+  {
+    "id": "mt_df_s1_spring_festival_customs",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 1,
+    "gradeEnd": 2,
+    "name": "春节等传统节日",
+    "nameEn": "Spring Festival customs",
+    "standards": [
+      "moe-df-2022:NAT.S1"
+    ],
+    "description": "了解春节贴春联、拜年等习俗，感受中华传统节日氛围。",
+    "evidence": [
+      "说出春节两项习俗",
+      "分享自家过年做法"
+    ]
+  },
+  {
+    "id": "mt_df_s1_local_heroes_stories",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "本地英雄故事",
+    "nameEn": "Local heroes",
+    "standards": [
+      "moe-df-2022:NAT.S1"
+    ],
+    "description": "聆听本地革命先烈或模范人物故事，学习其爱国奉献精神。",
+    "evidence": [
+      "复述一位英雄事迹",
+      "写一句向英雄学习的话"
+    ]
+  },
+  {
+    "id": "mt_df_s1_national_symbols",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 2,
+    "gradeEnd": 2,
+    "name": "国家象征认知",
+    "nameEn": "National symbols",
+    "standards": [
+      "moe-df-2022:NAT.S1"
+    ],
+    "description": "认识国旗、国徽、首都北京等国家象征，知道应爱护尊重。",
+    "evidence": [
+      "指认国徽图案元素",
+      "说明损坏国旗的错误性"
+    ]
+  },
+  {
+    "id": "mt_df_s2_ethnic Unity_intro",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "民族团结初识",
+    "nameEn": "Ethnic unity",
+    "standards": [
+      "moe-df-2022:NAT.S2"
+    ],
+    "description": "知道我国是多民族国家，各民族平等团结，尊重不同风俗。",
+    "evidence": [
+      "介绍一个少数民族节日",
+      "纠正歧视性语言"
+    ]
+  },
+  {
+    "id": "mt_df_s2_revolutionary_heritage",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 3,
+    "gradeEnd": 4,
+    "name": "红色文化初识",
+    "nameEn": "Revolutionary heritage",
+    "standards": [
+      "moe-df-2022:NAT.S2"
+    ],
+    "description": "参观或学习本地纪念馆，了解中国共产党领导人民奋斗历程。",
+    "evidence": [
+      "写出参观一处红色场馆感受",
+      "列举一位革命先辈"
+    ]
+  },
+  {
+    "id": "mt_df_s2_traditional_virtues",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 3,
+    "gradeEnd": 3,
+    "name": "中华传统美德",
+    "nameEn": "Traditional virtues",
+    "standards": [
+      "moe-df-2022:NAT.S2"
+    ],
+    "description": "了解孝、诚、礼、义等传统美德内涵，并在生活中践行。",
+    "evidence": [
+      "举例诚信在日常中的体现",
+      "设计美德实践小计划"
+    ]
+  },
+  {
+    "id": "mt_df_s2_cultural_heritage_local",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "身边文化遗产",
+    "nameEn": "Local heritage",
+    "standards": [
+      "moe-df-2022:NAT.S2"
+    ],
+    "description": "了解本地非遗或古建筑，知道保护文化遗产人人有责。",
+    "evidence": [
+      "介绍一项本地非遗",
+      "提出一条保护建议"
+    ]
+  },
+  {
+    "id": "mt_df_s2_environment_homeland",
+    "type": "PROCEDURAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "建设美丽家园",
+    "nameEn": "Beautiful homeland",
+    "standards": [
+      "moe-df-2022:NAT.S2"
+    ],
+    "description": "参与植树、节水、垃圾分类等行动，共建绿色祖国。",
+    "evidence": [
+      "记录一次环保实践",
+      "说明节约用水对国家意义"
+    ]
+  },
+  {
+    "id": "mt_df_s2_territory_awareness",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 4,
+    "gradeEnd": 4,
+    "name": "国土与领土意识",
+    "nameEn": "Territory awareness",
+    "standards": [
+      "moe-df-2022:NAT.S2"
+    ],
+    "description": "知道台湾、钓鱼岛等是中国领土不可分割的一部分。",
+    "evidence": [
+      "在地图上指出主要岛屿",
+      "说明维护领土完整的意义"
+    ]
+  },
+  {
+    "id": "mt_df_s3_belt_road_awareness",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "对外开放与合作",
+    "nameEn": "Opening-up cooperation",
+    "standards": [
+      "moe-df-2022:NAT.S3"
+    ],
+    "description": "了解改革开放使中国发展，中国积极参与国际合作。",
+    "evidence": [
+      "说出改革开放带来的变化",
+      "列举一项国际合作成果"
+    ]
+  },
+  {
+    "id": "mt_df_s3_chinese_civilization_pride",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 5,
+    "gradeEnd": 5,
+    "name": "中华文明自豪感",
+    "nameEn": "Civilization pride",
+    "standards": [
+      "moe-df-2022:NAT.S3"
+    ],
+    "description": "了解中华文明悠久连续，增强做中国人的志气、骨气、底气。",
+    "evidence": [
+      "列举三项古代中国成就",
+      "写短文谈文化自豪"
+    ]
+  },
+  {
+    "id": "mt_df_s3_core_socialist_values",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 5,
+    "gradeEnd": 6,
+    "name": "社会主义核心价值观",
+    "nameEn": "Core socialist values",
+    "standards": [
+      "moe-df-2022:NAT.S3"
+    ],
+    "description": "知道富强、民主、文明等价值要求，联系实际理解其含义。",
+    "evidence": [
+      "匹配价值词与校园行为",
+      "举例友善在同学中的体现"
+    ]
+  },
+  {
+    "id": "mt_df_s3_chinese_culture_symbols",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "中华文化符号",
+    "nameEn": "Chinese culture symbols",
+    "standards": [
+      "moe-df-2022:NAT.S3"
+    ],
+    "description": "认识汉字、中医药、武术等文化符号，理解其世界影响。",
+    "evidence": [
+      "介绍一种文化符号",
+      "比较中外文化交流实例"
+    ]
+  },
+  {
+    "id": "mt_df_s3_national_security_basics",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 6,
+    "gradeEnd": 6,
+    "name": "总体国家安全观入门",
+    "nameEn": "National security basics",
+    "standards": [
+      "moe-df-2022:NAT.S3"
+    ],
+    "description": "知道国家安全包括政治、经济、文化等多领域，人人有责。",
+    "evidence": [
+      "区分日常行为是否涉及安全",
+      "说明保守国家秘密的重要性"
+    ]
+  },
+  {
+    "id": "mt_df_s4_cultural_confidence",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 7,
+    "gradeEnd": 8,
+    "name": "文化自信与传承",
+    "nameEn": "Cultural confidence",
+    "standards": [
+      "moe-df-2022:NAT.S4"
+    ],
+    "description": "坚定对中国特色社会主义文化的自信，推动创造性转化。",
+    "evidence": [
+      "评析传统节日的当代价值",
+      "设计传统文化创新活动"
+    ]
+  },
+  {
+    "id": "mt_df_s4_national_security_youth",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 7,
+    "gradeEnd": 7,
+    "name": "青少年国家安全责任",
+    "nameEn": "Youth national security",
+    "standards": [
+      "moe-df-2022:NAT.S4"
+    ],
+    "description": "增强政治、国土、网络等领域安全意识，发现隐患及时报告。",
+    "evidence": [
+      "分析间谍窃密案例警示",
+      "列出维护网络安全的做法"
+    ]
+  },
+  {
+    "id": "mt_df_s4_reform_opening_achievements",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 8,
+    "gradeEnd": 8,
+    "name": "改革开放伟大成就",
+    "nameEn": "Reform achievements",
+    "standards": [
+      "moe-df-2022:NAT.S4"
+    ],
+    "description": "了解改革开放以来人民生活、科技、国防等领域的历史性变化。",
+    "evidence": [
+      "用数据或实例说明变化",
+      "讨论改革对家乡的影响"
+    ]
+  },
+  {
+    "id": "mt_df_s4_socialism_with_chinese_chars",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 8,
+    "gradeEnd": 9,
+    "name": "中国特色社会主义",
+    "nameEn": "Socialism path",
+    "standards": [
+      "moe-df-2022:NAT.S4"
+    ],
+    "description": "知道中国特色社会主义是历史与人民的选择，理解基本制度优势。",
+    "evidence": [
+      "比较新旧中国生活差异",
+      "举例制度优势在抗疫中的体现"
+    ]
+  },
+  {
+    "id": "mt_df_s4_dream_china_youth",
+    "type": "META",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "少年与中国梦",
+    "nameEn": "Youth and Chinese Dream",
+    "standards": [
+      "moe-df-2022:NAT.S4"
+    ],
+    "description": "把个人理想融入国家发展，树立担当民族复兴大任的志向。",
+    "evidence": [
+      "写个人理想与国家目标的联系",
+      "制定高中阶段成长计划"
+    ]
+  },
+  {
+    "id": "mt_df_s4_international_view_cooperation",
+    "type": "CONCEPTUAL",
+    "subject": "道德与法治",
+    "domain": "国家认同与文化",
+    "gradeStart": 9,
+    "gradeEnd": 9,
+    "name": "国际视野与合作",
+    "nameEn": "International view",
+    "standards": [
+      "moe-df-2022:NAT.S4"
+    ],
+    "description": "关注联合国、共建“一带一路”等，理解中国贡献与世界和平发展。",
+    "evidence": [
+      "介绍联合国一项职能",
+      "讨论全球气候合作意义"
+    ]
+  }
+]

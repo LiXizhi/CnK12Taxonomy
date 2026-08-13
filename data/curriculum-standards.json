@@ -1,14 +1,140 @@
 {
   "note": "Codes and publicly known module titles only. Verbatim 课标 text is not included.",
   "codesOnlySources": [
+    "moe-df-2022",
+    "moe-dl-2022",
     "moe-kx-2022",
+    "moe-ld-2022",
+    "moe-ls-2022",
     "moe-sx-2022",
+    "moe-ty-2022",
     "moe-xxkj-2022",
+    "moe-ys-2022",
     "moe-yw-2022",
     "moe-yy-2022"
   ],
-  "curriculumCount": 5,
+  "curriculumCount": 11,
   "curricula": [
+    {
+      "slug": "moe-df-2022",
+      "country": "CN",
+      "name": "义务教育道德与法治课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-df-2022:SELF",
+          "code": "SELF"
+        },
+        {
+          "key": "moe-df-2022:SOC",
+          "code": "SOC"
+        },
+        {
+          "key": "moe-df-2022:LAW",
+          "code": "LAW"
+        },
+        {
+          "key": "moe-df-2022:NAT",
+          "code": "NAT"
+        },
+        {
+          "key": "moe-df-2022:SELF.S1",
+          "code": "SELF.S1"
+        },
+        {
+          "key": "moe-df-2022:SOC.S1",
+          "code": "SOC.S1"
+        },
+        {
+          "key": "moe-df-2022:LAW.S1",
+          "code": "LAW.S1"
+        },
+        {
+          "key": "moe-df-2022:NAT.S1",
+          "code": "NAT.S1"
+        },
+        {
+          "key": "moe-df-2022:SELF.S2",
+          "code": "SELF.S2"
+        },
+        {
+          "key": "moe-df-2022:SOC.S2",
+          "code": "SOC.S2"
+        },
+        {
+          "key": "moe-df-2022:LAW.S2",
+          "code": "LAW.S2"
+        },
+        {
+          "key": "moe-df-2022:NAT.S2",
+          "code": "NAT.S2"
+        },
+        {
+          "key": "moe-df-2022:SELF.S3",
+          "code": "SELF.S3"
+        },
+        {
+          "key": "moe-df-2022:SOC.S3",
+          "code": "SOC.S3"
+        },
+        {
+          "key": "moe-df-2022:LAW.S3",
+          "code": "LAW.S3"
+        },
+        {
+          "key": "moe-df-2022:NAT.S3",
+          "code": "NAT.S3"
+        },
+        {
+          "key": "moe-df-2022:SELF.S4",
+          "code": "SELF.S4"
+        },
+        {
+          "key": "moe-df-2022:SOC.S4",
+          "code": "SOC.S4"
+        },
+        {
+          "key": "moe-df-2022:LAW.S4",
+          "code": "LAW.S4"
+        },
+        {
+          "key": "moe-df-2022:NAT.S4",
+          "code": "NAT.S4"
+        }
+      ],
+      "topicCount": 20
+    },
+    {
+      "slug": "moe-dl-2022",
+      "country": "CN",
+      "name": "义务教育地理课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-dl-2022:EM",
+          "code": "EM"
+        },
+        {
+          "key": "moe-dl-2022:WG",
+          "code": "WG"
+        },
+        {
+          "key": "moe-dl-2022:CG",
+          "code": "CG"
+        },
+        {
+          "key": "moe-dl-2022:LG",
+          "code": "LG"
+        }
+      ],
+      "topicCount": 4
+    },
     {
       "slug": "moe-kx-2022",
       "country": "CN",
@@ -294,6 +420,118 @@
       "topicCount": 68
     },
     {
+      "slug": "moe-ld-2022",
+      "country": "CN",
+      "name": "义务教育劳动课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known labor-type titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-ld-2022:DL",
+          "code": "DL"
+        },
+        {
+          "key": "moe-ld-2022:PL",
+          "code": "PL"
+        },
+        {
+          "key": "moe-ld-2022:SL",
+          "code": "SL"
+        },
+        {
+          "key": "moe-ld-2022:DL.S1",
+          "code": "DL.S1"
+        },
+        {
+          "key": "moe-ld-2022:PL.S1",
+          "code": "PL.S1"
+        },
+        {
+          "key": "moe-ld-2022:SL.S1",
+          "code": "SL.S1"
+        },
+        {
+          "key": "moe-ld-2022:DL.S2",
+          "code": "DL.S2"
+        },
+        {
+          "key": "moe-ld-2022:PL.S2",
+          "code": "PL.S2"
+        },
+        {
+          "key": "moe-ld-2022:SL.S2",
+          "code": "SL.S2"
+        },
+        {
+          "key": "moe-ld-2022:DL.S3",
+          "code": "DL.S3"
+        },
+        {
+          "key": "moe-ld-2022:PL.S3",
+          "code": "PL.S3"
+        },
+        {
+          "key": "moe-ld-2022:SL.S3",
+          "code": "SL.S3"
+        },
+        {
+          "key": "moe-ld-2022:DL.S4",
+          "code": "DL.S4"
+        },
+        {
+          "key": "moe-ld-2022:PL.S4",
+          "code": "PL.S4"
+        },
+        {
+          "key": "moe-ld-2022:SL.S4",
+          "code": "SL.S4"
+        }
+      ],
+      "topicCount": 15
+    },
+    {
+      "slug": "moe-ls-2022",
+      "country": "CN",
+      "name": "义务教育历史课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known period titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-ls-2022:CN.ANC",
+          "code": "CN.ANC"
+        },
+        {
+          "key": "moe-ls-2022:CN.MOD",
+          "code": "CN.MOD"
+        },
+        {
+          "key": "moe-ls-2022:CN.CON",
+          "code": "CN.CON"
+        },
+        {
+          "key": "moe-ls-2022:WD.ANC",
+          "code": "WD.ANC"
+        },
+        {
+          "key": "moe-ls-2022:WD.MOD",
+          "code": "WD.MOD"
+        },
+        {
+          "key": "moe-ls-2022:WD.CON",
+          "code": "WD.CON"
+        },
+        {
+          "key": "moe-ls-2022:METH",
+          "code": "METH"
+        }
+      ],
+      "topicCount": 7
+    },
+    {
       "slug": "moe-sx-2022",
       "country": "CN",
       "name": "义务教育数学课程标准（2022年版）",
@@ -430,6 +668,118 @@
       "topicCount": 31
     },
     {
+      "slug": "moe-ty-2022",
+      "country": "CN",
+      "name": "义务教育体育与健康课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known content-element titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-ty-2022:MS",
+          "code": "MS"
+        },
+        {
+          "key": "moe-ty-2022:PF",
+          "code": "PF"
+        },
+        {
+          "key": "moe-ty-2022:SP",
+          "code": "SP"
+        },
+        {
+          "key": "moe-ty-2022:HE",
+          "code": "HE"
+        },
+        {
+          "key": "moe-ty-2022:CH",
+          "code": "CH"
+        },
+        {
+          "key": "moe-ty-2022:MS.S1",
+          "code": "MS.S1"
+        },
+        {
+          "key": "moe-ty-2022:PF.S1",
+          "code": "PF.S1"
+        },
+        {
+          "key": "moe-ty-2022:SP.S1",
+          "code": "SP.S1"
+        },
+        {
+          "key": "moe-ty-2022:HE.S1",
+          "code": "HE.S1"
+        },
+        {
+          "key": "moe-ty-2022:CH.S1",
+          "code": "CH.S1"
+        },
+        {
+          "key": "moe-ty-2022:MS.S2",
+          "code": "MS.S2"
+        },
+        {
+          "key": "moe-ty-2022:PF.S2",
+          "code": "PF.S2"
+        },
+        {
+          "key": "moe-ty-2022:SP.S2",
+          "code": "SP.S2"
+        },
+        {
+          "key": "moe-ty-2022:HE.S2",
+          "code": "HE.S2"
+        },
+        {
+          "key": "moe-ty-2022:CH.S2",
+          "code": "CH.S2"
+        },
+        {
+          "key": "moe-ty-2022:MS.S3",
+          "code": "MS.S3"
+        },
+        {
+          "key": "moe-ty-2022:PF.S3",
+          "code": "PF.S3"
+        },
+        {
+          "key": "moe-ty-2022:SP.S3",
+          "code": "SP.S3"
+        },
+        {
+          "key": "moe-ty-2022:HE.S3",
+          "code": "HE.S3"
+        },
+        {
+          "key": "moe-ty-2022:CH.S3",
+          "code": "CH.S3"
+        },
+        {
+          "key": "moe-ty-2022:MS.S4",
+          "code": "MS.S4"
+        },
+        {
+          "key": "moe-ty-2022:PF.S4",
+          "code": "PF.S4"
+        },
+        {
+          "key": "moe-ty-2022:SP.S4",
+          "code": "SP.S4"
+        },
+        {
+          "key": "moe-ty-2022:HE.S4",
+          "code": "HE.S4"
+        },
+        {
+          "key": "moe-ty-2022:CH.S4",
+          "code": "CH.S4"
+        }
+      ],
+      "topicCount": 25
+    },
+    {
       "slug": "moe-xxkj-2022",
       "country": "CN",
       "name": "义务教育信息科技课程标准（2022年版）",
@@ -516,6 +866,98 @@
         }
       ],
       "topicCount": 19
+    },
+    {
+      "slug": "moe-ys-2022",
+      "country": "CN",
+      "name": "义务教育艺术课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known art-form titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-ys-2022:MU",
+          "code": "MU"
+        },
+        {
+          "key": "moe-ys-2022:FA",
+          "code": "FA"
+        },
+        {
+          "key": "moe-ys-2022:INT",
+          "code": "INT"
+        },
+        {
+          "key": "moe-ys-2022:AP",
+          "code": "AP"
+        },
+        {
+          "key": "moe-ys-2022:MU.S1",
+          "code": "MU.S1"
+        },
+        {
+          "key": "moe-ys-2022:FA.S1",
+          "code": "FA.S1"
+        },
+        {
+          "key": "moe-ys-2022:INT.S1",
+          "code": "INT.S1"
+        },
+        {
+          "key": "moe-ys-2022:AP.S1",
+          "code": "AP.S1"
+        },
+        {
+          "key": "moe-ys-2022:MU.S2",
+          "code": "MU.S2"
+        },
+        {
+          "key": "moe-ys-2022:FA.S2",
+          "code": "FA.S2"
+        },
+        {
+          "key": "moe-ys-2022:INT.S2",
+          "code": "INT.S2"
+        },
+        {
+          "key": "moe-ys-2022:AP.S2",
+          "code": "AP.S2"
+        },
+        {
+          "key": "moe-ys-2022:MU.S3",
+          "code": "MU.S3"
+        },
+        {
+          "key": "moe-ys-2022:FA.S3",
+          "code": "FA.S3"
+        },
+        {
+          "key": "moe-ys-2022:INT.S3",
+          "code": "INT.S3"
+        },
+        {
+          "key": "moe-ys-2022:AP.S3",
+          "code": "AP.S3"
+        },
+        {
+          "key": "moe-ys-2022:MU.S4",
+          "code": "MU.S4"
+        },
+        {
+          "key": "moe-ys-2022:FA.S4",
+          "code": "FA.S4"
+        },
+        {
+          "key": "moe-ys-2022:INT.S4",
+          "code": "INT.S4"
+        },
+        {
+          "key": "moe-ys-2022:AP.S4",
+          "code": "AP.S4"
+        }
+      ],
+      "topicCount": 20
     },
     {
       "slug": "moe-yw-2022",

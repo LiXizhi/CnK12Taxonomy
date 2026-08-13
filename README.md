@@ -4,7 +4,7 @@
 
 数据形态对齐 [Marble Skill Taxonomy / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)，内容为另行撰写的中文义务教育图谱，不是 Marble 英美内容的翻译。
 
-> **Version:** `v0.1.0` · **Topics:** 661 · **Prerequisite edges:** 1,275 · **Clusters:** 93 · **Standard codes:** 182 · **Band:** grades 1–9
+> **Version:** `v0.2.0` · **Topics:** 1,103 · **Prerequisite edges:** 2,094 · **Clusters:** 168 · **Standard codes:** 273 · **Band:** grades 1–9
 
 本项目**不隶属、不代表**教育部；课标对齐是我们的映射，不是官方产品。
 
@@ -15,9 +15,9 @@
 - **Curriculum alignment** — 每个微主题链接到 2022 课标模块/领域/任务群的**代码**（见 [PROVENANCE.md](PROVENANCE.md)）。
 - **Domain clusters** — 按（学科, 领域, 学段）给家长看的一段话。
 
-v0.1 是**连通骨架**：每个（学科 × 学段 × 领域）都有微主题，粒度粗于 Marble 的小学密度。后续版本会加密（尤其是语文、数学）。
+v0.2 是**连通骨架**：义务教育国家课程学科都有微主题，粒度粗于 Marble 的小学密度。后续版本会加密（尤其是语文、数学）。
 
-### Subjects in v0.1
+### Subjects in v0.2
 
 | Subject | 学段 | Notes |
 |---|---|---|
@@ -26,8 +26,14 @@ v0.1 是**连通骨架**：每个（学科 × 学段 × 领域）都有微主题
 | 英语 | 3–4 / 5–6 / 7–9 | 一级–三级；1–2 年级不单列 |
 | 科学 | 1–2 / 3–4 / 5–6 / 7–9 | 四领域；7–9 暂不拆成物理/化学/生物学独立学科 |
 | 信息科技 | 1–2 / 3–4 / 5–6 / 7–9 | 九模块；课程方案中独立开设多为 3–8 年级 |
+| 道德与法治 | 1–2 / 3–4 / 5–6 / 7–9 | 自我与健康 · 交往与责任 · 法治与规则 · 国家认同与文化 |
+| 历史 | 7–9 | 中国史 / 世界史 + 史料与方法；小学不单列 |
+| 地理 | 7–9 | 地球与地图 · 世界 · 中国 · 乡土；小学不单列 |
+| 体育与健康 | 1–2 / 3–4 / 5–6 / 7–9 | 基本运动 · 体能 · 专项 · 健康 · 体育品德 |
+| 艺术 | 1–2 / 3–4 / 5–6 / 7–9 | 音乐 · 美术 · 综合 · 欣赏与文化（2022 综合艺术课） |
+| 劳动 | 1–2 / 3–4 / 5–6 / 7–9 | 日常生活 · 生产 · 服务性劳动 |
 
-Planned, not authored: 道德与法治, 历史, 地理, 体育与健康, 艺术, 劳动, 普通高中 2017/2020.
+Planned, not authored: 日语/俄语, 普通高中 2017/2020, 初中物化生作为独立学科。
 
 ## Files
 
@@ -83,7 +89,10 @@ Pure data after build. No runtime dependencies.
 ```bash
 npm run build
 npm run validate
+npm run explore   # then open http://localhost:4173/explore/
 ```
+
+Interactive 3D map (Marble-style): drag to spin, scroll to zoom, tap a dot to walk prerequisites. Subject pills toggle layers. Height is grade; color is subject.
 
 ```js
 import topics from './data/topics.json' with { type: 'json' };
@@ -104,8 +113,8 @@ Produced works (an app, tutor, or model that *uses* the graph) stay yours. Deriv
 
 ### Attribution
 
-> Chinese K12 Taxonomy (v0.1) · 义务教育微主题知识图谱 · https://github.com/LiXizhi/CnK12Taxonomy · schema inspired by https://github.com/withmarbleapp/os-taxonomy · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content).
+> Chinese K12 Taxonomy (v0.2) · 义务教育微主题知识图谱 · https://github.com/LiXizhi/CnK12Taxonomy · schema inspired by https://github.com/withmarbleapp/os-taxonomy · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content).
 
 ## What's not here
 
-Semantic embeddings, a visualization app, per-child data, verbatim 课标 text, and high-school 2017/2020 standards.
+Semantic embeddings, per-child data, verbatim 课标 text, and high-school 2017/2020 standards. A local 3D explorer lives in `explore/`.

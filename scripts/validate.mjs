@@ -28,11 +28,14 @@ check(topics.topicCount === topics.topics.length, `topics: topicCount ${topics.t
 check(deps.edgeCount === deps.dependencies.length, `dependencies: edgeCount ${deps.edgeCount} != ${deps.dependencies.length}`);
 check(standards.curriculumCount === standards.curricula.length, `curricula: curriculumCount != length`);
 check(clusters.clusterCount === clusters.clusters.length, `clusters: clusterCount != length`);
-check(topics.topics.length >= 550, `v0.1 target is ≥550 topics, got ${topics.topics.length}`);
-check(deps.dependencies.length >= 800, `v0.1 target is ≥800 edges, got ${deps.dependencies.length}`);
+check(topics.topics.length >= 1000, `v0.2 target is ≥1000 topics, got ${topics.topics.length}`);
+check(deps.dependencies.length >= 1800, `v0.2 target is ≥1800 edges, got ${deps.dependencies.length}`);
 
 const TYPES = new Set(['CONCEPTUAL', 'PROCEDURAL', 'REPRESENTATIONAL', 'LANGUAGE', 'META']);
-const SUBJECTS = new Set(['语文', '数学', '英语', '科学', '信息科技']);
+const SUBJECTS = new Set([
+  '语文', '数学', '英语', '科学', '信息科技',
+  '道德与法治', '历史', '地理', '体育与健康', '艺术', '劳动',
+]);
 const topicIds = new Set();
 for (const t of topics.topics) {
   check(typeof t.id === 'string' && t.id.startsWith('mt_'), `topic id malformed: ${t.id}`);
