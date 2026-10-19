@@ -1,0 +1,51 @@
+{
+  "slug": "moe-xxkj-2017",
+  "country": "CN",
+  "name": "普通高中信息科技课程标准（2017年版2025年修订）",
+  "version": "2017/2025",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {
+      "key": "moe-xxkj-2017:B1.数据与计算",
+      "code": "B1.数据与计算"
+    },
+    {
+      "key": "moe-xxkj-2017:B2.信息系统与社会",
+      "code": "B2.信息系统与社会"
+    },
+    {
+      "key": "moe-xxkj-2017:X1.数据与数据结构",
+      "code": "X1.数据与数据结构"
+    },
+    {
+      "key": "moe-xxkj-2017:X2.网络基础",
+      "code": "X2.网络基础"
+    },
+    {
+      "key": "moe-xxkj-2017:X3.数据管理与分析",
+      "code": "X3.数据管理与分析"
+    },
+    {
+      "key": "moe-xxkj-2017:X4.人工智能初步",
+      "code": "X4.人工智能初步"
+    },
+    {
+      "key": "moe-xxkj-2017:X5.三维设计与创意",
+      "code": "X5.三维设计与创意"
+    },
+    {
+      "key": "moe-xxkj-2017:X6.开源硬件项目设计",
+      "code": "X6.开源硬件项目设计"
+    },
+    {
+      "key": "moe-xxkj-2017:E1.算法初步",
+      "code": "E1.算法初步"
+    },
+    {
+      "key": "moe-xxkj-2017:E2.移动应用设计",
+      "code": "E2.移动应用设计"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "moe-jsygc-2017",
+  "country": "CN",
+  "name": "普通高中技术与工程课程标准（2017年版2025年修订）",
+  "version": "2017/2025",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {
+      "key": "moe-jsygc-2017:B1.技术与工程设计1",
+      "code": "B1.技术与工程设计1"
+    },
+    {
+      "key": "moe-jsygc-2017:B2.技术与工程设计2",
+      "code": "B2.技术与工程设计2"
+    },
+    {
+      "key": "moe-jsygc-2017:X1.学业发展系列",
+      "code": "X1.学业发展系列"
+    },
+    {
+      "key": "moe-jsygc-2017:X2.生活应用系列",
+      "code": "X2.生活应用系列"
+    },
+    {
+      "key": "moe-jsygc-2017:X3.职业准备系列",
+      "code": "X3.职业准备系列"
+    },
+    {
+      "key": "moe-jsygc-2017:E1.选修",
+      "code": "E1.选修"
+    }
+  ]
+}

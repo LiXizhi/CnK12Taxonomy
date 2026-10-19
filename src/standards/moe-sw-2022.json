@@ -1,0 +1,39 @@
+{
+  "slug": "moe-sw-2022",
+  "country": "CN",
+  "name": "义务教育生物学课程标准（2022年版）",
+  "version": "2022",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {
+      "key": "moe-sw-2022:JG.生物体的结构层次",
+      "code": "JG.生物体的结构层次"
+    },
+    {
+      "key": "moe-sw-2022:DY.生物的多样性",
+      "code": "DY.生物的多样性"
+    },
+    {
+      "key": "moe-sw-2022:HJ.生物与环境",
+      "code": "HJ.生物与环境"
+    },
+    {
+      "key": "moe-sw-2022:ZW.植物的生活",
+      "code": "ZW.植物的生活"
+    },
+    {
+      "key": "moe-sw-2022:RT.人体生理与健康",
+      "code": "RT.人体生理与健康"
+    },
+    {
+      "key": "moe-sw-2022:YC.遗传与进化",
+      "code": "YC.遗传与进化"
+    },
+    {
+      "key": "moe-sw-2022:KJ.生物学与社会·跨学科实践",
+      "code": "KJ.生物学与社会·跨学科实践"
+    }
+  ]
+}

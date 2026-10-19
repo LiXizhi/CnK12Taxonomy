@@ -1,0 +1,103 @@
+{
+  "slug": "moe-wl-2022",
+  "country": "CN",
+  "name": "义务教育物理课程标准（2022年版）",
+  "version": "2022",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {
+      "key": "moe-wl-2022:WZ",
+      "code": "WZ"
+    },
+    {
+      "key": "moe-wl-2022:WZ.物质的形态和变化",
+      "code": "WZ.物质的形态和变化"
+    },
+    {
+      "key": "moe-wl-2022:WZ.物质的属性",
+      "code": "WZ.物质的属性"
+    },
+    {
+      "key": "moe-wl-2022:WZ.物质的结构和物质世界的尺度",
+      "code": "WZ.物质的结构和物质世界的尺度"
+    },
+    {
+      "key": "moe-wl-2022:YD",
+      "code": "YD"
+    },
+    {
+      "key": "moe-wl-2022:YD.多种多样的运动形式",
+      "code": "YD.多种多样的运动形式"
+    },
+    {
+      "key": "moe-wl-2022:YD.机械运动和力",
+      "code": "YD.机械运动和力"
+    },
+    {
+      "key": "moe-wl-2022:YD.声和光",
+      "code": "YD.声和光"
+    },
+    {
+      "key": "moe-wl-2022:YD.电和磁",
+      "code": "YD.电和磁"
+    },
+    {
+      "key": "moe-wl-2022:NL",
+      "code": "NL"
+    },
+    {
+      "key": "moe-wl-2022:NL.能量、能量的转化和转移",
+      "code": "NL.能量、能量的转化和转移"
+    },
+    {
+      "key": "moe-wl-2022:NL.机械能",
+      "code": "NL.机械能"
+    },
+    {
+      "key": "moe-wl-2022:NL.内能",
+      "code": "NL.内能"
+    },
+    {
+      "key": "moe-wl-2022:NL.电磁能",
+      "code": "NL.电磁能"
+    },
+    {
+      "key": "moe-wl-2022:NL.能量守恒",
+      "code": "NL.能量守恒"
+    },
+    {
+      "key": "moe-wl-2022:NL.能源与可持续发展",
+      "code": "NL.能源与可持续发展"
+    },
+    {
+      "key": "moe-wl-2022:SY",
+      "code": "SY"
+    },
+    {
+      "key": "moe-wl-2022:SY.测量类学生必做实验",
+      "code": "SY.测量类学生必做实验"
+    },
+    {
+      "key": "moe-wl-2022:SY.探究类学生必做实验",
+      "code": "SY.探究类学生必做实验"
+    },
+    {
+      "key": "moe-wl-2022:KJ",
+      "code": "KJ"
+    },
+    {
+      "key": "moe-wl-2022:KJ.物理学与日常生活",
+      "code": "KJ.物理学与日常生活"
+    },
+    {
+      "key": "moe-wl-2022:KJ.物理学与工程实践",
+      "code": "KJ.物理学与工程实践"
+    },
+    {
+      "key": "moe-wl-2022:KJ.物理学与社会发展",
+      "code": "KJ.物理学与社会发展"
+    }
+  ]
+}

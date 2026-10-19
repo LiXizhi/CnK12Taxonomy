@@ -5,17 +5,22 @@
     "moe-dl-2017",
     "moe-dl-2022",
     "moe-hx-2017",
+    "moe-hx-2022",
+    "moe-jsygc-2017",
     "moe-kx-2022",
     "moe-ld-2020",
     "moe-ld-2022",
     "moe-ls-2017",
     "moe-ls-2022",
     "moe-sw-2017",
+    "moe-sw-2022",
     "moe-sx-2017",
     "moe-sx-2022",
     "moe-ty-2017",
     "moe-ty-2022",
     "moe-wl-2017",
+    "moe-wl-2022",
+    "moe-xxkj-2017",
     "moe-xxkj-2022",
     "moe-ys-2017",
     "moe-ys-2022",
@@ -25,7 +30,7 @@
     "moe-yy-2022",
     "moe-zz-2017"
   ],
-  "curriculumCount": 23,
+  "curriculumCount": 28,
   "curricula": [
     {
       "slug": "moe-df-2022",
@@ -210,6 +215,74 @@
         }
       ],
       "topicCount": 5
+    },
+    {
+      "slug": "moe-hx-2022",
+      "country": "CN",
+      "name": "义务教育化学课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-hx-2022:KX.科学探究与化学实验",
+          "code": "KX.科学探究与化学实验"
+        },
+        {
+          "key": "moe-hx-2022:XZ.物质的性质与应用",
+          "code": "XZ.物质的性质与应用"
+        },
+        {
+          "key": "moe-hx-2022:ZC.物质的组成与结构",
+          "code": "ZC.物质的组成与结构"
+        },
+        {
+          "key": "moe-hx-2022:BH.物质的化学变化",
+          "code": "BH.物质的化学变化"
+        },
+        {
+          "key": "moe-hx-2022:SH.化学与社会·跨学科实践",
+          "code": "SH.化学与社会·跨学科实践"
+        }
+      ],
+      "topicCount": 5
+    },
+    {
+      "slug": "moe-jsygc-2017",
+      "country": "CN",
+      "name": "普通高中技术与工程课程标准（2017年版2025年修订）",
+      "version": "2017/2025",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-jsygc-2017:B1.技术与工程设计1",
+          "code": "B1.技术与工程设计1"
+        },
+        {
+          "key": "moe-jsygc-2017:B2.技术与工程设计2",
+          "code": "B2.技术与工程设计2"
+        },
+        {
+          "key": "moe-jsygc-2017:X1.学业发展系列",
+          "code": "X1.学业发展系列"
+        },
+        {
+          "key": "moe-jsygc-2017:X2.生活应用系列",
+          "code": "X2.生活应用系列"
+        },
+        {
+          "key": "moe-jsygc-2017:X3.职业准备系列",
+          "code": "X3.职业准备系列"
+        },
+        {
+          "key": "moe-jsygc-2017:E1.选修",
+          "code": "E1.选修"
+        }
+      ],
+      "topicCount": 6
     },
     {
       "slug": "moe-kx-2022",
@@ -700,6 +773,46 @@
       "topicCount": 5
     },
     {
+      "slug": "moe-sw-2022",
+      "country": "CN",
+      "name": "义务教育生物学课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-sw-2022:JG.生物体的结构层次",
+          "code": "JG.生物体的结构层次"
+        },
+        {
+          "key": "moe-sw-2022:DY.生物的多样性",
+          "code": "DY.生物的多样性"
+        },
+        {
+          "key": "moe-sw-2022:HJ.生物与环境",
+          "code": "HJ.生物与环境"
+        },
+        {
+          "key": "moe-sw-2022:ZW.植物的生活",
+          "code": "ZW.植物的生活"
+        },
+        {
+          "key": "moe-sw-2022:RT.人体生理与健康",
+          "code": "RT.人体生理与健康"
+        },
+        {
+          "key": "moe-sw-2022:YC.遗传与进化",
+          "code": "YC.遗传与进化"
+        },
+        {
+          "key": "moe-sw-2022:KJ.生物学与社会·跨学科实践",
+          "code": "KJ.生物学与社会·跨学科实践"
+        }
+      ],
+      "topicCount": 7
+    },
+    {
       "slug": "moe-sx-2017",
       "country": "CN",
       "name": "普通高中数学课程标准（2017年版2020年修订）",
@@ -1038,6 +1151,162 @@
         }
       ],
       "topicCount": 5
+    },
+    {
+      "slug": "moe-wl-2022",
+      "country": "CN",
+      "name": "义务教育物理课程标准（2022年版）",
+      "version": "2022",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-wl-2022:WZ",
+          "code": "WZ"
+        },
+        {
+          "key": "moe-wl-2022:WZ.物质的形态和变化",
+          "code": "WZ.物质的形态和变化"
+        },
+        {
+          "key": "moe-wl-2022:WZ.物质的属性",
+          "code": "WZ.物质的属性"
+        },
+        {
+          "key": "moe-wl-2022:WZ.物质的结构和物质世界的尺度",
+          "code": "WZ.物质的结构和物质世界的尺度"
+        },
+        {
+          "key": "moe-wl-2022:YD",
+          "code": "YD"
+        },
+        {
+          "key": "moe-wl-2022:YD.多种多样的运动形式",
+          "code": "YD.多种多样的运动形式"
+        },
+        {
+          "key": "moe-wl-2022:YD.机械运动和力",
+          "code": "YD.机械运动和力"
+        },
+        {
+          "key": "moe-wl-2022:YD.声和光",
+          "code": "YD.声和光"
+        },
+        {
+          "key": "moe-wl-2022:YD.电和磁",
+          "code": "YD.电和磁"
+        },
+        {
+          "key": "moe-wl-2022:NL",
+          "code": "NL"
+        },
+        {
+          "key": "moe-wl-2022:NL.能量、能量的转化和转移",
+          "code": "NL.能量、能量的转化和转移"
+        },
+        {
+          "key": "moe-wl-2022:NL.机械能",
+          "code": "NL.机械能"
+        },
+        {
+          "key": "moe-wl-2022:NL.内能",
+          "code": "NL.内能"
+        },
+        {
+          "key": "moe-wl-2022:NL.电磁能",
+          "code": "NL.电磁能"
+        },
+        {
+          "key": "moe-wl-2022:NL.能量守恒",
+          "code": "NL.能量守恒"
+        },
+        {
+          "key": "moe-wl-2022:NL.能源与可持续发展",
+          "code": "NL.能源与可持续发展"
+        },
+        {
+          "key": "moe-wl-2022:SY",
+          "code": "SY"
+        },
+        {
+          "key": "moe-wl-2022:SY.测量类学生必做实验",
+          "code": "SY.测量类学生必做实验"
+        },
+        {
+          "key": "moe-wl-2022:SY.探究类学生必做实验",
+          "code": "SY.探究类学生必做实验"
+        },
+        {
+          "key": "moe-wl-2022:KJ",
+          "code": "KJ"
+        },
+        {
+          "key": "moe-wl-2022:KJ.物理学与日常生活",
+          "code": "KJ.物理学与日常生活"
+        },
+        {
+          "key": "moe-wl-2022:KJ.物理学与工程实践",
+          "code": "KJ.物理学与工程实践"
+        },
+        {
+          "key": "moe-wl-2022:KJ.物理学与社会发展",
+          "code": "KJ.物理学与社会发展"
+        }
+      ],
+      "topicCount": 23
+    },
+    {
+      "slug": "moe-xxkj-2017",
+      "country": "CN",
+      "name": "普通高中信息科技课程标准（2017年版2025年修订）",
+      "version": "2017/2025",
+      "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "textIncluded": false,
+      "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+      "topics": [
+        {
+          "key": "moe-xxkj-2017:B1.数据与计算",
+          "code": "B1.数据与计算"
+        },
+        {
+          "key": "moe-xxkj-2017:B2.信息系统与社会",
+          "code": "B2.信息系统与社会"
+        },
+        {
+          "key": "moe-xxkj-2017:X1.数据与数据结构",
+          "code": "X1.数据与数据结构"
+        },
+        {
+          "key": "moe-xxkj-2017:X2.网络基础",
+          "code": "X2.网络基础"
+        },
+        {
+          "key": "moe-xxkj-2017:X3.数据管理与分析",
+          "code": "X3.数据管理与分析"
+        },
+        {
+          "key": "moe-xxkj-2017:X4.人工智能初步",
+          "code": "X4.人工智能初步"
+        },
+        {
+          "key": "moe-xxkj-2017:X5.三维设计与创意",
+          "code": "X5.三维设计与创意"
+        },
+        {
+          "key": "moe-xxkj-2017:X6.开源硬件项目设计",
+          "code": "X6.开源硬件项目设计"
+        },
+        {
+          "key": "moe-xxkj-2017:E1.算法初步",
+          "code": "E1.算法初步"
+        },
+        {
+          "key": "moe-xxkj-2017:E2.移动应用设计",
+          "code": "E2.移动应用设计"
+        }
+      ],
+      "topicCount": 10
     },
     {
       "slug": "moe-xxkj-2022",

@@ -1,0 +1,31 @@
+{
+  "slug": "moe-hx-2022",
+  "country": "CN",
+  "name": "义务教育化学课程标准（2022年版）",
+  "version": "2022",
+  "sourceUrl": "https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+  "textIncluded": false,
+  "license": "© 中华人民共和国教育部. Codes and publicly known module / domain / theme titles only; verbatim 课标 text omitted.",
+  "topics": [
+    {
+      "key": "moe-hx-2022:KX.科学探究与化学实验",
+      "code": "KX.科学探究与化学实验"
+    },
+    {
+      "key": "moe-hx-2022:XZ.物质的性质与应用",
+      "code": "XZ.物质的性质与应用"
+    },
+    {
+      "key": "moe-hx-2022:ZC.物质的组成与结构",
+      "code": "ZC.物质的组成与结构"
+    },
+    {
+      "key": "moe-hx-2022:BH.物质的化学变化",
+      "code": "BH.物质的化学变化"
+    },
+    {
+      "key": "moe-hx-2022:SH.化学与社会·跨学科实践",
+      "code": "SH.化学与社会·跨学科实践"
+    }
+  ]
+}
